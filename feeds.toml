@@ -6,6 +6,7 @@ titleSelector = "strong.tit_thumb.line_clamp3"
 linkSelector = "a.link_cont"
 contentSelector = "span.lead"
 imageSelector = "div.link_thumb img"
+waitUntil = "networkidle"
 
 [khan_sungsooh]
 title = "경향신문 ─ 홍성수 교수"
@@ -15,6 +16,7 @@ titleSelector = "strong.tit_thumb.line_clamp3"
 linkSelector = "a.link_cont"
 contentSelector = "span.lead"
 imageSelector = "div.link_thumb img"
+waitUntil = "networkidle"
 
 [naver_pariscom]
 title = "한국일보 최진주 기자 ─ 네이버 뉴스"
