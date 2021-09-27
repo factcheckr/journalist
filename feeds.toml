@@ -1,3 +1,12 @@
+[khan_eunha]
+title = "경향신문 ─ 박은하 기자"
+url = "https://www.khan.co.kr/reporter_article.html?id=120"
+entrySelector = "ul.list_df li"
+titleSelector = "strong.tit_thumb.line_clamp3"
+linkSelector = "a.link_cont"
+contentSelector = "span.lead"
+imageSelector = "div.link_thumb img"
+
 [pariscom]
 title = "한국일보 최진주 기자 ─ 네이버 뉴스"
 url = "https://media.naver.com/journalist/469/12963"
