@@ -1,34 +1,26 @@
-# CI setup for Feed me up, Scotty!
+# 기자
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
+## 네이버 기자페이지
+- 한국일보 최진주 기자: https://FactCheckr.github.io/Journalist/pariscom.xml
 
-# Automatically generate feeds
+## 언론사
 
-## On GitHub
+### 조선일보
 
-To automatically generate feeds twice a day on GitHub:
+### 중앙일보
 
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-4. Make sure the Publishing Source for your GitHub Pages site is set to the
-   `gh-pages` branch.
-   [Instructions here.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+### 동아일보
 
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
+### 한겨레
 
-## On GitLab
+### 경향신문
 
-To automatically generate feeds on GitLab:
+### 한국일보
+기자페이지 없음
 
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
+### 시사인
+- 김연희 기자
 
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+### 오마이뉴스
+
+### 미디어오늘
