@@ -9,7 +9,7 @@ imageSelector = "div.link_thumb img"
 
 [khan_sungsooh]
 title = "경향신문 ─ 홍성수 교수"
-url = "https://www.khan.co.kr/reporter_article.html?id=120"
+url = "https://www.khan.co.kr/reporter_article.html?id=609"
 entrySelector = "ul.list_df li"
 titleSelector = "strong.tit_thumb.line_clamp3"
 linkSelector = "a.link_cont"
