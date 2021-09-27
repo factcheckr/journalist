@@ -1,7 +1,7 @@
 # 기자
 
 ## 네이버 기자페이지
-- 한국일보 최진주 기자 (일본 도쿄특파원): https://FactCheckr.github.io/Journalist/pariscom.xml
+  - 한국일보 최진주 기자 (일본 도쿄특파원): https://factcheckr.github.io/Journalist/pariscom.xml
 
 ## 언론사
 
@@ -16,12 +16,12 @@
 ### 한겨레
 
 ### 경향신문
-
+  - 박은하 기자 
 ### 한국일보
-- 기자페이지 없음
+  - 기자페이지 없음
 
 ### 시사인
-- 김연희 기자
+  - 김연희 기자
 
 ### 오마이뉴스
 
