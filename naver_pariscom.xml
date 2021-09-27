@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 09:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 17:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000631723</link>
             <guid>https://n.news.naver.com/article/469/0000631723</guid>
             <pubDate>Mon, 27 Sep 2021 09:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>45분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/27/631723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,16 +20,8 @@
             <link>https://n.news.naver.com/article/469/0000631613</link>
             <guid>https://n.news.naver.com/article/469/0000631613</guid>
             <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/27/631613.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[암호 똑같은 태블릿으로... 12세 죽음 몰고간 日 사이버 괴롭힘 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000631467</link>
-            <guid>https://n.news.naver.com/article/469/0000631467</guid>
-            <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/26/631467.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[배계규 화백의 이 사람] ‘반(反)아베 연합군’ 결성한 고노, 日 차기 총리 될까]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/23/630993.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고노 “수출규제 관둘 수도” 다카이치 “美 미사일 배치하겠다”]]></title>
+            <link>https://n.news.naver.com/article/469/0000630741</link>
+            <guid>https://n.news.naver.com/article/469/0000630741</guid>
+            <pubDate>Mon, 27 Sep 2021 17:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/21/630741.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고노, 자민당 당원 여론조사서 과반 못 미쳐… 결선투표서 역전되나]]></title>
