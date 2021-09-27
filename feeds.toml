@@ -7,7 +7,7 @@ linkSelector = "a.link_cont"
 contentSelector = "span.lead"
 imageSelector = "div.link_thumb img"
 
-[pariscom]
+[naver_pariscom]
 title = "한국일보 최진주 기자 ─ 네이버 뉴스"
 url = "https://media.naver.com/journalist/469/12963"
 entrySelector = "ul.press_edit_news_list li.press_edit_news_item.as_thumb"
