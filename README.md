@@ -18,7 +18,7 @@
 ### 한겨레
 
 ### 경향신문
-  - 박은하 기자: https://factcheckr.github.io/Journalist/khan_eunha.xml 
+  - 박은하 기자: https://factcheckr.github.io/Journalist/khan_eunha.xml  
    [🌐 페이스북](https://www.facebook.com/eunha.park.9406)
 ### 한국일보
 기자페이지 없음
