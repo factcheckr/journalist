@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 06:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 17:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[총재 선거로 日 자민당 지지율 급등했지만... 당내 갈등은 증폭]]></title>
+            <link>https://n.news.naver.com/article/469/0000631957</link>
+            <guid>https://n.news.naver.com/article/469/0000631957</guid>
+            <pubDate>Tue, 28 Sep 2021 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/28/631957.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미쓰비시 자산 매각 명령에 日 “매우 유감”… 주일 한국대사관 공사 초치]]></title>
+            <link>https://n.news.naver.com/article/469/0000631890</link>
+            <guid>https://n.news.naver.com/article/469/0000631890</guid>
+            <pubDate>Tue, 28 Sep 2021 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/28/631890.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 "北 탄도미사일 가능성 있는 것  발사"... 스가 "정보 수집에 전력"]]></title>
             <link>https://n.news.naver.com/article/469/0000631803</link>
             <guid>https://n.news.naver.com/article/469/0000631803</guid>
             <pubDate>Tue, 28 Sep 2021 02:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/28/631803.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000631723</link>
             <guid>https://n.news.naver.com/article/469/0000631723</guid>
             <pubDate>Mon, 27 Sep 2021 09:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/27/631723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000631467</link>
             <guid>https://n.news.naver.com/article/469/0000631467</guid>
             <pubDate>Tue, 28 Sep 2021 06:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/26/631467.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000631284</link>
             <guid>https://n.news.naver.com/article/469/0000631284</guid>
             <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/24/631284.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000631275</link>
             <guid>https://n.news.naver.com/article/469/0000631275</guid>
             <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/24/631275.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/24/631193.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니클로 회장 130억 기부… '하루키 문학관’ 와세다대에 다음 달 개관]]></title>
-            <link>https://n.news.naver.com/article/469/0000631056</link>
-            <guid>https://n.news.naver.com/article/469/0000631056</guid>
-            <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/23/631056.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요미우리, 바이든 ‘한반도 비핵화’ 언급에 “북한 비핵화 지향해야”]]></title>
-            <link>https://n.news.naver.com/article/469/0000630993</link>
-            <guid>https://n.news.naver.com/article/469/0000630993</guid>
-            <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/23/630993.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
