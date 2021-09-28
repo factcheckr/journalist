@@ -18,6 +18,14 @@ contentSelector = "span.lead"
 imageSelector = "div.link_thumb img"
 waitUntil = "networkidle"
 
+[hani_seunghan]
+title = "한겨레S ─ 이승한의 술탄 오브 더 티브이"
+url = "https://www.hani.co.kr/arti/SERIES/508/"
+entrySelector = "ul.one-type li"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+
 [ohmynews_mongsill]
 title = "오마이뉴스 ─ 신필규 시민기자"
 url = "http://star.ohmynews.com/NWS_Web/Mobile/i_Room/articles/news_list.aspx?MEM_CD=00701855"
