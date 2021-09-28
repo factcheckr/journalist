@@ -1,10 +1,5 @@
 # 기자
 
-## 네이버 기자페이지
-  - 한국일보 최진주 기자 (일본 도쿄특파원): https://factcheckr.github.io/Journalist/pariscom.xml
-
----
-
 ## 언론사
 
 ### 조선일보
@@ -22,8 +17,9 @@
    [🌐 페이스북](https://www.facebook.com/eunha.park.9406)
 ### 한국일보
 기자페이지 없음
-  - 최진주 기자 (일본 도쿄특파원)  
-   [🌐 페이스북](https://www.facebook.com/pariscom)
+  - 최진주 기자 (일본 도쿄특파원)
+    - 네이어 기자페이지: https://factcheckr.github.io/Journalist/pariscom.xml  
+   [🌐 페이스북](https://www.facebook.com/pariscom) | [트위터](https://twitter.com/pariscom)
 ### 시사인
   - 김연희 기자
 
