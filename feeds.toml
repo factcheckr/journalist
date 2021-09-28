@@ -18,6 +18,16 @@ contentSelector = "span.lead"
 imageSelector = "div.link_thumb img"
 waitUntil = "networkidle"
 
+[ohmynews_mongsill]
+title = "오마이뉴스 ─ 신필규 시민기자"
+url = "http://star.ohmynews.com/NWS_Web/Mobile/i_Room/articles/news_list.aspx?MEM_CD=00701855"
+entrySelector = "ul.newest_list li"
+titleSelector = "strong.title"
+linkSelector = "div.newest_area a.link_today"
+contentSelector = "div.category"
+imageSelector = "div.image_area img"
+waitUntil = "networkidle"
+
 [naver_pariscom]
 title = "한국일보 최진주 기자 ─ 네이버 뉴스"
 url = "https://media.naver.com/journalist/469/12963"
