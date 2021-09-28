@@ -1,10 +1,3 @@
-[hani_seunghan]
-title = "한겨레S ─ 이승한의 술탄 오브 더 티브이"
-url = "https://www.hani.co.kr/arti/SERIES/508/"
-entrySelector = "ul.one-type li"
-titleSelector = "a"
-linkSelector = "a"
-
 [khan_eunha]
 title = "경향신문 ─ 박은하 기자"
 url = "https://www.khan.co.kr/reporter_article.html?id=120"
