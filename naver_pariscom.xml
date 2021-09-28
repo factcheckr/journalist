@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 17:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 02:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 방위성, "北 탄도미사일 가능성 있는 것  발사"]]></title>
+            <link>https://n.news.naver.com/article/469/0000631803</link>
+            <guid>https://n.news.naver.com/article/469/0000631803</guid>
+            <pubDate>Tue, 28 Sep 2021 02:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/28/631803.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 자민당 총재 선거 결선투표 확실시... 기시다 유력 전망 속 '역선택설'도]]></title>
             <link>https://n.news.naver.com/article/469/0000631723</link>
             <guid>https://n.news.naver.com/article/469/0000631723</guid>
             <pubDate>Mon, 27 Sep 2021 09:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/27/631723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000631613</link>
             <guid>https://n.news.naver.com/article/469/0000631613</guid>
             <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/27/631613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000631317</link>
             <guid>https://n.news.naver.com/article/469/0000631317</guid>
             <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/25/631317.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000631193</link>
             <guid>https://n.news.naver.com/article/469/0000631193</guid>
             <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/24/631193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 27 Sep 2021 17:41:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/21/630741.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고노, 자민당 당원 여론조사서 과반 못 미쳐… 결선투표서 역전되나]]></title>
-            <link>https://n.news.naver.com/article/469/0000630691</link>
-            <guid>https://n.news.naver.com/article/469/0000630691</guid>
-            <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/20/630691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
