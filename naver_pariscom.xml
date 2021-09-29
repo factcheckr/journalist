@@ -4,15 +4,47 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 17:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 05:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 日 자민당 총재선거에서 기시다 1위... 1표 차 고노와 결선투표 곧 실시]]></title>
+            <link>https://n.news.naver.com/article/469/0000632139</link>
+            <guid>https://n.news.naver.com/article/469/0000632139</guid>
+            <pubDate>Wed, 29 Sep 2021 05:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>15분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/29/632139.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구로다 일본은행 총재 최장 재임... 장기간 금융완화 ‘명과 암’]]></title>
+            <link>https://n.news.naver.com/article/469/0000632091</link>
+            <guid>https://n.news.naver.com/article/469/0000632091</guid>
+            <pubDate>Wed, 29 Sep 2021 05:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/29/632091.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“日, 징용 판결 현금화 흐름 멈추지 않으면 주일대사 소환도 가능”]]></title>
+            <link>https://n.news.naver.com/article/469/0000632073</link>
+            <guid>https://n.news.naver.com/article/469/0000632073</guid>
+            <pubDate>Wed, 29 Sep 2021 05:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/29/632073.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北 미사일 발사는 종전선언 탓? 日 요미우리 “대화 요구할수록 도발”]]></title>
+            <link>https://n.news.naver.com/article/469/0000632063</link>
+            <guid>https://n.news.naver.com/article/469/0000632063</guid>
+            <pubDate>Wed, 29 Sep 2021 05:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/29/632063.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[총재 선거로 日 자민당 지지율 급등했지만... 당내 갈등은 증폭]]></title>
             <link>https://n.news.naver.com/article/469/0000631957</link>
             <guid>https://n.news.naver.com/article/469/0000631957</guid>
             <pubDate>Tue, 28 Sep 2021 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/28/631957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000631890</link>
             <guid>https://n.news.naver.com/article/469/0000631890</guid>
             <pubDate>Tue, 28 Sep 2021 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/28/631890.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000631803</link>
             <guid>https://n.news.naver.com/article/469/0000631803</guid>
             <pubDate>Tue, 28 Sep 2021 02:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/28/631803.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000631613</link>
             <guid>https://n.news.naver.com/article/469/0000631613</guid>
             <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/27/631613.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -54,38 +86,6 @@
             <pubDate>Tue, 28 Sep 2021 06:00:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/26/631467.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배계규 화백의 이 사람] ‘반(反)아베 연합군’ 결성한 고노, 日 차기 총리 될까]]></title>
-            <link>https://n.news.naver.com/article/469/0000631317</link>
-            <guid>https://n.news.naver.com/article/469/0000631317</guid>
-            <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/25/631317.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 중국-대만 CP TPP 가입 신청에 예민한 관심... “패권 다툼 장 돼... 미국 복귀해야”]]></title>
-            <link>https://n.news.naver.com/article/469/0000631284</link>
-            <guid>https://n.news.naver.com/article/469/0000631284</guid>
-            <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/24/631284.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다·다카이치 2위 다툼 치열... 다카이치 결선 진출 시 고노 유리]]></title>
-            <link>https://n.news.naver.com/article/469/0000631275</link>
-            <guid>https://n.news.naver.com/article/469/0000631275</guid>
-            <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/24/631275.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“쿼드, 위성 데이터 공유 등 우주·사이버 안보협력 합의한다”]]></title>
-            <link>https://n.news.naver.com/article/469/0000631193</link>
-            <guid>https://n.news.naver.com/article/469/0000631193</guid>
-            <pubDate>Mon, 27 Sep 2021 08:57:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/24/631193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
