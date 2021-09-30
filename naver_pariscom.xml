@@ -4,15 +4,47 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 05:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 17:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기시다, 간사장에 ‘아베 최측근’ 아마리 임명할 듯... 다카이치는 정조회장]]></title>
+            <link>https://n.news.naver.com/article/469/0000632539</link>
+            <guid>https://n.news.naver.com/article/469/0000632539</guid>
+            <pubDate>Thu, 30 Sep 2021 17:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/30/632539.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 새 퍼스트레이디 될 유코 여사 '영어 열공'... 국제무대 준비도 끝]]></title>
+            <link>https://n.news.naver.com/article/469/0000632509</link>
+            <guid>https://n.news.naver.com/article/469/0000632509</guid>
+            <pubDate>Thu, 30 Sep 2021 17:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/30/632509.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다카이치 맹활약, 고노 패배로 입증된 ‘아베의 막강 파워’]]></title>
+            <link>https://n.news.naver.com/article/469/0000632471</link>
+            <guid>https://n.news.naver.com/article/469/0000632471</guid>
+            <pubDate>Thu, 30 Sep 2021 17:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/30/632471.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다, 첫 당정 인선 이목 집중… 간사장에 ‘아베 최측근’ 아마리 거론]]></title>
+            <link>https://n.news.naver.com/article/469/0000632416</link>
+            <guid>https://n.news.naver.com/article/469/0000632416</guid>
+            <pubDate>Thu, 30 Sep 2021 17:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/30/632416.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다, 대중 강경 등 아베 노선 유지… 한일관계 큰 개선 어려울 듯]]></title>
             <link>https://n.news.naver.com/article/469/0000632247</link>
             <guid>https://n.news.naver.com/article/469/0000632247</guid>
             <pubDate>Thu, 30 Sep 2021 02:58:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/29/632247.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000632206</link>
             <guid>https://n.news.naver.com/article/469/0000632206</guid>
             <pubDate>Thu, 30 Sep 2021 02:58:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/29/632206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -54,38 +86,6 @@
             <pubDate>Wed, 29 Sep 2021 05:36:19 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/29/632063.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총재 선거로 日 자민당 지지율 급등했지만... 당내 갈등은 증폭]]></title>
-            <link>https://n.news.naver.com/article/469/0000631957</link>
-            <guid>https://n.news.naver.com/article/469/0000631957</guid>
-            <pubDate>Tue, 28 Sep 2021 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/28/631957.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미쓰비시 자산 매각 명령에 日 “매우 유감”… 주일 한국대사관 공사 초치]]></title>
-            <link>https://n.news.naver.com/article/469/0000631890</link>
-            <guid>https://n.news.naver.com/article/469/0000631890</guid>
-            <pubDate>Tue, 28 Sep 2021 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/28/631890.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 "北 탄도미사일 가능성 있는 것  발사"... 스가 "정보 수집에 전력"]]></title>
-            <link>https://n.news.naver.com/article/469/0000631803</link>
-            <guid>https://n.news.naver.com/article/469/0000631803</guid>
-            <pubDate>Tue, 28 Sep 2021 02:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/28/631803.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 자민당 총재 선거 결선투표 확실시... 기시다 유력 전망 속 '역선택설'도]]></title>
-            <link>https://n.news.naver.com/article/469/0000631723</link>
-            <guid>https://n.news.naver.com/article/469/0000631723</guid>
-            <pubDate>Mon, 27 Sep 2021 09:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/27/631723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
