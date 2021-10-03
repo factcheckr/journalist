@@ -67,3 +67,12 @@ linkSelector = "a.press_edit_news_link"
 contentSelector = "span.r_ico_b.r_modify"
 imageSelector = "span.press_edit_news_thumb img"
 waitUntil = "networkidle"
+
+[daum_hani_tintin]
+title = "다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이"
+url = "https://entertain.daum.net/news/series/3306"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "p.desc_thumb"
+waitUntil = "networkidle"
