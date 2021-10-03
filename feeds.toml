@@ -76,3 +76,12 @@ titleSelector = "a.link_txt"
 linkSelector = "a.link_thumb"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
+
+[daum_khan_quarterlyalone]
+title = "다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데"
+url = "https://news.daum.net/series/5140981"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "p.desc_thumb"
+waitUntil = "networkidle"
