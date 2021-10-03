@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 13:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 17:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,7 +268,7 @@ NYT는 “한국, 일본, 말레이시아가 인구 100명당 백신 접종 건�
             <link>https://n.news.naver.com/article/469/0000632945</link>
             <guid>https://n.news.naver.com/article/469/0000632945</guid>
             <pubDate>Sun, 03 Oct 2021 13:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/03/632945.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -276,7 +276,7 @@ NYT는 “한국, 일본, 말레이시아가 인구 100명당 백신 접종 건�
             <link>https://n.news.naver.com/article/469/0000632942</link>
             <guid>https://n.news.naver.com/article/469/0000632942</guid>
             <pubDate>Sun, 03 Oct 2021 13:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/03/632942.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -284,7 +284,7 @@ NYT는 “한국, 일본, 말레이시아가 인구 100명당 백신 접종 건�
             <link>https://n.news.naver.com/article/469/0000632897</link>
             <guid>https://n.news.naver.com/article/469/0000632897</guid>
             <pubDate>Sun, 03 Oct 2021 13:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/03/632897.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
