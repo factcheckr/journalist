@@ -4,15 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 17:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 05:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기시다, 바이든과 첫 통화서 '자유롭고 열린 인도·태평양' 강조]]></title>
+            <link>https://n.news.naver.com/article/469/0000633187</link>
+            <guid>https://n.news.naver.com/article/469/0000633187</guid>
+            <pubDate>Tue, 05 Oct 2021 05:36:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633187.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日, 머크 코로나약 연내 조달 협의 중... 자국산 약도 연내 실용화 목표]]></title>
+            <link>https://n.news.naver.com/article/469/0000633179</link>
+            <guid>https://n.news.naver.com/article/469/0000633179</guid>
+            <pubDate>Tue, 05 Oct 2021 05:36:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633179.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특파원의 시선] 기시다의 ‘듣는 귀’, 주변국에도 열려 있길]]></title>
+            <link>https://n.news.naver.com/article/469/0000633121</link>
+            <guid>https://n.news.naver.com/article/469/0000633121</guid>
+            <pubDate>Tue, 05 Oct 2021 05:36:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633121.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다 日 총리 “중국에 할 말 해야”... 한국은 언급 안 해]]></title>
             <link>https://n.news.naver.com/article/469/0000633113</link>
             <guid>https://n.news.naver.com/article/469/0000633113</guid>
             <pubDate>Mon, 04 Oct 2021 17:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/04/633113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000633098</link>
             <guid>https://n.news.naver.com/article/469/0000633098</guid>
             <pubDate>Mon, 04 Oct 2021 17:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/04/633098.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000633092</link>
             <guid>https://n.news.naver.com/article/469/0000633092</guid>
             <pubDate>Mon, 04 Oct 2021 17:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/04/633092.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000633034</link>
             <guid>https://n.news.naver.com/article/469/0000633034</guid>
             <pubDate>Mon, 04 Oct 2021 05:36:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/04/633034.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -62,30 +86,6 @@
             <pubDate>Sun, 03 Oct 2021 13:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/03/632897.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다, 日자민당 당직 '보은 인사'… 호소다파·아소파 요직 독식, 고노는 강등]]></title>
-            <link>https://n.news.naver.com/article/469/0000632720</link>
-            <guid>https://n.news.naver.com/article/469/0000632720</guid>
-            <pubDate>Fri, 01 Oct 2021 17:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/01/632720.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 마코 공주, 26일 결혼… 국민 반대로 '외상후 스트레스 장애'까지]]></title>
-            <link>https://n.news.naver.com/article/469/0000632699</link>
-            <guid>https://n.news.naver.com/article/469/0000632699</guid>
-            <pubDate>Sun, 03 Oct 2021 13:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/01/632699.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다, 간사장에 ‘아베 최측근’ 아마리 임명할 듯... 다카이치는 정조회장]]></title>
-            <link>https://n.news.naver.com/article/469/0000632539</link>
-            <guid>https://n.news.naver.com/article/469/0000632539</guid>
-            <pubDate>Thu, 30 Sep 2021 17:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/09/30/632539.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
