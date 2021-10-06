@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 17:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 05:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -265,11 +265,19 @@ NHK 등 일본언론들에 따르면 중·참의원은 이날 오후 국회 본�
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0331/A0002731713_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 출신 마나베 교수, 노벨물리학상 수상에 열도 ‘들썩’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000633419</link>
+            <guid>https://n.news.naver.com/article/469/0000633419</guid>
+            <pubDate>Wed, 06 Oct 2021 05:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633419.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다 내각 첫 지지율 49%... 스가 내각 출범 당시 보다 15%P 낮아 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000633280</link>
             <guid>https://n.news.naver.com/article/469/0000633280</guid>
             <pubDate>Tue, 05 Oct 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633280.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -277,7 +285,7 @@ NHK 등 일본언론들에 따르면 중·참의원은 이날 오후 국회 본�
             <link>https://n.news.naver.com/article/469/0000633239</link>
             <guid>https://n.news.naver.com/article/469/0000633239</guid>
             <pubDate>Tue, 05 Oct 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633239.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -285,7 +293,7 @@ NHK 등 일본언론들에 따르면 중·참의원은 이날 오후 국회 본�
             <link>https://n.news.naver.com/article/469/0000633187</link>
             <guid>https://n.news.naver.com/article/469/0000633187</guid>
             <pubDate>Tue, 05 Oct 2021 05:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -293,7 +301,7 @@ NHK 등 일본언론들에 따르면 중·참의원은 이날 오후 국회 본�
             <link>https://n.news.naver.com/article/469/0000633179</link>
             <guid>https://n.news.naver.com/article/469/0000633179</guid>
             <pubDate>Tue, 05 Oct 2021 05:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633179.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -301,7 +309,7 @@ NHK 등 일본언론들에 따르면 중·참의원은 이날 오후 국회 본�
             <link>https://n.news.naver.com/article/469/0000633121</link>
             <guid>https://n.news.naver.com/article/469/0000633121</guid>
             <pubDate>Tue, 05 Oct 2021 05:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633121.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -333,23 +341,15 @@ NHK 등 일본언론들에 따르면 중·참의원은 이날 오후 국회 본�
             <link>https://n.news.naver.com/article/469/0000633034</link>
             <guid>https://n.news.naver.com/article/469/0000633034</guid>
             <pubDate>Mon, 04 Oct 2021 05:36:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/04/633034.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 고이케 ‘도민퍼스트회’, 총선 앞두고 신당 만든다... ‘희망의 당’ 때와 닮은꼴 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000632945</link>
-            <guid>https://n.news.naver.com/article/469/0000632945</guid>
-            <pubDate>Sun, 03 Oct 2021 13:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/03/632945.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/04/633034.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자의 추천 책] 50명이 만드는 하나의 이야기 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029479</link>
             <guid>https://n.news.naver.com/article/308/0000029479</guid>
             <pubDate>Thu, 30 Sep 2021 02:58:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/29/29479.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -509,7 +509,7 @@ NHK 등 일본언론들에 따르면 중·참의원은 이날 오후 국회 본�
             <link>https://n.news.naver.com/article/308/0000029508</link>
             <guid>https://n.news.naver.com/article/308/0000029508</guid>
             <pubDate>Mon, 04 Oct 2021 05:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29508.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -517,7 +517,7 @@ NHK 등 일본언론들에 따르면 중·참의원은 이날 오후 국회 본�
             <link>https://n.news.naver.com/article/308/0000029507</link>
             <guid>https://n.news.naver.com/article/308/0000029507</guid>
             <pubDate>Mon, 04 Oct 2021 05:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
