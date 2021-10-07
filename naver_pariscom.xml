@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 17:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 지바현서 규모 6.1 지진 발생… 도쿄서도 ‘진도 5강’ 크게 흔들려]]></title>
+            <link>https://n.news.naver.com/article/469/0000633829</link>
+            <guid>https://n.news.naver.com/article/469/0000633829</guid>
+            <pubDate>Thu, 07 Oct 2021 17:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/07/633829.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 ‘새로운 자본주의’ 日 증시 발목 잡았나... 8일 연속 하락 ‘기시다 쇼크’]]></title>
+            <link>https://n.news.naver.com/article/469/0000633771</link>
+            <guid>https://n.news.naver.com/article/469/0000633771</guid>
+            <pubDate>Thu, 07 Oct 2021 17:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/07/633771.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다 日 총리 내일 소신표명 연설... 미일 동맹, 중국 견제, 北 납치문제 해결 중시]]></title>
             <link>https://n.news.naver.com/article/469/0000633676</link>
             <guid>https://n.news.naver.com/article/469/0000633676</guid>
             <pubDate>Thu, 07 Oct 2021 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/07/633676.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000633530</link>
             <guid>https://n.news.naver.com/article/469/0000633530</guid>
             <pubDate>Thu, 07 Oct 2021 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633530.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000633481</link>
             <guid>https://n.news.naver.com/article/469/0000633481</guid>
             <pubDate>Thu, 07 Oct 2021 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000633280</link>
             <guid>https://n.news.naver.com/article/469/0000633280</guid>
             <pubDate>Tue, 05 Oct 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633280.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000633239</link>
             <guid>https://n.news.naver.com/article/469/0000633239</guid>
             <pubDate>Tue, 05 Oct 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633239.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 05 Oct 2021 05:36:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633179.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특파원의 시선] 기시다의 ‘듣는 귀’, 주변국에도 열려 있길]]></title>
-            <link>https://n.news.naver.com/article/469/0000633121</link>
-            <guid>https://n.news.naver.com/article/469/0000633121</guid>
-            <pubDate>Tue, 05 Oct 2021 05:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633121.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 日 총리 “중국에 할 말 해야”... 한국은 언급 안 해]]></title>
-            <link>https://n.news.naver.com/article/469/0000633113</link>
-            <guid>https://n.news.naver.com/article/469/0000633113</guid>
-            <pubDate>Mon, 04 Oct 2021 17:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/04/633113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
