@@ -4,23 +4,47 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 08:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[배계규 화백의 이 사람] 기시다 日 총리, 내각 인사로 '3A' 균열 노렸나?]]></title>
+            <link>https://n.news.naver.com/article/469/0000634018</link>
+            <guid>https://n.news.naver.com/article/469/0000634018</guid>
+            <pubDate>Sat, 09 Oct 2021 08:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/09/634018.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘수도 직하 지진’ 뭐길래 日 불안해 하나… “이번 지진은 더 깊은 곳에서 발생”]]></title>
+            <link>https://n.news.naver.com/article/469/0000633955</link>
+            <guid>https://n.news.naver.com/article/469/0000633955</guid>
+            <pubDate>Sat, 09 Oct 2021 08:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/08/633955.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 “한국에 적절한 대응 강력 요구”… 아베-스가 정권과 판박이]]></title>
+            <link>https://n.news.naver.com/article/469/0000633944</link>
+            <guid>https://n.news.naver.com/article/469/0000633944</guid>
+            <pubDate>Sat, 09 Oct 2021 08:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/08/633944.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“코로나로 한국 못 가 ‘도한(渡韓) 놀이’ 즐겨요” 주일문화원 작문 콘테스트에 최다 응모 성황]]></title>
             <link>https://n.news.naver.com/article/469/0000633926</link>
             <guid>https://n.news.naver.com/article/469/0000633926</guid>
             <pubDate>Fri, 08 Oct 2021 05:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/08/633926.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 수도권서 10년 만의 강진…32명 중경상·열차 운행 정지 잇따라]]></title>
+            <title><![CDATA[日 수도권서 10년 만에 강진…32명 중경상·열차 운행 정지 잇따라]]></title>
             <link>https://n.news.naver.com/article/469/0000633875</link>
             <guid>https://n.news.naver.com/article/469/0000633875</guid>
             <pubDate>Fri, 08 Oct 2021 05:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/08/633875.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000633829</link>
             <guid>https://n.news.naver.com/article/469/0000633829</guid>
             <pubDate>Thu, 07 Oct 2021 17:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/07/633829.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000633771</link>
             <guid>https://n.news.naver.com/article/469/0000633771</guid>
             <pubDate>Thu, 07 Oct 2021 17:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/07/633771.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000633676</link>
             <guid>https://n.news.naver.com/article/469/0000633676</guid>
             <pubDate>Thu, 07 Oct 2021 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/07/633676.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000633530</link>
             <guid>https://n.news.naver.com/article/469/0000633530</guid>
             <pubDate>Thu, 07 Oct 2021 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633530.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,32 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000633481</link>
             <guid>https://n.news.naver.com/article/469/0000633481</guid>
             <pubDate>Thu, 07 Oct 2021 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633481.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 출신 마나베 교수, 노벨물리학상 수상에 열도 ‘들썩’]]></title>
-            <link>https://n.news.naver.com/article/469/0000633419</link>
-            <guid>https://n.news.naver.com/article/469/0000633419</guid>
-            <pubDate>Wed, 06 Oct 2021 05:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633419.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 내각 첫 지지율 49%... 스가 내각 출범 당시 보다 15%P 낮아]]></title>
-            <link>https://n.news.naver.com/article/469/0000633280</link>
-            <guid>https://n.news.naver.com/article/469/0000633280</guid>
-            <pubDate>Tue, 05 Oct 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633280.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“내 최측근을 관방에서 빼?” 아베, ‘아마리 인사’에 불만]]></title>
-            <link>https://n.news.naver.com/article/469/0000633239</link>
-            <guid>https://n.news.naver.com/article/469/0000633239</guid>
-            <pubDate>Tue, 05 Oct 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/05/633239.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
