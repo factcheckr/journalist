@@ -26,7 +26,9 @@
     
 
 ### 시사인
-  - 김연희 기자
+  - 김연희 기자: https://factcheckr.github.io/Journalist/naver_sisain_uni.xml
+  - 김다은 기자: https://factcheckr.github.io/Journalist/naver_sisain_midnightblue.xml
+  - 김은지 기자: https://factcheckr.github.io/Journalist/naver_sisain_smile.xml
 
 ### 오마이뉴스
   - [신필규 시민기자](http://star.ohmynews.com/NWS_Web/Mobile/i_Room/articles/news_list.aspx?MEM_CD=00701855): https://factcheckr.github.io/Journalist/ohmynews_mongsill.xml
