@@ -13,6 +13,8 @@
 ### 한겨레
   - 이승한 칼럼리스트: https://factcheckr.github.io/Journalist/hani_seunghan.xml  
       [🌐 공식사이트](https://iamtintin.net/) | [페이스북](https://www.facebook.com/seunghan.rhie)
+      - 이승한의 술탄 오브 더 티브이: 
+        - 다음 뉴스: https://factcheckr.github.io/Journalist/daum_hani_tintin.xml
 
 ### 경향신문
   - 박은하 기자: https://factcheckr.github.io/Journalist/khan_eunha.xml  
