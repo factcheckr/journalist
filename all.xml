@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 08:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 12:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -267,7 +267,7 @@
             <link>https://n.news.naver.com/article/469/0000634018</link>
             <guid>https://n.news.naver.com/article/469/0000634018</guid>
             <pubDate>Sat, 09 Oct 2021 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/09/634018.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -315,7 +315,7 @@
             <link>https://n.news.naver.com/article/469/0000633771</link>
             <guid>https://n.news.naver.com/article/469/0000633771</guid>
             <pubDate>Thu, 07 Oct 2021 17:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/07/633771.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +331,7 @@
             <link>https://n.news.naver.com/article/469/0000633530</link>
             <guid>https://n.news.naver.com/article/469/0000633530</guid>
             <pubDate>Thu, 07 Oct 2021 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633530.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
