@@ -7,6 +7,7 @@ linkSelector = "a.link_cont"
 contentSelector = "span.lead"
 imageSelector = "div.link_thumb img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [khan_sungsooh]
 title = "경향신문 ─ 홍성수 교수"
@@ -17,6 +18,7 @@ linkSelector = "a.link_cont"
 contentSelector = "span.lead"
 imageSelector = "div.link_thumb img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [ohmynews_mongsill]
 title = "오마이뉴스 ─ 신필규 시민기자"
@@ -27,6 +29,7 @@ linkSelector = "div.newest_area a.link_today"
 contentSelector = "div.category"
 imageSelector = "div.image_area img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [naver_pariscom]
 title = "한국일보 최진주 기자 ─ 네이버 뉴스"
@@ -37,6 +40,7 @@ linkSelector = "a.press_edit_news_link"
 contentSelector = "span.r_ico_b.r_modify"
 imageSelector = "span.press_edit_news_thumb img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [naver_sisain_uni]
 title = "시사인 김연희 기자 ─ 네이버 뉴스"
@@ -47,6 +51,7 @@ linkSelector = "a.press_edit_news_link"
 contentSelector = "span.r_ico_b.r_modify"
 imageSelector = "span.press_edit_news_thumb img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [naver_sisain_midnightblue]
 title = "시사인 김다은 기자 ─ 네이버 뉴스"
@@ -57,6 +62,7 @@ linkSelector = "a.press_edit_news_link"
 contentSelector = "span.r_ico_b.r_modify"
 imageSelector = "span.press_edit_news_thumb img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [naver_sisain_smile]
 title = "시사인 김은지 기자 ─ 네이버 뉴스"
@@ -67,6 +73,7 @@ linkSelector = "a.press_edit_news_link"
 contentSelector = "span.r_ico_b.r_modify"
 imageSelector = "span.press_edit_news_thumb img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [daum_hani_tintin]
 title = "다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이"
@@ -76,6 +83,7 @@ titleSelector = "a.link_txt"
 linkSelector = "a.link_thumb"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [daum_khan_quarterlyalone]
 title = "다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데"
@@ -85,3 +93,4 @@ titleSelector = "a.link_txt"
 linkSelector = "a.link_thumb"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
+onFail = "stale"
