@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 12:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 17:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,16 +12,8 @@
             <link>https://n.news.naver.com/article/469/0000634018</link>
             <guid>https://n.news.naver.com/article/469/0000634018</guid>
             <pubDate>Sat, 09 Oct 2021 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/09/634018.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘수도 직하 지진’ 뭐길래 日 불안해 하나… “이번 지진은 더 깊은 곳에서 발생”]]></title>
-            <link>https://n.news.naver.com/article/469/0000633955</link>
-            <guid>https://n.news.naver.com/article/469/0000633955</guid>
-            <pubDate>Sat, 09 Oct 2021 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/08/633955.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 “한국에 적절한 대응 강력 요구”… 아베-스가 정권과 판박이]]></title>
@@ -52,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000633829</link>
             <guid>https://n.news.naver.com/article/469/0000633829</guid>
             <pubDate>Thu, 07 Oct 2021 17:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/07/633829.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -86,6 +78,14 @@
             <pubDate>Thu, 07 Oct 2021 05:36:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633481.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 출신 마나베 교수, 노벨물리학상 수상에 열도 ‘들썩’]]></title>
+            <link>https://n.news.naver.com/article/469/0000633419</link>
+            <guid>https://n.news.naver.com/article/469/0000633419</guid>
+            <pubDate>Sat, 09 Oct 2021 17:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633419.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
