@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 05:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 17:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명, “변방사또”에서 집권여당 대선 후보로]]></title>
+            <link>https://n.news.naver.com/article/308/0000029546</link>
+            <guid>https://n.news.naver.com/article/308/0000029546</guid>
+            <pubDate>Sun, 10 Oct 2021 17:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/10/29546.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[취재 뒷담화] 매 주 〈시사IN〉을 읽고 별점 평가를 매길 수 있다면?]]></title>
             <link>https://n.news.naver.com/article/308/0000029545</link>
             <guid>https://n.news.naver.com/article/308/0000029545</guid>
             <pubDate>Sun, 10 Oct 2021 05:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/10/29545.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Sep 2021 03:49:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.09.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/06/29374.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[20대 여자 현상] “약자는 아니지만 우리는 차별받고 있다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000029342</link>
-            <guid>https://n.news.naver.com/article/308/0000029342</guid>
-            <pubDate>Thu, 30 Sep 2021 03:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.08.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/30/29342.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
