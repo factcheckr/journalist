@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 17:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 05:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[취재 뒷담화] 매 주 〈시사IN〉을 읽고 별점 평가를 매길 수 있다면?]]></title>
+            <link>https://n.news.naver.com/article/308/0000029545</link>
+            <guid>https://n.news.naver.com/article/308/0000029545</guid>
+            <pubDate>Sun, 10 Oct 2021 05:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/10/29545.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자들의 시선] 첫 출근, 생애 마지막 출근이 되다]]></title>
             <link>https://n.news.naver.com/article/308/0000029508</link>
             <guid>https://n.news.naver.com/article/308/0000029508</guid>
             <pubDate>Mon, 04 Oct 2021 05:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29508.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000029507</link>
             <guid>https://n.news.naver.com/article/308/0000029507</guid>
             <pubDate>Mon, 04 Oct 2021 05:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000029497</link>
             <guid>https://n.news.naver.com/article/308/0000029497</guid>
             <pubDate>Thu, 07 Oct 2021 17:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.10.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/02/29497.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Sep 2021 03:49:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.08.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/30/29342.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 정치의 계절, 여론조사 결과 제대로 읽는 법]]></title>
-            <link>https://n.news.naver.com/article/308/0000029270</link>
-            <guid>https://n.news.naver.com/article/308/0000029270</guid>
-            <pubDate>Thu, 30 Sep 2021 03:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.08.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/16/29270.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
