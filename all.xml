@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 05:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 17:44:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,6 +263,14 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0331/A0002731713_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘분배’ ‘재정 투입’ 日 여야 경제정책 비슷… ‘사회주의’ ‘재정파탄’ 비판도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000634329</link>
+            <guid>https://n.news.naver.com/article/469/0000634329</guid>
+            <pubDate>Mon, 11 Oct 2021 17:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/11/634329.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[배계규 화백의 이 사람] 기시다 日 총리, 내각 인사로 '3A' 균열 노렸나? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000634018</link>
             <guid>https://n.news.naver.com/article/469/0000634018</guid>
@@ -275,7 +283,7 @@
             <link>https://n.news.naver.com/article/469/0000633944</link>
             <guid>https://n.news.naver.com/article/469/0000633944</guid>
             <pubDate>Sat, 09 Oct 2021 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/08/633944.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,19 +303,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/08/633875.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 지바현서 규모 6.1 지진 발생… 도쿄서도 ‘진도 5강’ 크게 흔들려 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000633829</link>
-            <guid>https://n.news.naver.com/article/469/0000633829</guid>
-            <pubDate>Thu, 07 Oct 2021 17:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/07/633829.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기시다 ‘새로운 자본주의’ 日 증시 발목 잡았나... 8일 연속 하락 ‘기시다 쇼크’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000633771</link>
             <guid>https://n.news.naver.com/article/469/0000633771</guid>
             <pubDate>Thu, 07 Oct 2021 17:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/07/633771.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +323,7 @@
             <link>https://n.news.naver.com/article/469/0000633530</link>
             <guid>https://n.news.naver.com/article/469/0000633530</guid>
             <pubDate>Thu, 07 Oct 2021 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633530.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +331,7 @@
             <link>https://n.news.naver.com/article/469/0000633481</link>
             <guid>https://n.news.naver.com/article/469/0000633481</guid>
             <pubDate>Thu, 07 Oct 2021 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/06/633481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -503,6 +503,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/12/29248.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[프리스타일] 학폭 피해자를 두 번 울리는 2차 가해 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029552</link>
+            <guid>https://n.news.naver.com/article/308/0000029552</guid>
+            <pubDate>Mon, 11 Oct 2021 17:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/11/29552.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[취재 뒷담화] 매 주 〈시사IN〉을 읽고 별점 평가를 매길 수 있다면? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029545</link>
             <guid>https://n.news.naver.com/article/308/0000029545</guid>
@@ -573,14 +581,6 @@
             <pubDate>Thu, 30 Sep 2021 03:49:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.09.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/06/29374.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[20대 여자 현상] “약자는 아니지만 우리는 차별받고 있다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029342</link>
-            <guid>https://n.news.naver.com/article/308/0000029342</guid>
-            <pubDate>Mon, 11 Oct 2021 05:36:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.08.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/30/29342.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['성폭력' 감독, 이름만 바꿔 슬쩍..이런 기만적인 복귀라니 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
