@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 17:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 05:38:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬데믹 2년차, 한국 정부는 어떻게 작동했나]]></title>
+            <link>https://n.news.naver.com/article/308/0000029562</link>
+            <guid>https://n.news.naver.com/article/308/0000029562</guid>
+            <pubDate>Wed, 13 Oct 2021 05:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/13/29562.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자의 추천 책] 50명이 만드는 하나의 이야기]]></title>
             <link>https://n.news.naver.com/article/308/0000029479</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Oct 2021 17:42:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.09.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/07/29382.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가까스로 불 끈 총파업, 의료노조와 정부는 무엇을 합의했나]]></title>
-            <link>https://n.news.naver.com/article/308/0000029379</link>
-            <guid>https://n.news.naver.com/article/308/0000029379</guid>
-            <pubDate>Thu, 07 Oct 2021 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/06/29379.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
