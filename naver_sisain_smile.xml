@@ -4,24 +4,24 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 17:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이렇게 재미있는 대통령 회고록은 처음이야]]></title>
-            <link>https://n.news.naver.com/article/308/0000029568</link>
-            <guid>https://n.news.naver.com/article/308/0000029568</guid>
-            <pubDate>Thu, 14 Oct 2021 05:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/14/29568.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[프리스타일] 학폭 피해자를 두 번 울리는 2차 가해]]></title>
             <link>https://n.news.naver.com/article/308/0000029552</link>
             <guid>https://n.news.naver.com/article/308/0000029552</guid>
             <pubDate>Mon, 11 Oct 2021 17:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/11/29552.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명, “변방사또”에서 집권여당 대선 후보로]]></title>
+            <link>https://n.news.naver.com/article/308/0000029546</link>
+            <guid>https://n.news.naver.com/article/308/0000029546</guid>
+            <pubDate>Thu, 14 Oct 2021 17:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/10/29546.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[취재 뒷담화] 매 주 〈시사IN〉을 읽고 별점 평가를 매길 수 있다면?]]></title>

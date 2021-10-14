@@ -4,31 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 17:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학교 안 가는 日 초·중학생 사상 최대 19만명… 학생 자살도 최다]]></title>
+            <link>https://n.news.naver.com/article/469/0000635052</link>
+            <guid>https://n.news.naver.com/article/469/0000635052</guid>
+            <pubDate>Thu, 14 Oct 2021 17:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/14/635052.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 중의원 해산... ‘선거의 귀재’ 아베 이후 첫 총선, 기시다 명운 건 시험무대]]></title>
+            <link>https://n.news.naver.com/article/469/0000635039</link>
+            <guid>https://n.news.naver.com/article/469/0000635039</guid>
+            <pubDate>Thu, 14 Oct 2021 17:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/14/635039.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Q&A] '의원 정리해고' 日 중의원 해산... 어떻게 진행되나요?]]></title>
             <link>https://n.news.naver.com/article/469/0000634946</link>
             <guid>https://n.news.naver.com/article/469/0000634946</guid>
             <pubDate>Thu, 14 Oct 2021 05:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/14/634946.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 언론 “문 대통령·기시다 오늘 첫 전화 통화할 듯”]]></title>
-            <link>https://n.news.naver.com/article/469/0000634897</link>
-            <guid>https://n.news.naver.com/article/469/0000634897</guid>
-            <pubDate>Thu, 14 Oct 2021 05:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/14/634897.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자민당 총선공약 보수색 강화… 독도영유권 주장, “방위비 GDP 2% 이상 염두”]]></title>
             <link>https://n.news.naver.com/article/469/0000634836</link>
             <guid>https://n.news.naver.com/article/469/0000634836</guid>
             <pubDate>Wed, 13 Oct 2021 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/13/634836.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000634785</link>
             <guid>https://n.news.naver.com/article/469/0000634785</guid>
             <pubDate>Wed, 13 Oct 2021 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/13/634785.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000634778</link>
             <guid>https://n.news.naver.com/article/469/0000634778</guid>
             <pubDate>Wed, 13 Oct 2021 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/13/634778.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000634751</link>
             <guid>https://n.news.naver.com/article/469/0000634751</guid>
             <pubDate>Wed, 13 Oct 2021 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/13/634751.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000634586</link>
             <guid>https://n.news.naver.com/article/469/0000634586</guid>
             <pubDate>Tue, 12 Oct 2021 17:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/12/634586.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000634575</link>
             <guid>https://n.news.naver.com/article/469/0000634575</guid>
             <pubDate>Tue, 12 Oct 2021 17:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/12/634575.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Oct 2021 05:36:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/12/634454.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총선 앞둔 기시다, 보수층 의식해 문 대통령과 통화는 ‘나중에’]]></title>
-            <link>https://n.news.naver.com/article/469/0000634412</link>
-            <guid>https://n.news.naver.com/article/469/0000634412</guid>
-            <pubDate>Tue, 12 Oct 2021 05:36:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/12/634412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
