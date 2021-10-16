@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 17:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 05:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,7 +284,7 @@ BBC에 따르면 교황은 지난 10일(현지시간) 바티칸시국 성베드�
             <link>https://n.news.naver.com/article/469/0000634946</link>
             <guid>https://n.news.naver.com/article/469/0000634946</guid>
             <pubDate>Thu, 14 Oct 2021 05:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/14/634946.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +340,7 @@ BBC에 따르면 교황은 지난 10일(현지시간) 바티칸시국 성베드�
             <link>https://n.news.naver.com/article/469/0000634454</link>
             <guid>https://n.news.naver.com/article/469/0000634454</guid>
             <pubDate>Tue, 12 Oct 2021 05:36:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/12/634454.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +348,7 @@ BBC에 따르면 교황은 지난 10일(현지시간) 바티칸시국 성베드�
             <link>https://n.news.naver.com/article/308/0000029562</link>
             <guid>https://n.news.naver.com/article/308/0000029562</guid>
             <pubDate>Wed, 13 Oct 2021 05:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/13/29562.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -428,7 +428,7 @@ BBC에 따르면 교황은 지난 10일(현지시간) 바티칸시국 성베드�
             <link>https://n.news.naver.com/article/308/0000029555</link>
             <guid>https://n.news.naver.com/article/308/0000029555</guid>
             <pubDate>Tue, 12 Oct 2021 05:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/12/29555.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -504,6 +504,14 @@ BBC에 따르면 교황은 지난 10일(현지시간) 바티칸시국 성베드�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/14/29258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유우성 무죄 받으니 보복 기소, 검사가 깡패? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029579</link>
+            <guid>https://n.news.naver.com/article/308/0000029579</guid>
+            <pubDate>Sat, 16 Oct 2021 05:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/16/29579.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[프리스타일] 학폭 피해자를 두 번 울리는 2차 가해 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029552</link>
             <guid>https://n.news.naver.com/article/308/0000029552</guid>
@@ -524,7 +532,7 @@ BBC에 따르면 교황은 지난 10일(현지시간) 바티칸시국 성베드�
             <link>https://n.news.naver.com/article/308/0000029545</link>
             <guid>https://n.news.naver.com/article/308/0000029545</guid>
             <pubDate>Sun, 10 Oct 2021 05:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/10/29545.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -574,14 +582,6 @@ BBC에 따르면 교황은 지난 10일(현지시간) 바티칸시국 성베드�
             <pubDate>Thu, 30 Sep 2021 03:49:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.09.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/22/29450.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부 신뢰도 보니 내년 대선 ‘시계 제로’ (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029445</link>
-            <guid>https://n.news.naver.com/article/308/0000029445</guid>
-            <pubDate>Thu, 30 Sep 2021 03:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/20/29445.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['성폭력' 감독, 이름만 바꿔 슬쩍..이런 기만적인 복귀라니 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
