@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2021-10-19T05:39:30.059Z</updated>
+    <updated>2021-10-19T17:43:09.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["KBS는 '오징어 게임' 못 만들어?"..국감이 부른 '명텐도' 추억]]></title>
+        <id>https://entertain.v.daum.net/v/20211015201603936</id>
+        <link href="https://entertain.v.daum.net/v/20211015201603936"/>
+        <updated>2021-10-19T17:43:01.344Z</updated>
+        <content type="html"><![CDATA[2009년 2월4일 과천정부청사에서 열린 비상경제대책회의에 참석했던 이명박 당시 대통령은 이런 말을 했다. “닌텐도 게임기 같은 것을 우리는 왜 못 만드나? 닌텐도 같은 게임기를 개발하는 데 만전을 기해달라.” 한창 닌텐도가 가정용 게임 콘솔 ‘위’(Wii)와 휴대용 게임 콘솔 ‘닌텐도 디에스(DS)’ 시리즈로 게임 콘솔 시장에서 제 존재감을 다시 뽐내던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성폭력' 감독, 이름만 바꿔 슬쩍..이런 기만적인 복귀라니]]></title>
         <id>https://entertain.v.daum.net/v/20211002171606379</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210109144602042"/>
         <updated>2021-10-07T17:43:00.242Z</updated>
         <content type="html"><![CDATA[몇년 전, 여성 가수들이 많이 소속된 회사의 간부급 매니저와 대화를 나눌 기회가 있었다. 상대는 한숨을 쉬며 소속 남성 가수 이야기를 꺼냈다. “아무개가 잘되어야 할 텐데 말이죠.” 나는 고개를 갸우뚱했다. 회사에 소속된 여성 가수들은 이미 각자의 색을 드러내며 성과를 거두고 있던 중이었고, 그가 한숨을 쉬며 걱정했던 남성 가수는 아직 이렇다 할 활약을 펼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지식 예능의 예견된 패착 '벌거벗은 세계사']]></title>
-        <id>https://entertain.v.daum.net/v/20201226112609323</id>
-        <link href="https://entertain.v.daum.net/v/20201226112609323"/>
-        <updated>2021-10-07T17:43:00.243Z</updated>
-        <content type="html"><![CDATA[라디오나 팟캐스트에 출연하는 일이 야금야금 늘어나다 보니, 가끔 쉽게 이해하기 어려운 질문들을 받는 일이 생긴다. 분명 나는 티브이 비평으로 데뷔해 계속 그쪽으로 글을 써왔는데, 내게 티브이 말고 다른 영역까지 커버해줄 수 있는지 묻는 섭외 요청이 들어오는 것이다. “평론가님, 혹시 연극이나 뮤지컬도 자주 보시나요? 그런 것들도 함께 소개해주면 좋을 것 같]]></content>
     </entry>
 </feed>

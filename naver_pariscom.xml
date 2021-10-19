@@ -4,15 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 05:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 17:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 총선 선거전 본격 개시… 여야 차별점은 소비세·코로나 지원·방위력 강화...]]></title>
+            <link>https://n.news.naver.com/article/469/0000635936</link>
+            <guid>https://n.news.naver.com/article/469/0000635936</guid>
+            <pubDate>Tue, 19 Oct 2021 17:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/19/635936.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본, ‘백신 접종자 5명 이상 식사’ 실험 시작… ‘위드 코로나’ 신중 추진]]></title>
+            <link>https://n.news.naver.com/article/469/0000635918</link>
+            <guid>https://n.news.naver.com/article/469/0000635918</guid>
+            <pubDate>Tue, 19 Oct 2021 17:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/19/635918.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北 탄도미사일, 한국 “1발” 일본 “2발” 엇갈려… 기시다 日 총리 “매우 유감”]]></title>
+            <link>https://n.news.naver.com/article/469/0000635867</link>
+            <guid>https://n.news.naver.com/article/469/0000635867</guid>
+            <pubDate>Tue, 19 Oct 2021 17:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/19/635867.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 총선 여성 후보 비율 18% 불과... 여성 의원 세계 최하위권 계속될 듯]]></title>
             <link>https://n.news.naver.com/article/469/0000635700</link>
             <guid>https://n.news.naver.com/article/469/0000635700</guid>
             <pubDate>Mon, 18 Oct 2021 17:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/18/635700.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000635678</link>
             <guid>https://n.news.naver.com/article/469/0000635678</guid>
             <pubDate>Mon, 18 Oct 2021 17:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/18/635678.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000635646</link>
             <guid>https://n.news.naver.com/article/469/0000635646</guid>
             <pubDate>Mon, 18 Oct 2021 17:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/18/635646.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000635513</link>
             <guid>https://n.news.naver.com/article/469/0000635513</guid>
             <pubDate>Sun, 17 Oct 2021 17:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/17/635513.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000635505</link>
             <guid>https://n.news.naver.com/article/469/0000635505</guid>
             <pubDate>Sun, 17 Oct 2021 17:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/17/635505.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000635474</link>
             <guid>https://n.news.naver.com/article/469/0000635474</guid>
             <pubDate>Sun, 17 Oct 2021 17:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/17/635474.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -62,30 +86,6 @@
             <pubDate>Sun, 17 Oct 2021 05:36:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/17/635448.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학교 안 가는 日 초·중학생 사상 최대 19만명… 학생 자살도 최다]]></title>
-            <link>https://n.news.naver.com/article/469/0000635052</link>
-            <guid>https://n.news.naver.com/article/469/0000635052</guid>
-            <pubDate>Thu, 14 Oct 2021 17:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/14/635052.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 중의원 해산... ‘선거의 귀재’ 아베 이후 첫 총선, 기시다 명운 건 시험무대]]></title>
-            <link>https://n.news.naver.com/article/469/0000635039</link>
-            <guid>https://n.news.naver.com/article/469/0000635039</guid>
-            <pubDate>Thu, 14 Oct 2021 17:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/14/635039.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Q&A] '의원 정리해고' 日 중의원 해산... 어떻게 진행되나요?]]></title>
-            <link>https://n.news.naver.com/article/469/0000634946</link>
-            <guid>https://n.news.naver.com/article/469/0000634946</guid>
-            <pubDate>Thu, 14 Oct 2021 05:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/14/634946.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
