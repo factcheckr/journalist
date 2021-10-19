@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 17:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 05:39:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“몇십억짜리 푼돈” 이야기 나온 ‘이재명 국감’ 말말말]]></title>
+            <link>https://n.news.naver.com/article/308/0000029603</link>
+            <guid>https://n.news.naver.com/article/308/0000029603</guid>
+            <pubDate>Tue, 19 Oct 2021 05:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/19/29603.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프리스타일] 학폭 피해자를 두 번 울리는 2차 가해]]></title>
             <link>https://n.news.naver.com/article/308/0000029552</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000029547</link>
             <guid>https://n.news.naver.com/article/308/0000029547</guid>
             <pubDate>Sun, 17 Oct 2021 17:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.10.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/11/29547.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Sep 2021 03:49:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.09.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/27/29472.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 지지자가 검찰 더 신뢰한다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029450</link>
-            <guid>https://n.news.naver.com/article/308/0000029450</guid>
-            <pubDate>Thu, 30 Sep 2021 03:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/22/29450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
