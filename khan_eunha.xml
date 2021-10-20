@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 17:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 05:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 아소산 분화 … 화산경보 레벨 3 발령]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202110201430001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202110201430001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 20 Oct 2021 05:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[일본 구마모토현의 활화산인 아소산이 20일 분화했다고 일본 기상청이 밝혔다.
+기상청에 따르면 이날 오전 11시 43분  나카다케 제1화구에서 폭발이 발생했다. 연기가 3500m 높이까지 치솟았으며 분화구에서 1km  떨어진 곳에서도 화쇄류가 확인됐다. 화구에서 약 5km 떨어진 보육원에도 화산재가 약간 날아왔다고 NHK가 전했다. 기상청은 아소산에 대한 화산 경보를 레벨 2에서 입산 규제에 해당하는 레발 3으로 높였다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2021/10/20/2021102001002542100216101.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“가족끼리 다른 성 써도 유대감 안 사라져”…일본 총선의 뜨거운 화두가 된 ‘선택적 부부별성제’]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202110192136035/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -105,15 +114,6 @@ AP통신, CNN 등 외신에 따르면 지난 16일(현지시간) 미국 오하�
             <content:encoded><![CDATA[전 세계적으로 흥행하고 있는 넷플릭스 드라마 &lt;오징어 게임&gt;이 미국 국무부 외교 전문에도 등장했다. 내년 대통령 선거를 앞두고 한국 사회의 경제적 좌절감이 드라마에 반영돼 있다는 내용이다.
 미국 외교전문지 포린폴리시는 15일(현지시간) ‘국무부는 오징어 게임에서 한국 정치의 메아리를 본다’는 제목의 기사에서 미국 국무부 외교 전문을 입수했다며 내용을 공개했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2021/10/17/2021101701002089300177181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총선 관심 뜨거운 일본… 유권자 63% “여당 지지”]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202110171650001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202110171650001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Sun, 17 Oct 2021 17:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[일본 중의원 선거를 2주 앞두고 실시된 여론조사에서 유권자 10명 중 6명은 현 여당이 앞서야 한다고 생각하는 것으로 나타났다. 유권자의 70% 가량이 선거에 관심이 있다고 답했다.
-요미우리신문은 일본 민영방송 뉴스네트워크(NNN)와 14~15일 전국의 18세 이상 유권자 1044명을 상대로 한 설문조사 결과, 이번 총선에 관심이 있느냐’는 질문에 “매우 관심이 있다”(29%) “다소 관심이 있다”(44%)는 답변을 합해 73%가 관심을 표명했다고 16일 보도했다. 새로운 내각이 출범하고 분배 등 정책 선거가 이뤄지고 있는 결과로 보인다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2021/10/17/2021101701002079300176591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
