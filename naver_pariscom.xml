@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 17:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:37:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 수도권, 25일부터 음식점 영업시간 제한 푼다]]></title>
+            <link>https://n.news.naver.com/article/469/0000636297</link>
+            <guid>https://n.news.naver.com/article/469/0000636297</guid>
+            <pubDate>Thu, 21 Oct 2021 05:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/21/636297.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 중의원 선거, 야권 단일화 파괴력은? 140개 지역구 여야 1대1 대결]]></title>
             <link>https://n.news.naver.com/article/469/0000636192</link>
             <guid>https://n.news.naver.com/article/469/0000636192</guid>
             <pubDate>Wed, 20 Oct 2021 17:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/20/636192.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000636135</link>
             <guid>https://n.news.naver.com/article/469/0000636135</guid>
             <pubDate>Wed, 20 Oct 2021 17:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/20/636135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000636127</link>
             <guid>https://n.news.naver.com/article/469/0000636127</guid>
             <pubDate>Wed, 20 Oct 2021 17:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/20/636127.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Oct 2021 17:43:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/18/635646.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[협력금 지급했지만... 日 코로나로 전국 음식점의 10% 문 닫았다]]></title>
-            <link>https://n.news.naver.com/article/469/0000635513</link>
-            <guid>https://n.news.naver.com/article/469/0000635513</guid>
-            <pubDate>Sun, 17 Oct 2021 17:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/17/635513.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
