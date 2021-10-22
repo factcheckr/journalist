@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 17:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 05:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <pubDate>Thu, 21 Oct 2021 17:42:52 GMT</pubDate>
             <content:encoded><![CDATA[네덜란드 암스테르담의 한 번화가에서 지난 7월6일 총성이 다섯 번 울렸다. 한낮이었고 식당과 카페가 즐비한 거리였다. 범죄 전문 탐사기자 페테르 R. 더프리스(당시 64세)가 머리에 총을 맞고 중태에 빠졌다 끝내 숨졌다. 그는 자신의 이름을 내건 범죄 고발 TV프로그램 촬영을 마치고 돌아오는 길이었다.
 지난해 11월 더프리스의 쇼에 변호사 페테르 슈텐이 출현했다. 이는 더프리스가 암살 표적이 된 이유로 추정된다. 슈텐은 마약조직 관련 사건 재판의 주요 증인인 ‘나빌B’의 국선변호사이다. 앞서 나빌B의 국선변호사 데르크 비에르숨(당시 44세)과 나빌B의 형이 암살당했다. 슈텐은 경찰의 신변보호를 받으며 활동하고 있다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2021/10/21/2021102101002866100242833.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2021/10/21/2021102101002866300242923.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세습 정치인 당선 확률 80%, 이번 일본 총선에서는? (경향신문 ─ 박은하 기자)]]></title>
@@ -270,11 +270,27 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0331/A0002731713_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 아베 전 총리, 유튜브 채널 개설... 3일 만에 20만명 구독 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000636537</link>
+            <guid>https://n.news.naver.com/article/469/0000636537</guid>
+            <pubDate>Fri, 22 Oct 2021 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636537.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 매체, 누리호 발사에 "북한 미사일 개발 빌미 제공 우려" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000636515</link>
+            <guid>https://n.news.naver.com/article/469/0000636515</guid>
+            <pubDate>Fri, 22 Oct 2021 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636515.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 총선 자민·공명 과반 무난, 자민 단독 과반은 불확실 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000636402</link>
             <guid>https://n.news.naver.com/article/469/0000636402</guid>
             <pubDate>Thu, 21 Oct 2021 17:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/21/636402.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -282,7 +298,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000636339</link>
             <guid>https://n.news.naver.com/article/469/0000636339</guid>
             <pubDate>Thu, 21 Oct 2021 17:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/21/636339.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -290,7 +306,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000636297</link>
             <guid>https://n.news.naver.com/article/469/0000636297</guid>
             <pubDate>Thu, 21 Oct 2021 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/21/636297.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,22 +348,6 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <pubDate>Tue, 19 Oct 2021 17:42:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/19/635918.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[北 탄도미사일, 한국 “1발” 일본 “2발” 엇갈려… 기시다 日 총리 “매우 유감” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000635867</link>
-            <guid>https://n.news.naver.com/article/469/0000635867</guid>
-            <pubDate>Tue, 19 Oct 2021 17:42:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/19/635867.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 총선 여성 후보 비율 18% 불과... 여성 의원 세계 최하위권 계속될 듯 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000635700</link>
-            <guid>https://n.news.naver.com/article/469/0000635700</guid>
-            <pubDate>Mon, 18 Oct 2021 17:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/18/635700.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팬데믹 2년차, 한국 정부는 어떻게 작동했나 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -514,7 +514,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/308/0000029568</link>
             <guid>https://n.news.naver.com/article/308/0000029568</guid>
             <pubDate>Wed, 20 Oct 2021 17:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.10.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/14/29568.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
