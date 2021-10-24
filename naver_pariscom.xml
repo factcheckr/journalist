@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 05:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 17:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본판 ‘드루킹’ 사건? 트위터 여론조작 의혹 외면하는 자민당 [특파원24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000636809</link>
+            <guid>https://n.news.naver.com/article/469/0000636809</guid>
+            <pubDate>Sun, 24 Oct 2021 17:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/24/636809.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[野 단일화 효과에 긴장한 자민당… ‘정세 긴박’ 통지, ‘색깔론’ 자극 나서]]></title>
             <link>https://n.news.naver.com/article/469/0000636620</link>
             <guid>https://n.news.naver.com/article/469/0000636620</guid>
             <pubDate>Fri, 22 Oct 2021 17:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000636586</link>
             <guid>https://n.news.naver.com/article/469/0000636586</guid>
             <pubDate>Fri, 22 Oct 2021 17:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636586.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000636567</link>
             <guid>https://n.news.naver.com/article/469/0000636567</guid>
             <pubDate>Fri, 22 Oct 2021 17:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636567.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000636402</link>
             <guid>https://n.news.naver.com/article/469/0000636402</guid>
             <pubDate>Thu, 21 Oct 2021 17:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/21/636402.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000636339</link>
             <guid>https://n.news.naver.com/article/469/0000636339</guid>
             <pubDate>Thu, 21 Oct 2021 17:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/21/636339.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000636192</link>
             <guid>https://n.news.naver.com/article/469/0000636192</guid>
             <pubDate>Wed, 20 Oct 2021 17:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/20/636192.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000636135</link>
             <guid>https://n.news.naver.com/article/469/0000636135</guid>
             <pubDate>Wed, 20 Oct 2021 17:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/20/636135.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘잃어버린 30년’ 일본 임금, 겨우 4.4% 올라… 한국이 추월]]></title>
-            <link>https://n.news.naver.com/article/469/0000636127</link>
-            <guid>https://n.news.naver.com/article/469/0000636127</guid>
-            <pubDate>Wed, 20 Oct 2021 17:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/20/636127.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
