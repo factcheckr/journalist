@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 17:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 05:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000636537</link>
             <guid>https://n.news.naver.com/article/469/0000636537</guid>
             <pubDate>Fri, 22 Oct 2021 05:36:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636537.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000636297</link>
             <guid>https://n.news.naver.com/article/469/0000636297</guid>
             <pubDate>Thu, 21 Oct 2021 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/21/636297.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

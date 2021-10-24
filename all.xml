@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 17:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 05:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,7 +298,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000636537</link>
             <guid>https://n.news.naver.com/article/469/0000636537</guid>
             <pubDate>Fri, 22 Oct 2021 05:36:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636537.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +322,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000636297</link>
             <guid>https://n.news.naver.com/article/469/0000636297</guid>
             <pubDate>Thu, 21 Oct 2021 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/21/636297.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -510,19 +510,11 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/14/29258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“몇십억짜리 푼돈” 이야기 나온 ‘이재명 국감’ 말말말 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029603</link>
-            <guid>https://n.news.naver.com/article/308/0000029603</guid>
-            <pubDate>Fri, 22 Oct 2021 17:43:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/19/29603.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유우성 무죄 받으니 보복 기소, 검사가 깡패? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029579</link>
             <guid>https://n.news.naver.com/article/308/0000029579</guid>
             <pubDate>Fri, 22 Oct 2021 17:43:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.10.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/16/29579.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -588,6 +580,14 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <pubDate>Thu, 07 Oct 2021 17:42:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/02/29497.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 부친 집 산 김만배 누나, “로또 당첨만큼 어려운 우연의 일치” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029493</link>
+            <guid>https://n.news.naver.com/article/308/0000029493</guid>
+            <pubDate>Sun, 24 Oct 2021 05:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2021.10.01.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/01/29493.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["KBS는 '오징어 게임' 못 만들어?"..국감이 부른 '명텐도' 추억 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
