@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 17:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:37:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위드 코로나, 이제 경기 끝? “허탈할지라도 ‘연장전’이 남았다.”]]></title>
+            <link>https://n.news.naver.com/article/308/0000029639</link>
+            <guid>https://n.news.naver.com/article/308/0000029639</guid>
+            <pubDate>Mon, 25 Oct 2021 05:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/25/29639.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬데믹 2년차, 한국 정부는 어떻게 작동했나]]></title>
             <link>https://n.news.naver.com/article/308/0000029562</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Oct 2021 17:42:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.09.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/08/29390.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 92세 퇴직 공무원이 전한 후배 사랑]]></title>
-            <link>https://n.news.naver.com/article/308/0000029382</link>
-            <guid>https://n.news.naver.com/article/308/0000029382</guid>
-            <pubDate>Thu, 07 Oct 2021 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/07/29382.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

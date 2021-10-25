@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 17:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:37:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 유권자, 자민당 견제 심리 커졌다…. 절반은 ‘총선서 여야 백중세 바람직’]]></title>
+            <link>https://n.news.naver.com/article/469/0000636945</link>
+            <guid>https://n.news.naver.com/article/469/0000636945</guid>
+            <pubDate>Mon, 25 Oct 2021 05:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/25/636945.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본판 ‘드루킹’ 사건? 트위터 여론조작 의혹 외면하는 자민당 [특파원24시]]]></title>
             <link>https://n.news.naver.com/article/469/0000636809</link>
             <guid>https://n.news.naver.com/article/469/0000636809</guid>
             <pubDate>Sun, 24 Oct 2021 17:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/24/636809.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000636537</link>
             <guid>https://n.news.naver.com/article/469/0000636537</guid>
             <pubDate>Fri, 22 Oct 2021 05:36:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636537.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000636297</link>
             <guid>https://n.news.naver.com/article/469/0000636297</guid>
             <pubDate>Thu, 21 Oct 2021 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/21/636297.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Oct 2021 17:43:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/20/636192.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 나가사키 한국인 원폭 희생자 위령비,  추진 30년 만에  건립]]></title>
-            <link>https://n.news.naver.com/article/469/0000636135</link>
-            <guid>https://n.news.naver.com/article/469/0000636135</guid>
-            <pubDate>Wed, 20 Oct 2021 17:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/20/636135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
