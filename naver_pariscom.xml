@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 17:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 마코 공주, 예식 없이 결혼… 왕실보다 ‘사랑’ 선택, 미국서 자유 누릴까]]></title>
+            <link>https://n.news.naver.com/article/469/0000637298</link>
+            <guid>https://n.news.naver.com/article/469/0000637298</guid>
+            <pubDate>Tue, 26 Oct 2021 17:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/26/637298.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“‘평생 코로나’도 좋다” 日 음식점 지원금 명암… 자동차 구입한 업주도]]></title>
+            <link>https://n.news.naver.com/article/469/0000637266</link>
+            <guid>https://n.news.naver.com/article/469/0000637266</guid>
+            <pubDate>Tue, 26 Oct 2021 17:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/26/637266.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“홋카이도 쌀 맛있는 건 온난화 덕분” 또 망언 제조한日 아소 다로]]></title>
             <link>https://n.news.naver.com/article/469/0000637179</link>
             <guid>https://n.news.naver.com/article/469/0000637179</guid>
             <pubDate>Tue, 26 Oct 2021 05:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/26/637179.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000637035</link>
             <guid>https://n.news.naver.com/article/469/0000637035</guid>
             <pubDate>Mon, 25 Oct 2021 17:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/25/637035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000637017</link>
             <guid>https://n.news.naver.com/article/469/0000637017</guid>
             <pubDate>Mon, 25 Oct 2021 17:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/25/637017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000636809</link>
             <guid>https://n.news.naver.com/article/469/0000636809</guid>
             <pubDate>Sun, 24 Oct 2021 17:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/24/636809.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000636620</link>
             <guid>https://n.news.naver.com/article/469/0000636620</guid>
             <pubDate>Fri, 22 Oct 2021 17:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,16 +76,8 @@
             <link>https://n.news.naver.com/article/469/0000636586</link>
             <guid>https://n.news.naver.com/article/469/0000636586</guid>
             <pubDate>Fri, 22 Oct 2021 17:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636586.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혐한 댓글 난무하던 야후재팬, 동해 어선 좌초 기사 댓글란 폐쇄]]></title>
-            <link>https://n.news.naver.com/article/469/0000636567</link>
-            <guid>https://n.news.naver.com/article/469/0000636567</guid>
-            <pubDate>Fri, 22 Oct 2021 17:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636567.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日 아베 전 총리, 유튜브 채널 개설... 3일 만에 20만명 구독]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 22 Oct 2021 05:36:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636537.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 총선 자민·공명 과반 무난, 자민 단독 과반은 불확실]]></title>
-            <link>https://n.news.naver.com/article/469/0000636402</link>
-            <guid>https://n.news.naver.com/article/469/0000636402</guid>
-            <pubDate>Thu, 21 Oct 2021 17:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/21/636402.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
