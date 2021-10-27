@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 05:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 17:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -267,11 +267,35 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0331/A0002731713_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아베 노믹스와 뭐가 달라? 日 기시다 ‘새로운 자본주의’에 ‘새로움’은 없었다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000637511</link>
+            <guid>https://n.news.naver.com/article/469/0000637511</guid>
+            <pubDate>Wed, 27 Oct 2021 17:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/27/637511.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아베 마스크’ 등 日 정부 구입 천 마스크 아직도 창고에... 보관비만 61억 원 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000637495</link>
+            <guid>https://n.news.naver.com/article/469/0000637495</guid>
+            <pubDate>Wed, 27 Oct 2021 17:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/27/637495.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 기시다의 자민당 ‘단독 과반 충분’ 전망… 30~40% 부동층 마지막 변수 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000637483</link>
+            <guid>https://n.news.naver.com/article/469/0000637483</guid>
+            <pubDate>Wed, 27 Oct 2021 17:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/27/637483.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['빛과 그림자의 지도자' … 日 언론, 노태우 별세 비중있게 보도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000637399</link>
             <guid>https://n.news.naver.com/article/469/0000637399</guid>
             <pubDate>Wed, 27 Oct 2021 05:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/27/637399.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -279,7 +303,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000637298</link>
             <guid>https://n.news.naver.com/article/469/0000637298</guid>
             <pubDate>Tue, 26 Oct 2021 17:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/26/637298.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,7 +319,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000637035</link>
             <guid>https://n.news.naver.com/article/469/0000637035</guid>
             <pubDate>Mon, 25 Oct 2021 17:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/25/637035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,7 +327,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000637017</link>
             <guid>https://n.news.naver.com/article/469/0000637017</guid>
             <pubDate>Mon, 25 Oct 2021 17:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/25/637017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -319,32 +343,8 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000636809</link>
             <guid>https://n.news.naver.com/article/469/0000636809</guid>
             <pubDate>Sun, 24 Oct 2021 17:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/24/636809.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[野 단일화 효과에 긴장한 자민당… ‘정세 긴박’ 통지, ‘색깔론’ 자극 나서 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000636620</link>
-            <guid>https://n.news.naver.com/article/469/0000636620</guid>
-            <pubDate>Fri, 22 Oct 2021 17:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636620.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["일본해가 유일한 이름" 日 외무성, 유튜브서 한국어로  홍보 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000636586</link>
-            <guid>https://n.news.naver.com/article/469/0000636586</guid>
-            <pubDate>Fri, 22 Oct 2021 17:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636586.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혐한 댓글 난무하던 야후재팬, 동해 어선 좌초 기사 댓글란 폐쇄 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000636567</link>
-            <guid>https://n.news.naver.com/article/469/0000636567</guid>
-            <pubDate>Wed, 27 Oct 2021 05:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/22/636567.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“인정하자, 한국은 '위드 코로나’ 준비가 늦었다” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
