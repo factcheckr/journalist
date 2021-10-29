@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2021-10-29T05:38:14.447Z</updated>
+    <updated>2021-10-29T17:43:35.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현장에서 벗기면 된다?..사전 동의 없는 베드신은 예술 아닌 성폭력]]></title>
+        <id>https://v.daum.net/v/20211029202636146</id>
+        <link href="https://v.daum.net/v/20211029202636146"/>
+        <updated>2021-10-29T17:43:35.125Z</updated>
+        <content type="html"><![CDATA[[경향신문] 넷플릭스 드라마 ‘마이 네임’주연 한소희의 베드신 논란사전 고지 없는 노출 강요는2015년 반민정의 폭로 등어제오늘의 일이 아니다 당신은 어느 날 아르바이트를 시작했다. 조건과 업무를 파악한 후 계약했다. 성실하게 일하는 와중에 갑자기 상대방이 계약 사항에 없던 일을 요구한다. 유리창을 닦기로 했는데 겸사겸사 바닥까지 닦아달라고만 해도 욕 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tvN '갯마을 차차차' 속 서울 깍쟁이 길들이기 서사가 불편한 이유]]></title>
         <id>https://v.daum.net/v/20211015163439432</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210528162446968"/>
         <updated>2021-10-03T13:16:11.858Z</updated>
         <content type="html"><![CDATA[[경향신문] tvN 드라마 &lt;마인&gt;에서 한지용(이현욱)은 자신의 비밀을 알게 된 정서현(김서형)에게, ‘사실은 형수가 성소수자라는 걸 알고 있다’고 말하면서 은근히 협박한다. “우리, 비슷한 중량의 비밀을 공유했잖아요.” 한지용은 자신의 아이를 낳아준 친모가 죽었다고 속인 후 아내인 서희수(이보영) 몰래 가정교사로 위장해서 집에 들인 파렴치한이다. 그런데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전문직 또는 '화이트칼라' 주인공들..그들 말고도 사람이 있다]]></title>
-        <id>https://v.daum.net/v/20210514165401022</id>
-        <link href="https://v.daum.net/v/20210514165401022"/>
-        <updated>2021-10-03T13:16:11.859Z</updated>
-        <content type="html"><![CDATA[[경향신문] 최근 온라인에서 대학생들이 교내 노동자들의 시위가 학습권을 침해한다고 항의하거나, 대자보를 찢는다는 내용 등이 화제였다. 그 멸시와 적의는 어디서 오는 걸까? 노동에 급을 매기고, 자신이 그런 ‘노가다’를 할 리 없다는 굳건한 믿음은 손쉽게 구분 짓기와 타자화로 이어진다. 드라마 속 20대의 연애는 모두 대학생의 캠퍼스 러브스토리고, 전문직이]]></content>
     </entry>
 </feed>
