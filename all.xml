@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 17:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 05:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,7 +270,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000637972</link>
             <guid>https://n.news.naver.com/article/469/0000637972</guid>
             <pubDate>Fri, 29 Oct 2021 05:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/29/637972.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,7 +318,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000637399</link>
             <guid>https://n.news.naver.com/article/469/0000637399</guid>
             <pubDate>Wed, 27 Oct 2021 05:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/27/637399.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -334,7 +334,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/469/0000637179</link>
             <guid>https://n.news.naver.com/article/469/0000637179</guid>
             <pubDate>Tue, 26 Oct 2021 05:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/26/637179.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -350,7 +350,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/308/0000029639</link>
             <guid>https://n.news.naver.com/article/308/0000029639</guid>
             <pubDate>Mon, 25 Oct 2021 05:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/25/29639.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -510,7 +510,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <link>https://n.news.naver.com/article/308/0000029634</link>
             <guid>https://n.news.naver.com/article/308/0000029634</guid>
             <pubDate>Mon, 25 Oct 2021 17:43:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/24/29634.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -586,7 +586,7 @@ BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['오징어 게임' 명배우를 낡은 편견에 가둔 '나혼산' (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <title><![CDATA['오징어 게임' 명배우를 낡은 편견에 가둔 '나 혼자 산다' (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
             <link>https://entertain.v.daum.net/v/20211029202602135</link>
             <guid>https://entertain.v.daum.net/v/20211029202602135</guid>
             <pubDate>Fri, 29 Oct 2021 17:43:22 GMT</pubDate>
