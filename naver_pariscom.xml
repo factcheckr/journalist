@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 17:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 05:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 해상보안청, 제11일진호 침몰 해역서 시신 1구 수습... 한국 당국에 인도]]></title>
+            <link>https://n.news.naver.com/article/469/0000638200</link>
+            <guid>https://n.news.naver.com/article/469/0000638200</guid>
+            <pubDate>Sun, 31 Oct 2021 05:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/31/638200.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 총선 투표 시작… 오후 8시 출구조사 발표, 대세는 한밤중 판명]]></title>
+            <link>https://n.news.naver.com/article/469/0000638197</link>
+            <guid>https://n.news.naver.com/article/469/0000638197</guid>
+            <pubDate>Sun, 31 Oct 2021 05:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/31/638197.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 총선에선 국민이 대법관을 파면할 수 있다? '국민심사'란]]></title>
             <link>https://n.news.naver.com/article/469/0000637972</link>
             <guid>https://n.news.naver.com/article/469/0000637972</guid>
             <pubDate>Fri, 29 Oct 2021 05:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/29/637972.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000637399</link>
             <guid>https://n.news.naver.com/article/469/0000637399</guid>
             <pubDate>Wed, 27 Oct 2021 05:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/27/637399.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 26 Oct 2021 17:42:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/26/637298.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“홋카이도 쌀 맛있는 건 온난화 덕분” 또 망언 제조한日 아소 다로]]></title>
-            <link>https://n.news.naver.com/article/469/0000637179</link>
-            <guid>https://n.news.naver.com/article/469/0000637179</guid>
-            <pubDate>Tue, 26 Oct 2021 05:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/26/637179.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘총선 전초전’에서 자민당 충격의 1패… 기시다 “엄숙히 받아들인다”]]></title>
-            <link>https://n.news.naver.com/article/469/0000637017</link>
-            <guid>https://n.news.naver.com/article/469/0000637017</guid>
-            <pubDate>Mon, 25 Oct 2021 17:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/10/25/637017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

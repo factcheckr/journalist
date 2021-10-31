@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 17:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 05:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[200만달러 복권에 두 번 당첨된 행운의 사나이]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202110311106001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/america/article/202110311106001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sun, 31 Oct 2021 05:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[미국 메릴랜드주에 사는 60대 남성이 200만달러(약23억5000만원)짜리 복권에 두 번 당첨되는 행운을 누렸다.
+미국 NBC 방송에 따르면 ‘시설 유지·보수 노동자로 일하다 은퇴한 솔즈베리시에 사는 65세 남성‘이라고만 밝혀진 행운의 주인공은 몇달 전 아침 심부름을 다녀오는 길에 동네 주유소에서 복권 두 장을 샀다. 가볍게 산 복권 두 장 모두 당첨이었다. 첫번째 복권의 당첨금은 100달러, 두번째는 200만달러였다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2021/10/31/2021103101003955600343811.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아소 ‘홋카이도 쌀 실언’에 …“자민당 기후대책 진지하지 않다” 비판]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202110281653011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -101,14 +110,6 @@
 BBC에 다르면 폭우가 내리기 시작한 지난 18일 이후 홍수와 산사태로 인해 네팔에서 88명이, 인도 북서부 네팔 접경지대인 우타라칸드주에서 55명이 최소 사망했다. 인도 남부의 카랄라 주에서도 42명이 사망했다. 수십명이 실종 상태이다.
 네팔 서부 세티 마을에서는 이틀 동안 고립된 60명을 구하기 이해 소방당국이 고군분투하고 있다고 로이터통신이 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2021/10/21/2021102101002865500242591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“네덜란드의 ‘마약 합법화’는 실패”]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202110212144035/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202110212144035/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 21 Oct 2021 17:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[네덜란드 범죄 전문 탐사기자 페테르 R 더프리스(64)는 지난 7월6일 머리에 총을 맞고 중태에 빠졌다 숨졌다. 앞서 마약조직 관련 사건 재판의 주요 증인인 ‘나빌B’의 국선변호사 데르크 비에르숨도 암살을 당했다. 두 죽음 모두 모로코 이민자 출신 마약조직 두목 리두안 타기가 배후로 지목된다.
-네덜란드에서 현재 마약조직을 수사하는 경찰 수사관들은 가명으로 활동한다. 언론인뿐 아니라 마약 관련 사건을 담당하는 검사, 판사들도 경찰의 신변보호를 받고 있다. 마약문제를 탐사취재한 언론사 건물에 트럭이 돌진하는 등 언론인 상대 테러도 잇따르고 있다.]]></content:encoded>
         </item>
     </channel>
 </rss>
