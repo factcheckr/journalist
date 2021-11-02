@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 17:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 05:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가축전염병의 계절, 최전선에 선 사람들을 만나다]]></title>
+            <link>https://n.news.naver.com/article/308/0000029684</link>
+            <guid>https://n.news.naver.com/article/308/0000029684</guid>
+            <pubDate>Tue, 02 Nov 2021 05:37:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/02/29684.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이그노벨상, ‘과학에 진심인 괴짜들’의 축제]]></title>
             <link>https://n.news.naver.com/article/308/0000029555</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Sep 2021 03:49:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.08.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/15/29263.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 사랑하는 이의 얼굴 담은 사진이 문학이 되는 순간]]></title>
-            <link>https://n.news.naver.com/article/308/0000029258</link>
-            <guid>https://n.news.naver.com/article/308/0000029258</guid>
-            <pubDate>Thu, 30 Sep 2021 03:49:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.08.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/14/29258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
