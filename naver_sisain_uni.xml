@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 17:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 05:39:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단계적 일상회복, 정말 ‘위드 코로나’ 해도 괜찮은 걸까?]]></title>
+            <link>https://n.news.naver.com/article/308/0000029687</link>
+            <guid>https://n.news.naver.com/article/308/0000029687</guid>
+            <pubDate>Wed, 03 Nov 2021 05:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/03/29687.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“인정하자, 한국은 '위드 코로나’ 준비가 늦었다”]]></title>
             <link>https://n.news.naver.com/article/308/0000029639</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Oct 2021 17:42:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.09.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/09/29391.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 셧다운, 하지만 밥은 먹고 살아야하기에]]></title>
-            <link>https://n.news.naver.com/article/308/0000029390</link>
-            <guid>https://n.news.naver.com/article/308/0000029390</guid>
-            <pubDate>Thu, 07 Oct 2021 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/08/29390.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
