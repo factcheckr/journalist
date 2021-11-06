@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 17:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 05:38:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,6 +271,22 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0416/A0002735969_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나가사키 원폭 한국인 희생자 위령비 제막… “동포 영령에 애도” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000639524</link>
+            <guid>https://n.news.naver.com/article/469/0000639524</guid>
+            <pubDate>Sat, 06 Nov 2021 05:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/06/639524.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["30년 만에 나가사키 한국인 희생자 위령비 건립... 동포 염원 이뤄" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000639489</link>
+            <guid>https://n.news.naver.com/article/469/0000639489</guid>
+            <pubDate>Sat, 06 Nov 2021 05:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/06/639489.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지역구 경쟁자의 20% 득표하고도 비례대표로 부활...日 총선 ‘석패율’이 뭐길래 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000639238</link>
             <guid>https://n.news.naver.com/article/469/0000639238</guid>
@@ -315,7 +331,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000638869</link>
             <guid>https://n.news.naver.com/article/469/0000638869</guid>
             <pubDate>Wed, 03 Nov 2021 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/03/638869.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +339,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000638861</link>
             <guid>https://n.news.naver.com/article/469/0000638861</guid>
             <pubDate>Wed, 03 Nov 2021 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/03/638861.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -335,27 +351,11 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/02/638737.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 제1야당 에다노 대표, 총선 패배로 사의 표명… “전적으로 제 역량 부족” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000638706</link>
-            <guid>https://n.news.naver.com/article/469/0000638706</guid>
-            <pubDate>Tue, 02 Nov 2021 17:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/02/638706.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄 전철 ‘조커’ 복장 괴한은 승객 많은 핼러윈 밤을 노렸다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000638705</link>
-            <guid>https://n.news.naver.com/article/469/0000638705</guid>
-            <pubDate>Tue, 02 Nov 2021 17:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/02/638705.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[단계적 일상회복, 정말 ‘위드 코로나’ 해도 괜찮은 걸까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029687</link>
             <guid>https://n.news.naver.com/article/308/0000029687</guid>
             <pubDate>Wed, 03 Nov 2021 05:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/03/29687.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -435,7 +435,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/308/0000029684</link>
             <guid>https://n.news.naver.com/article/308/0000029684</guid>
             <pubDate>Tue, 02 Nov 2021 05:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/02/29684.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
