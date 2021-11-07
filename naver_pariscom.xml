@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 17:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 05:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000639524</link>
             <guid>https://n.news.naver.com/article/469/0000639524</guid>
             <pubDate>Sat, 06 Nov 2021 05:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/06/639524.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000639489</link>
             <guid>https://n.news.naver.com/article/469/0000639489</guid>
             <pubDate>Sat, 06 Nov 2021 05:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/06/639489.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000638869</link>
             <guid>https://n.news.naver.com/article/469/0000638869</guid>
             <pubDate>Wed, 03 Nov 2021 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/03/638869.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +76,16 @@
             <link>https://n.news.naver.com/article/469/0000638861</link>
             <guid>https://n.news.naver.com/article/469/0000638861</guid>
             <pubDate>Wed, 03 Nov 2021 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/03/638861.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 제1야당 에다노 대표, 총선 패배로 사의 표명… “전적으로 제 역량 부족”]]></title>
-            <link>https://n.news.naver.com/article/469/0000638706</link>
-            <guid>https://n.news.naver.com/article/469/0000638706</guid>
-            <pubDate>Sat, 06 Nov 2021 17:41:57 GMT</pubDate>
+            <title><![CDATA[日 코로나 하루 신규 확진자 100명 아래로… 치료약 임상시험도 해외서 한다]]></title>
+            <link>https://n.news.naver.com/article/469/0000638737</link>
+            <guid>https://n.news.naver.com/article/469/0000638737</guid>
+            <pubDate>Sun, 07 Nov 2021 05:37:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/02/638706.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/02/638737.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
