@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 17:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 05:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,11 +271,19 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0416/A0002735969_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[특파원의 시선] 외국인 수용시설이 드러낸 한일 인권 의식 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000639915</link>
+            <guid>https://n.news.naver.com/article/469/0000639915</guid>
+            <pubDate>Tue, 09 Nov 2021 05:37:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/09/639915.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[귀 무덤 진혼제 참석한 하토야마 “도요토미 잔혹한 짓 잊으면 안 돼” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000639866</link>
             <guid>https://n.news.naver.com/article/469/0000639866</guid>
             <pubDate>Mon, 08 Nov 2021 17:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/08/639866.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -283,7 +291,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000639791</link>
             <guid>https://n.news.naver.com/article/469/0000639791</guid>
             <pubDate>Mon, 08 Nov 2021 17:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/08/639791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -291,7 +299,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000639755</link>
             <guid>https://n.news.naver.com/article/469/0000639755</guid>
             <pubDate>Mon, 08 Nov 2021 05:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/08/639755.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -307,7 +315,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000639524</link>
             <guid>https://n.news.naver.com/article/469/0000639524</guid>
             <pubDate>Sat, 06 Nov 2021 05:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/06/639524.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -315,7 +323,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000639489</link>
             <guid>https://n.news.naver.com/article/469/0000639489</guid>
             <pubDate>Sat, 06 Nov 2021 05:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/06/639489.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,19 +351,11 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/04/639224.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[환자 1인당 6억원 받은 병원도... 日 코로나 병상제공 병원 보조금 실태 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000639203</link>
-            <guid>https://n.news.naver.com/article/469/0000639203</guid>
-            <pubDate>Fri, 05 Nov 2021 05:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/04/639203.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[단계적 일상회복, 정말 ‘위드 코로나’ 해도 괜찮은 걸까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029687</link>
             <guid>https://n.news.naver.com/article/308/0000029687</guid>
             <pubDate>Wed, 03 Nov 2021 05:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/03/29687.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -431,11 +431,19 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/09/29391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘따릉이’와 ‘페달로’가 민간업체로 넘어가면 벌어질 일 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029716</link>
+            <guid>https://n.news.naver.com/article/308/0000029716</guid>
+            <pubDate>Tue, 09 Nov 2021 05:37:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/09/29716.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가축전염병의 계절, 최전선에 선 사람들을 만나다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029684</link>
             <guid>https://n.news.naver.com/article/308/0000029684</guid>
             <pubDate>Tue, 02 Nov 2021 05:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/02/29684.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -501,14 +509,6 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <pubDate>Thu, 30 Sep 2021 03:49:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.08.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/24/29313.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리스타일] 여가부가 보여줄 ‘최선의 미래’는 무엇일까 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029263</link>
-            <guid>https://n.news.naver.com/article/308/0000029263</guid>
-            <pubDate>Thu, 30 Sep 2021 03:49:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.08.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/15/29263.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘이재명 국감’ 마무리, ‘집토끼’ 다독였다 해도 ‘산토끼’ 과제 남았다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
