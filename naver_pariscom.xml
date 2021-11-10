@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 17:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 05:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 매체 “美 ‘핵 선제 불사용’ 선언 못하도록 일본·영국·프랑스 움직인다”]]></title>
+            <link>https://n.news.naver.com/article/469/0000640266</link>
+            <guid>https://n.news.naver.com/article/469/0000640266</guid>
+            <pubDate>Wed, 10 Nov 2021 05:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/10/640266.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日방위성, 北미사일 분석 오류 망신… ‘2발 아닌 1발’ 뒤늦게 정정]]></title>
+            <link>https://n.news.naver.com/article/469/0000640263</link>
+            <guid>https://n.news.naver.com/article/469/0000640263</guid>
+            <pubDate>Wed, 10 Nov 2021 05:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/10/640263.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특파원의 시선] 외국인 수용시설이 드러낸 한일 인권 의식]]></title>
             <link>https://n.news.naver.com/article/469/0000639915</link>
             <guid>https://n.news.naver.com/article/469/0000639915</guid>
             <pubDate>Tue, 09 Nov 2021 05:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/09/639915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000639791</link>
             <guid>https://n.news.naver.com/article/469/0000639791</guid>
             <pubDate>Mon, 08 Nov 2021 17:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/08/639791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000639755</link>
             <guid>https://n.news.naver.com/article/469/0000639755</guid>
             <pubDate>Mon, 08 Nov 2021 05:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/08/639755.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000639524</link>
             <guid>https://n.news.naver.com/article/469/0000639524</guid>
             <pubDate>Sat, 06 Nov 2021 05:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/06/639524.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000639489</link>
             <guid>https://n.news.naver.com/article/469/0000639489</guid>
             <pubDate>Sat, 06 Nov 2021 05:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/06/639489.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 05 Nov 2021 05:37:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/04/639238.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“결혼하려면 눈에 보이는 존재 죽여야” 환청에 5명 살상한 日 남성 무죄]]></title>
-            <link>https://n.news.naver.com/article/469/0000639229</link>
-            <guid>https://n.news.naver.com/article/469/0000639229</guid>
-            <pubDate>Fri, 05 Nov 2021 05:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/04/639229.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘오징어게임’ 일본 출판사 선정 올해 유행어상 후보에 올라]]></title>
-            <link>https://n.news.naver.com/article/469/0000639224</link>
-            <guid>https://n.news.naver.com/article/469/0000639224</guid>
-            <pubDate>Fri, 05 Nov 2021 05:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/04/639224.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
