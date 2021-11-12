@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 05:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 17:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -274,7 +274,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000640637</link>
             <guid>https://n.news.naver.com/article/469/0000640637</guid>
             <pubDate>Thu, 11 Nov 2021 17:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/11/640637.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -282,7 +282,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000640585</link>
             <guid>https://n.news.naver.com/article/469/0000640585</guid>
             <pubDate>Thu, 11 Nov 2021 17:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/11/640585.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -290,7 +290,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000640569</link>
             <guid>https://n.news.naver.com/article/469/0000640569</guid>
             <pubDate>Thu, 11 Nov 2021 17:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/11/640569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +298,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000640366</link>
             <guid>https://n.news.naver.com/article/469/0000640366</guid>
             <pubDate>Wed, 10 Nov 2021 17:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/10/640366.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +306,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000640360</link>
             <guid>https://n.news.naver.com/article/469/0000640360</guid>
             <pubDate>Wed, 10 Nov 2021 17:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/10/640360.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +314,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000640349</link>
             <guid>https://n.news.naver.com/article/469/0000640349</guid>
             <pubDate>Wed, 10 Nov 2021 17:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/10/640349.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,7 +346,7 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <link>https://n.news.naver.com/article/469/0000639866</link>
             <guid>https://n.news.naver.com/article/469/0000639866</guid>
             <pubDate>Mon, 08 Nov 2021 17:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/08/639866.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -590,6 +590,13 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OTT 전성시대 '돈 없어 못보는 미디어 양극화' 커진다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20211112191606121</link>
+            <guid>https://entertain.v.daum.net/v/20211112191606121</guid>
+            <pubDate>Fri, 12 Nov 2021 17:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[국내 스트리밍 서비스(OTT) 시장의 경쟁이 전에 없이 치열했던 한 해였다. 연간 한국에서 벌어들이는 구독료 수입이 한국방송공사(KBS) 수신료 수입을 뛰어넘을 만큼 크게 성장한 ‘넷플릭스’와, 이에 맞선 국내 스트리밍 서비스 ‘티빙’과 ‘웨이브’, ‘왓챠’ 등의 경쟁이 뜨거웠다. 티빙과 웨이브 모두 막대한 예산을 들여 &lt;여고추리반&gt;, &lt;환승연애&gt;, &lt;유]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['오징어 게임' 명배우를 낡은 편견에 가둔 '나 혼자 산다' (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
             <link>https://entertain.v.daum.net/v/20211029202602135</link>
             <guid>https://entertain.v.daum.net/v/20211029202602135</guid>
@@ -723,11 +730,11 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <content:encoded><![CDATA[인간컬링 내기에서 진 방현영 책임프로듀서가 치킨을 샀다는 이야기에, 이(E)채널 &lt;노는 언니&gt; 멤버들은 방구석에 상을 펴고 옹기종기 둘러앉는다. 깊은 밤 야식만큼 유혹적인 게 없어서, 자기들끼리 다른 방에 모여 이런저런 이야기를 나누던 전현직 피겨스케이팅 선수들도 슬금슬금 밥상 앞으로 모인다. “너네는 자주 만나는데도 할 얘기가 그렇게 많아? 거기(너네 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['재결합 할래요?' 돼버린 '우리 이혼했어요' (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20210122194603321</link>
-            <guid>https://entertain.v.daum.net/v/20210122194603321</guid>
-            <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[처음 &lt;티브이(TV)조선&gt;이 &lt;우리 이혼했어요&gt;를 론칭했을 때, 제작진은 공식 홈페이지 ‘프로그램 소개’란에 적은 기획 의도를 통해 “이혼 후 새로운 관계에 대한 가능성을 제시”하겠다고 말했다. 이해가 어렵지는 않았다. 작년 3월19일 통계청이 발표한 ‘2019년 혼인·이혼 통계’에 따르면 2019년 혼인 건수와 이혼 건수는 각각 23만9200건과 11만8]]></content:encoded>
+            <title><![CDATA[아들의 커밍아웃..불행하냐고? 아니, 그게 뭐 어때서 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20211112161043498</link>
+            <guid>https://v.daum.net/v/20211112161043498</guid>
+            <pubDate>Fri, 12 Nov 2021 17:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[[경향신문] 한 사람의 세계는 필연적으로 편협하다. 우리는 물리적 한계가 뚜렷한 몸에 기거하며, 경험이 선을 그어놓은 범위 안에서 살아간다. 니체의 말처럼 인간은 유리잔에 빠져, 그 안에서 보고 느끼는 세상이 전부라고 생각하는 파리다. 그래, 우물 안 개구리, 그거. 하지만 서로의 우물과 하늘을 공유할 때, 울타리를 조금씩 무너뜨릴 수 있다. 서로의 세계]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[현장에서 벗기면 된다?..사전 동의 없는 베드신은 예술 아닌 성폭력 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
@@ -805,13 +812,6 @@ BBC와 로이터통신에 따르면 시티 누르바야 바카르 인도네시�
             <guid>https://v.daum.net/v/20210611164035672</guid>
             <pubDate>Sun, 03 Oct 2021 13:16:11 GMT</pubDate>
             <content:encoded><![CDATA[[경향신문] 최근 아이돌그룹 샤이니의 멤버 키가 MBC 예능 &lt;나 혼자 산다&gt;에 출연하면서 ‘이모’라는 캐릭터를 얻었다. 깔끔하게 일상을 관리하고, 활발한 리액션을 할 때마다 ‘키 이모’라는 자막이 붙는다. 그런 이모를 실제로 본 적 없더라도 호칭에 딸려오는 느낌만은 어쩐지 익숙하다. 우리에게는 오랜 시간 사회가 공들여 주입한 가족 이미지와 성역할 고정관]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[법제화에 미적대는 정치권..과연 '차별 예방'할 의지는 있을까 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20210528162446968</link>
-            <guid>https://v.daum.net/v/20210528162446968</guid>
-            <pubDate>Sun, 03 Oct 2021 13:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] tvN 드라마 &lt;마인&gt;에서 한지용(이현욱)은 자신의 비밀을 알게 된 정서현(김서형)에게, ‘사실은 형수가 성소수자라는 걸 알고 있다’고 말하면서 은근히 협박한다. “우리, 비슷한 중량의 비밀을 공유했잖아요.” 한지용은 자신의 아이를 낳아준 친모가 죽었다고 속인 후 아내인 서희수(이보영) 몰래 가정교사로 위장해서 집에 들인 파렴치한이다. 그런데]]></content:encoded>
         </item>
     </channel>
 </rss>

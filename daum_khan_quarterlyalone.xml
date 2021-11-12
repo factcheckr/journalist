@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2021-11-12T05:38:50.401Z</updated>
+    <updated>2021-11-12T17:44:52.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아들의 커밍아웃..불행하냐고? 아니, 그게 뭐 어때서]]></title>
+        <id>https://v.daum.net/v/20211112161043498</id>
+        <link href="https://v.daum.net/v/20211112161043498"/>
+        <updated>2021-11-12T17:44:49.760Z</updated>
+        <content type="html"><![CDATA[[경향신문] 한 사람의 세계는 필연적으로 편협하다. 우리는 물리적 한계가 뚜렷한 몸에 기거하며, 경험이 선을 그어놓은 범위 안에서 살아간다. 니체의 말처럼 인간은 유리잔에 빠져, 그 안에서 보고 느끼는 세상이 전부라고 생각하는 파리다. 그래, 우물 안 개구리, 그거. 하지만 서로의 우물과 하늘을 공유할 때, 울타리를 조금씩 무너뜨릴 수 있다. 서로의 세계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현장에서 벗기면 된다?..사전 동의 없는 베드신은 예술 아닌 성폭력]]></title>
         <id>https://v.daum.net/v/20211029202636146</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210611164035672"/>
         <updated>2021-10-03T13:16:11.857Z</updated>
         <content type="html"><![CDATA[[경향신문] 최근 아이돌그룹 샤이니의 멤버 키가 MBC 예능 &lt;나 혼자 산다&gt;에 출연하면서 ‘이모’라는 캐릭터를 얻었다. 깔끔하게 일상을 관리하고, 활발한 리액션을 할 때마다 ‘키 이모’라는 자막이 붙는다. 그런 이모를 실제로 본 적 없더라도 호칭에 딸려오는 느낌만은 어쩐지 익숙하다. 우리에게는 오랜 시간 사회가 공들여 주입한 가족 이미지와 성역할 고정관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법제화에 미적대는 정치권..과연 '차별 예방'할 의지는 있을까]]></title>
-        <id>https://v.daum.net/v/20210528162446968</id>
-        <link href="https://v.daum.net/v/20210528162446968"/>
-        <updated>2021-10-03T13:16:11.858Z</updated>
-        <content type="html"><![CDATA[[경향신문] tvN 드라마 &lt;마인&gt;에서 한지용(이현욱)은 자신의 비밀을 알게 된 정서현(김서형)에게, ‘사실은 형수가 성소수자라는 걸 알고 있다’고 말하면서 은근히 협박한다. “우리, 비슷한 중량의 비밀을 공유했잖아요.” 한지용은 자신의 아이를 낳아준 친모가 죽었다고 속인 후 아내인 서희수(이보영) 몰래 가정교사로 위장해서 집에 들인 파렴치한이다. 그런데]]></content>
     </entry>
 </feed>

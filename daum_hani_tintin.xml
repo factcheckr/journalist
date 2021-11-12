@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2021-11-12T05:38:50.373Z</updated>
+    <updated>2021-11-12T17:44:50.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OTT 전성시대 '돈 없어 못보는 미디어 양극화' 커진다]]></title>
+        <id>https://entertain.v.daum.net/v/20211112191606121</id>
+        <link href="https://entertain.v.daum.net/v/20211112191606121"/>
+        <updated>2021-11-12T17:44:39.459Z</updated>
+        <content type="html"><![CDATA[국내 스트리밍 서비스(OTT) 시장의 경쟁이 전에 없이 치열했던 한 해였다. 연간 한국에서 벌어들이는 구독료 수입이 한국방송공사(KBS) 수신료 수입을 뛰어넘을 만큼 크게 성장한 ‘넷플릭스’와, 이에 맞선 국내 스트리밍 서비스 ‘티빙’과 ‘웨이브’, ‘왓챠’ 등의 경쟁이 뜨거웠다. 티빙과 웨이브 모두 막대한 예산을 들여 &lt;여고추리반&gt;, &lt;환승연애&gt;, &lt;유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임' 명배우를 낡은 편견에 가둔 '나 혼자 산다']]></title>
         <id>https://entertain.v.daum.net/v/20211029202602135</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210205192605788"/>
         <updated>2021-10-07T17:43:00.239Z</updated>
         <content type="html"><![CDATA[인간컬링 내기에서 진 방현영 책임프로듀서가 치킨을 샀다는 이야기에, 이(E)채널 &lt;노는 언니&gt; 멤버들은 방구석에 상을 펴고 옹기종기 둘러앉는다. 깊은 밤 야식만큼 유혹적인 게 없어서, 자기들끼리 다른 방에 모여 이런저런 이야기를 나누던 전현직 피겨스케이팅 선수들도 슬금슬금 밥상 앞으로 모인다. “너네는 자주 만나는데도 할 얘기가 그렇게 많아? 거기(너네 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재결합 할래요?' 돼버린 '우리 이혼했어요']]></title>
-        <id>https://entertain.v.daum.net/v/20210122194603321</id>
-        <link href="https://entertain.v.daum.net/v/20210122194603321"/>
-        <updated>2021-10-07T17:43:00.241Z</updated>
-        <content type="html"><![CDATA[처음 &lt;티브이(TV)조선&gt;이 &lt;우리 이혼했어요&gt;를 론칭했을 때, 제작진은 공식 홈페이지 ‘프로그램 소개’란에 적은 기획 의도를 통해 “이혼 후 새로운 관계에 대한 가능성을 제시”하겠다고 말했다. 이해가 어렵지는 않았다. 작년 3월19일 통계청이 발표한 ‘2019년 혼인·이혼 통계’에 따르면 2019년 혼인 건수와 이혼 건수는 각각 23만9200건과 11만8]]></content>
     </entry>
 </feed>
