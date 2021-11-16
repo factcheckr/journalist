@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 17:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:38:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[심상정 인터뷰] “차악을 고민하지 말고 최선을 선택하시라”]]></title>
+            <link>https://n.news.naver.com/article/308/0000029752</link>
+            <guid>https://n.news.naver.com/article/308/0000029752</guid>
+            <pubDate>Tue, 16 Nov 2021 05:37:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/16/29752.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘이재명 국감’ 마무리, ‘집토끼’ 다독였다 해도 ‘산토끼’ 과제 남았다]]></title>
             <link>https://n.news.naver.com/article/308/0000029634</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Oct 2021 05:36:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29508.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앙겔라 메르켈, 정치의 진수 보여주고 떠나다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029507</link>
-            <guid>https://n.news.naver.com/article/308/0000029507</guid>
-            <pubDate>Mon, 04 Oct 2021 05:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 17:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:38:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,11 +272,19 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0416/A0002735969_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 정부 반도체산업 지원 기금 만든다… 2030년 매출 3배 목표 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641415</link>
+            <guid>https://n.news.naver.com/article/469/0000641415</guid>
+            <pubDate>Tue, 16 Nov 2021 05:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>44분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/16/641415.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본서 제기된 '델타 변이 자멸설'… 전문가 의견 분분 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000641268</link>
             <guid>https://n.news.naver.com/article/469/0000641268</guid>
             <pubDate>Mon, 15 Nov 2021 17:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/15/641268.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -284,7 +292,7 @@
             <link>https://n.news.naver.com/article/469/0000641189</link>
             <guid>https://n.news.naver.com/article/469/0000641189</guid>
             <pubDate>Mon, 15 Nov 2021 05:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/15/641189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,6 +310,14 @@
             <pubDate>Sun, 14 Nov 2021 17:42:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/14/641055.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아이는 쉽게 죽일 수 있어’ 日 어린이집 괴한 제압한 직원들[특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641041</link>
+            <guid>https://n.news.naver.com/article/469/0000641041</guid>
+            <pubDate>Tue, 16 Nov 2021 05:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/14/641041.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日 2차 기시다 내각 출범... 분배 정책, 대중 외교 ‘기시다 색깔 내기’ 본격화하나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -336,27 +352,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/10/640366.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 8일부터 입국 완화했지만… 6종 넘는 서류 등 ‘수속의 벽’ 심각 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000640360</link>
-            <guid>https://n.news.naver.com/article/469/0000640360</guid>
-            <pubDate>Wed, 10 Nov 2021 17:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/10/640360.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 코로나 지원금 18세 이하 1명당 100만원 준다… 상위 10％ 제외 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000640349</link>
-            <guid>https://n.news.naver.com/article/469/0000640349</guid>
-            <pubDate>Wed, 10 Nov 2021 17:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/10/640349.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[헌재는 ‘외면’했고, 사법농단 관여 판사는 탄핵을 모면했다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029747</link>
             <guid>https://n.news.naver.com/article/308/0000029747</guid>
             <pubDate>Mon, 15 Nov 2021 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/15/29747.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -436,7 +436,7 @@
             <link>https://n.news.naver.com/article/308/0000029723</link>
             <guid>https://n.news.naver.com/article/308/0000029723</guid>
             <pubDate>Mon, 15 Nov 2021 17:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/10/29723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -444,7 +444,7 @@
             <link>https://n.news.naver.com/article/308/0000029716</link>
             <guid>https://n.news.naver.com/article/308/0000029716</guid>
             <pubDate>Mon, 15 Nov 2021 17:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/09/29716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -510,6 +510,14 @@
             <pubDate>Thu, 30 Sep 2021 03:49:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.08.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/24/29314.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[심상정 인터뷰] “차악을 고민하지 말고 최선을 선택하시라” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029752</link>
+            <guid>https://n.news.naver.com/article/308/0000029752</guid>
+            <pubDate>Tue, 16 Nov 2021 05:37:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/16/29752.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘이재명 국감’ 마무리, ‘집토끼’ 다독였다 해도 ‘산토끼’ 과제 남았다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
@@ -582,14 +590,6 @@
             <pubDate>Mon, 04 Oct 2021 05:36:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29508.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앙겔라 메르켈, 정치의 진수 보여주고 떠나다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029507</link>
-            <guid>https://n.news.naver.com/article/308/0000029507</guid>
-            <pubDate>Mon, 04 Oct 2021 05:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OTT 전성시대 '돈 없어 못보는 미디어 양극화' 커진다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
