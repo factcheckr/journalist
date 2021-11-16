@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 17:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 정부, “미중 관계의 안정은 국제관계에서 지극히 중요”]]></title>
+            <link>https://n.news.naver.com/article/469/0000641496</link>
+            <guid>https://n.news.naver.com/article/469/0000641496</guid>
+            <pubDate>Tue, 16 Nov 2021 17:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/16/641496.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 정부 반도체산업 지원 기금 만든다… 2030년 매출 3배 목표]]></title>
             <link>https://n.news.naver.com/article/469/0000641415</link>
             <guid>https://n.news.naver.com/article/469/0000641415</guid>
             <pubDate>Tue, 16 Nov 2021 05:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>44분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/16/641415.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000641268</link>
             <guid>https://n.news.naver.com/article/469/0000641268</guid>
             <pubDate>Mon, 15 Nov 2021 17:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/15/641268.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000641085</link>
             <guid>https://n.news.naver.com/article/469/0000641085</guid>
             <pubDate>Sun, 14 Nov 2021 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/14/641085.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000641055</link>
             <guid>https://n.news.naver.com/article/469/0000641055</guid>
             <pubDate>Sun, 14 Nov 2021 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/14/641055.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000640637</link>
             <guid>https://n.news.naver.com/article/469/0000640637</guid>
             <pubDate>Thu, 11 Nov 2021 17:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/11/640637.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000640585</link>
             <guid>https://n.news.naver.com/article/469/0000640585</guid>
             <pubDate>Thu, 11 Nov 2021 17:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/11/640585.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000640569</link>
             <guid>https://n.news.naver.com/article/469/0000640569</guid>
             <pubDate>Thu, 11 Nov 2021 17:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/11/640569.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 아베, 최대파벌 회장... 막강한 ‘어둠의 쇼군’ 등장? 기시다 총리의 비책은?]]></title>
-            <link>https://n.news.naver.com/article/469/0000640366</link>
-            <guid>https://n.news.naver.com/article/469/0000640366</guid>
-            <pubDate>Wed, 10 Nov 2021 17:39:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/10/640366.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/11/640569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
