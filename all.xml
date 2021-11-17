@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 05:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 17:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,11 +272,43 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0416/A0002735969_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘10분 요약’ 영화 동영상 제작 유튜버, 日 법원서 첫 '실형' 선고 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <title><![CDATA[미일, 중국 겨냥 새 통상협의체 설치... 내년 초 첫 회의 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641785</link>
+            <guid>https://n.news.naver.com/article/469/0000641785</guid>
+            <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641785.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 정부 “정유사에 보조금 줘 휘발유값 상승 막겠다”… 실효성 의문 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641713</link>
+            <guid>https://n.news.naver.com/article/469/0000641713</guid>
+            <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641713.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야후 재팬, 기사 전재료에 독자 평가 반영 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641708</link>
+            <guid>https://n.news.naver.com/article/469/0000641708</guid>
+            <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641708.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日, 백신 접종자 5명 이상 식사 허용... 긴급사태 선언돼도 유지 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641689</link>
+            <guid>https://n.news.naver.com/article/469/0000641689</guid>
+            <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641689.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘10분 요약’ 영화 동영상 제작 유튜버, 日 법원서 첫 '징역형' 선고 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000641649</link>
             <guid>https://n.news.naver.com/article/469/0000641649</guid>
             <pubDate>Wed, 17 Nov 2021 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>36분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641649.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -284,7 +316,7 @@
             <link>https://n.news.naver.com/article/469/0000641628</link>
             <guid>https://n.news.naver.com/article/469/0000641628</guid>
             <pubDate>Wed, 17 Nov 2021 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641628.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +324,7 @@
             <link>https://n.news.naver.com/article/469/0000641496</link>
             <guid>https://n.news.naver.com/article/469/0000641496</guid>
             <pubDate>Tue, 16 Nov 2021 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/16/641496.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +340,7 @@
             <link>https://n.news.naver.com/article/469/0000641268</link>
             <guid>https://n.news.naver.com/article/469/0000641268</guid>
             <pubDate>Mon, 15 Nov 2021 17:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/15/641268.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,38 +350,6 @@
             <pubDate>Mon, 15 Nov 2021 05:37:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/15/641189.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕에서 새 인생 시작한 일왕 조카 부부… “좋아하는 옷 사 입고 싶다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641085</link>
-            <guid>https://n.news.naver.com/article/469/0000641085</guid>
-            <pubDate>Sun, 14 Nov 2021 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/14/641085.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 경제안보 대비 본격화... “통신 설비 등 중국산 배제, 반도체 국내 확보” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641055</link>
-            <guid>https://n.news.naver.com/article/469/0000641055</guid>
-            <pubDate>Sun, 14 Nov 2021 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/14/641055.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아이는 쉽게 죽일 수 있어’ 日 어린이집 괴한 제압한 직원들[특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641041</link>
-            <guid>https://n.news.naver.com/article/469/0000641041</guid>
-            <pubDate>Tue, 16 Nov 2021 05:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/14/641041.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 2차 기시다 내각 출범... 분배 정책, 대중 외교 ‘기시다 색깔 내기’ 본격화하나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000640637</link>
-            <guid>https://n.news.naver.com/article/469/0000640637</guid>
-            <pubDate>Thu, 11 Nov 2021 17:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/11/640637.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌재는 ‘외면’했고, 사법농단 관여 판사는 탄핵을 모면했다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -436,7 +436,7 @@
             <link>https://n.news.naver.com/article/308/0000029760</link>
             <guid>https://n.news.naver.com/article/308/0000029760</guid>
             <pubDate>Wed, 17 Nov 2021 05:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/17/29760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
