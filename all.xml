@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 17:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,11 +272,43 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0416/A0002735969_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 남성 절반, “요즘 남성이 여성보다 살기 힘들다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641981</link>
+            <guid>https://n.news.naver.com/article/469/0000641981</guid>
+            <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641981.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본, 일손 부족 14개 업종 외국인 노동자에 ‘무기한 체류’ 허용 추진 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641965</link>
+            <guid>https://n.news.naver.com/article/469/0000641965</guid>
+            <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641965.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정진석 “경찰청장 독도 방문, 정당하지만 일정 조정됐더라면…” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641961</link>
+            <guid>https://n.news.naver.com/article/469/0000641961</guid>
+            <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641961.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 정부, 국제무대서 한미일 파행 의도한 배경은?... 의문 증폭 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641926</link>
+            <guid>https://n.news.naver.com/article/469/0000641926</guid>
+            <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641926.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미일, 중국 겨냥 새 통상협의체 설치... 내년 초 첫 회의 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000641785</link>
             <guid>https://n.news.naver.com/article/469/0000641785</guid>
             <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641785.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -284,7 +316,7 @@
             <link>https://n.news.naver.com/article/469/0000641713</link>
             <guid>https://n.news.naver.com/article/469/0000641713</guid>
             <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +324,7 @@
             <link>https://n.news.naver.com/article/469/0000641708</link>
             <guid>https://n.news.naver.com/article/469/0000641708</guid>
             <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641708.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +332,7 @@
             <link>https://n.news.naver.com/article/469/0000641689</link>
             <guid>https://n.news.naver.com/article/469/0000641689</guid>
             <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641689.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,38 +350,6 @@
             <pubDate>Wed, 17 Nov 2021 05:37:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641628.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 정부, “미중 관계의 안정은 국제관계에서 지극히 중요” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641496</link>
-            <guid>https://n.news.naver.com/article/469/0000641496</guid>
-            <pubDate>Tue, 16 Nov 2021 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/16/641496.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 정부 반도체산업 지원 기금 만든다… 2030년 매출 3배 목표 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641415</link>
-            <guid>https://n.news.naver.com/article/469/0000641415</guid>
-            <pubDate>Tue, 16 Nov 2021 05:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/16/641415.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본서 제기된 '델타 변이 자멸설'… 전문가 의견 분분 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641268</link>
-            <guid>https://n.news.naver.com/article/469/0000641268</guid>
-            <pubDate>Mon, 15 Nov 2021 17:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/15/641268.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 7~9월 경제성장률 -0.8％… 코로나 긴급사태, 자동차 감산, 도쿄올림픽 특수 없었다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641189</link>
-            <guid>https://n.news.naver.com/article/469/0000641189</guid>
-            <pubDate>Mon, 15 Nov 2021 05:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/15/641189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌재는 ‘외면’했고, 사법농단 관여 판사는 탄핵을 모면했다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
