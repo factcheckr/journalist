@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 17:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,11 +272,35 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0416/A0002735969_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기시다 내각 18세 이하에 100만원씩, 日 사상 최대 580조 돈 푼다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000642180</link>
+            <guid>https://n.news.naver.com/article/469/0000642180</guid>
+            <pubDate>Fri, 19 Nov 2021 17:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/19/642180.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄전력 “후쿠시마 제1원전 오염수, 일반 원전과 다른 방사성물질 포함은 사실” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000642170</link>
+            <guid>https://n.news.naver.com/article/469/0000642170</guid>
+            <pubDate>Fri, 19 Nov 2021 17:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/19/642170.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“한국은 날조 국가” 혐한 문서 배포 日 기업, 항소심도 패소… 배상금 높아져 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000642156</link>
+            <guid>https://n.news.naver.com/article/469/0000642156</guid>
+            <pubDate>Fri, 19 Nov 2021 17:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/19/642156.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 남성 절반, “요즘 남성이 여성보다 살기 힘들다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000641981</link>
             <guid>https://n.news.naver.com/article/469/0000641981</guid>
             <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -284,7 +308,7 @@
             <link>https://n.news.naver.com/article/469/0000641965</link>
             <guid>https://n.news.naver.com/article/469/0000641965</guid>
             <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +316,7 @@
             <link>https://n.news.naver.com/article/469/0000641961</link>
             <guid>https://n.news.naver.com/article/469/0000641961</guid>
             <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641961.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +324,7 @@
             <link>https://n.news.naver.com/article/469/0000641955</link>
             <guid>https://n.news.naver.com/article/469/0000641955</guid>
             <pubDate>Fri, 19 Nov 2021 05:36:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641955.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +332,7 @@
             <link>https://n.news.naver.com/article/469/0000641926</link>
             <guid>https://n.news.naver.com/article/469/0000641926</guid>
             <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641926.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +340,7 @@
             <link>https://n.news.naver.com/article/469/0000641785</link>
             <guid>https://n.news.naver.com/article/469/0000641785</guid>
             <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641785.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,32 +348,8 @@
             <link>https://n.news.naver.com/article/469/0000641713</link>
             <guid>https://n.news.naver.com/article/469/0000641713</guid>
             <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641713.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야후 재팬, 기사 전재료에 독자 평가 반영 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641708</link>
-            <guid>https://n.news.naver.com/article/469/0000641708</guid>
-            <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641708.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 백신 접종자 5명 이상 식사 허용... 긴급사태 선언돼도 유지 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641689</link>
-            <guid>https://n.news.naver.com/article/469/0000641689</guid>
-            <pubDate>Wed, 17 Nov 2021 17:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641689.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘10분 요약’ 영화 동영상 제작 유튜버, 日 법원서 첫 '징역형' 선고 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641649</link>
-            <guid>https://n.news.naver.com/article/469/0000641649</guid>
-            <pubDate>Wed, 17 Nov 2021 05:37:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641649.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌재는 ‘외면’했고, 사법농단 관여 판사는 탄핵을 모면했다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
