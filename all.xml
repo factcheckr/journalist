@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 17:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 05:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,7 +276,7 @@
             <link>https://n.news.naver.com/article/469/0000641981</link>
             <guid>https://n.news.naver.com/article/469/0000641981</guid>
             <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -284,7 +284,7 @@
             <link>https://n.news.naver.com/article/469/0000641965</link>
             <guid>https://n.news.naver.com/article/469/0000641965</guid>
             <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,15 +292,23 @@
             <link>https://n.news.naver.com/article/469/0000641961</link>
             <guid>https://n.news.naver.com/article/469/0000641961</guid>
             <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641961.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 중재에 찬물 끼얹어…한미일 공조 뒤엎은 日 '독도 생트집' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000641955</link>
+            <guid>https://n.news.naver.com/article/469/0000641955</guid>
+            <pubDate>Fri, 19 Nov 2021 05:36:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641955.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日 정부, 국제무대서 한미일 파행 의도한 배경은?... 의문 증폭 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000641926</link>
             <guid>https://n.news.naver.com/article/469/0000641926</guid>
             <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641926.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,23 +348,15 @@
             <link>https://n.news.naver.com/article/469/0000641649</link>
             <guid>https://n.news.naver.com/article/469/0000641649</guid>
             <pubDate>Wed, 17 Nov 2021 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641649.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 언론, “미중정상회담 평행선… 충돌 회피 위해 대화 계속해야” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641628</link>
-            <guid>https://n.news.naver.com/article/469/0000641628</guid>
-            <pubDate>Wed, 17 Nov 2021 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/17/641628.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌재는 ‘외면’했고, 사법농단 관여 판사는 탄핵을 모면했다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029747</link>
             <guid>https://n.news.naver.com/article/308/0000029747</guid>
             <pubDate>Mon, 15 Nov 2021 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/15/29747.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -436,7 +436,7 @@
             <link>https://n.news.naver.com/article/308/0000029760</link>
             <guid>https://n.news.naver.com/article/308/0000029760</guid>
             <pubDate>Wed, 17 Nov 2021 05:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/17/29760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -516,7 +516,7 @@
             <link>https://n.news.naver.com/article/308/0000029752</link>
             <guid>https://n.news.naver.com/article/308/0000029752</guid>
             <pubDate>Tue, 16 Nov 2021 05:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/16/29752.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
