@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 17:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 05:38:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,7 +276,7 @@
             <link>https://n.news.naver.com/article/469/0000642180</link>
             <guid>https://n.news.naver.com/article/469/0000642180</guid>
             <pubDate>Fri, 19 Nov 2021 17:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/19/642180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -284,7 +284,7 @@
             <link>https://n.news.naver.com/article/469/0000642170</link>
             <guid>https://n.news.naver.com/article/469/0000642170</guid>
             <pubDate>Fri, 19 Nov 2021 17:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/19/642170.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +292,7 @@
             <link>https://n.news.naver.com/article/469/0000642156</link>
             <guid>https://n.news.naver.com/article/469/0000642156</guid>
             <pubDate>Fri, 19 Nov 2021 17:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/19/642156.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,7 +356,7 @@
             <link>https://n.news.naver.com/article/308/0000029747</link>
             <guid>https://n.news.naver.com/article/308/0000029747</guid>
             <pubDate>Mon, 15 Nov 2021 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/15/29747.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -436,7 +436,7 @@
             <link>https://n.news.naver.com/article/308/0000029760</link>
             <guid>https://n.news.naver.com/article/308/0000029760</guid>
             <pubDate>Wed, 17 Nov 2021 05:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/17/29760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -512,14 +512,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/08/25/29315.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[심상정 인터뷰] “차악을 고민하지 말고 최선을 선택하시라” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029752</link>
-            <guid>https://n.news.naver.com/article/308/0000029752</guid>
-            <pubDate>Tue, 16 Nov 2021 05:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/16/29752.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘이재명 국감’ 마무리, ‘집토끼’ 다독였다 해도 ‘산토끼’ 과제 남았다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029634</link>
             <guid>https://n.news.naver.com/article/308/0000029634</guid>
@@ -590,6 +582,14 @@
             <pubDate>Mon, 04 Oct 2021 05:36:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29508.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[앙겔라 메르켈, 정치의 진수 보여주고 떠나다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029507</link>
+            <guid>https://n.news.naver.com/article/308/0000029507</guid>
+            <pubDate>Sat, 20 Nov 2021 05:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2021.10.04.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OTT 전성시대 '돈 없어 못보는 미디어 양극화' 커진다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
