@@ -4,9 +4,25 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 05:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 17:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김종인 주변이 분주하고, 양정철이 여의도에 오고]]></title>
+            <link>https://n.news.naver.com/article/308/0000029774</link>
+            <guid>https://n.news.naver.com/article/308/0000029774</guid>
+            <pubDate>Mon, 22 Nov 2021 17:46:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/20/29774.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[심상정 인터뷰] “차악을 고민하지 말고 최선을 선택하시라”]]></title>
+            <link>https://n.news.naver.com/article/308/0000029752</link>
+            <guid>https://n.news.naver.com/article/308/0000029752</guid>
+            <pubDate>Mon, 22 Nov 2021 17:46:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/16/29752.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘이재명 국감’ 마무리, ‘집토끼’ 다독였다 해도 ‘산토끼’ 과제 남았다]]></title>
             <link>https://n.news.naver.com/article/308/0000029634</link>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 10 Oct 2021 05:36:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/10/29545.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 첫 출근, 생애 마지막 출근이 되다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029508</link>
-            <guid>https://n.news.naver.com/article/308/0000029508</guid>
-            <pubDate>Mon, 04 Oct 2021 05:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29508.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앙겔라 메르켈, 정치의 진수 보여주고 떠나다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029507</link>
-            <guid>https://n.news.naver.com/article/308/0000029507</guid>
-            <pubDate>Sat, 20 Nov 2021 05:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/04/29507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
