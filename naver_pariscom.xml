@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 17:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 05:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日, 난임치료 시작 전 부부에게 입양제도 설명하기로]]></title>
+            <link>https://n.news.naver.com/article/469/0000642932</link>
+            <guid>https://n.news.naver.com/article/469/0000642932</guid>
+            <pubDate>Wed, 24 Nov 2021 05:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/24/642932.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하야시 日 외무, 취임 후 미·중·인도 장관과 통화... 정의용과는 언제?]]></title>
             <link>https://n.news.naver.com/article/469/0000642803</link>
             <guid>https://n.news.naver.com/article/469/0000642803</guid>
             <pubDate>Tue, 23 Nov 2021 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/23/642803.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000642780</link>
             <guid>https://n.news.naver.com/article/469/0000642780</guid>
             <pubDate>Tue, 23 Nov 2021 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/23/642780.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641961.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 중재에 찬물 끼얹어…한미일 공조 뒤엎은 日 '독도 생트집']]></title>
-            <link>https://n.news.naver.com/article/469/0000641955</link>
-            <guid>https://n.news.naver.com/article/469/0000641955</guid>
-            <pubDate>Fri, 19 Nov 2021 05:36:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641955.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
