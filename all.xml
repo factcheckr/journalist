@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 17:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 05:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,11 +278,19 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0416/A0002735969_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 자민당, 경찰청장 독도 방문에 ‘대항조치’ 검토 팀 설치 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000643203</link>
+            <guid>https://n.news.naver.com/article/469/0000643203</guid>
+            <pubDate>Thu, 25 Nov 2021 05:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/25/643203.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 자위대-호주군 입국 원활 협정 내년 체결할 듯... ‘준동맹’ 수준 방위협력 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000643035</link>
             <guid>https://n.news.naver.com/article/469/0000643035</guid>
             <pubDate>Wed, 24 Nov 2021 17:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/24/643035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -290,7 +298,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000643001</link>
             <guid>https://n.news.naver.com/article/469/0000643001</guid>
             <pubDate>Wed, 24 Nov 2021 17:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/24/643001.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +306,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000642932</link>
             <guid>https://n.news.naver.com/article/469/0000642932</guid>
             <pubDate>Wed, 24 Nov 2021 05:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/24/642932.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -350,19 +358,11 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/19/642170.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 남성 절반, “요즘 남성이 여성보다 살기 힘들다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000641981</link>
-            <guid>https://n.news.naver.com/article/469/0000641981</guid>
-            <pubDate>Thu, 18 Nov 2021 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/18/641981.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코로나19 확진자와 중환자, 언제까지 얼마나 늘까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000029793</link>
             <guid>https://n.news.naver.com/article/308/0000029793</guid>
             <pubDate>Wed, 24 Nov 2021 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/24/29793.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -442,7 +442,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000029760</link>
             <guid>https://n.news.naver.com/article/308/0000029760</guid>
             <pubDate>Wed, 17 Nov 2021 05:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.11.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/17/29760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -522,7 +522,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000029774</link>
             <guid>https://n.news.naver.com/article/308/0000029774</guid>
             <pubDate>Mon, 22 Nov 2021 17:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/20/29774.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
