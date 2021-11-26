@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2021-11-26T05:39:26.216Z</updated>
+    <updated>2021-11-26T17:45:49.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팀 내분이 여자배구 선수들의 '스타병' 때문이라고?]]></title>
+        <id>https://v.daum.net/v/20211126163519178</id>
+        <link href="https://v.daum.net/v/20211126163519178"/>
+        <updated>2021-11-26T17:45:48.979Z</updated>
+        <content type="html"><![CDATA[[경향신문] 올해 가장 ‘핫’한 스포츠를 꼽자면, 단연 여자배구다. 2020 도쿄 올림픽에서 끝까지 포기하지 않는 투지와 팀워크를 보여주며 4강까지 가는 기염을 토한 여자배구는 숱한 명장면과 유행어를 탄생시켰다. 마감이 임박해 글을 쓰는 나 역시 지금도 외치고 있다. “해보자, 해보자, 해보자, 후회하지 말고!” 올림픽이 끝난 후 여자배구 선수들은 각종]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아들의 커밍아웃..불행하냐고? 아니, 그게 뭐 어때서]]></title>
         <id>https://v.daum.net/v/20211112161043498</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210625165914683"/>
         <updated>2021-10-03T13:16:11.855Z</updated>
         <content type="html"><![CDATA[[경향신문] 최근 박지성 JS재단 이사장(전 축구국가대표 선수)이 악성 댓글을 남긴 누리꾼들을 경찰에 고소했다. 영국에 거주하면서 유상철 전 인천 유나이티드 감독의 빈소에 조문을 가지 못한 것, 조의를 표현하지 않은 것을 두고 무분별한 비난을 퍼부었기 때문이다. 박지성의 아내인 김민지 전 아나운서가 운영하는 유튜브 채널 ‘만두랑’도 공격당했다. 김민지 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그의 개성을 '이모'에 빗대지 말라..정형화된 이모는 없다]]></title>
-        <id>https://v.daum.net/v/20210611164035672</id>
-        <link href="https://v.daum.net/v/20210611164035672"/>
-        <updated>2021-10-03T13:16:11.857Z</updated>
-        <content type="html"><![CDATA[[경향신문] 최근 아이돌그룹 샤이니의 멤버 키가 MBC 예능 &lt;나 혼자 산다&gt;에 출연하면서 ‘이모’라는 캐릭터를 얻었다. 깔끔하게 일상을 관리하고, 활발한 리액션을 할 때마다 ‘키 이모’라는 자막이 붙는다. 그런 이모를 실제로 본 적 없더라도 호칭에 딸려오는 느낌만은 어쩐지 익숙하다. 우리에게는 오랜 시간 사회가 공들여 주입한 가족 이미지와 성역할 고정관]]></content>
     </entry>
 </feed>
