@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 17:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 05:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,7 +281,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000643203</link>
             <guid>https://n.news.naver.com/article/469/0000643203</guid>
             <pubDate>Thu, 25 Nov 2021 05:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/25/643203.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +305,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000642932</link>
             <guid>https://n.news.naver.com/article/469/0000642932</guid>
             <pubDate>Wed, 24 Nov 2021 05:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/24/642932.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +361,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000029793</link>
             <guid>https://n.news.naver.com/article/308/0000029793</guid>
             <pubDate>Wed, 24 Nov 2021 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/24/29793.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -521,7 +521,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000029774</link>
             <guid>https://n.news.naver.com/article/308/0000029774</guid>
             <pubDate>Mon, 22 Nov 2021 17:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/20/29774.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -595,6 +595,13 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <pubDate>Sun, 10 Oct 2021 05:36:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/10/29545.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['일잘' 여성들이여, 우리 더 늠름해집시다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20211127110602120</link>
+            <guid>https://entertain.v.daum.net/v/20211127110602120</guid>
+            <pubDate>Sat, 27 Nov 2021 05:36:52 GMT</pubDate>
+            <content:encoded><![CDATA[“전 신원희 대변인이 참 좋더라고요. 자기 일 똑 부러지게 잘하는.” “그렇죠?” 스트리밍 서비스 웨이브가 선보인 본격 정치풍자 코미디 드라마 &lt;이렇게 된 이상 청와대로 간다&gt;를 보고 난 뒤 동료 평론가들과 대화를 나누는 자리에서, 우리 모두의 사랑을 한 몸에 받았던 캐릭터는 역시 ‘문화체육관광부 최연소 대변인’으로 설정된 조연 캐릭터 신원희였다. 이채은]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[OTT 전성시대 '돈 없어 못보는 미디어 양극화' 커진다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
@@ -728,13 +735,6 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <guid>https://entertain.v.daum.net/v/20210226193603141</guid>
             <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
             <content:encoded><![CDATA[잠깐 이런 일이 있었다고 상상해보자. 일본의 한 방송사에서 골든위크 연휴를 맞이해 방영할 작품으로 송해성 감독의 &lt;역도산&gt;(2004)의 방영권을 수입했는데, 스모 선수 시절의 역도산(설경구)이 조선인이라서 차별당하는 장면이나, 친구 김명길(박철민)의 집에 가서 조선 음식을 먹고 조선말을 쓰는 장면을 죄다 편집해서 방영했다고 상상해보자. 역도산의 굴곡진 삶에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[노는 언니들, 해방구를 만들다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20210205192605788</link>
-            <guid>https://entertain.v.daum.net/v/20210205192605788</guid>
-            <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[인간컬링 내기에서 진 방현영 책임프로듀서가 치킨을 샀다는 이야기에, 이(E)채널 &lt;노는 언니&gt; 멤버들은 방구석에 상을 펴고 옹기종기 둘러앉는다. 깊은 밤 야식만큼 유혹적인 게 없어서, 자기들끼리 다른 방에 모여 이런저런 이야기를 나누던 전현직 피겨스케이팅 선수들도 슬금슬금 밥상 앞으로 모인다. “너네는 자주 만나는데도 할 얘기가 그렇게 많아? 거기(너네 있]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[팀 내분이 여자배구 선수들의 '스타병' 때문이라고? (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
