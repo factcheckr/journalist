@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 17:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 05:38:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,7 +281,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000643203</link>
             <guid>https://n.news.naver.com/article/469/0000643203</guid>
             <pubDate>Thu, 25 Nov 2021 05:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/25/643203.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +305,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000642932</link>
             <guid>https://n.news.naver.com/article/469/0000642932</guid>
             <pubDate>Wed, 24 Nov 2021 05:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/24/642932.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +361,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000029793</link>
             <guid>https://n.news.naver.com/article/308/0000029793</guid>
             <pubDate>Wed, 24 Nov 2021 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/24/29793.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -521,7 +521,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000029774</link>
             <guid>https://n.news.naver.com/article/308/0000029774</guid>
             <pubDate>Mon, 22 Nov 2021 17:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.11.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/20/29774.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
