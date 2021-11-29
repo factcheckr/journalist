@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 17:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 05:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日, ‘오미크론’ 등장에 내일부터 외국인 신규 입국 다시 금지]]></title>
+            <link>https://n.news.naver.com/article/469/0000643870</link>
+            <guid>https://n.news.naver.com/article/469/0000643870</guid>
+            <pubDate>Mon, 29 Nov 2021 05:38:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>36분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/29/643870.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티아라 빌려 쓰는 일왕 외동딸… “아이코를 일왕으로” 여론 [특파원 24시]]]></title>
             <link>https://n.news.naver.com/article/469/0000643736</link>
             <guid>https://n.news.naver.com/article/469/0000643736</guid>
             <pubDate>Sun, 28 Nov 2021 17:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/28/643736.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000643718</link>
             <guid>https://n.news.naver.com/article/469/0000643718</guid>
             <pubDate>Sun, 28 Nov 2021 17:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/28/643718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000643203</link>
             <guid>https://n.news.naver.com/article/469/0000643203</guid>
             <pubDate>Thu, 25 Nov 2021 05:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/25/643203.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000642932</link>
             <guid>https://n.news.naver.com/article/469/0000642932</guid>
             <pubDate>Wed, 24 Nov 2021 05:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/24/642932.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 28 Nov 2021 17:43:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/22/642576.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘포차’에 K팝 댄스, 한글 체험까지… ‘작은 한국’으로 변신한 日 호텔 [특파원24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000642351</link>
-            <guid>https://n.news.naver.com/article/469/0000642351</guid>
-            <pubDate>Sun, 21 Nov 2021 17:42:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/21/642351.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
