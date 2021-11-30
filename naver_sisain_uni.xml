@@ -4,9 +4,25 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 17:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘위드 코로나 하고 싶지만 하고 싶지 않은’ 당신을 위한 안내서]]></title>
+            <link>https://n.news.naver.com/article/308/0000029828</link>
+            <guid>https://n.news.naver.com/article/308/0000029828</guid>
+            <pubDate>Tue, 30 Nov 2021 17:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/30/29828.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 확진자와 중환자, 언제까지 얼마나 늘까?]]></title>
+            <link>https://n.news.naver.com/article/308/0000029793</link>
+            <guid>https://n.news.naver.com/article/308/0000029793</guid>
+            <pubDate>Tue, 30 Nov 2021 17:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/24/29793.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헌재는 ‘외면’했고, 사법농단 관여 판사는 탄핵을 모면했다]]></title>
             <link>https://n.news.naver.com/article/308/0000029747</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 07 Oct 2021 17:42:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.09.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/17/29432.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리스타일] 야구선수와 기자에게는 공통점이 있다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029409</link>
-            <guid>https://n.news.naver.com/article/308/0000029409</guid>
-            <pubDate>Thu, 07 Oct 2021 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/12/29409.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재 뒷담화] 지난 주와 달라진 지면, 눈치 채셨나요?]]></title>
-            <link>https://n.news.naver.com/article/308/0000029406</link>
-            <guid>https://n.news.naver.com/article/308/0000029406</guid>
-            <pubDate>Tue, 30 Nov 2021 05:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/12/29406.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 17:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,11 +278,43 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0416/A0002735969_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 오미크론 감염자는 나미비아 외교관... 백신 2차례 맞았다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000644177</link>
+            <guid>https://n.news.naver.com/article/469/0000644177</guid>
+            <pubDate>Tue, 30 Nov 2021 17:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/30/644177.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 제1야당 새 대표에 47세 이즈미 겐타… “‘너무 젊다’라는 건 없다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000644174</link>
+            <guid>https://n.news.naver.com/article/469/0000644174</guid>
+            <pubDate>Tue, 30 Nov 2021 17:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/30/644174.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본서도 오미크론 감염자 확인... 28일 나미비아서 입국 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000644122</link>
+            <guid>https://n.news.naver.com/article/469/0000644122</guid>
+            <pubDate>Tue, 30 Nov 2021 17:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/30/644122.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“체포되면 떡값도 다 불 것”이라던 日 사립대 이사장, 탈세 혐의로 체포 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000644114</link>
+            <guid>https://n.news.naver.com/article/469/0000644114</guid>
+            <pubDate>Tue, 30 Nov 2021 17:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/30/644114.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 수도권 아파트 가격 급등… 배경엔 고소득 맞벌이 ‘파워 커플’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000643938</link>
             <guid>https://n.news.naver.com/article/469/0000643938</guid>
             <pubDate>Mon, 29 Nov 2021 17:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/29/643938.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -290,7 +322,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000643924</link>
             <guid>https://n.news.naver.com/article/469/0000643924</guid>
             <pubDate>Mon, 29 Nov 2021 17:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/29/643924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +338,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000643736</link>
             <guid>https://n.news.naver.com/article/469/0000643736</guid>
             <pubDate>Sun, 28 Nov 2021 17:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/28/643736.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +346,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000643718</link>
             <guid>https://n.news.naver.com/article/469/0000643718</guid>
             <pubDate>Sun, 28 Nov 2021 17:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/28/643718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -326,36 +358,20 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/25/643203.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 자위대-호주군 입국 원활 협정 내년 체결할 듯... ‘준동맹’ 수준 방위협력 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000643035</link>
-            <guid>https://n.news.naver.com/article/469/0000643035</guid>
-            <pubDate>Wed, 24 Nov 2021 17:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/24/643035.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[‘위드 코로나 하고 싶지만 하고 싶지 않은’ 당신을 위한 안내서 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029828</link>
+            <guid>https://n.news.naver.com/article/308/0000029828</guid>
+            <pubDate>Tue, 30 Nov 2021 17:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/30/29828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[美 요청에 일본도 비축유 방출키로… “420만배럴 규모” 예상 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000643001</link>
-            <guid>https://n.news.naver.com/article/469/0000643001</guid>
-            <pubDate>Wed, 24 Nov 2021 17:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/24/643001.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 난임치료 시작 전 부부에게 입양제도 설명하기로 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000642932</link>
-            <guid>https://n.news.naver.com/article/469/0000642932</guid>
-            <pubDate>Wed, 24 Nov 2021 05:37:01 GMT</pubDate>
+            <title><![CDATA[코로나19 확진자와 중환자, 언제까지 얼마나 늘까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029793</link>
+            <guid>https://n.news.naver.com/article/308/0000029793</guid>
+            <pubDate>Tue, 30 Nov 2021 17:42:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/24/642932.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하야시 日 외무, 취임 후 미·중·인도 장관과 통화... 정의용과는 언제? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000642803</link>
-            <guid>https://n.news.naver.com/article/469/0000642803</guid>
-            <pubDate>Tue, 23 Nov 2021 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/11/23/642803.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/24/29793.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌재는 ‘외면’했고, 사법농단 관여 판사는 탄핵을 모면했다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -420,22 +436,6 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <pubDate>Thu, 30 Sep 2021 02:58:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.09.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/17/29432.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리스타일] 야구선수와 기자에게는 공통점이 있다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029409</link>
-            <guid>https://n.news.naver.com/article/308/0000029409</guid>
-            <pubDate>Thu, 30 Sep 2021 02:58:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/12/29409.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재 뒷담화] 지난 주와 달라진 지면, 눈치 채셨나요? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029406</link>
-            <guid>https://n.news.naver.com/article/308/0000029406</guid>
-            <pubDate>Tue, 30 Nov 2021 05:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.09.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/09/12/29406.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요소수 대란, “버티는 것 말고는 방법이 없다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
