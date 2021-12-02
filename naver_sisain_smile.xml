@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 17:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 05:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김영란, 대법관이기 전에 ‘읽는 존재’였던 사람]]></title>
+            <link>https://n.news.naver.com/article/308/0000029839</link>
+            <guid>https://n.news.naver.com/article/308/0000029839</guid>
+            <pubDate>Thu, 02 Dec 2021 05:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/02/29839.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김종인 주변이 분주하고, 양정철이 여의도에 오고]]></title>
             <link>https://n.news.naver.com/article/308/0000029774</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Oct 2021 17:43:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/10/29546.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재 뒷담화] 매 주 〈시사IN〉을 읽고 별점 평가를 매길 수 있다면?]]></title>
-            <link>https://n.news.naver.com/article/308/0000029545</link>
-            <guid>https://n.news.naver.com/article/308/0000029545</guid>
-            <pubDate>Sun, 10 Oct 2021 05:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/10/29545.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
