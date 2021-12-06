@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 17:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기시다 “한국에 적절한 대응 강하게 요구” 입장 재확인]]></title>
+            <link>https://n.news.naver.com/article/469/0000645188</link>
+            <guid>https://n.news.naver.com/article/469/0000645188</guid>
+            <pubDate>Mon, 06 Dec 2021 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/06/645188.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발 빠른 전 세계 신규입국 금지탓? 日 기시다 내각 지지율 상승]]></title>
             <link>https://n.news.naver.com/article/469/0000645113</link>
             <guid>https://n.news.naver.com/article/469/0000645113</guid>
             <pubDate>Mon, 06 Dec 2021 05:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/06/645113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000644975</link>
             <guid>https://n.news.naver.com/article/469/0000644975</guid>
             <pubDate>Sun, 05 Dec 2021 17:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/05/644975.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000644806</link>
             <guid>https://n.news.naver.com/article/469/0000644806</guid>
             <pubDate>Fri, 03 Dec 2021 17:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/03/644806.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000644789</link>
             <guid>https://n.news.naver.com/article/469/0000644789</guid>
             <pubDate>Fri, 03 Dec 2021 17:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/03/644789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000644583</link>
             <guid>https://n.news.naver.com/article/469/0000644583</guid>
             <pubDate>Thu, 02 Dec 2021 17:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/02/644583.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000644561</link>
             <guid>https://n.news.naver.com/article/469/0000644561</guid>
             <pubDate>Thu, 02 Dec 2021 17:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/02/644561.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아베 대만 발언에 중국 외교부, 밤중에 日 대사 불러 항의]]></title>
-            <link>https://n.news.naver.com/article/469/0000644550</link>
-            <guid>https://n.news.naver.com/article/469/0000644550</guid>
-            <pubDate>Thu, 02 Dec 2021 17:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/02/644550.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
