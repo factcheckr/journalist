@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 17:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발 빠른 전 세계 신규입국 금지탓? 日 기시다 내각 지지율 상승]]></title>
+            <link>https://n.news.naver.com/article/469/0000645113</link>
+            <guid>https://n.news.naver.com/article/469/0000645113</guid>
+            <pubDate>Mon, 06 Dec 2021 05:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/06/645113.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특파원 24시] 日 JAXA, 13년 만에 우주비행사 모집… 세계 최초 “학력 불문”]]></title>
             <link>https://n.news.naver.com/article/469/0000644975</link>
             <guid>https://n.news.naver.com/article/469/0000644975</guid>
             <pubDate>Sun, 05 Dec 2021 17:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/05/644975.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000644780</link>
             <guid>https://n.news.naver.com/article/469/0000644780</guid>
             <pubDate>Fri, 03 Dec 2021 17:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/03/644780.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000644756</link>
             <guid>https://n.news.naver.com/article/469/0000644756</guid>
             <pubDate>Fri, 03 Dec 2021 05:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/03/644756.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000644749</link>
             <guid>https://n.news.naver.com/article/469/0000644749</guid>
             <pubDate>Fri, 03 Dec 2021 05:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/03/644749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Dec 2021 17:44:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/02/644550.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘일본 미투의 상징’ 이토 시오리, 우익 만화가에 손배 소송서 승소]]></title>
-            <link>https://n.news.naver.com/article/469/0000644377</link>
-            <guid>https://n.news.naver.com/article/469/0000644377</guid>
-            <pubDate>Wed, 01 Dec 2021 17:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/01/644377.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
