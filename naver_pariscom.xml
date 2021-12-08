@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 17:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산케이 “일본도 베이징 올림픽 각료 파견 보류 검토”]]></title>
+            <link>https://n.news.naver.com/article/469/0000645545</link>
+            <guid>https://n.news.naver.com/article/469/0000645545</guid>
+            <pubDate>Wed, 08 Dec 2021 05:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/08/645545.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중일수교 50주년 앞둔 日, 美 올림픽 보이콧에 '외교 딜레마']]></title>
             <link>https://n.news.naver.com/article/469/0000645355</link>
             <guid>https://n.news.naver.com/article/469/0000645355</guid>
             <pubDate>Tue, 07 Dec 2021 17:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/07/645355.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000645113</link>
             <guid>https://n.news.naver.com/article/469/0000645113</guid>
             <pubDate>Mon, 06 Dec 2021 05:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/06/645113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000644780</link>
             <guid>https://n.news.naver.com/article/469/0000644780</guid>
             <pubDate>Fri, 03 Dec 2021 17:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/03/644780.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000644756</link>
             <guid>https://n.news.naver.com/article/469/0000644756</guid>
             <pubDate>Fri, 03 Dec 2021 05:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/03/644756.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000644749</link>
             <guid>https://n.news.naver.com/article/469/0000644749</guid>
             <pubDate>Fri, 03 Dec 2021 05:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/03/644749.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“일본, 사거리 1,000㎞ 순항미사일 2020년대 후반 배치 추진”]]></title>
-            <link>https://n.news.naver.com/article/469/0000644561</link>
-            <guid>https://n.news.naver.com/article/469/0000644561</guid>
-            <pubDate>Thu, 02 Dec 2021 17:44:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/02/644561.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/03/644749.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
