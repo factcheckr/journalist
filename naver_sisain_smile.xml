@@ -4,15 +4,31 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 17:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 02:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명의 말 분석하니 ‘거래의 리더십’ 보인다]]></title>
+            <link>https://n.news.naver.com/article/308/0000029988</link>
+            <guid>https://n.news.naver.com/article/308/0000029988</guid>
+            <pubDate>Sat, 01 Jan 2022 02:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/30/29988.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대선 뒷담화] 죽은 불도 다시 보자 장소가 ‘여의도’라면]]></title>
+            <link>https://n.news.naver.com/article/308/0000029885</link>
+            <guid>https://n.news.naver.com/article/308/0000029885</guid>
+            <pubDate>Sat, 01 Jan 2022 02:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2021.12.11.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/11/29885.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김영란, 대법관이기 전에 ‘읽는 존재’였던 사람]]></title>
             <link>https://n.news.naver.com/article/308/0000029839</link>
             <guid>https://n.news.naver.com/article/308/0000029839</guid>
             <pubDate>Thu, 02 Dec 2021 05:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2021.12.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/02/29839.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 11 Oct 2021 17:42:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/11/29552.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자신을 향하는 윤석열의 칼]]></title>
-            <link>https://n.news.naver.com/article/308/0000029547</link>
-            <guid>https://n.news.naver.com/article/308/0000029547</guid>
-            <pubDate>Sun, 17 Oct 2021 17:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/11/29547.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명, “변방사또”에서 집권여당 대선 후보로]]></title>
-            <link>https://n.news.naver.com/article/308/0000029546</link>
-            <guid>https://n.news.naver.com/article/308/0000029546</guid>
-            <pubDate>Thu, 14 Oct 2021 17:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/10/29546.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

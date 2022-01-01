@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2021-12-08T17:46:57.462Z</updated>
+    <updated>2022-01-01T02:24:13.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['잘 만든 예능'이 우리를 춤추게 하리라]]></title>
+        <id>https://entertain.v.daum.net/v/20211225102618494</id>
+        <link href="https://entertain.v.daum.net/v/20211225102618494"/>
+        <updated>2022-01-01T02:24:00.870Z</updated>
+        <content type="html"><![CDATA[“어, 이건 뭐예요? 축구화 사셨네?” 일을 논의하러 방문한 여자 동료의 집 현관에는 새로 산 축구화와 축구공이 가지런히 놓여 있었다. 동료가 말했다. “아니, &lt;골 때리는 그녀들&gt; 보다가 나도 공이 너무 차고 싶어서요. 그런 이야기를 했더니 아는 언니가 여자들끼리 축구 하는 모임이 있다고 날 데려가더라고. 그래서 그날 처음으로 볼을 차봤는데 너무 좋은 거]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청각장애 히어로물 '호크아이'.."비장애가 우월 아냐"]]></title>
+        <id>https://entertain.v.daum.net/v/20211210184610423</id>
+        <link href="https://entertain.v.daum.net/v/20211210184610423"/>
+        <updated>2022-01-01T02:24:00.870Z</updated>
+        <content type="html"><![CDATA[※이 글은 드라마 &lt;호크아이&gt;(2021)의 스포일러를 포함하고 있습니다. 디즈니플러스 드라마 &lt;호크아이&gt;는 평범한 인간의 육체로 초인들이 누비는 전장을 함께해야 했던 ‘호크아이’ 클린트 바튼(제러미 레너)의 몸과 마음에 새겨진 흔적들을 살핀다. 그는 소중했던 동료를 먼저 보내야 했던 트라우마에 시달리고, 히어로로 살기 위해 가족 곁을 비워야 했던 죄책감에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일잘' 여성들이여, 우리 더 늠름해집시다]]></title>
         <id>https://entertain.v.daum.net/v/20211127110602120</id>
@@ -130,19 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210327082602317"/>
         <updated>2021-10-07T17:43:00.236Z</updated>
         <content type="html"><![CDATA[한국 방송 역사에 한 획을 그은 작품이 등장했다. 불행하게도 긍정적인 방향 말고 부정적인 방향으로. 조선 전기를 배경으로 태종이나 양녕대군, 충녕대군과 같은 실제 역사 속 인물들을 등장시킨 에스비에스(SBS) 월화드라마 &lt;조선구마사&gt;는 조선 건국 과정에 악귀들이 개입했으며 그 악귀와 대적하기 위해 저 멀리 서역에서 구마신부를 데려왔다는 설정의 판타지 사극이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연예계 학폭 논란, 개인 인성만 문제일까?]]></title>
-        <id>https://entertain.v.daum.net/v/20210312203605570</id>
-        <link href="https://entertain.v.daum.net/v/20210312203605570"/>
-        <updated>2021-10-07T17:43:00.237Z</updated>
-        <content type="html"><![CDATA[방송가와 그 근처에서 일하는 사람들에겐 여러모로 눈앞이 아찔한 3월이다. 하루가 멀다 하고 터져 나오는 연예계 학원 폭력 의혹 때문에 엎어지고 취소되는 작품들이 줄을 잇는 탓이다. 최근 학원 폭력 혐의를 인정한 지수가 온달 역할로 출연하던 &lt;한국방송&gt;(KBS) 사극 &lt;달이 뜨는 강&gt;은 나인우로 캐스팅을 교체한 뒤 상당 분량을 재촬영했고, 같은 한국방송에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프레디 머큐리 지워버린 SBS의 프레디 머큐리 영화]]></title>
-        <id>https://entertain.v.daum.net/v/20210226193603141</id>
-        <link href="https://entertain.v.daum.net/v/20210226193603141"/>
-        <updated>2021-10-07T17:43:00.238Z</updated>
-        <content type="html"><![CDATA[잠깐 이런 일이 있었다고 상상해보자. 일본의 한 방송사에서 골든위크 연휴를 맞이해 방영할 작품으로 송해성 감독의 &lt;역도산&gt;(2004)의 방영권을 수입했는데, 스모 선수 시절의 역도산(설경구)이 조선인이라서 차별당하는 장면이나, 친구 김명길(박철민)의 집에 가서 조선 음식을 먹고 조선말을 쓰는 장면을 죄다 편집해서 방영했다고 상상해보자. 역도산의 굴곡진 삶에]]></content>
     </entry>
 </feed>

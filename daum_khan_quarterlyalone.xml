@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2021-12-08T17:46:57.556Z</updated>
+    <updated>2022-01-01T02:24:13.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['설강화'..시대에 휘말린 청춘의 사랑, 이 하나를 위해 너무 많은 것을 오염시켰다]]></title>
+        <id>https://v.daum.net/v/20211224162150906</id>
+        <link href="https://v.daum.net/v/20211224162150906"/>
+        <updated>2022-01-01T02:24:12.763Z</updated>
+        <content type="html"><![CDATA[[경향신문] 드라마 &lt;설강화&gt;가 12월18일 JTBC와 디즈니플러스에서 방영을 시작했다. 배우 정해인과 걸그룹 ‘블랙핑크’의 멤버 지수가 주연을, 유현미 작가와 조현탁 PD가 극본과 연출을 맡았다. 한편, 이 드라마의 방영 중지를 요청하는 국민청원에는 12월21일 기준 32만명 이상이 서명했다. 시청자들이 불매운동을 벌이면서 광고주들도 줄줄이 제작 지원을]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기민하게 활용되는 공포와 연민..시청자만 있고 피해자는 없다]]></title>
+        <id>https://v.daum.net/v/20211210163052656</id>
+        <link href="https://v.daum.net/v/20211210163052656"/>
+        <updated>2022-01-01T02:24:12.764Z</updated>
+        <content type="html"><![CDATA[[경향신문] 대화의 밀도가 높은 시간이었다. 상대는 별것 아닌 일도 재미있게 이야기하는 재주가 있었고 우리는 자주 웃었다. 어느 순간 상대는 지인이 겪은 일을 나에게 풀어놓았다. 흥미진진하고 박진감 있게. 때로는 나의 반응을 살피며 이야기의 속도를 조절하며. 그 ‘썰’은 내가 만나본 적 없는 타인에게 일어난 비극적인 사건이었다. “야, 내가 아는 사람 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팀 내분이 여자배구 선수들의 '스타병' 때문이라고?]]></title>
         <id>https://v.daum.net/v/20211126163519178</id>
@@ -74,19 +88,5 @@
         <link href="https://v.daum.net/v/20210723163035477"/>
         <updated>2021-10-03T13:16:11.854Z</updated>
         <content type="html"><![CDATA[[경향신문] “애들 때문에 사는 거지.” 많은 부부가 들숨에 한 번, 날숨에 한 번 하는 말이다. 청자가 자녀라면 ‘애들’은 ‘너희’로 치환된다. 결혼은 사랑의 결실이고, 가정은 숭고한 것이며, 아이는 ‘부’와 ‘모’가 있는 ‘정상적’인 가정에서 행복하고 반듯하게 자란다는데…? 이 뿌리 깊은 ‘정상가족’ 신화는, 현실에 놓고 뜯어보면 곳곳이 너덜거린다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자가 무슨 축구냐고?.. '이 좋은 것'을 가르쳐 준 적은 있고?]]></title>
-        <id>https://v.daum.net/v/20210709165345955</id>
-        <link href="https://v.daum.net/v/20210709165345955"/>
-        <updated>2021-10-03T13:16:11.855Z</updated>
-        <content type="html"><![CDATA[[경향신문] 가만히 있어도 비지땀이 쏟아진다. 이럴 때는 월드스타 비가 아니더라도 ‘태양을 피하는 방법’ 정도는 숙지해야 할 것 같다. 특히나 여자라면, 수단과 방법을 가리지 않고 노화와 그을음의 원인인 자외선을 차단해야 한다. 그런데 누구보다 ‘비주얼’에 민감할 여자 연예인들이 그늘 한 점 없는 뙤약볕 아래에서 종횡무진 달린다. 서로 밀치고, 동료끼리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슬픔을 증명하라는 부당한 요구, 당신에게는 그럴 권리가 없다]]></title>
-        <id>https://v.daum.net/v/20210625165914683</id>
-        <link href="https://v.daum.net/v/20210625165914683"/>
-        <updated>2021-10-03T13:16:11.855Z</updated>
-        <content type="html"><![CDATA[[경향신문] 최근 박지성 JS재단 이사장(전 축구국가대표 선수)이 악성 댓글을 남긴 누리꾼들을 경찰에 고소했다. 영국에 거주하면서 유상철 전 인천 유나이티드 감독의 빈소에 조문을 가지 못한 것, 조의를 표현하지 않은 것을 두고 무분별한 비난을 퍼부었기 때문이다. 박지성의 아내인 김민지 전 아나운서가 운영하는 유튜브 채널 ‘만두랑’도 공격당했다. 김민지 전]]></content>
     </entry>
 </feed>
