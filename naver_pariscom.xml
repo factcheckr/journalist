@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 08:58:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 17:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Sat, 01 Jan 2022 02:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/31/650097.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선방하던 일본 이상기류... 확진 500명대로, 오미크론 지역감염도 확산]]></title>
-            <link>https://n.news.naver.com/article/469/0000650082</link>
-            <guid>https://n.news.naver.com/article/469/0000650082</guid>
-            <pubDate>Sat, 01 Jan 2022 02:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/31/650082.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日 도쿄신문도 “공수처가 직원 통신조회” 해명 요구... 공수처 “불가피했다”]]></title>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000649692</link>
             <guid>https://n.news.naver.com/article/469/0000649692</guid>
             <pubDate>Sat, 01 Jan 2022 02:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/29/649692.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -86,6 +78,14 @@
             <pubDate>Sat, 01 Jan 2022 02:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/27/649099.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 국민 73% “정부 통계 믿을 수 없다”… 기시다 내각 지지율은 올라]]></title>
+            <link>https://n.news.naver.com/article/469/0000649074</link>
+            <guid>https://n.news.naver.com/article/469/0000649074</guid>
+            <pubDate>Sat, 01 Jan 2022 17:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/27/649074.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
