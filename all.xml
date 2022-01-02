@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 05:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 16:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,19 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0428/A0002739140_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘메타버스’ 시대, 아바타에 대한 명예훼손 성립되나… 日서 소송 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000650330</link>
+            <guid>https://n.news.naver.com/article/469/0000650330</guid>
+            <pubDate>Sun, 02 Jan 2022 16:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/02/650330.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['25명 사망' 日 오사카 방화 용의자 숨져... 범행 동기 '미궁 속으로' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000650097</link>
             <guid>https://n.news.naver.com/article/469/0000650097</guid>
             <pubDate>Sat, 01 Jan 2022 02:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/31/650097.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -309,14 +317,6 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/31/650044.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사도광산 세계유산 추진 日 향한 일침… “독일 람멜스베르크 광산박물관을 보라” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000649692</link>
-            <guid>https://n.news.naver.com/article/469/0000649692</guid>
-            <pubDate>Sat, 01 Jan 2022 02:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/29/649692.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[日 도쿄지검, 아베에 또 면죄부... ‘벚꽃 스캔들’ 재수사하고 또 불기소 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000649572</link>
             <guid>https://n.news.naver.com/article/469/0000649572</guid>
@@ -329,7 +329,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000649383</link>
             <guid>https://n.news.naver.com/article/469/0000649383</guid>
             <pubDate>Sat, 01 Jan 2022 02:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/28/649383.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -349,20 +349,20 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/28/649331.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“대만 유사시 日 난세이 제도에 미군 거점”... 오키나와가 또 전쟁터? 주민 반발 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000649143</link>
+            <guid>https://n.news.naver.com/article/469/0000649143</guid>
+            <pubDate>Sun, 02 Jan 2022 16:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/27/649143.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日, 징역·금고형을 ‘구금형’으로 통일키로… 115년 만에 형 종류 변경 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000649099</link>
             <guid>https://n.news.naver.com/article/469/0000649099</guid>
             <pubDate>Sat, 01 Jan 2022 02:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/27/649099.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 국민 73% “정부 통계 믿을 수 없다”… 기시다 내각 지지율은 올라 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000649074</link>
-            <guid>https://n.news.naver.com/article/469/0000649074</guid>
-            <pubDate>Sat, 01 Jan 2022 17:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2021/12/27/649074.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] 성탄절, 산타의 썰매만 하늘을 나는 게 아니다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -449,7 +449,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000030004</link>
             <guid>https://n.news.naver.com/article/308/0000030004</guid>
             <pubDate>Sun, 02 Jan 2022 05:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/02/30004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
