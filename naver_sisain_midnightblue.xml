@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 17:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 05:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그들은 오늘도 ‘청원과 범죄’에 대한 노래를 부른다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030004</link>
+            <guid>https://n.news.naver.com/article/308/0000030004</guid>
+            <pubDate>Sun, 02 Jan 2022 05:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/02/30004.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프리스타일] 김용균 떠난 후 3년 ‘또 다른 김용균’만 남았다]]></title>
             <link>https://n.news.naver.com/article/308/0000029979</link>
             <guid>https://n.news.naver.com/article/308/0000029979</guid>
             <pubDate>Sat, 01 Jan 2022 02:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/29/29979.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Nov 2021 05:37:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/02/29684.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이그노벨상, ‘과학에 진심인 괴짜들’의 축제]]></title>
-            <link>https://n.news.naver.com/article/308/0000029555</link>
-            <guid>https://n.news.naver.com/article/308/0000029555</guid>
-            <pubDate>Tue, 12 Oct 2021 05:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/12/29555.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
