@@ -4,15 +4,31 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 17:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 05:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자들의 시선] 지난 해 소상공인, 몇 명이나 줄었을까?]]></title>
+            <link>https://n.news.naver.com/article/308/0000030017</link>
+            <guid>https://n.news.naver.com/article/308/0000030017</guid>
+            <pubDate>Tue, 04 Jan 2022 05:35:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30017.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘비건도’ 맛있는 게 아니라 ‘비건이라서’ 맛있는 거에요]]></title>
+            <link>https://n.news.naver.com/article/308/0000030015</link>
+            <guid>https://n.news.naver.com/article/308/0000030015</guid>
+            <pubDate>Tue, 04 Jan 2022 05:35:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30015.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자들의 시선] 성탄절, 산타의 썰매만 하늘을 나는 게 아니다]]></title>
             <link>https://n.news.naver.com/article/308/0000029977</link>
             <guid>https://n.news.naver.com/article/308/0000029977</guid>
             <pubDate>Sat, 01 Jan 2022 02:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/28/29977.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 15 Nov 2021 05:37:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/15/29747.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단계적 일상회복, 정말 ‘위드 코로나’ 해도 괜찮은 걸까?]]></title>
-            <link>https://n.news.naver.com/article/308/0000029687</link>
-            <guid>https://n.news.naver.com/article/308/0000029687</guid>
-            <pubDate>Wed, 03 Nov 2021 05:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/03/29687.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“인정하자, 한국은 '위드 코로나’ 준비가 늦었다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000029639</link>
-            <guid>https://n.news.naver.com/article/308/0000029639</guid>
-            <pubDate>Mon, 25 Oct 2021 05:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/25/29639.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
