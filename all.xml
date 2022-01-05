@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 17:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,19 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0428/A0002739140_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국 대선에 관심 큰 일본... ‘윤석열 당선 기대하지만 낙관 안 해’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000651061</link>
+            <guid>https://n.news.naver.com/article/469/0000651061</guid>
+            <pubDate>Wed, 05 Jan 2022 17:46:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/651061.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[단독] 日 기시다 내각 경제안보 설계자 “가치관 다른 나라에 인프라 의존은 위험” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000650888</link>
             <guid>https://n.news.naver.com/article/469/0000650888</guid>
             <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650888.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +305,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650882</link>
             <guid>https://n.news.naver.com/article/469/0000650882</guid>
             <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +313,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650860</link>
             <guid>https://n.news.naver.com/article/469/0000650860</guid>
             <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650860.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -313,7 +321,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650828</link>
             <guid>https://n.news.naver.com/article/469/0000650828</guid>
             <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,7 +329,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650791</link>
             <guid>https://n.news.naver.com/article/469/0000650791</guid>
             <pubDate>Tue, 04 Jan 2022 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,7 +337,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650758</link>
             <guid>https://n.news.naver.com/article/469/0000650758</guid>
             <pubDate>Tue, 04 Jan 2022 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +345,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650740</link>
             <guid>https://n.news.naver.com/article/469/0000650740</guid>
             <pubDate>Tue, 04 Jan 2022 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650740.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -357,19 +365,11 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650674.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 재생에너지 송전망에 20조 투자… 새 에너지전략에 명기 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000650541</link>
-            <guid>https://n.news.naver.com/article/469/0000650541</guid>
-            <pubDate>Mon, 03 Jan 2022 17:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/03/650541.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코로나19에 걸렸다, 이제 어떻게 해야할까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030020</link>
             <guid>https://n.news.naver.com/article/308/0000030020</guid>
             <pubDate>Wed, 05 Jan 2022 05:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/05/30020.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
