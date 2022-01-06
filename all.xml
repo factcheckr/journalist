@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 05:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 17:47:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,20 +285,36 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0428/A0002739140_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 정부, “북한 미사일 지금까지 없었던 신형… 고도 약 50㎞” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000651246</link>
+            <guid>https://n.news.naver.com/article/469/0000651246</guid>
+            <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651246.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본도 부모 체벌 금지한다… 민법에서 자녀 ‘징계권’ 삭제키로 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000651226</link>
+            <guid>https://n.news.naver.com/article/469/0000651226</guid>
+            <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651226.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선방하던 일본 감염 급증 배경은?... 방역 예외지 ‘오키나와 미군기지’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000651206</link>
+            <guid>https://n.news.naver.com/article/469/0000651206</guid>
+            <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651206.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[北 미사일 발사에 日 신문 “한일 관계 개선해 한미일 공조 복원해야” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000651179</link>
             <guid>https://n.news.naver.com/article/469/0000651179</guid>
             <pubDate>Thu, 06 Jan 2022 05:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>26분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651179.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 대선에 관심 큰 일본... ‘윤석열 당선 기대하지만 낙관 안 해’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000651061</link>
-            <guid>https://n.news.naver.com/article/469/0000651061</guid>
-            <pubDate>Wed, 05 Jan 2022 17:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/651061.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 日 기시다 내각 경제안보 설계자 “가치관 다른 나라에 인프라 의존은 위험” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -337,7 +353,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650791</link>
             <guid>https://n.news.naver.com/article/469/0000650791</guid>
             <pubDate>Tue, 04 Jan 2022 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,40 +361,16 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650758</link>
             <guid>https://n.news.naver.com/article/469/0000650758</guid>
             <pubDate>Tue, 04 Jan 2022 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650758.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 대만 침공작전 시나리오 실체는? “준비 착착... 상륙작전 능력은 미완” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000650740</link>
-            <guid>https://n.news.naver.com/article/469/0000650740</guid>
-            <pubDate>Tue, 04 Jan 2022 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650740.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“도요타, 차량용 운영체제 플랫폼화... 대졸 채용 절반을 소프트웨어 인재로” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000650694</link>
-            <guid>https://n.news.naver.com/article/469/0000650694</guid>
-            <pubDate>Tue, 04 Jan 2022 05:35:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650694.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프리스타일] 사법농단, 아직 잊지 않으셨죠? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030029</link>
             <guid>https://n.news.naver.com/article/308/0000030029</guid>
             <pubDate>Thu, 06 Jan 2022 05:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/06/30029.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19에 걸렸다, 이제 어떻게 해야할까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030020</link>
-            <guid>https://n.news.naver.com/article/308/0000030020</guid>
-            <pubDate>Wed, 05 Jan 2022 05:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/05/30020.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] 지난 해 소상공인, 몇 명이나 줄었을까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -387,14 +379,6 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <pubDate>Tue, 04 Jan 2022 05:35:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30017.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘비건도’ 맛있는 게 아니라 ‘비건이라서’ 맛있는 거에요 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030015</link>
-            <guid>https://n.news.naver.com/article/308/0000030015</guid>
-            <pubDate>Tue, 04 Jan 2022 05:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30015.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] 성탄절, 산타의 썰매만 하늘을 나는 게 아니다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -443,6 +427,22 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <pubDate>Mon, 06 Dec 2021 17:36:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/30/29828.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 확진자와 중환자, 언제까지 얼마나 늘까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029793</link>
+            <guid>https://n.news.naver.com/article/308/0000029793</guid>
+            <pubDate>Thu, 06 Jan 2022 17:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2021.11.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/24/29793.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헌재는 ‘외면’했고, 사법농단 관여 판사는 탄핵을 모면했다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029747</link>
+            <guid>https://n.news.naver.com/article/308/0000029747</guid>
+            <pubDate>Thu, 06 Jan 2022 17:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2021.11.15.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/15/29747.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그들은 오늘도 ‘청원과 범죄’에 대한 노래를 부른다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
