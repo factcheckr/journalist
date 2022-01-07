@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 17:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,19 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0428/A0002739140_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[美日 “북한 핵·미사일 활동 규탄”… 10일 안보리 회의 요청 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000651398</link>
+            <guid>https://n.news.naver.com/article/469/0000651398</guid>
+            <pubDate>Fri, 07 Jan 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/07/651398.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“신기술 미사일 대항 무기 공동 연구” 미일, 중국·북한에 공동 대응 의지 강조 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000651393</link>
             <guid>https://n.news.naver.com/article/469/0000651393</guid>
             <pubDate>Fri, 07 Jan 2022 05:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/07/651393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +305,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000651246</link>
             <guid>https://n.news.naver.com/article/469/0000651246</guid>
             <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651246.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +313,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000651226</link>
             <guid>https://n.news.naver.com/article/469/0000651226</guid>
             <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651226.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -313,7 +321,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000651206</link>
             <guid>https://n.news.naver.com/article/469/0000651206</guid>
             <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -357,19 +365,11 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠잠하던 일본 코로나 재확산되나… 3개월 만에 확진자 1,000명 돌파 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000650791</link>
-            <guid>https://n.news.naver.com/article/469/0000650791</guid>
-            <pubDate>Tue, 04 Jan 2022 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650791.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[취재 뒷담화] 글보다 사진이 더 마음을 건드리는 순간 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030033</link>
             <guid>https://n.news.naver.com/article/308/0000030033</guid>
             <pubDate>Fri, 07 Jan 2022 05:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30033.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -529,7 +529,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000030030</link>
             <guid>https://n.news.naver.com/article/308/0000030030</guid>
             <pubDate>Fri, 07 Jan 2022 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30030.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -745,6 +745,13 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <content:encoded><![CDATA[한국 방송 역사에 한 획을 그은 작품이 등장했다. 불행하게도 긍정적인 방향 말고 부정적인 방향으로. 조선 전기를 배경으로 태종이나 양녕대군, 충녕대군과 같은 실제 역사 속 인물들을 등장시킨 에스비에스(SBS) 월화드라마 &lt;조선구마사&gt;는 조선 건국 과정에 악귀들이 개입했으며 그 악귀와 대적하기 위해 저 멀리 서역에서 구마신부를 데려왔다는 설정의 판타지 사극이]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[폭력적 상황도 개입 없이 객관적으로 찍는다..이게 리얼입니까? (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20220107162020997</link>
+            <guid>https://v.daum.net/v/20220107162020997</guid>
+            <pubDate>Fri, 07 Jan 2022 17:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[[경향신문] ‘어그로’라는 말이 있다. 관심을 끌고 분란을 일으키고자 인터넷 게시판 등에 자극적인 내용을 올리거나, 그런 행동을 의미한다. 주로 ‘어그로 끈다’라고 쓴다. 언젠가 나도 어그로를 끌려고 한 적 있다. “내가 발간하는 독립잡지 ‘계간홀로 : 연애하지 않을 자유’를 홍보하기 위해 데이팅 프로그램에 나가볼까?!” 당시 &lt;짝&gt;(SBS)이라는 프로그]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['설강화'..시대에 휘말린 청춘의 사랑, 이 하나를 위해 너무 많은 것을 오염시켰다 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
             <link>https://v.daum.net/v/20211224162150906</link>
             <guid>https://v.daum.net/v/20211224162150906</guid>
@@ -820,13 +827,6 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <guid>https://v.daum.net/v/20210806162105655</guid>
             <pubDate>Sun, 03 Oct 2021 13:16:11 GMT</pubDate>
             <content:encoded><![CDATA[[경향신문] 뚜껑을 열어보기 전에는 모르는 것들이 있다. 유례없는 팬데믹 상황으로 도쿄 올림픽을 둘러싼 시선은 개막 전까지 회의적이었다. 도쿄올림픽조직위원회가 자신하던 ‘버블 방역’이 물거품이 되어버렸고, 허술하고 배려 없는 운영은 여론의 뭇매를 맞았다. 전 세계인의 축제라는데 이렇게 심드렁할 수 있나? 역대 가장 미지근하던 올림픽의 열기가 예상을 깨고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[육아 예능 '내가 키운다'가 깨는 정상가족 신화 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20210723163035477</link>
-            <guid>https://v.daum.net/v/20210723163035477</guid>
-            <pubDate>Sun, 03 Oct 2021 13:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] “애들 때문에 사는 거지.” 많은 부부가 들숨에 한 번, 날숨에 한 번 하는 말이다. 청자가 자녀라면 ‘애들’은 ‘너희’로 치환된다. 결혼은 사랑의 결실이고, 가정은 숭고한 것이며, 아이는 ‘부’와 ‘모’가 있는 ‘정상적’인 가정에서 행복하고 반듯하게 자란다는데…? 이 뿌리 깊은 ‘정상가족’ 신화는, 현실에 놓고 뜯어보면 곳곳이 너덜거린다.]]></content:encoded>
         </item>
     </channel>
 </rss>

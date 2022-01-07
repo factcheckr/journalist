@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 17:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美日 “북한 핵·미사일 활동 규탄”… 10일 안보리 회의 요청]]></title>
+            <link>https://n.news.naver.com/article/469/0000651398</link>
+            <guid>https://n.news.naver.com/article/469/0000651398</guid>
+            <pubDate>Fri, 07 Jan 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/07/651398.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“신기술 미사일 대항 무기 공동 연구” 미일, 중국·북한에 공동 대응 의지 강조]]></title>
             <link>https://n.news.naver.com/article/469/0000651393</link>
             <guid>https://n.news.naver.com/article/469/0000651393</guid>
             <pubDate>Fri, 07 Jan 2022 05:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/07/651393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000651246</link>
             <guid>https://n.news.naver.com/article/469/0000651246</guid>
             <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651246.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000651226</link>
             <guid>https://n.news.naver.com/article/469/0000651226</guid>
             <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651226.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000651206</link>
             <guid>https://n.news.naver.com/article/469/0000651206</guid>
             <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650828.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠잠하던 일본 코로나 재확산되나… 3개월 만에 확진자 1,000명 돌파]]></title>
-            <link>https://n.news.naver.com/article/469/0000650791</link>
-            <guid>https://n.news.naver.com/article/469/0000650791</guid>
-            <pubDate>Tue, 04 Jan 2022 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/04/650791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
