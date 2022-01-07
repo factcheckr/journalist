@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 17:47:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:37:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[취재 뒷담화] 글보다 사진이 더 마음을 건드리는 순간]]></title>
+            <link>https://n.news.naver.com/article/308/0000030033</link>
+            <guid>https://n.news.naver.com/article/308/0000030033</guid>
+            <pubDate>Fri, 07 Jan 2022 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30033.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프리스타일] 사법농단, 아직 잊지 않으셨죠?]]></title>
             <link>https://n.news.naver.com/article/308/0000030029</link>
             <guid>https://n.news.naver.com/article/308/0000030029</guid>
             <pubDate>Thu, 06 Jan 2022 05:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/06/30029.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000030017</link>
             <guid>https://n.news.naver.com/article/308/0000030017</guid>
             <pubDate>Tue, 04 Jan 2022 05:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 06 Jan 2022 17:47:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/24/29793.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헌재는 ‘외면’했고, 사법농단 관여 판사는 탄핵을 모면했다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029747</link>
-            <guid>https://n.news.naver.com/article/308/0000029747</guid>
-            <pubDate>Thu, 06 Jan 2022 17:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/15/29747.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
