@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-01-08T17:45:14.540Z</updated>
+    <updated>2022-01-09T05:37:44.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[직원처럼 일한 방송작가, 헤어질 땐 프리랜서?]]></title>
+        <id>https://entertain.v.daum.net/v/20220109100602391</id>
+        <link href="https://entertain.v.daum.net/v/20220109100602391"/>
+        <updated>2022-01-09T05:37:32.835Z</updated>
+        <content type="html"><![CDATA[☞주말엔 S-레터 공짜 구독하기 https://bit.ly/319DiiE 작년 말 문화방송 창사 60주년 기념사에서 박성제 사장은 대대적인 콘텐츠 투자 계획을 밝혔다. 작년 10월 말 기준 영업이익이 1000억원을 돌파해 연말 각종 비용 처리를 감안하더라도 유례없는 흑자가 예상된다면서, 2022년에는 드라마 제작에 1300억원을 투입해 압도적인 케이(K)콘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['잘 만든 예능'이 우리를 춤추게 하리라]]></title>
         <id>https://entertain.v.daum.net/v/20211225102618494</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210410161603250"/>
         <updated>2021-10-07T17:43:00.235Z</updated>
         <content type="html"><![CDATA[“아름다운 사람은 떠난 자리도 아름답다.” &lt;티브이(TV)조선&gt;의 &lt;아내의 맛&gt;이 시즌 종료되는 과정은 어쩐지 공중화장실에서 보던 표어를 연상케 하는 구석이 있다. 방영되는 내내 피로하기 짝이 없던 프로그램은 떠난 자리도 피로할 일로 가득 차 있다. ‘연하의 중국 청년 부호와 결혼해 차원이 다른 부를 누리며 국적 차이, 나이 차이 등에서 오는 문화충돌을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조선구마사'가 사라진 자리에 남은 질문들]]></title>
-        <id>https://entertain.v.daum.net/v/20210327082602317</id>
-        <link href="https://entertain.v.daum.net/v/20210327082602317"/>
-        <updated>2021-10-07T17:43:00.236Z</updated>
-        <content type="html"><![CDATA[한국 방송 역사에 한 획을 그은 작품이 등장했다. 불행하게도 긍정적인 방향 말고 부정적인 방향으로. 조선 전기를 배경으로 태종이나 양녕대군, 충녕대군과 같은 실제 역사 속 인물들을 등장시킨 에스비에스(SBS) 월화드라마 &lt;조선구마사&gt;는 조선 건국 과정에 악귀들이 개입했으며 그 악귀와 대적하기 위해 저 멀리 서역에서 구마신부를 데려왔다는 설정의 판타지 사극이]]></content>
     </entry>
 </feed>

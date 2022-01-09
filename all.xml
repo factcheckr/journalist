@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 17:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 05:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,19 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0428/A0002739140_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[맛있는 야키니쿠 먹고 범행... 日 도쿄 시부야 고깃집 인질극, 경찰에 “내 인생을 끝내줘” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000651612</link>
+            <guid>https://n.news.naver.com/article/469/0000651612</guid>
+            <pubDate>Sun, 09 Jan 2022 05:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/09/651612.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[美日 “북한 핵·미사일 활동 규탄”… 10일 안보리 회의 요청 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000651398</link>
             <guid>https://n.news.naver.com/article/469/0000651398</guid>
             <pubDate>Fri, 07 Jan 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/07/651398.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +305,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000651393</link>
             <guid>https://n.news.naver.com/article/469/0000651393</guid>
             <pubDate>Fri, 07 Jan 2022 05:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/07/651393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,7 +337,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000651179</link>
             <guid>https://n.news.naver.com/article/469/0000651179</guid>
             <pubDate>Thu, 06 Jan 2022 05:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651179.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +345,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650888</link>
             <guid>https://n.news.naver.com/article/469/0000650888</guid>
             <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650888.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,7 +353,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650882</link>
             <guid>https://n.news.naver.com/article/469/0000650882</guid>
             <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,23 +361,15 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000650860</link>
             <guid>https://n.news.naver.com/article/469/0000650860</guid>
             <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650860.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[르포] "반도체 이제라도..." 구마모토에 대만TSMC 품는 日의 전략 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000650828</link>
-            <guid>https://n.news.naver.com/article/469/0000650828</guid>
-            <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[취재 뒷담화] 글보다 사진이 더 마음을 건드리는 순간 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030033</link>
             <guid>https://n.news.naver.com/article/308/0000030033</guid>
             <pubDate>Fri, 07 Jan 2022 05:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30033.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -377,7 +377,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000030029</link>
             <guid>https://n.news.naver.com/article/308/0000030029</guid>
             <pubDate>Thu, 06 Jan 2022 05:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/06/30029.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -385,7 +385,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000030017</link>
             <guid>https://n.news.naver.com/article/308/0000030017</guid>
             <pubDate>Tue, 04 Jan 2022 05:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -449,7 +449,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000030004</link>
             <guid>https://n.news.naver.com/article/308/0000030004</guid>
             <pubDate>Sun, 02 Jan 2022 05:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/02/30004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -529,7 +529,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000030030</link>
             <guid>https://n.news.naver.com/article/308/0000030030</guid>
             <pubDate>Fri, 07 Jan 2022 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30030.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -603,6 +603,13 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <pubDate>Wed, 20 Oct 2021 17:44:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/14/29568.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[직원처럼 일한 방송작가, 헤어질 땐 프리랜서? (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20220109100602391</link>
+            <guid>https://entertain.v.daum.net/v/20220109100602391</guid>
+            <pubDate>Sun, 09 Jan 2022 05:37:32 GMT</pubDate>
+            <content:encoded><![CDATA[☞주말엔 S-레터 공짜 구독하기 https://bit.ly/319DiiE 작년 말 문화방송 창사 60주년 기념사에서 박성제 사장은 대대적인 콘텐츠 투자 계획을 밝혔다. 작년 10월 말 기준 영업이익이 1000억원을 돌파해 연말 각종 비용 처리를 감안하더라도 유례없는 흑자가 예상된다면서, 2022년에는 드라마 제작에 1300억원을 투입해 압도적인 케이(K)콘]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['잘 만든 예능'이 우리를 춤추게 하리라 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
@@ -736,13 +743,6 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <guid>https://entertain.v.daum.net/v/20210410161603250</guid>
             <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
             <content:encoded><![CDATA[“아름다운 사람은 떠난 자리도 아름답다.” &lt;티브이(TV)조선&gt;의 &lt;아내의 맛&gt;이 시즌 종료되는 과정은 어쩐지 공중화장실에서 보던 표어를 연상케 하는 구석이 있다. 방영되는 내내 피로하기 짝이 없던 프로그램은 떠난 자리도 피로할 일로 가득 차 있다. ‘연하의 중국 청년 부호와 결혼해 차원이 다른 부를 누리며 국적 차이, 나이 차이 등에서 오는 문화충돌을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['조선구마사'가 사라진 자리에 남은 질문들 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20210327082602317</link>
-            <guid>https://entertain.v.daum.net/v/20210327082602317</guid>
-            <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[한국 방송 역사에 한 획을 그은 작품이 등장했다. 불행하게도 긍정적인 방향 말고 부정적인 방향으로. 조선 전기를 배경으로 태종이나 양녕대군, 충녕대군과 같은 실제 역사 속 인물들을 등장시킨 에스비에스(SBS) 월화드라마 &lt;조선구마사&gt;는 조선 건국 과정에 악귀들이 개입했으며 그 악귀와 대적하기 위해 저 멀리 서역에서 구마신부를 데려왔다는 설정의 판타지 사극이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[폭력적 상황도 개입 없이 객관적으로 찍는다..이게 리얼입니까? (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
