@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 17:47:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“주재원·유학생 기약 없는 대기”…日 언론도 ‘쇄국정책’ 비판]]></title>
+            <link>https://n.news.naver.com/article/469/0000651829</link>
+            <guid>https://n.news.naver.com/article/469/0000651829</guid>
+            <pubDate>Mon, 10 Jan 2022 17:46:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/10/651829.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“미일, 첨단기술 수출규제 다국적 틀 검토중… 중국 겨냥 현대판 ‘코콤’(구소련 견제) 되나”]]></title>
+            <link>https://n.news.naver.com/article/469/0000651801</link>
+            <guid>https://n.news.naver.com/article/469/0000651801</guid>
+            <pubDate>Mon, 10 Jan 2022 17:46:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/10/651801.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 아사히신문, “재일코리안 대상 증오범죄 용서 못해”]]></title>
             <link>https://n.news.naver.com/article/469/0000651755</link>
             <guid>https://n.news.naver.com/article/469/0000651755</guid>
             <pubDate>Mon, 10 Jan 2022 05:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/10/651755.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000651657</link>
             <guid>https://n.news.naver.com/article/469/0000651657</guid>
             <pubDate>Sun, 09 Jan 2022 17:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/09/651657.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000651246</link>
             <guid>https://n.news.naver.com/article/469/0000651246</guid>
             <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651246.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000651226</link>
             <guid>https://n.news.naver.com/article/469/0000651226</guid>
             <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651226.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,24 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000651206</link>
             <guid>https://n.news.naver.com/article/469/0000651206</guid>
             <pubDate>Thu, 06 Jan 2022 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651206.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[北 미사일 발사에 日 신문 “한일 관계 개선해 한미일 공조 복원해야”]]></title>
-            <link>https://n.news.naver.com/article/469/0000651179</link>
-            <guid>https://n.news.naver.com/article/469/0000651179</guid>
-            <pubDate>Thu, 06 Jan 2022 05:37:19 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651179.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 日 기시다 내각 경제안보 설계자 “가치관 다른 나라에 인프라 의존은 위험”]]></title>
-            <link>https://n.news.naver.com/article/469/0000650888</link>
-            <guid>https://n.news.naver.com/article/469/0000650888</guid>
-            <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650888.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
