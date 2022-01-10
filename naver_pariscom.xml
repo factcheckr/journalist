@@ -4,31 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 17:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 05:37:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 아사히신문, “재일코리안 대상 증오범죄 용서 못해”]]></title>
+            <link>https://n.news.naver.com/article/469/0000651755</link>
+            <guid>https://n.news.naver.com/article/469/0000651755</guid>
+            <pubDate>Mon, 10 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/10/651755.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방역 잘한 ‘인증 음식점’이 정부 지원금 덜 받는 일본… 왜? [특파원24시]]]></title>
             <link>https://n.news.naver.com/article/469/0000651657</link>
             <guid>https://n.news.naver.com/article/469/0000651657</guid>
             <pubDate>Sun, 09 Jan 2022 17:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/09/651657.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무너지는 일본 방역… 신규 감염 2,000명씩 느는데 3차 접종률은 0.6%]]></title>
-            <link>https://n.news.naver.com/article/469/0000651641</link>
-            <guid>https://n.news.naver.com/article/469/0000651641</guid>
-            <pubDate>Sun, 09 Jan 2022 17:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/09/651641.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야키니쿠 먹고 인질극 벌인 日 20대 남성...“내 인생을 끝내 달라”]]></title>
             <link>https://n.news.naver.com/article/469/0000651612</link>
             <guid>https://n.news.naver.com/article/469/0000651612</guid>
             <pubDate>Sun, 09 Jan 2022 05:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/09/651612.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000651398</link>
             <guid>https://n.news.naver.com/article/469/0000651398</guid>
             <pubDate>Fri, 07 Jan 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/07/651398.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000651393</link>
             <guid>https://n.news.naver.com/article/469/0000651393</guid>
             <pubDate>Fri, 07 Jan 2022 05:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/07/651393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000651179</link>
             <guid>https://n.news.naver.com/article/469/0000651179</guid>
             <pubDate>Thu, 06 Jan 2022 05:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/06/651179.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000650888</link>
             <guid>https://n.news.naver.com/article/469/0000650888</guid>
             <pubDate>Wed, 05 Jan 2022 05:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/05/650888.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>

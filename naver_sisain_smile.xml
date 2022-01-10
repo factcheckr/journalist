@@ -4,17 +4,9 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 17:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 05:37:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[대선 뒷담화] ‘역대급’ 내홍 취재하다 기자들 ‘탈모’ 오겠네]]></title>
-            <link>https://n.news.naver.com/article/308/0000030030</link>
-            <guid>https://n.news.naver.com/article/308/0000030030</guid>
-            <pubDate>Fri, 07 Jan 2022 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30030.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이재명의 말 분석하니 ‘거래의 리더십’ 보인다]]></title>
             <link>https://n.news.naver.com/article/308/0000029988</link>
@@ -86,6 +78,14 @@
             <pubDate>Wed, 20 Oct 2021 17:44:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/14/29568.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프리스타일] 학폭 피해자를 두 번 울리는 2차 가해]]></title>
+            <link>https://n.news.naver.com/article/308/0000029552</link>
+            <guid>https://n.news.naver.com/article/308/0000029552</guid>
+            <pubDate>Mon, 10 Jan 2022 05:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2021.10.11.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/11/29552.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
