@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 17:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 05:37:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“저는 코로나19 확진자 35명의 주치의입니다.”]]></title>
+            <link>https://n.news.naver.com/article/308/0000030051</link>
+            <guid>https://n.news.naver.com/article/308/0000030051</guid>
+            <pubDate>Tue, 11 Jan 2022 05:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/11/30051.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[취재 뒷담화] 글보다 사진이 더 마음을 건드리는 순간]]></title>
             <link>https://n.news.naver.com/article/308/0000030033</link>
             <guid>https://n.news.naver.com/article/308/0000030033</guid>
             <pubDate>Fri, 07 Jan 2022 05:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30033.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000030029</link>
             <guid>https://n.news.naver.com/article/308/0000030029</guid>
             <pubDate>Thu, 06 Jan 2022 05:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/06/30029.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000030020</link>
             <guid>https://n.news.naver.com/article/308/0000030020</guid>
             <pubDate>Mon, 10 Jan 2022 17:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/05/30020.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/308/0000030017</link>
             <guid>https://n.news.naver.com/article/308/0000030017</guid>
             <pubDate>Tue, 04 Jan 2022 05:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/308/0000030015</link>
             <guid>https://n.news.naver.com/article/308/0000030015</guid>
             <pubDate>Mon, 10 Jan 2022 17:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30015.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 01 Jan 2022 02:23:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/15/29910.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론에 대해 아는 것과 모르는 것]]></title>
-            <link>https://n.news.naver.com/article/308/0000029863</link>
-            <guid>https://n.news.naver.com/article/308/0000029863</guid>
-            <pubDate>Mon, 06 Dec 2021 17:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/06/29863.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
