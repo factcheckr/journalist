@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 17:48:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/308/0000030061</link>
             <guid>https://n.news.naver.com/article/308/0000030061</guid>
             <pubDate>Thu, 13 Jan 2022 05:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/13/30061.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Tue, 11 Jan 2022 05:36:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/11/30052.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] “역사는 우리를 망치려 드는 존재로구나”]]></title>
+            <link>https://n.news.naver.com/article/308/0000030049</link>
+            <guid>https://n.news.naver.com/article/308/0000030049</guid>
+            <pubDate>Thu, 13 Jan 2022 17:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/10/30049.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대선 뒷담화] ‘역대급’ 내홍 취재하다 기자들 ‘탈모’ 오겠네]]></title>
+            <link>https://n.news.naver.com/article/308/0000030030</link>
+            <guid>https://n.news.naver.com/article/308/0000030030</guid>
+            <pubDate>Thu, 13 Jan 2022 17:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30030.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명의 말 분석하니 ‘거래의 리더십’ 보인다]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 22 Nov 2021 17:46:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/16/29752.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이재명 국감’ 마무리, ‘집토끼’ 다독였다 해도 ‘산토끼’ 과제 남았다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029634</link>
-            <guid>https://n.news.naver.com/article/308/0000029634</guid>
-            <pubDate>Mon, 25 Oct 2021 17:43:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/24/29634.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“몇십억짜리 푼돈” 이야기 나온 ‘이재명 국감’ 말말말]]></title>
-            <link>https://n.news.naver.com/article/308/0000029603</link>
-            <guid>https://n.news.naver.com/article/308/0000029603</guid>
-            <pubDate>Mon, 25 Oct 2021 17:43:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/19/29603.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
