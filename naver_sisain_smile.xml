@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 17:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 05:37:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[취재 뒷담화] 두 대선 후보 뒤에 ‘사람들’이 있다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030061</link>
+            <guid>https://n.news.naver.com/article/308/0000030061</guid>
+            <pubDate>Thu, 13 Jan 2022 05:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/13/30061.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자들의 시선] 〈옷소매 붉은 끝동〉이 진짜 하고 싶었던 말]]></title>
             <link>https://n.news.naver.com/article/308/0000030054</link>
             <guid>https://n.news.naver.com/article/308/0000030054</guid>
             <pubDate>Tue, 11 Jan 2022 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/11/30054.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000030052</link>
             <guid>https://n.news.naver.com/article/308/0000030052</guid>
             <pubDate>Tue, 11 Jan 2022 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/11/30052.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 17:43:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.10.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/19/29603.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유우성 무죄 받으니 보복 기소, 검사가 깡패?]]></title>
-            <link>https://n.news.naver.com/article/308/0000029579</link>
-            <guid>https://n.news.naver.com/article/308/0000029579</guid>
-            <pubDate>Fri, 22 Oct 2021 17:43:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.10.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/10/16/29579.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
