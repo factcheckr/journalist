@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 17:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 05:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[총리로선 한국에 첫 ‘사죄’…가이후 전 日 총리 별세]]></title>
+            <link>https://n.news.naver.com/article/469/0000652653</link>
+            <guid>https://n.news.naver.com/article/469/0000652653</guid>
+            <pubDate>Fri, 14 Jan 2022 05:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652653.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 대북 제재에 中 “도움 안 돼”·日은 “지지”]]></title>
             <link>https://n.news.naver.com/article/469/0000652531</link>
             <guid>https://n.news.naver.com/article/469/0000652531</guid>
             <pubDate>Thu, 13 Jan 2022 17:47:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/13/652531.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000652502</link>
             <guid>https://n.news.naver.com/article/469/0000652502</guid>
             <pubDate>Thu, 13 Jan 2022 17:47:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/13/652502.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000652473</link>
             <guid>https://n.news.naver.com/article/469/0000652473</guid>
             <pubDate>Thu, 13 Jan 2022 17:47:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/13/652473.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000652424</link>
             <guid>https://n.news.naver.com/article/469/0000652424</guid>
             <pubDate>Thu, 13 Jan 2022 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/13/652424.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000652190</link>
             <guid>https://n.news.naver.com/article/469/0000652190</guid>
             <pubDate>Wed, 12 Jan 2022 05:37:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/12/652190.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Jan 2022 17:46:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/11/652041.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 기시다 “외국인 신규 입국 금지 정책 2월 말까지 연장”]]></title>
-            <link>https://n.news.naver.com/article/469/0000652007</link>
-            <guid>https://n.news.naver.com/article/469/0000652007</guid>
-            <pubDate>Tue, 11 Jan 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/11/652007.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
