@@ -4,15 +4,47 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 05:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 17:46:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 하루 확진자 2만 명 넘어... 2주 만에 40배 폭증]]></title>
+            <link>https://n.news.naver.com/article/469/0000652740</link>
+            <guid>https://n.news.naver.com/article/469/0000652740</guid>
+            <pubDate>Fri, 14 Jan 2022 17:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652740.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 기시다 총리, 북한 미사일 발사에 “예상 밖 사태 대비” 지시]]></title>
+            <link>https://n.news.naver.com/article/469/0000652716</link>
+            <guid>https://n.news.naver.com/article/469/0000652716</guid>
+            <pubDate>Fri, 14 Jan 2022 17:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652716.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“日 게이오대 연구진, 세계 최초 척수손상 환자에게 줄기세포 이식 수술”]]></title>
+            <link>https://n.news.naver.com/article/469/0000652692</link>
+            <guid>https://n.news.naver.com/article/469/0000652692</guid>
+            <pubDate>Fri, 14 Jan 2022 17:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652692.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오미크론 급확산 日, 밀접 접촉자 격리 14→10일로 단축... 왜?]]></title>
+            <link>https://n.news.naver.com/article/469/0000652680</link>
+            <guid>https://n.news.naver.com/article/469/0000652680</guid>
+            <pubDate>Fri, 14 Jan 2022 17:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652680.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[총리로선 한국에 첫 ‘사죄’…가이후 전 日 총리 별세]]></title>
             <link>https://n.news.naver.com/article/469/0000652653</link>
             <guid>https://n.news.naver.com/article/469/0000652653</guid>
             <pubDate>Fri, 14 Jan 2022 05:37:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652653.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000652531</link>
             <guid>https://n.news.naver.com/article/469/0000652531</guid>
             <pubDate>Thu, 13 Jan 2022 17:47:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/13/652531.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000652502</link>
             <guid>https://n.news.naver.com/article/469/0000652502</guid>
             <pubDate>Thu, 13 Jan 2022 17:47:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/13/652502.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000652473</link>
             <guid>https://n.news.naver.com/article/469/0000652473</guid>
             <pubDate>Thu, 13 Jan 2022 17:47:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/13/652473.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,40 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000652323</link>
             <guid>https://n.news.naver.com/article/469/0000652323</guid>
             <pubDate>Wed, 12 Jan 2022 17:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/12/652323.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본제철, 징용 배상 위한 자산매각 명령에 즉시항고]]></title>
-            <link>https://n.news.naver.com/article/469/0000652308</link>
-            <guid>https://n.news.naver.com/article/469/0000652308</guid>
-            <pubDate>Wed, 12 Jan 2022 17:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/12/652308.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취임 100일 日 기시다, 달라진 위상... ‘아베·스가 반면교사’ 성공? 지지율 상승 곡선]]></title>
-            <link>https://n.news.naver.com/article/469/0000652289</link>
-            <guid>https://n.news.naver.com/article/469/0000652289</guid>
-            <pubDate>Wed, 12 Jan 2022 17:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/12/652289.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 일손 부족에... “밀접 접촉자 연락은 감염자가 직접 해주세요”]]></title>
-            <link>https://n.news.naver.com/article/469/0000652190</link>
-            <guid>https://n.news.naver.com/article/469/0000652190</guid>
-            <pubDate>Wed, 12 Jan 2022 05:37:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/12/652190.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 노인 학대 작년 최다.. 코로나에 간병 스트레스 커져]]></title>
-            <link>https://n.news.naver.com/article/469/0000652041</link>
-            <guid>https://n.news.naver.com/article/469/0000652041</guid>
-            <pubDate>Tue, 11 Jan 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/11/652041.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
