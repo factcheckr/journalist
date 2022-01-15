@@ -4,7 +4,7 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 17:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 05:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/308/0000030051</link>
             <guid>https://n.news.naver.com/article/308/0000030051</guid>
             <pubDate>Tue, 11 Jan 2022 05:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/11/30051.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/308/0000030033</link>
             <guid>https://n.news.naver.com/article/308/0000030033</guid>
             <pubDate>Fri, 07 Jan 2022 05:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30033.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
