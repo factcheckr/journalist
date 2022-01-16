@@ -4,9 +4,25 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 05:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 17:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2050년 탄소중립까지 무엇을 할 것인가]]></title>
+            <link>https://n.news.naver.com/article/308/0000030053</link>
+            <guid>https://n.news.naver.com/article/308/0000030053</guid>
+            <pubDate>Sun, 16 Jan 2022 17:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/11/30053.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 대한민국 기후위기 보고서를 공개합니다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030050</link>
+            <guid>https://n.news.naver.com/article/308/0000030050</guid>
+            <pubDate>Sun, 16 Jan 2022 17:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/10/30050.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그들은 오늘도 ‘청원과 범죄’에 대한 노래를 부른다]]></title>
             <link>https://n.news.naver.com/article/308/0000030004</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 15 Nov 2021 17:45:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.11.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/10/29723.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘따릉이’와 ‘페달로’가 민간업체로 넘어가면 벌어질 일]]></title>
-            <link>https://n.news.naver.com/article/308/0000029716</link>
-            <guid>https://n.news.naver.com/article/308/0000029716</guid>
-            <pubDate>Mon, 15 Nov 2021 17:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/09/29716.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가축전염병의 계절, 최전선에 선 사람들을 만나다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029684</link>
-            <guid>https://n.news.naver.com/article/308/0000029684</guid>
-            <pubDate>Tue, 11 Jan 2022 05:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/02/29684.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
