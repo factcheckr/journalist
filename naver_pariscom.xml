@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 17:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 05:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 14 Jan 2022 17:46:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652740.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 기시다 총리, 북한 미사일 발사에 “예상 밖 사태 대비” 지시]]></title>
+            <link>https://n.news.naver.com/article/469/0000652716</link>
+            <guid>https://n.news.naver.com/article/469/0000652716</guid>
+            <pubDate>Sun, 16 Jan 2022 05:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“日 게이오대 연구진, 세계 최초 척수손상 환자에게 줄기세포 이식 수술”]]></title>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000652653</link>
             <guid>https://n.news.naver.com/article/469/0000652653</guid>
             <pubDate>Fri, 14 Jan 2022 05:37:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652653.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000652424</link>
             <guid>https://n.news.naver.com/article/469/0000652424</guid>
             <pubDate>Thu, 13 Jan 2022 05:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/13/652424.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Jan 2022 17:43:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/12/652323.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본제철, 징용 배상 위한 자산매각 명령에 즉시항고]]></title>
-            <link>https://n.news.naver.com/article/469/0000652308</link>
-            <guid>https://n.news.naver.com/article/469/0000652308</guid>
-            <pubDate>Sat, 15 Jan 2022 17:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/12/652308.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
