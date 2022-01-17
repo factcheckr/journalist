@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 05:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 17:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,11 +288,35 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0428/A0002739140_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심은경 주연 日 영화 ‘신문기자’, 드라마화 큰 반향... 아베 스캔들 정조준 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000653177</link>
+            <guid>https://n.news.naver.com/article/469/0000653177</guid>
+            <pubDate>Mon, 17 Jan 2022 17:46:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653177.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 기시다 시정방침 연설, 한국 언급은 “적절한 대응 강하게 요구” 단 한마디 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000653150</link>
+            <guid>https://n.news.naver.com/article/469/0000653150</guid>
+            <pubDate>Mon, 17 Jan 2022 17:46:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653150.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 확진자 급증에도 기시다 내각 지지율 상승하는 까닭은? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000653095</link>
+            <guid>https://n.news.naver.com/article/469/0000653095</guid>
+            <pubDate>Mon, 17 Jan 2022 17:46:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653095.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다 日총리 “북한 탄도미사일 발사, 대단히 유감” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000653080</link>
             <guid>https://n.news.naver.com/article/469/0000653080</guid>
             <pubDate>Mon, 17 Jan 2022 05:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>37분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,15 +324,23 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000653036</link>
             <guid>https://n.news.naver.com/article/469/0000653036</guid>
             <pubDate>Mon, 17 Jan 2022 05:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653036.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美日 정상, 21일 첫 화상 정상회담…대중 견제 방안 모색 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000653016</link>
+            <guid>https://n.news.naver.com/article/469/0000653016</guid>
+            <pubDate>Mon, 17 Jan 2022 17:46:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653016.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해저 화산 분출로 발령됐던 日 쓰나미 경보·주의보 모두 해제 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000652923</link>
             <guid>https://n.news.naver.com/article/469/0000652923</guid>
             <pubDate>Sun, 16 Jan 2022 17:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/16/652923.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +348,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000652740</link>
             <guid>https://n.news.naver.com/article/469/0000652740</guid>
             <pubDate>Fri, 14 Jan 2022 17:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652740.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +356,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000652716</link>
             <guid>https://n.news.naver.com/article/469/0000652716</guid>
             <pubDate>Sun, 16 Jan 2022 05:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,40 +364,8 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000652692</link>
             <guid>https://n.news.naver.com/article/469/0000652692</guid>
             <pubDate>Fri, 14 Jan 2022 17:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652692.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 급확산 日, 밀접 접촉자 격리 14→10일로 단축... 왜? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000652680</link>
-            <guid>https://n.news.naver.com/article/469/0000652680</guid>
-            <pubDate>Fri, 14 Jan 2022 17:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652680.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총리로선 한국에 첫 ‘사죄’…가이후 전 日 총리 별세 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000652653</link>
-            <guid>https://n.news.naver.com/article/469/0000652653</guid>
-            <pubDate>Fri, 14 Jan 2022 05:37:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652653.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 대북 제재에 中 “도움 안 돼”·日은 “지지” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000652531</link>
-            <guid>https://n.news.naver.com/article/469/0000652531</guid>
-            <pubDate>Thu, 13 Jan 2022 17:47:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/13/652531.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고이케 ‘희망의 당’ 부활? 참의원 선거 앞두고 日 야당 분열 조짐 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000652502</link>
-            <guid>https://n.news.naver.com/article/469/0000652502</guid>
-            <pubDate>Thu, 13 Jan 2022 17:47:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/13/652502.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“저는 코로나19 확진자 35명의 주치의입니다.” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
