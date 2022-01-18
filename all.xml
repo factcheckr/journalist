@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 05:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 17:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,11 +288,27 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0428/A0002739140_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오미크론 확산 속 日 코로나 하루 확진자 3만명 넘어… 역대 최다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000653375</link>
+            <guid>https://n.news.naver.com/article/469/0000653375</guid>
+            <pubDate>Tue, 18 Jan 2022 17:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/18/653375.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3차 접종률 1%대 머문 일본, ‘일본판 백신패스’ 중지 검토 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000653336</link>
+            <guid>https://n.news.naver.com/article/469/0000653336</guid>
+            <pubDate>Tue, 18 Jan 2022 17:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/18/653336.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[특파원의 시선] 코로나 대응은 국가대항전이 아니다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000653237</link>
             <guid>https://n.news.naver.com/article/469/0000653237</guid>
             <pubDate>Tue, 18 Jan 2022 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/18/653237.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +316,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000653177</link>
             <guid>https://n.news.naver.com/article/469/0000653177</guid>
             <pubDate>Mon, 17 Jan 2022 17:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653177.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +324,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000653150</link>
             <guid>https://n.news.naver.com/article/469/0000653150</guid>
             <pubDate>Mon, 17 Jan 2022 17:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653150.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +332,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000653095</link>
             <guid>https://n.news.naver.com/article/469/0000653095</guid>
             <pubDate>Mon, 17 Jan 2022 17:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653095.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,24 +364,8 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000652923</link>
             <guid>https://n.news.naver.com/article/469/0000652923</guid>
             <pubDate>Sun, 16 Jan 2022 17:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/16/652923.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 하루 확진자 2만 명 넘어... 2주 만에 40배 폭증 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000652740</link>
-            <guid>https://n.news.naver.com/article/469/0000652740</guid>
-            <pubDate>Fri, 14 Jan 2022 17:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652740.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 기시다 총리, 북한 미사일 발사에 “예상 밖 사태 대비” 지시 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000652716</link>
-            <guid>https://n.news.naver.com/article/469/0000652716</guid>
-            <pubDate>Sun, 16 Jan 2022 05:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/14/652716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“저는 코로나19 확진자 35명의 주치의입니다.” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -532,7 +532,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000030091</link>
             <guid>https://n.news.naver.com/article/308/0000030091</guid>
             <pubDate>Tue, 18 Jan 2022 05:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/18/30091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
