@@ -4,15 +4,47 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 05:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 17:39:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[인기 캐릭터가 “여자의 적은 여자” 日 산리오, 비판에 발매 중지]]></title>
+            <title><![CDATA[일본 확진자 하루 만에 3만→4만명… 도쿄만 7천명]]></title>
+            <link>https://n.news.naver.com/article/469/0000653615</link>
+            <guid>https://n.news.naver.com/article/469/0000653615</guid>
+            <pubDate>Wed, 19 Jan 2022 17:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653615.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“코로나, 인플루엔자 취급해야” vs “아직 일러”... 일본서 논쟁]]></title>
+            <link>https://n.news.naver.com/article/469/0000653602</link>
+            <guid>https://n.news.naver.com/article/469/0000653602</guid>
+            <pubDate>Wed, 19 Jan 2022 17:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653602.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“후쿠시마 원전사고 피폭으로 갑상선암” 10~20대 6명 도쿄전력 제소]]></title>
+            <link>https://n.news.naver.com/article/469/0000653592</link>
+            <guid>https://n.news.naver.com/article/469/0000653592</guid>
+            <pubDate>Wed, 19 Jan 2022 17:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653592.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日, 사도광산 유네스코 탈락 우려하나… 기시다 총리 “등재 신청보다 등재 실현이 중요”]]></title>
+            <link>https://n.news.naver.com/article/469/0000653537</link>
+            <guid>https://n.news.naver.com/article/469/0000653537</guid>
+            <pubDate>Wed, 19 Jan 2022 17:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653537.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“여자의 적은 여자”… 日 캐릭터 ‘성별 편견’ 문구 비판에 발매 중지]]></title>
             <link>https://n.news.naver.com/article/469/0000653501</link>
             <guid>https://n.news.naver.com/article/469/0000653501</guid>
             <pubDate>Wed, 19 Jan 2022 05:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653501.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000653497</link>
             <guid>https://n.news.naver.com/article/469/0000653497</guid>
             <pubDate>Wed, 19 Jan 2022 05:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653497.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000653375</link>
             <guid>https://n.news.naver.com/article/469/0000653375</guid>
             <pubDate>Tue, 18 Jan 2022 17:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/18/653375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000653336</link>
             <guid>https://n.news.naver.com/article/469/0000653336</guid>
             <pubDate>Tue, 18 Jan 2022 17:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/18/653336.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,40 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000653177</link>
             <guid>https://n.news.naver.com/article/469/0000653177</guid>
             <pubDate>Mon, 17 Jan 2022 17:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653177.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 기시다 시정방침 연설, 한국 언급은 “적절한 대응 강하게 요구” 단 한마디]]></title>
-            <link>https://n.news.naver.com/article/469/0000653150</link>
-            <guid>https://n.news.naver.com/article/469/0000653150</guid>
-            <pubDate>Mon, 17 Jan 2022 17:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653150.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 확진자 급증에도 기시다 내각 지지율 상승하는 까닭은?]]></title>
-            <link>https://n.news.naver.com/article/469/0000653095</link>
-            <guid>https://n.news.naver.com/article/469/0000653095</guid>
-            <pubDate>Mon, 17 Jan 2022 17:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653095.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 日총리 “북한 탄도미사일 발사, 대단히 유감”]]></title>
-            <link>https://n.news.naver.com/article/469/0000653080</link>
-            <guid>https://n.news.naver.com/article/469/0000653080</guid>
-            <pubDate>Mon, 17 Jan 2022 05:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653080.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 "북한 발사체, 탄도미사일 가능성... 이미 낙하한 듯"]]></title>
-            <link>https://n.news.naver.com/article/469/0000653036</link>
-            <guid>https://n.news.naver.com/article/469/0000653036</guid>
-            <pubDate>Mon, 17 Jan 2022 05:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/17/653036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
