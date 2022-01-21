@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-01-21T05:33:41.044Z</updated>
+    <updated>2022-01-21T17:39:17.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다큐 '리턴 투 호그와트'로 본 해리포터 20년]]></title>
+        <id>https://v.daum.net/v/20220121162008728</id>
+        <link href="https://v.daum.net/v/20220121162008728"/>
+        <updated>2022-01-21T17:39:16.487Z</updated>
+        <content type="html"><![CDATA[[경향신문] 2022년 1월1일, 해리포터 20주년 기념 다큐멘터리 &lt;리턴 투 호그와트&gt;가 HBO 맥스를 통해 공개되었다. 국내에서는 웨이브(Wavve)를 통해 볼 수 있다. &lt;리턴 투 호그와트&gt;가 시작되면, 가뜩이나 비현실적인 2022년은 마법에 걸린다. ‘머글 세계’의 이곳저곳에 흩어져 있던 호그와트의 마법사들은 호그와트 문양이 찍힌 초대장을 받는다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭력적 상황도 개입 없이 객관적으로 찍는다..이게 리얼입니까?]]></title>
         <id>https://v.daum.net/v/20220107162020997</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210820162936393"/>
         <updated>2021-10-03T13:16:11.852Z</updated>
         <content type="html"><![CDATA[[경향신문] 절기란 참 신기하다. 입추가 지나자 귀신같이 아침저녁으로 선선한 바람이 분다. 불볕더위와 함께 2020 도쿄 올림픽도 끝났다. 이번 올림픽에서도 많은 스타가 탄생했다. 올림픽이 끝나면 으레 그렇듯이, 각종 방송 프로그램에서 반가운 얼굴을 다시 만날 수 있을 것이다. 기대와 함께 걱정이 앞서기도 했다. 특히 예능은 ‘얼짱’ ‘국민 여동생’ ‘성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실수가 아니라 버릇이다.. 폭력을 '논란'으로 희석시킨 것도 언론이다]]></title>
-        <id>https://v.daum.net/v/20210806162105655</id>
-        <link href="https://v.daum.net/v/20210806162105655"/>
-        <updated>2021-10-03T13:16:11.853Z</updated>
-        <content type="html"><![CDATA[[경향신문] 뚜껑을 열어보기 전에는 모르는 것들이 있다. 유례없는 팬데믹 상황으로 도쿄 올림픽을 둘러싼 시선은 개막 전까지 회의적이었다. 도쿄올림픽조직위원회가 자신하던 ‘버블 방역’이 물거품이 되어버렸고, 허술하고 배려 없는 운영은 여론의 뭇매를 맞았다. 전 세계인의 축제라는데 이렇게 심드렁할 수 있나? 역대 가장 미지근하던 올림픽의 열기가 예상을 깨고]]></content>
     </entry>
 </feed>

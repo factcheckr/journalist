@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 17:39:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미일 정상, “북한 핵ㆍ미사일 대응 긴밀히 공조”]]></title>
+            <link>https://n.news.naver.com/article/469/0000654078</link>
+            <guid>https://n.news.naver.com/article/469/0000654078</guid>
+            <pubDate>Fri, 21 Jan 2022 17:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/22/654078.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 신문 “北 단거리 탄도미사일 성능 향상... 美 무관심에 ‘핵 보유국’ 지위 노림수”]]></title>
             <link>https://n.news.naver.com/article/469/0000653821</link>
             <guid>https://n.news.naver.com/article/469/0000653821</guid>
             <pubDate>Thu, 20 Jan 2022 17:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/20/653821.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000653783</link>
             <guid>https://n.news.naver.com/article/469/0000653783</guid>
             <pubDate>Thu, 20 Jan 2022 17:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/20/653783.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000653615</link>
             <guid>https://n.news.naver.com/article/469/0000653615</guid>
             <pubDate>Wed, 19 Jan 2022 17:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000653602</link>
             <guid>https://n.news.naver.com/article/469/0000653602</guid>
             <pubDate>Wed, 19 Jan 2022 17:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000653592</link>
             <guid>https://n.news.naver.com/article/469/0000653592</guid>
             <pubDate>Wed, 19 Jan 2022 17:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653592.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000653537</link>
             <guid>https://n.news.naver.com/article/469/0000653537</guid>
             <pubDate>Wed, 19 Jan 2022 17:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653537.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 19 Jan 2022 05:33:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653497.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 확산 속 日 코로나 하루 확진자 3만명 넘어… 역대 최다]]></title>
-            <link>https://n.news.naver.com/article/469/0000653375</link>
-            <guid>https://n.news.naver.com/article/469/0000653375</guid>
-            <pubDate>Tue, 18 Jan 2022 17:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/18/653375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

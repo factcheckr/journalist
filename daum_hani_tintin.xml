@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-01-21T05:33:40.992Z</updated>
+    <updated>2022-01-21T17:39:17.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그 장면, 동물 생명 담보로 만들어야 했나]]></title>
+        <id>https://entertain.v.daum.net/v/20220121215601062</id>
+        <link href="https://entertain.v.daum.net/v/20220121215601062"/>
+        <updated>2022-01-21T17:39:04.056Z</updated>
+        <content type="html"><![CDATA[임팔 전투에서 간신히 살아남은 최대치(최재성)는 끔찍한 허기와 피로를 참으며 정글을 빠져나와 바모(미얀마와 중국의 접경지대)까지 나온다. 피골이 상접한 채 걷다가 쓰러진 대치의 눈에, 저기 들판을 기어가는 뱀이 한마리 보인다. 낮은 포복으로 기어간 대치는 떨리는 손으로 뱀을 덥석 잡아 든다. 있는 힘을 다해 뱀의 몸뚱아리에서 껍질을 벗겨낸 뒤, 아직도 꿈틀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[직원처럼 일한 방송작가, 헤어질 땐 프리랜서?]]></title>
         <id>https://entertain.v.daum.net/v/20220109100602391</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210423195601559"/>
         <updated>2021-10-07T17:43:00.233Z</updated>
         <content type="html"><![CDATA[최근 내 주변 사람들을 경악하게 만든 칼럼이 하나 있다. &lt;기자협회보&gt;에 실린 문화방송(MBC) 장슬기 데이터전문기자의 칼럼 ‘누가 언론사 목에 디지털을 달 것인가’가 그것인데, 문화방송으로 실습을 나오기로 한 대학생이 쓴 자기소개서에서 인용했다는 칼럼의 도입부는 다음과 같다. “유튜브에서 &lt;놀면 뭐하니&gt; 클립을 봤는데 너무 재밌어서 찾아봤더니 엠비시에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아내의 맛' 책임을 통감해서 고작 '시즌 종료'?]]></title>
-        <id>https://entertain.v.daum.net/v/20210410161603250</id>
-        <link href="https://entertain.v.daum.net/v/20210410161603250"/>
-        <updated>2021-10-07T17:43:00.235Z</updated>
-        <content type="html"><![CDATA[“아름다운 사람은 떠난 자리도 아름답다.” &lt;티브이(TV)조선&gt;의 &lt;아내의 맛&gt;이 시즌 종료되는 과정은 어쩐지 공중화장실에서 보던 표어를 연상케 하는 구석이 있다. 방영되는 내내 피로하기 짝이 없던 프로그램은 떠난 자리도 피로할 일로 가득 차 있다. ‘연하의 중국 청년 부호와 결혼해 차원이 다른 부를 누리며 국적 차이, 나이 차이 등에서 오는 문화충돌을]]></content>
     </entry>
 </feed>
