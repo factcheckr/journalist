@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 17:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 05:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -292,7 +292,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654098</link>
             <guid>https://n.news.naver.com/article/469/0000654098</guid>
             <pubDate>Sat, 22 Jan 2022 05:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/22/654098.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +324,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000653689</link>
             <guid>https://n.news.naver.com/article/469/0000653689</guid>
             <pubDate>Thu, 20 Jan 2022 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/20/653689.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,7 +364,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000653501</link>
             <guid>https://n.news.naver.com/article/469/0000653501</guid>
             <pubDate>Sat, 22 Jan 2022 17:36:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653501.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -532,7 +532,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000030091</link>
             <guid>https://n.news.naver.com/article/308/0000030091</guid>
             <pubDate>Tue, 18 Jan 2022 05:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/18/30091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -540,7 +540,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/308/0000030080</link>
             <guid>https://n.news.naver.com/article/308/0000030080</guid>
             <pubDate>Sun, 16 Jan 2022 05:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/16/30080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
