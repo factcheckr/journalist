@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 17:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,11 +288,27 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0428/A0002739140_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 코로나 행동 제한 조치 확대로 18조원 경제손실 예상... "오미크론은 감기" 반발도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000654451</link>
+            <guid>https://n.news.naver.com/article/469/0000654451</guid>
+            <pubDate>Mon, 24 Jan 2022 17:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654451.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 기시다, 사도광산 “강제노동 표현 부적절” “역사 인식, 아베 내각 계승” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000654389</link>
+            <guid>https://n.news.naver.com/article/469/0000654389</guid>
+            <pubDate>Mon, 24 Jan 2022 17:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654389.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[람 이매뉴얼 주일 美대사 현지 부임… 트위터로 인사 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000654353</link>
             <guid>https://n.news.naver.com/article/469/0000654353</guid>
             <pubDate>Mon, 24 Jan 2022 05:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654353.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +316,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654237</link>
             <guid>https://n.news.naver.com/article/469/0000654237</guid>
             <pubDate>Sun, 23 Jan 2022 17:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/23/654237.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +324,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654233</link>
             <guid>https://n.news.naver.com/article/469/0000654233</guid>
             <pubDate>Sun, 23 Jan 2022 17:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/23/654233.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +332,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654229</link>
             <guid>https://n.news.naver.com/article/469/0000654229</guid>
             <pubDate>Sun, 23 Jan 2022 17:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/23/654229.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +348,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654078</link>
             <guid>https://n.news.naver.com/article/469/0000654078</guid>
             <pubDate>Fri, 21 Jan 2022 17:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/22/654078.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +356,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000653821</link>
             <guid>https://n.news.naver.com/article/469/0000653821</guid>
             <pubDate>Thu, 20 Jan 2022 17:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/20/653821.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,24 +364,8 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000653783</link>
             <guid>https://n.news.naver.com/article/469/0000653783</guid>
             <pubDate>Thu, 20 Jan 2022 17:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/20/653783.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“日 정부, 사도광산 유네스코 추천 보류 쪽으로 조율 중”... 보수진영 압박 뚫고 등재 포기할까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000653689</link>
-            <guid>https://n.news.naver.com/article/469/0000653689</guid>
-            <pubDate>Thu, 20 Jan 2022 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/20/653689.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 확진자 하루 만에 3만→4만명… 도쿄만 7천명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000653615</link>
-            <guid>https://n.news.naver.com/article/469/0000653615</guid>
-            <pubDate>Wed, 19 Jan 2022 17:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/19/653615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“저는 코로나19 확진자 35명의 주치의입니다.” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
