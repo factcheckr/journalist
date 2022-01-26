@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 17:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,11 +288,19 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0428/A0002739140_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“국적 뛰어넘은 인류애”... 도쿄 신오쿠보에서 열린 故 이수현 21주기 추도식 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000654915</link>
+            <guid>https://n.news.naver.com/article/469/0000654915</guid>
+            <pubDate>Wed, 26 Jan 2022 17:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654915.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘日 미투의 상징’  이토 시오리, 항소심도 승소... “목소리 낸 것 후회 안 해” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000654828</link>
             <guid>https://n.news.naver.com/article/469/0000654828</guid>
             <pubDate>Wed, 26 Jan 2022 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>42분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +308,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654797</link>
             <guid>https://n.news.naver.com/article/469/0000654797</guid>
             <pubDate>Wed, 26 Jan 2022 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654797.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +316,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654642</link>
             <guid>https://n.news.naver.com/article/469/0000654642</guid>
             <pubDate>Tue, 25 Jan 2022 17:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/25/654642.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +324,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654599</link>
             <guid>https://n.news.naver.com/article/469/0000654599</guid>
             <pubDate>Tue, 25 Jan 2022 17:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/25/654599.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +340,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654451</link>
             <guid>https://n.news.naver.com/article/469/0000654451</guid>
             <pubDate>Mon, 24 Jan 2022 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654451.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +348,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654421</link>
             <guid>https://n.news.naver.com/article/469/0000654421</guid>
             <pubDate>Tue, 25 Jan 2022 17:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654421.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +356,7 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <link>https://n.news.naver.com/article/469/0000654389</link>
             <guid>https://n.news.naver.com/article/469/0000654389</guid>
             <pubDate>Mon, 24 Jan 2022 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654389.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,14 +366,6 @@ AFP통신, 워싱턴포스트(WP) 등은 23일(현지시간) 프랑스 파리에
             <pubDate>Mon, 24 Jan 2022 05:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654353.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“번식업자가 마취 없이 제왕절개… 일본서 1000마리 개 학대” [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000654237</link>
-            <guid>https://n.news.naver.com/article/469/0000654237</guid>
-            <pubDate>Sun, 23 Jan 2022 17:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/23/654237.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44년에 걸쳐 알아낸 진화의 비밀 [2021 행복한 책꽂이] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
