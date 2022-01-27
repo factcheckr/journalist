@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 17:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 05:34:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하루 감염자 7만명 넘은 일본, 3차 접종은 OECD 꼴찌... 이유는?]]></title>
+            <link>https://n.news.naver.com/article/469/0000655073</link>
+            <guid>https://n.news.naver.com/article/469/0000655073</guid>
+            <pubDate>Thu, 27 Jan 2022 05:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/27/655073.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“국적 뛰어넘은 인류애”... 도쿄 신오쿠보에서 열린 故 이수현 21주기 추도식]]></title>
             <link>https://n.news.naver.com/article/469/0000654915</link>
             <guid>https://n.news.naver.com/article/469/0000654915</guid>
             <pubDate>Wed, 26 Jan 2022 17:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000654828</link>
             <guid>https://n.news.naver.com/article/469/0000654828</guid>
             <pubDate>Wed, 26 Jan 2022 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000654797</link>
             <guid>https://n.news.naver.com/article/469/0000654797</guid>
             <pubDate>Wed, 26 Jan 2022 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654797.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000654564</link>
             <guid>https://n.news.naver.com/article/469/0000654564</guid>
             <pubDate>Tue, 25 Jan 2022 05:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/25/654564.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Jan 2022 17:39:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654389.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[람 이매뉴얼 주일 美대사 현지 부임… 트위터로 인사]]></title>
-            <link>https://n.news.naver.com/article/469/0000654353</link>
-            <guid>https://n.news.naver.com/article/469/0000654353</guid>
-            <pubDate>Mon, 24 Jan 2022 05:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654353.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
