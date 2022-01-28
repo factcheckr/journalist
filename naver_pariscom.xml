@@ -4,15 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 17:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 05:34:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日, 코로나 경증자 ‘직접 검사해 알아서 요양’ 첫 시행]]></title>
+            <link>https://n.news.naver.com/article/469/0000655356</link>
+            <guid>https://n.news.naver.com/article/469/0000655356</guid>
+            <pubDate>Fri, 28 Jan 2022 05:33:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>44분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655356.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日언론 "日정부, 보수파 요구에 '사도광산' 세계유산 추천 조율"]]></title>
+            <link>https://n.news.naver.com/article/469/0000655339</link>
+            <guid>https://n.news.naver.com/article/469/0000655339</guid>
+            <pubDate>Fri, 28 Jan 2022 05:33:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655339.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한미일 외교장관 회담 2월 개최 조율 중… 北 미사일 논의"]]></title>
+            <link>https://n.news.naver.com/article/469/0000655315</link>
+            <guid>https://n.news.naver.com/article/469/0000655315</guid>
+            <pubDate>Fri, 28 Jan 2022 05:33:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655315.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 아베, 사도 광산 놓고 “역사전쟁 피하면 안 돼” 압박... 기시다 총리, 최종 결정 고심]]></title>
             <link>https://n.news.naver.com/article/469/0000655178</link>
             <guid>https://n.news.naver.com/article/469/0000655178</guid>
             <pubDate>Thu, 27 Jan 2022 17:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/27/655178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000655073</link>
             <guid>https://n.news.naver.com/article/469/0000655073</guid>
             <pubDate>Thu, 27 Jan 2022 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/27/655073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000654828</link>
             <guid>https://n.news.naver.com/article/469/0000654828</guid>
             <pubDate>Wed, 26 Jan 2022 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000654797</link>
             <guid>https://n.news.naver.com/article/469/0000654797</guid>
             <pubDate>Wed, 26 Jan 2022 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654797.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -62,30 +86,6 @@
             <pubDate>Tue, 25 Jan 2022 17:38:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/25/654599.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 확산 일본의 자구책...“젊은층은 직접 검사하고 진찰 없이 자택요양”]]></title>
-            <link>https://n.news.naver.com/article/469/0000654564</link>
-            <guid>https://n.news.naver.com/article/469/0000654564</guid>
-            <pubDate>Tue, 25 Jan 2022 05:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/25/654564.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 코로나 행동 제한 조치 확대로 18조원 경제손실 예상... "오미크론은 감기" 반발도]]></title>
-            <link>https://n.news.naver.com/article/469/0000654451</link>
-            <guid>https://n.news.naver.com/article/469/0000654451</guid>
-            <pubDate>Mon, 24 Jan 2022 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654451.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“가족 5명 중 4명이 차례로 감염”... 자택 요양자 10만명 넘은 일본의 실상]]></title>
-            <link>https://n.news.naver.com/article/469/0000654421</link>
-            <guid>https://n.news.naver.com/article/469/0000654421</guid>
-            <pubDate>Tue, 25 Jan 2022 17:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/24/654421.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
