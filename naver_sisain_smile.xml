@@ -4,17 +4,9 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 17:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 05:34:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이재명·윤석열·심상정·안철수 〈삼프로TV〉 댓글 분석해보니]]></title>
-            <link>https://n.news.naver.com/article/308/0000030252</link>
-            <guid>https://n.news.naver.com/article/308/0000030252</guid>
-            <pubDate>Thu, 27 Jan 2022 05:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/27/30252.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[기자들의 시선] ‘물컵 갑질’도 막지 못한 조현민의 사장 승진]]></title>
             <link>https://n.news.naver.com/article/308/0000030091</link>
@@ -86,6 +78,14 @@
             <pubDate>Sat, 01 Jan 2022 02:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/11/29885.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김영란, 대법관이기 전에 ‘읽는 존재’였던 사람]]></title>
+            <link>https://n.news.naver.com/article/308/0000029839</link>
+            <guid>https://n.news.naver.com/article/308/0000029839</guid>
+            <pubDate>Sat, 29 Jan 2022 05:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2021.12.02.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/02/29839.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
