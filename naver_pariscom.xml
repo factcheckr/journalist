@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 05:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 17:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000655436</link>
             <guid>https://n.news.naver.com/article/469/0000655436</guid>
             <pubDate>Fri, 28 Jan 2022 17:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000655375</link>
             <guid>https://n.news.naver.com/article/469/0000655375</guid>
             <pubDate>Fri, 28 Jan 2022 17:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000655178</link>
             <guid>https://n.news.naver.com/article/469/0000655178</guid>
             <pubDate>Thu, 27 Jan 2022 17:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/27/655178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Thu, 27 Jan 2022 05:33:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/27/655073.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“국적 뛰어넘은 인류애”... 도쿄 신오쿠보에서 열린 故 이수현 21주기 추도식]]></title>
-            <link>https://n.news.naver.com/article/469/0000654915</link>
-            <guid>https://n.news.naver.com/article/469/0000654915</guid>
-            <pubDate>Wed, 26 Jan 2022 17:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘日 미투의 상징’  이토 시오리, 항소심도 승소... “목소리 낸 것 후회 안 해”]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Wed, 26 Jan 2022 05:33:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654797.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["공사 중단 아파트서 텐트 생활"... 부동산 버블 심각 중국의 실태]]></title>
+            <link>https://n.news.naver.com/article/469/0000654664</link>
+            <guid>https://n.news.naver.com/article/469/0000654664</guid>
+            <pubDate>Mon, 31 Jan 2022 17:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/25/654664.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
