@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 05:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 17:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,7 +291,7 @@
             <link>https://n.news.naver.com/article/469/0000655766</link>
             <guid>https://n.news.naver.com/article/469/0000655766</guid>
             <pubDate>Tue, 01 Feb 2022 17:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/01/655766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -315,7 +315,7 @@
             <link>https://n.news.naver.com/article/469/0000655436</link>
             <guid>https://n.news.naver.com/article/469/0000655436</guid>
             <pubDate>Fri, 28 Jan 2022 17:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +323,7 @@
             <link>https://n.news.naver.com/article/469/0000655375</link>
             <guid>https://n.news.naver.com/article/469/0000655375</guid>
             <pubDate>Fri, 28 Jan 2022 17:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +331,7 @@
             <link>https://n.news.naver.com/article/469/0000655356</link>
             <guid>https://n.news.naver.com/article/469/0000655356</guid>
             <pubDate>Fri, 28 Jan 2022 05:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655356.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -347,7 +347,7 @@
             <link>https://n.news.naver.com/article/469/0000655178</link>
             <guid>https://n.news.naver.com/article/469/0000655178</guid>
             <pubDate>Thu, 27 Jan 2022 17:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/27/655178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -363,7 +363,7 @@
             <link>https://n.news.naver.com/article/469/0000654915</link>
             <guid>https://n.news.naver.com/article/469/0000654915</guid>
             <pubDate>Tue, 01 Feb 2022 17:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/26/654915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -527,6 +527,22 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/17/29760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대선 뒷담화] 패스만 하는 민주당, 4자 토론 피하는 국민의힘? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030265</link>
+            <guid>https://n.news.naver.com/article/308/0000030265</guid>
+            <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/29/30265.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명·윤석열·심상정·안철수 〈삼프로TV〉 댓글 분석해보니 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030252</link>
+            <guid>https://n.news.naver.com/article/308/0000030252</guid>
+            <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/27/30252.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기자들의 시선] ‘물컵 갑질’도 막지 못한 조현민의 사장 승진 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030091</link>
             <guid>https://n.news.naver.com/article/308/0000030091</guid>
@@ -589,22 +605,6 @@
             <pubDate>Sat, 01 Jan 2022 02:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/30/29988.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 뒷담화] 죽은 불도 다시 보자 장소가 ‘여의도’라면 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029885</link>
-            <guid>https://n.news.naver.com/article/308/0000029885</guid>
-            <pubDate>Sat, 01 Jan 2022 02:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/11/29885.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김영란, 대법관이기 전에 ‘읽는 존재’였던 사람 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029839</link>
-            <guid>https://n.news.naver.com/article/308/0000029839</guid>
-            <pubDate>Sat, 29 Jan 2022 05:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/02/29839.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그 장면, 동물 생명 담보로 만들어야 했나 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
