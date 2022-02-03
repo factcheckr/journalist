@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 17:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미군, 시리아에서 IS 지도자 사살…민간인 사망 주장도 나와 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/mideast-africa/article/202202032314001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/mideast-africa/article/202202032314001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 03 Feb 2022 17:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[미국 특수부대가 3일(현지시간) 밤 시리아 북서부 지역을 급습해 이슬람국가(IS) 최고지도자를 사살했다고 조 바이든 미 대통령이 밝혔다.
+워싱턴포스트와 AP통신에 따르면 바이든 대통령은 이날 “지난밤 시리아 북서부에 주둔하고 있는 미군이 미국 국민과 동맹국들을 보호하고 세계를 더 안전한 곳으로 만들기 위해 대테러 작전을 성공적으로 수행했다”고 밝혔다. 바이든 대통령은 “우리 군의 기술과 용감함 덕분에, IS지도자인 아부 이브라힘 알-하시미 알-쿠라이시를 전장에서 제거했다”며 “모든 미국인이 작전으로부터 안전하게 귀환했다”고 밝혔다. 앞서 미 국방부는 특수부대가 시리아 북서부를 공습해 지하드 조직 고위층 13명이 사망했다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/03/2022020301000317300025411.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ECB 기준금리 0% 동결 …영란은행은 0.50%로 인상 대조 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202202032257001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202202032257001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 03 Feb 2022 17:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[유럽중앙은행(ECB)이 기준금리를 0%로 동결했다. 코로나19 확산의 경제적 충격에 대응하기 위한 채권 매입 속도는 전분기보다 낮추기로 했다.
+ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0%로 유지하고, 예금금리와 한계대출금리 역시 각각 -0.50%와 0.25%로 유지하기로 결정했다. ECB는 올해 1분기 팬데믹긴급매입프로그램(PEPP)의 대응채권 매입 속도를 전분기보다 낮추고, 내년 3월에는 1조8500억원 규모의 대응채권 매입을 중단하겠다고 밝혔다. 인플레이션 우려가 제기되지만 코로나19의 침체에서 서서히 빠져나오는 것을 택한 것이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/03/2022020301000315800025301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설날 오후 4~5시, 서울행 고속도로 가장 막힌다 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201312239001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -97,24 +115,6 @@
             <content:encoded><![CDATA[설 연휴 직전 여론조사에서 국민의 힘 윤석열 대선 후보가 이재명 후보를 오차범위 내에서 앞서고 있는 것으로 나타났다. 전주대비 지지율은 윤 후보는 소폭 하락, 이 후보는 소폭 상승세를 보였으며, 전반적으로 정권교체 여론이 우세한 것으로 나타났다.
 31일 오마이뉴스에 따르면 리얼미터가 오마이뉴스 의뢰로 지난 23~28일 전국 만18세 이상 3047명을 대상으로 실시한 조사에서 윤 후보의 40.2%, 이 후보는 38.5%의 지지율을 기록했다. 두 후보의 격차는 전주 조사보다 3.5%포인트 좁혀진 1.7%포인트로, 오차범위(95% 신뢰수준에 ±1.8%포인트) 안이다. 윤 후보는 전주보다 1.8%포인트 하락했고, 이 후보는 1.7%포인트 상승했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/01/31/2022013101003693800324831.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "사시 일부 부활·정시 확대하겠다" 청년 정책 약속 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/assembly/article/202201311207001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/politics/assembly/article/202201311207001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 31 Jan 2022 05:31:52 GMT</pubDate>
-            <content:encoded><![CDATA[더불어민주당 이재명 대선후보가 31일 사시(사법시험) 일부 부활, (대입) 정시 확대, 공정 채용을 ‘청년 3대 공정정책’으로 약속했다.
-이 후보는 이날 오전 페이스북에서 “이재명 정부는 청년을 위한 3대 공정정책으로 계층이동 사다리를 확실히 보장하겠다”며 청년 3대 공정정책 공약을 발표했다. 이 후보는 3대 정책 가운데 첫 번째로 ‘사시 일부 부활’을 꼽으며 “로스쿨에 병행해 예외적으로 학력 제한 없이 법조인이 될 수 있는 길을 열겠다”고 밝혔다. 기존 로스쿨 제도를 유지하며 별도로 사시 제도를 운영하겠다는 것이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/01/31/2022013101003693500324811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 “전쟁나면 젊은이들만 죽는다”···윤석열 사드 추가배치 공약 비판 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/assembly/article/202201311020001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/politics/assembly/article/202201311020001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 31 Jan 2022 05:31:52 GMT</pubDate>
-            <content:encoded><![CDATA[더불어민주당 이재명 대선 후보는 31일 국민의힘 윤석열 후보의 “사드(고고도 미사일 방어체계·THAAD) 추가 배치” 주장에 “미국 측도 필요 없다는 사드를 중국의 보복을 감수하며 추가 설치하겠다는 것은 무책임하다”고 페이스북 글을 올려 비판했다.
-이 후보는 지난 2020년 11월 언론 인터뷰에서 “한국에 배치된 사드를 패트리엇 등 다른 미사일방어체계와 통합해 운용하면 사드를 추가로 배치할 필요가 없다”고 주장한 빈센트 브룩스 전 주한미군사령관의 언급을 먼저 인용했다. 이어 “전쟁이 나면 죽는 건 청년들이고, 군사 긴장이 높아지면 안 그래도 어려운 경제는 더 악화한다”며 “전작권 환수는 반대하면서 선제타격 주장으로 군사적 긴장만 높이는 건 대통령 후보가 할 일이 못 된다”고 지적했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/01/31/2022013101003692800324701.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단문 메시지 정치의 명암 (경향신문 ─ 홍성수 교수)]]></title>
@@ -287,11 +287,35 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 하루 확진자 10만명 넘었다… 누적 300만명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000656101</link>
+            <guid>https://n.news.naver.com/article/469/0000656101</guid>
+            <pubDate>Thu, 03 Feb 2022 17:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/656101.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 요구로 이뤄진 한일 장관 통화…위안부·징용 입장 차만 확인 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000656064</link>
+            <guid>https://n.news.naver.com/article/469/0000656064</guid>
+            <pubDate>Thu, 03 Feb 2022 17:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/656064.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9만명 확진 일본 아동 감염 급증하는데 전국 휴교 못하는 이유 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000656046</link>
+            <guid>https://n.news.naver.com/article/469/0000656046</guid>
+            <pubDate>Thu, 03 Feb 2022 17:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/656046.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 비아그라 4월부터 건강보험 적용... 불임 치료 목적 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000655974</link>
             <guid>https://n.news.naver.com/article/469/0000655974</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -299,7 +323,7 @@
             <link>https://n.news.naver.com/article/469/0000655968</link>
             <guid>https://n.news.naver.com/article/469/0000655968</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655968.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -307,7 +331,7 @@
             <link>https://n.news.naver.com/article/469/0000655958</link>
             <guid>https://n.news.naver.com/article/469/0000655958</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -315,7 +339,7 @@
             <link>https://n.news.naver.com/article/469/0000655766</link>
             <guid>https://n.news.naver.com/article/469/0000655766</guid>
             <pubDate>Tue, 01 Feb 2022 17:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/01/655766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -339,32 +363,8 @@
             <link>https://n.news.naver.com/article/469/0000655436</link>
             <guid>https://n.news.naver.com/article/469/0000655436</guid>
             <pubDate>Fri, 28 Jan 2022 17:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655436.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조문 온 의료진 향한 총기 살해…일본서 '한밤의 인질극' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000655375</link>
-            <guid>https://n.news.naver.com/article/469/0000655375</guid>
-            <pubDate>Fri, 28 Jan 2022 17:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655375.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 코로나 경증자 ‘직접 검사해 알아서 요양’ 첫 시행 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000655356</link>
-            <guid>https://n.news.naver.com/article/469/0000655356</guid>
-            <pubDate>Fri, 28 Jan 2022 05:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655356.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한미일 외교장관 회담 2월 개최 조율 중… 北 미사일 논의" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000655315</link>
-            <guid>https://n.news.naver.com/article/469/0000655315</guid>
-            <pubDate>Fri, 28 Jan 2022 05:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655315.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 오미크론 시나리오: 성문 밖으로 나가시겠습니까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
