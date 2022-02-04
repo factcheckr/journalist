@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-02-04T05:34:31.792Z</updated>
+    <updated>2022-02-04T17:34:46.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내 맘대로 되는 건 내 몸뿐'..저성장 시대의 현실을 먹고 자라난 딜레마]]></title>
+        <id>https://v.daum.net/v/20220204162923574</id>
+        <link href="https://v.daum.net/v/20220204162923574"/>
+        <updated>2022-02-04T17:34:45.959Z</updated>
+        <content type="html"><![CDATA[[경향신문] 설연휴는 잘 보내셨는지요. 조상님이 발행한 최후의 유예 기간, ‘음력 새해’마저 지났으니 2022년의 시작을 더는 부정할 수 없다. 1월1일의 결심은 까맣게 잊었지만 우리의 새해는 이제 막 시작한 참이니 아직 기회가 있다. 새해 목표가 ‘운동하기’ 또는 ‘다이어트’인 사람이 올해에도 많을 것이다. 트렌드를 반영해서 좀 더 구체적인 목표를 설정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다큐 '리턴 투 호그와트'로 본 해리포터 20년]]></title>
         <id>https://v.daum.net/v/20220121162008728</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210903161640918"/>
         <updated>2021-10-03T13:16:11.851Z</updated>
         <content type="html"><![CDATA[[경향신문] 나에게는 올해 스무 살, 열아홉 살인 동생들이 있다. 각각 2002년생과 2003년생이다. 내가 중학생일 때 태어난 그 애들로부터 나는 많은 것을 배웠다. 동생들이 행복하길 바랐기에 엄마가 사들이는 육아 서적을 함께 읽었다. 그러면서 희미하게 느꼈다. 육아에도 트렌드가 있구나. 내가 자랄 때와 다르구나. 실제로 시대가 바뀌고 정보량과 관점이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리가 흘리는 땀에는 성별이 없다"]]></title>
-        <id>https://v.daum.net/v/20210820162936393</id>
-        <link href="https://v.daum.net/v/20210820162936393"/>
-        <updated>2021-10-03T13:16:11.852Z</updated>
-        <content type="html"><![CDATA[[경향신문] 절기란 참 신기하다. 입추가 지나자 귀신같이 아침저녁으로 선선한 바람이 분다. 불볕더위와 함께 2020 도쿄 올림픽도 끝났다. 이번 올림픽에서도 많은 스타가 탄생했다. 올림픽이 끝나면 으레 그렇듯이, 각종 방송 프로그램에서 반가운 얼굴을 다시 만날 수 있을 것이다. 기대와 함께 걱정이 앞서기도 했다. 특히 예능은 ‘얼짱’ ‘국민 여동생’ ‘성]]></content>
     </entry>
 </feed>
