@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 17:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 05:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,7 +315,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000655974</link>
             <guid>https://n.news.naver.com/article/469/0000655974</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +323,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000655968</link>
             <guid>https://n.news.naver.com/article/469/0000655968</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655968.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +331,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000655958</link>
             <guid>https://n.news.naver.com/article/469/0000655958</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -347,7 +347,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000655707</link>
             <guid>https://n.news.naver.com/article/469/0000655707</guid>
             <pubDate>Tue, 01 Feb 2022 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/01/655707.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -355,7 +355,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000655506</link>
             <guid>https://n.news.naver.com/article/469/0000655506</guid>
             <pubDate>Sat, 29 Jan 2022 05:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/29/655506.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -371,7 +371,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/308/0000030258</link>
             <guid>https://n.news.naver.com/article/308/0000030258</guid>
             <pubDate>Mon, 31 Jan 2022 17:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/28/30258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -527,11 +527,19 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/17/29760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대선 뒷담화] ‘잘했다’고 자평한다면 TV 토론 더 많이 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030306</link>
+            <guid>https://n.news.naver.com/article/308/0000030306</guid>
+            <pubDate>Sat, 05 Feb 2022 05:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/05/30306.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대선 뒷담화] 패스만 하는 민주당, 4자 토론 피하는 국민의힘? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030265</link>
             <guid>https://n.news.naver.com/article/308/0000030265</guid>
             <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/29/30265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -597,14 +605,6 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <pubDate>Thu, 13 Jan 2022 17:47:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30030.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명의 말 분석하니 ‘거래의 리더십’ 보인다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029988</link>
-            <guid>https://n.news.naver.com/article/308/0000029988</guid>
-            <pubDate>Sat, 01 Jan 2022 02:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/30/29988.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그 장면, 동물 생명 담보로 만들어야 했나 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>

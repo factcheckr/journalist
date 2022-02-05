@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 17:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 05:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대선 뒷담화] ‘잘했다’고 자평한다면 TV 토론 더 많이]]></title>
+            <link>https://n.news.naver.com/article/308/0000030306</link>
+            <guid>https://n.news.naver.com/article/308/0000030306</guid>
+            <pubDate>Sat, 05 Feb 2022 05:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/05/30306.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대선 뒷담화] 패스만 하는 민주당, 4자 토론 피하는 국민의힘?]]></title>
             <link>https://n.news.naver.com/article/308/0000030265</link>
             <guid>https://n.news.naver.com/article/308/0000030265</guid>
             <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/29/30265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Jan 2022 17:47:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30030.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명의 말 분석하니 ‘거래의 리더십’ 보인다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029988</link>
-            <guid>https://n.news.naver.com/article/308/0000029988</guid>
-            <pubDate>Sat, 01 Jan 2022 02:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/30/29988.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
