@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 17:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 05:34:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,6 +287,22 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘아베 마스크’ 사용해도 폐기해도 ‘세금 낭비’ 어찌하나 [특파원24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000656457</link>
+            <guid>https://n.news.naver.com/article/469/0000656457</guid>
+            <pubDate>Sun, 06 Feb 2022 05:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>59분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/06/656457.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“日, 러시아 우크라이나 침공 대비 독자 제재 검토 중” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000656453</link>
+            <guid>https://n.news.naver.com/article/469/0000656453</guid>
+            <pubDate>Sun, 06 Feb 2022 05:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/06/656453.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 하루 확진자 10만명 넘었다… 누적 300만명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000656101</link>
             <guid>https://n.news.naver.com/article/469/0000656101</guid>
@@ -315,7 +331,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000655974</link>
             <guid>https://n.news.naver.com/article/469/0000655974</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +339,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000655968</link>
             <guid>https://n.news.naver.com/article/469/0000655968</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655968.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +347,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000655958</link>
             <guid>https://n.news.naver.com/article/469/0000655958</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -347,24 +363,8 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000655707</link>
             <guid>https://n.news.naver.com/article/469/0000655707</guid>
             <pubDate>Tue, 01 Feb 2022 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/01/655707.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["다카이치는 日 여당 속 야당?" 기시다 정책 사사건건 태클 거는 이유는 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000655506</link>
-            <guid>https://n.news.naver.com/article/469/0000655506</guid>
-            <pubDate>Sat, 29 Jan 2022 05:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/29/655506.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 사도 광산 유네스코 세계유산 추천키로... 한일 '역사전' 시작 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000655436</link>
-            <guid>https://n.news.naver.com/article/469/0000655436</guid>
-            <pubDate>Fri, 28 Jan 2022 17:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 오미크론 시나리오: 성문 밖으로 나가시겠습니까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -527,19 +527,11 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/17/29760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대선 뒷담화] ‘잘했다’고 자평한다면 TV 토론 더 많이 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030306</link>
-            <guid>https://n.news.naver.com/article/308/0000030306</guid>
-            <pubDate>Sat, 05 Feb 2022 05:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/05/30306.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대선 뒷담화] 패스만 하는 민주당, 4자 토론 피하는 국민의힘? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030265</link>
             <guid>https://n.news.naver.com/article/308/0000030265</guid>
             <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.01.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/29/30265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -605,6 +597,21 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <pubDate>Thu, 13 Jan 2022 17:47:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30030.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명의 말 분석하니 ‘거래의 리더십’ 보인다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029988</link>
+            <guid>https://n.news.naver.com/article/308/0000029988</guid>
+            <pubDate>Sun, 06 Feb 2022 05:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2021.12.30.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/30/29988.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만만한 상대만 때리는 SNL코리아의 '속빈 풍자' (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20220206090601188</link>
+            <guid>https://entertain.v.daum.net/v/20220206090601188</guid>
+            <pubDate>Sun, 06 Feb 2022 05:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[☞뉴스레터 공짜 구독하기 https://bit.ly/319DiiE 쿠팡플레이 &lt;에스엔엘(SNL) 코리아&gt;의 시즌1 말미, ‘인턴기자 주기자’ 캐릭터로 인기를 모은 배우 주현영은 그 캐릭터 그대로 당시 대권을 향해 달리던 대선 주자들을 차례로 만났다. 이재명 후보에게 “영화 &lt;말죽거리 잔혹사&gt;와 &lt;아수라&gt; 둘 중 한 편을 봐야 한다면 어떤 영화를 볼 것인가”]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그 장면, 동물 생명 담보로 만들어야 했나 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
@@ -738,13 +745,6 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <guid>https://entertain.v.daum.net/v/20210508111607937</guid>
             <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
             <content:encoded><![CDATA[2018년도의 일이다. 미국에서 활동하는 남아프리카공화국 출신의 코미디언 트레버 노아는 그해 러시아 월드컵에서 프랑스 대표팀이 승리한 것을 축하하며 “아프리카 팀의 승리를 축하한다”고 했다가 일부 프랑스인들로부터 항의를 받았다. 트레버 노아는 23명의 대표팀 선수 중 14명이 아프리카에서 기원한 흑인 혈통이라는 점을 짚으며 그 사실을 기념한 것인데, “아프]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 전성시대, 사라진 건 텔레비전만이 아니다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20210423195601559</link>
-            <guid>https://entertain.v.daum.net/v/20210423195601559</guid>
-            <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[최근 내 주변 사람들을 경악하게 만든 칼럼이 하나 있다. &lt;기자협회보&gt;에 실린 문화방송(MBC) 장슬기 데이터전문기자의 칼럼 ‘누가 언론사 목에 디지털을 달 것인가’가 그것인데, 문화방송으로 실습을 나오기로 한 대학생이 쓴 자기소개서에서 인용했다는 칼럼의 도입부는 다음과 같다. “유튜브에서 &lt;놀면 뭐하니&gt; 클립을 봤는데 너무 재밌어서 찾아봤더니 엠비시에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['내 맘대로 되는 건 내 몸뿐'..저성장 시대의 현실을 먹고 자라난 딜레마 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>

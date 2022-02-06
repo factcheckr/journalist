@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-02-05T17:34:10.079Z</updated>
+    <updated>2022-02-06T05:34:03.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만만한 상대만 때리는 SNL코리아의 '속빈 풍자']]></title>
+        <id>https://entertain.v.daum.net/v/20220206090601188</id>
+        <link href="https://entertain.v.daum.net/v/20220206090601188"/>
+        <updated>2022-02-06T05:33:50.956Z</updated>
+        <content type="html"><![CDATA[☞뉴스레터 공짜 구독하기 https://bit.ly/319DiiE 쿠팡플레이 &lt;에스엔엘(SNL) 코리아&gt;의 시즌1 말미, ‘인턴기자 주기자’ 캐릭터로 인기를 모은 배우 주현영은 그 캐릭터 그대로 당시 대권을 향해 달리던 대선 주자들을 차례로 만났다. 이재명 후보에게 “영화 &lt;말죽거리 잔혹사&gt;와 &lt;아수라&gt; 둘 중 한 편을 봐야 한다면 어떤 영화를 볼 것인가”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그 장면, 동물 생명 담보로 만들어야 했나]]></title>
         <id>https://entertain.v.daum.net/v/20220121215601062</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210508111607937"/>
         <updated>2021-10-07T17:43:00.232Z</updated>
         <content type="html"><![CDATA[2018년도의 일이다. 미국에서 활동하는 남아프리카공화국 출신의 코미디언 트레버 노아는 그해 러시아 월드컵에서 프랑스 대표팀이 승리한 것을 축하하며 “아프리카 팀의 승리를 축하한다”고 했다가 일부 프랑스인들로부터 항의를 받았다. 트레버 노아는 23명의 대표팀 선수 중 14명이 아프리카에서 기원한 흑인 혈통이라는 점을 짚으며 그 사실을 기념한 것인데, “아프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브 전성시대, 사라진 건 텔레비전만이 아니다]]></title>
-        <id>https://entertain.v.daum.net/v/20210423195601559</id>
-        <link href="https://entertain.v.daum.net/v/20210423195601559"/>
-        <updated>2021-10-07T17:43:00.233Z</updated>
-        <content type="html"><![CDATA[최근 내 주변 사람들을 경악하게 만든 칼럼이 하나 있다. &lt;기자협회보&gt;에 실린 문화방송(MBC) 장슬기 데이터전문기자의 칼럼 ‘누가 언론사 목에 디지털을 달 것인가’가 그것인데, 문화방송으로 실습을 나오기로 한 대학생이 쓴 자기소개서에서 인용했다는 칼럼의 도입부는 다음과 같다. “유튜브에서 &lt;놀면 뭐하니&gt; 클립을 봤는데 너무 재밌어서 찾아봤더니 엠비시에]]></content>
     </entry>
 </feed>

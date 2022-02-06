@@ -4,9 +4,25 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 17:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 05:34:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘아베 마스크’ 사용해도 폐기해도 ‘세금 낭비’ 어찌하나 [특파원24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000656457</link>
+            <guid>https://n.news.naver.com/article/469/0000656457</guid>
+            <pubDate>Sun, 06 Feb 2022 05:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>59분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/06/656457.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“日, 러시아 우크라이나 침공 대비 독자 제재 검토 중”]]></title>
+            <link>https://n.news.naver.com/article/469/0000656453</link>
+            <guid>https://n.news.naver.com/article/469/0000656453</guid>
+            <pubDate>Sun, 06 Feb 2022 05:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/06/656453.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 하루 확진자 10만명 넘었다… 누적 300만명]]></title>
             <link>https://n.news.naver.com/article/469/0000656101</link>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000655974</link>
             <guid>https://n.news.naver.com/article/469/0000655974</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000655968</link>
             <guid>https://n.news.naver.com/article/469/0000655968</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655968.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000655958</link>
             <guid>https://n.news.naver.com/article/469/0000655958</guid>
             <pubDate>Thu, 03 Feb 2022 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/655958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,24 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000655707</link>
             <guid>https://n.news.naver.com/article/469/0000655707</guid>
             <pubDate>Tue, 01 Feb 2022 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/01/655707.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["다카이치는 日 여당 속 야당?" 기시다 정책 사사건건 태클 거는 이유는]]></title>
-            <link>https://n.news.naver.com/article/469/0000655506</link>
-            <guid>https://n.news.naver.com/article/469/0000655506</guid>
-            <pubDate>Sat, 29 Jan 2022 05:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/29/655506.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 사도 광산 유네스코 세계유산 추천키로... 한일 '역사전' 시작]]></title>
-            <link>https://n.news.naver.com/article/469/0000655436</link>
-            <guid>https://n.news.naver.com/article/469/0000655436</guid>
-            <pubDate>Fri, 28 Jan 2022 17:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/01/28/655436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
