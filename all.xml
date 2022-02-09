@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 17:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 05:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,27 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미, 대중 공조 위해 대일 철강관세 타결했지만… 일본은 “완전 철폐 아니야” 불만 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000657117</link>
+            <guid>https://n.news.naver.com/article/469/0000657117</guid>
+            <pubDate>Wed, 09 Feb 2022 05:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657117.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 코로나 하루 사망자 역대 최다… 오미크론 중증화율 낮지만 확산 빨라 비상 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000657101</link>
+            <guid>https://n.news.naver.com/article/469/0000657101</guid>
+            <pubDate>Wed, 09 Feb 2022 05:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657101.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 제약사, 먹는 코로나약 곧 승인 신청... 빠르면 이달 말 실용화 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000656957</link>
             <guid>https://n.news.naver.com/article/469/0000656957</guid>
             <pubDate>Tue, 08 Feb 2022 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/08/656957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,16 +313,8 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000656924</link>
             <guid>https://n.news.naver.com/article/469/0000656924</guid>
             <pubDate>Tue, 08 Feb 2022 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/08/656924.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군함도 등 전시 보완 요구에 日 전문가들 "정부가 유네스코 설득해야"... 황당 의견 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000656855</link>
-            <guid>https://n.news.naver.com/article/469/0000656855</guid>
-            <pubDate>Tue, 08 Feb 2022 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/08/656855.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日 ‘코로나 쇄국’에 해외기업 투자 보류까지... 심각한 경제 후폭풍 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -325,6 +333,14 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/07/656649.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“아직도 팩스 써서” 日 오사카, 감염자 수 대규모 누락 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000656618</link>
+            <guid>https://n.news.naver.com/article/469/0000656618</guid>
+            <pubDate>Wed, 09 Feb 2022 05:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/07/656618.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["日 경제안보법 위반시 기업, 연구자에 최대 징역 2년 처벌" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000656477</link>
             <guid>https://n.news.naver.com/article/469/0000656477</guid>
@@ -337,7 +353,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000656457</link>
             <guid>https://n.news.naver.com/article/469/0000656457</guid>
             <pubDate>Sun, 06 Feb 2022 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/06/656457.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,24 +361,8 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000656453</link>
             <guid>https://n.news.naver.com/article/469/0000656453</guid>
             <pubDate>Sun, 06 Feb 2022 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/06/656453.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 하루 확진자 10만명 넘었다… 누적 300만명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000656101</link>
-            <guid>https://n.news.naver.com/article/469/0000656101</guid>
-            <pubDate>Thu, 03 Feb 2022 17:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/656101.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 요구로 이뤄진 한일 장관 통화…위안부·징용 입장 차만 확인 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000656064</link>
-            <guid>https://n.news.naver.com/article/469/0000656064</guid>
-            <pubDate>Thu, 03 Feb 2022 17:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/03/656064.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 오미크론 시나리오: 성문 밖으로 나가시겠습니까? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -445,6 +445,14 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/23/29946.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[현대산업개발, ‘책임’ 빼고 다 가진 ‘미등기임원’ 재벌 가족 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030330</link>
+            <guid>https://n.news.naver.com/article/308/0000030330</guid>
+            <pubDate>Wed, 09 Feb 2022 05:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/09/30330.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘20대 여자 현상’, 기후위기 감수성에서도 나타났다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030240</link>
             <guid>https://n.news.naver.com/article/308/0000030240</guid>
@@ -515,14 +523,6 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <pubDate>Sat, 01 Jan 2022 02:23:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/13/29898.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요소수 대란, “버티는 것 말고는 방법이 없다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029760</link>
-            <guid>https://n.news.naver.com/article/308/0000029760</guid>
-            <pubDate>Wed, 17 Nov 2021 05:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/17/29760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대선 뒷담화] 패스만 하는 민주당, 4자 토론 피하는 국민의힘? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>

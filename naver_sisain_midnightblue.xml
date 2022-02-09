@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 17:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 05:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대산업개발, ‘책임’ 빼고 다 가진 ‘미등기임원’ 재벌 가족]]></title>
+            <link>https://n.news.naver.com/article/308/0000030330</link>
+            <guid>https://n.news.naver.com/article/308/0000030330</guid>
+            <pubDate>Wed, 09 Feb 2022 05:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/09/30330.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘20대 여자 현상’, 기후위기 감수성에서도 나타났다]]></title>
             <link>https://n.news.naver.com/article/308/0000030240</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 01 Jan 2022 02:23:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/13/29898.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요소수 대란, “버티는 것 말고는 방법이 없다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000029760</link>
-            <guid>https://n.news.naver.com/article/308/0000029760</guid>
-            <pubDate>Wed, 17 Nov 2021 05:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/17/29760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
