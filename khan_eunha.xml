@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 17:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국대사관 “일부 한국 정치인 반중감정 자극 엄중한 관심”]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202202091932001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/china/article/202202091932001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 09 Feb 2022 17:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[주한 중국대사관이 9일 한국의 일부 정치인들이 베이징동계올림픽 판정 논란과 관련 반중감정을 부추기고 있다며 엄중하게 받아들인다고 밝혔다.
+중국대사관은 페이스북에 “최근 일부 한국 언론과 정치인들이 중국 정부와 베이징올림픽 전체를 겨냥해 반중감정을 부추기고 양국 국민들의 감정을 격화시켜 중국 네티즌들의 반발을 사고 있다”며 “엄중한 관심을 갖고 입장을 표명하지 않을 수 없다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/09/2022020901001028100090661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 “트럼프 때 부과한 일본산 철강 25% 관세, 4월부터 철폐 합의”]]></title>
             <link>https://www.khan.co.kr/world/america/article/202202082132035/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -104,15 +113,6 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <content:encoded><![CDATA[서울을 비롯한 수도권과 강원내륙·산지, 충북북부에 31일 밤부터 많은 눈이 내릴 것으로 예상되다. 기상청은 이날 저녁 수도권 서부에 대설주의보를 내렸다.
 기상청은 31일 오후 8시 경기 안산·시흥·김포·평택·화성과 옹진군을 제외한 인천에 대설주의보를 발령했다. 이어 오후 9시 경기 광명·과천·부천·동두천·연천·고양·양주·의정부·파주·수원·성남·안양·오산·군포·의왕과 서울 전역에 대설주의보를 내렸다. 대설주의보는 24시간 동안 쌓이는 눈의 양이 5㎝ 이상일 것으로 예상될 때 내려진다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/01/31/2022013101003698300325441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 부치다 휴대용 부탄가스 폭발···일가족 7명 부상]]></title>
-            <link>https://www.khan.co.kr/national/incident/article/202201311656001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/incident/article/202201311656001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 31 Jan 2022 17:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[설을 앞두고 일가족이 모여 전을 부치다 휴대용 부탄가스가 터져 7명이 다치는 사고가 발생했다.
-서울 마포소방서에 따르면 31일 오후 1시10분쯤 마포구 망원동의 한 아파트에서 휴대용 부탄가스가 터져 집안에 있던 7명이 다쳤다. 6명은 얼굴 부위에 2도 화상을 입어 인근 병원에서 치료를 받고 있으며, 다른 1명은 부상 정도가 비교적 가벼워 현장에서 구급대원의 처치를 받았다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/01/31/2022013101003696700325191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

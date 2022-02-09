@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 17:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 교도통신 “바이든, 5월 후반 첫 방일 조율 중”… 한국도 방문할까?]]></title>
+            <link>https://n.news.naver.com/article/469/0000657209</link>
+            <guid>https://n.news.naver.com/article/469/0000657209</guid>
+            <pubDate>Wed, 09 Feb 2022 17:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657209.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나로 지갑 닫은 일본인… 이자 낮지만 저축률 2년째 30%대]]></title>
+            <link>https://n.news.naver.com/article/469/0000657146</link>
+            <guid>https://n.news.naver.com/article/469/0000657146</guid>
+            <pubDate>Wed, 09 Feb 2022 17:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657146.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미, 대중 공조 위해 대일 철강관세 타결했지만… 일본은 “완전 철폐 아니야” 불만]]></title>
             <link>https://n.news.naver.com/article/469/0000657117</link>
             <guid>https://n.news.naver.com/article/469/0000657117</guid>
             <pubDate>Wed, 09 Feb 2022 05:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000657101</link>
             <guid>https://n.news.naver.com/article/469/0000657101</guid>
             <pubDate>Wed, 09 Feb 2022 05:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657101.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000656957</link>
             <guid>https://n.news.naver.com/article/469/0000656957</guid>
             <pubDate>Tue, 08 Feb 2022 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/08/656957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000656924</link>
             <guid>https://n.news.naver.com/article/469/0000656924</guid>
             <pubDate>Tue, 08 Feb 2022 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/08/656924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000656691</link>
             <guid>https://n.news.naver.com/article/469/0000656691</guid>
             <pubDate>Mon, 07 Feb 2022 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/07/656691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000656649</link>
             <guid>https://n.news.naver.com/article/469/0000656649</guid>
             <pubDate>Mon, 07 Feb 2022 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/07/656649.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,24 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000656477</link>
             <guid>https://n.news.naver.com/article/469/0000656477</guid>
             <pubDate>Sun, 06 Feb 2022 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/06/656477.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아베 마스크’ 사용해도 폐기해도 ‘세금 낭비’ 어찌하나 [특파원24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000656457</link>
-            <guid>https://n.news.naver.com/article/469/0000656457</guid>
-            <pubDate>Sun, 06 Feb 2022 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/06/656457.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“日, 러시아 우크라이나 침공 대비 독자 제재 검토 중”]]></title>
-            <link>https://n.news.naver.com/article/469/0000656453</link>
-            <guid>https://n.news.naver.com/article/469/0000656453</guid>
-            <pubDate>Sun, 06 Feb 2022 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/06/656453.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
