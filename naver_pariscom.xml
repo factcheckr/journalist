@@ -4,23 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 17:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[“삼성전자는 월급 3개월치 보너스 주는데…” 日 언론의 한탄]]></title>
-            <link>https://n.news.naver.com/article/469/0000657406</link>
-            <guid>https://n.news.naver.com/article/469/0000657406</guid>
-            <pubDate>Thu, 10 Feb 2022 05:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21분전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/10/657406.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[“2차 접종 3개월 뒤 항체량 반감, 음주·흡연자는 항체량 적어” 日 연구]]></title>
+            <link>https://n.news.naver.com/article/469/0000657429</link>
+            <guid>https://n.news.naver.com/article/469/0000657429</guid>
+            <pubDate>Thu, 10 Feb 2022 17:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/10/657429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 요청에 LNG 유럽에 보내기로 했지만… 잉여분 별로 없는 日]]></title>
             <link>https://n.news.naver.com/article/469/0000657374</link>
             <guid>https://n.news.naver.com/article/469/0000657374</guid>
             <pubDate>Thu, 10 Feb 2022 05:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/10/657374.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000657209</link>
             <guid>https://n.news.naver.com/article/469/0000657209</guid>
             <pubDate>Wed, 09 Feb 2022 17:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657209.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,11 +48,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 코로나 하루 사망자 역대 최다… 오미크론 중증화율 낮지만 확산 빨라 비상]]></title>
+            <link>https://n.news.naver.com/article/469/0000657101</link>
+            <guid>https://n.news.naver.com/article/469/0000657101</guid>
+            <pubDate>Thu, 10 Feb 2022 17:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657101.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 제약사, 먹는 코로나약 곧 승인 신청... 빠르면 이달 말 실용화]]></title>
             <link>https://n.news.naver.com/article/469/0000656957</link>
             <guid>https://n.news.naver.com/article/469/0000656957</guid>
             <pubDate>Tue, 08 Feb 2022 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/08/656957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000656924</link>
             <guid>https://n.news.naver.com/article/469/0000656924</guid>
             <pubDate>Tue, 08 Feb 2022 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/08/656924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000656691</link>
             <guid>https://n.news.naver.com/article/469/0000656691</guid>
             <pubDate>Mon, 07 Feb 2022 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/07/656691.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“日 정부, 쿠데타 후에도 미얀마군 초청 교육훈련 계속”... 인권단체 비판]]></title>
-            <link>https://n.news.naver.com/article/469/0000656649</link>
-            <guid>https://n.news.naver.com/article/469/0000656649</guid>
-            <pubDate>Mon, 07 Feb 2022 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/07/656649.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
