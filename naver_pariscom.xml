@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 17:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 05:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“삼성전자는 월급 3개월치 보너스 주는데…” 日 언론의 한탄]]></title>
+            <link>https://n.news.naver.com/article/469/0000657406</link>
+            <guid>https://n.news.naver.com/article/469/0000657406</guid>
+            <pubDate>Thu, 10 Feb 2022 05:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/10/657406.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 요청에 LNG 유럽에 보내기로 했지만… 잉여분 별로 없는 日]]></title>
+            <link>https://n.news.naver.com/article/469/0000657374</link>
+            <guid>https://n.news.naver.com/article/469/0000657374</guid>
+            <pubDate>Thu, 10 Feb 2022 05:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/10/657374.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 교도통신 “바이든, 5월 후반 첫 방일 조율 중”… 한국도 방문할까?]]></title>
             <link>https://n.news.naver.com/article/469/0000657209</link>
             <guid>https://n.news.naver.com/article/469/0000657209</guid>
             <pubDate>Wed, 09 Feb 2022 17:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657209.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000657146</link>
             <guid>https://n.news.naver.com/article/469/0000657146</guid>
             <pubDate>Wed, 09 Feb 2022 17:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657146.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,16 +44,8 @@
             <link>https://n.news.naver.com/article/469/0000657117</link>
             <guid>https://n.news.naver.com/article/469/0000657117</guid>
             <pubDate>Wed, 09 Feb 2022 05:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657117.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 코로나 하루 사망자 역대 최다… 오미크론 중증화율 낮지만 확산 빨라 비상]]></title>
-            <link>https://n.news.naver.com/article/469/0000657101</link>
-            <guid>https://n.news.naver.com/article/469/0000657101</guid>
-            <pubDate>Wed, 09 Feb 2022 05:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657101.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日 제약사, 먹는 코로나약 곧 승인 신청... 빠르면 이달 말 실용화]]></title>
@@ -56,6 +64,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/08/656924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[군함도 등 전시 보완 요구에 日 전문가들 "정부가 유네스코 설득해야"... 황당 의견]]></title>
+            <link>https://n.news.naver.com/article/469/0000656855</link>
+            <guid>https://n.news.naver.com/article/469/0000656855</guid>
+            <pubDate>Thu, 10 Feb 2022 05:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/08/656855.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 ‘코로나 쇄국’에 해외기업 투자 보류까지... 심각한 경제 후폭풍]]></title>
             <link>https://n.news.naver.com/article/469/0000656691</link>
             <guid>https://n.news.naver.com/article/469/0000656691</guid>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 07 Feb 2022 17:35:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/07/656649.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“아직도 팩스 써서” 日 오사카, 감염자 수 대규모 누락]]></title>
-            <link>https://n.news.naver.com/article/469/0000656618</link>
-            <guid>https://n.news.naver.com/article/469/0000656618</guid>
-            <pubDate>Wed, 09 Feb 2022 05:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/07/656618.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["日 경제안보법 위반시 기업, 연구자에 최대 징역 2년 처벌"]]></title>
-            <link>https://n.news.naver.com/article/469/0000656477</link>
-            <guid>https://n.news.naver.com/article/469/0000656477</guid>
-            <pubDate>Sun, 06 Feb 2022 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/06/656477.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
