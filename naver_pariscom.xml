@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 05:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 17:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000657905</link>
             <guid>https://n.news.naver.com/article/469/0000657905</guid>
             <pubDate>Sun, 13 Feb 2022 05:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/13/657905.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000657666</link>
             <guid>https://n.news.naver.com/article/469/0000657666</guid>
             <pubDate>Fri, 11 Feb 2022 05:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/11/657666.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000657429</link>
             <guid>https://n.news.naver.com/article/469/0000657429</guid>
             <pubDate>Thu, 10 Feb 2022 17:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/10/657429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000657209</link>
             <guid>https://n.news.naver.com/article/469/0000657209</guid>
             <pubDate>Wed, 09 Feb 2022 17:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657209.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000657146</link>
             <guid>https://n.news.naver.com/article/469/0000657146</guid>
             <pubDate>Wed, 09 Feb 2022 17:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/09/657146.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000656957</link>
             <guid>https://n.news.naver.com/article/469/0000656957</guid>
             <pubDate>Tue, 08 Feb 2022 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/08/656957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
