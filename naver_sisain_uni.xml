@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 17:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 05:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자들의 시선] 코로나19 최초 고발자, 결국 숨지다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030370</link>
+            <guid>https://n.news.naver.com/article/308/0000030370</guid>
+            <pubDate>Tue, 15 Feb 2022 05:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/15/30370.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 오미크론 시나리오: 성문 밖으로 나가시겠습니까?]]></title>
             <link>https://n.news.naver.com/article/308/0000030258</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 01 Jan 2022 02:23:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/28/29977.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2021 올해의 사진] 염치 있는 이를 지키지 못한 자리]]></title>
-            <link>https://n.news.naver.com/article/308/0000029946</link>
-            <guid>https://n.news.naver.com/article/308/0000029946</guid>
-            <pubDate>Sat, 01 Jan 2022 02:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/23/29946.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
