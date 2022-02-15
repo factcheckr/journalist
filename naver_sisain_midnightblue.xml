@@ -4,9 +4,25 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 05:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 17:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 인생에서 운동이란 [2021 행복한 책꽂이]]]></title>
+            <link>https://n.news.naver.com/article/308/0000030355</link>
+            <guid>https://n.news.naver.com/article/308/0000030355</guid>
+            <pubDate>Tue, 15 Feb 2022 17:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/13/30355.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대산업개발, ‘책임’ 빼고 다 가진 ‘미등기임원’ 재벌 가족]]></title>
+            <link>https://n.news.naver.com/article/308/0000030330</link>
+            <guid>https://n.news.naver.com/article/308/0000030330</guid>
+            <pubDate>Tue, 15 Feb 2022 17:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/09/30330.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘20대 여자 현상’, 기후위기 감수성에서도 나타났다]]></title>
             <link>https://n.news.naver.com/article/308/0000030240</link>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 01 Jan 2022 02:23:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/23/29948.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 싸이월드가 돌아온다, 메타버스 타고]]></title>
-            <link>https://n.news.naver.com/article/308/0000029898</link>
-            <guid>https://n.news.naver.com/article/308/0000029898</guid>
-            <pubDate>Sat, 01 Jan 2022 02:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/13/29898.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요소수 대란, “버티는 것 말고는 방법이 없다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000029760</link>
-            <guid>https://n.news.naver.com/article/308/0000029760</guid>
-            <pubDate>Sun, 13 Feb 2022 05:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.11.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/11/17/29760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
