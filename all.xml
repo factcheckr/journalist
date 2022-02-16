@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 17:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,27 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“일본 입국자 격리, 백신 3회 접종 시 3일로 단축” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000658567</link>
+            <guid>https://n.news.naver.com/article/469/0000658567</guid>
+            <pubDate>Wed, 16 Feb 2022 05:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658567.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요미우리 “윤석열 지일파 브레인 많아” 아사히 “대국적 논전 기대” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000658499</link>
+            <guid>https://n.news.naver.com/article/469/0000658499</guid>
+            <pubDate>Wed, 16 Feb 2022 05:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658499.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다 日 총리, 우크라이나 대통령과 오늘 밤 통화한다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000658395</link>
             <guid>https://n.news.naver.com/article/469/0000658395</guid>
             <pubDate>Tue, 15 Feb 2022 17:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658395.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +312,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000658390</link>
             <guid>https://n.news.naver.com/article/469/0000658390</guid>
             <pubDate>Tue, 15 Feb 2022 17:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658390.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +320,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000658352</link>
             <guid>https://n.news.naver.com/article/469/0000658352</guid>
             <pubDate>Tue, 15 Feb 2022 17:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658352.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,7 +328,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000658328</link>
             <guid>https://n.news.naver.com/article/469/0000658328</guid>
             <pubDate>Tue, 15 Feb 2022 17:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +336,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000658319</link>
             <guid>https://n.news.naver.com/article/469/0000658319</guid>
             <pubDate>Tue, 15 Feb 2022 17:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658319.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +344,7 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000658290</link>
             <guid>https://n.news.naver.com/article/469/0000658290</guid>
             <pubDate>Tue, 15 Feb 2022 05:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658290.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,31 +360,23 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <link>https://n.news.naver.com/article/469/0000658051</link>
             <guid>https://n.news.naver.com/article/469/0000658051</guid>
             <pubDate>Mon, 14 Feb 2022 05:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/14/658051.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본서 ‘노 마스크’로 전철 순환선 일주 시위… ‘바이오 테러’ 비난 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000657905</link>
-            <guid>https://n.news.naver.com/article/469/0000657905</guid>
-            <pubDate>Sun, 13 Feb 2022 05:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/13/657905.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당뇨병, 완치의 길 열리나?…日 연구진, 췌장 세포 증식 동물실험 성공 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000657675</link>
-            <guid>https://n.news.naver.com/article/469/0000657675</guid>
-            <pubDate>Mon, 14 Feb 2022 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/11/657675.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[김윤 “거리두기는 아군의 피해가 매우 큰 무기” [민주당 캠프 공약] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030378</link>
+            <guid>https://n.news.naver.com/article/308/0000030378</guid>
+            <pubDate>Wed, 16 Feb 2022 05:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/16/30378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] 코로나19 최초 고발자, 결국 숨지다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030370</link>
             <guid>https://n.news.naver.com/article/308/0000030370</guid>
             <pubDate>Tue, 15 Feb 2022 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/15/30370.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -436,27 +444,11 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30015.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[기자들의 시선] 성탄절, 산타의 썰매만 하늘을 나는 게 아니다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029977</link>
-            <guid>https://n.news.naver.com/article/308/0000029977</guid>
-            <pubDate>Sat, 01 Jan 2022 02:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/28/29977.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 인생에서 운동이란 [2021 행복한 책꽂이] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030355</link>
-            <guid>https://n.news.naver.com/article/308/0000030355</guid>
-            <pubDate>Tue, 15 Feb 2022 17:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/13/30355.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[현대산업개발, ‘책임’ 빼고 다 가진 ‘미등기임원’ 재벌 가족 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030330</link>
             <guid>https://n.news.naver.com/article/308/0000030330</guid>
             <pubDate>Tue, 15 Feb 2022 17:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/09/30330.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -522,6 +514,14 @@ ECB는 3일(현지시간) 통화정책 회의를 열고 기준금리를 현행 0
             <pubDate>Sat, 01 Jan 2022 02:23:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/23/29948.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 싸이월드가 돌아온다, 메타버스 타고 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029898</link>
+            <guid>https://n.news.naver.com/article/308/0000029898</guid>
+            <pubDate>Wed, 16 Feb 2022 05:33:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2021.12.13.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/13/29898.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘진짜 할까?’ 후보 단일화가 궁금하면 이 책을 [2021 행복한 책꽂이] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
