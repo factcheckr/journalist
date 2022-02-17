@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 17:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“명성황후 시해범은 스스로 ‘지사’라 불렀다”... 일본인이 을미사변 연극을 쓴 이유]]></title>
+            <link>https://n.news.naver.com/article/469/0000658711</link>
+            <guid>https://n.news.naver.com/article/469/0000658711</guid>
+            <pubDate>Thu, 17 Feb 2022 05:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/17/658711.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“일본 입국자 격리, 백신 3회 접종 시 3일로 단축”]]></title>
             <link>https://n.news.naver.com/article/469/0000658567</link>
             <guid>https://n.news.naver.com/article/469/0000658567</guid>
             <pubDate>Wed, 16 Feb 2022 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658567.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000658499</link>
             <guid>https://n.news.naver.com/article/469/0000658499</guid>
             <pubDate>Wed, 16 Feb 2022 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658499.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000658319</link>
             <guid>https://n.news.naver.com/article/469/0000658319</guid>
             <pubDate>Tue, 15 Feb 2022 17:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658319.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000658290</link>
             <guid>https://n.news.naver.com/article/469/0000658290</guid>
             <pubDate>Tue, 15 Feb 2022 05:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658290.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Feb 2022 17:35:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/14/658116.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 언론 “한미일 공조 강화 합의에도 한일 관계 개선 전망 안 보여”]]></title>
-            <link>https://n.news.naver.com/article/469/0000658051</link>
-            <guid>https://n.news.naver.com/article/469/0000658051</guid>
-            <pubDate>Mon, 14 Feb 2022 05:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/14/658051.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

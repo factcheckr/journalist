@@ -4,9 +4,25 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 17:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘녹색’으로 가는 길…정치, 준비됐습니까]]></title>
+            <link>https://www.khan.co.kr/environment/environment-general/article/202202170600015/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/environment/environment-general/article/202202170600015/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 17 Feb 2022 05:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[제주도에서 ‘탄소중립’ 실험이 시작된 지 10년째를 맞는 2022년. 한국은 오는 3월과 6월에 각각 치러질 대선과 지방선거라는 대형 정치 이벤트의 소용돌이 속으로 빨려들고 있다. 이제 탄소중립이나 기후위기 문제는 정치권의 ‘구호’에서도 상수가 된 지 오래다. 이재명 더불어민주당, 윤석열 국민의힘, 심상정 정의당, 안철수 국민의당 후보 등 대선 유력주자들 모두 중앙선거관리위원회에 제출한 ‘10대 공약’에 기후위기 대응책을 담았다. 탄소중립을 달성하기 위해서는 시민들과 기업의 노력도 중요하지만 정부의 법·제도 정비와 적극적인 지원 등이 필수적이라는 점에서 환영할 만한 일이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/17/2022021701001873200176175.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치트키 같은 기술은 없다…과학적 사고와 책임있는 정치, 함께 가야]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202170530001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202170530001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 17 Feb 2022 05:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[제주도에서 ‘탄소중립’ 실험이 시작된 지 10년째를 맞는 2022년. 한국은 오는 3월과 6월에 각각 치러질 대선과 지방선거라는 대형 정치 이벤트의 소용돌이 속으로 빨려들고 있다. 이제 탄소중립이나 기후위기 문제는 정치권의 ‘구호’에서도 상수가 된 지 오래다. 이재명 더불어민주당, 윤석열 국민의힘, 심상정 정의당, 안철수 국민의당 후보 등 대선 유력주자들 모두 중앙선거관리위원회에 제출한 ‘10대 공약’에 기후위기 대응책을 담았다. 탄소중립을 달성하기 위해서는 시민들과 기업의 노력도 중요하지만 정부의 법·제도 정비와 적극적인 지원 등이 필수적이라는 점에서 환영할 만한 일이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/17/2022021701001969200176712.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시진핑·마크롱 통화 “우크라이나, 노르망디 형식 회담으로”]]></title>
             <link>https://www.khan.co.kr/world/asia-australia/article/202202162202011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -94,23 +110,6 @@ TASS에 따르면 자하로바 대변인은 이날 자신의 텔레그램 채널
             <content:encoded><![CDATA[멕시코 옛 유물들이 잇따라 프랑스 경매시장에서 거래되자 멕시코 대통령이 “부도덕한 일”이라고 비판했다.
 안드레스 마누엘 로페스 오브라도르 멕시코 대통령은 7일(현지시간) 정례 기자회견에서 “프랑스에서 이뤄지는 경매는 부도덕한 일이며, 출품된 것들이 도난당한 멕시코 예술품임을 알리는 노력을 계속하고 있다”고 말했다고 AP통신이 보도했다. 그는 “프랑스 정부가 이와 관련한 법을 제정하지 않는 것이 유감스럽다”고 말했다. 구매 희망자들을 향해서도 “판매품 상당수는 가짜이며, 범죄자처럼 행동하지 말라라”고 촉구했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/08/2022020801000712100061931.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러·프 정상회담 후 푸틴 “우크라 NATO가입 시 전쟁…평화적 해법 노력하겠다”]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202202080838001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202202080838001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 08 Feb 2022 05:31:37 GMT</pubDate>
-            <content:encoded><![CDATA[블라드미르 푸틴 러시아 대통령이 우크라이나가 북대서양조약기구(NATO)에 가입할 경우 유럽은 전쟁이 발발할 것이라고 밝혔다. 대화는 끝나지 않았다며 평화적 타협안을 찾을 수 있다고도 말했다.
-AFP통신과 프랑스24, TASS통신 등에 따르면 푸틴 대통령은 7일(현지시간) 모스크바에서 에마뉘엘 마크롱 프랑스 대통령과 정상회담 후 가진 공동 기자회견을 통해 이같이 밝혔다. 그는 “유럽 대륙에서 전쟁이 발발할 경우 승자는 없을 것”이라며 “우리는 모두에게 맞는 타협안을 찾기 위해 모든 것을 할 것”이라고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/08/2022020801000768800068341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국, EU 이어 일본과도 철강 추가관세 문제 합의 … 연간 125만t에 관세 폐지]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202202080745001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202202080745001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 08 Feb 2022 05:31:37 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 도널드 트럼프 정부 시절부터 부과했던 일본산 철강에 대한 추가 관세 일부를 면제하기로 했다. 지난해 유럽연합(EU)에서 생산된 철강 수입품에 부과해온 추가 관세 일부를 철폐하기로 합의한 데 이어 주요 동맹국인 일본과도 관세 일부 철폐에 합의한 것이다. 트럼프 정부 시절 관세를 피하기 위해 수출 물량을 제한하는 쿼터제를 선택한 한국은 제한을 완화하기 위한 협상을 제안하고 있지만 미국의 미온적인 태도로 아직 협상이 시작되지 못했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/08/2022020801000769500068401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

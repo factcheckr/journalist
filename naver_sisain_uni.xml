@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 17:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정기석 “현 정부 방역은 비과학적” [국민의힘 캠프 공약]]]></title>
+            <link>https://n.news.naver.com/article/308/0000030380</link>
+            <guid>https://n.news.naver.com/article/308/0000030380</guid>
+            <pubDate>Thu, 17 Feb 2022 05:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/17/30380.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김윤 “거리두기는 아군의 피해가 매우 큰 무기” [민주당 캠프 공약]]]></title>
             <link>https://n.news.naver.com/article/308/0000030378</link>
             <guid>https://n.news.naver.com/article/308/0000030378</guid>
             <pubDate>Wed, 16 Feb 2022 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/16/30378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000030370</link>
             <guid>https://n.news.naver.com/article/308/0000030370</guid>
             <pubDate>Tue, 15 Feb 2022 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/15/30370.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 04 Jan 2022 05:35:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30017.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘비건도’ 맛있는 게 아니라 ‘비건이라서’ 맛있는 거에요]]></title>
-            <link>https://n.news.naver.com/article/308/0000030015</link>
-            <guid>https://n.news.naver.com/article/308/0000030015</guid>
-            <pubDate>Mon, 10 Jan 2022 17:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30015.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
