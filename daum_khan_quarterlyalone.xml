@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-02-18T05:34:17.975Z</updated>
+    <updated>2022-02-18T17:35:54.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[놀이로서 통제는 연인 관계의 통제보다 비정상적일까?]]></title>
+        <id>https://v.daum.net/v/20220218160851904</id>
+        <link href="https://v.daum.net/v/20220218160851904"/>
+        <updated>2022-02-18T17:35:53.970Z</updated>
+        <content type="html"><![CDATA[[경향신문] &lt;모럴센스&gt;는 지난 11일 넷플릭스에서 공개된 로맨스 코미디 영화로, 동명의 웹툰이 원작이다. 유능하지만 애교 없고 무섭다는 평가를 듣는 사원 지우(서현)는 비슷한 이름 때문에 회사 동료인 대리 지후(이준영)의 택배를 잘못 수령하고, 그의 비밀을 알게 된다. BDSM 성향자인 지후가 지우에게 주인님이 되어달라고 부탁하면서 두 사람은 3개월짜리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내 맘대로 되는 건 내 몸뿐'..저성장 시대의 현실을 먹고 자라난 딜레마]]></title>
         <id>https://v.daum.net/v/20220204162923574</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210917152040103"/>
         <updated>2021-10-03T13:16:11.850Z</updated>
         <content type="html"><![CDATA[[경향신문] 추석연휴의 시작이다. 명절을 맞이하는 감정은 개인차와 세대차가 아주 크다. 여전히 사회의 ‘큰’ 틀에서는 명절을 전통적 색감과 명암으로 표현하고 싶어 한다. 따뜻한, 풍성한, 반가운, 가족의 사랑을 확인하는, 행복한 등등. 공중파를 틀면 나오는 장면 말이다. 하지만 디테일에서는 어쩔 수 없는 현실이 호주머니 속 송곳처럼 삐져나온다. 명절 노]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금쪽같은 내새끼' 아끼는 첫걸음은 '좋은 엄마, 아빠' 강박 내려놓기]]></title>
-        <id>https://v.daum.net/v/20210903161640918</id>
-        <link href="https://v.daum.net/v/20210903161640918"/>
-        <updated>2021-10-03T13:16:11.851Z</updated>
-        <content type="html"><![CDATA[[경향신문] 나에게는 올해 스무 살, 열아홉 살인 동생들이 있다. 각각 2002년생과 2003년생이다. 내가 중학생일 때 태어난 그 애들로부터 나는 많은 것을 배웠다. 동생들이 행복하길 바랐기에 엄마가 사들이는 육아 서적을 함께 읽었다. 그러면서 희미하게 느꼈다. 육아에도 트렌드가 있구나. 내가 자랄 때와 다르구나. 실제로 시대가 바뀌고 정보량과 관점이]]></content>
     </entry>
 </feed>

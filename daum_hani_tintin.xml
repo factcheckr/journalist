@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-02-18T05:34:17.977Z</updated>
+    <updated>2022-02-18T17:35:54.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혐오정치와 차별 맞선 '호프펑크'를 아시나요?]]></title>
+        <id>https://entertain.v.daum.net/v/20220218190601522</id>
+        <link href="https://entertain.v.daum.net/v/20220218190601522"/>
+        <updated>2022-02-18T17:35:40.939Z</updated>
+        <content type="html"><![CDATA[“호프펑크(Hopepunk)에 대해서 한번 써보면 어때요?” 동료 작가가 내게 칼럼 주제를 제안했을 때, 나는 처음 듣는 단어 앞에서 움찔했다. “호프펑크가 뭔가요?” 한국어 기반 온라인 문서 중에는 호프펑크라는 키워드로 검색에 걸리는 글이 없었다. 동료는 내게 조용히 호프펑크에 대해 다룬 영미권 언론 기사를 보내주었다. 비관과 불신 몰아내는 ‘호프펑크’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만만한 상대만 때리는 SNL코리아의 '속빈 풍자']]></title>
         <id>https://entertain.v.daum.net/v/20220206090601188</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210521193604095"/>
         <updated>2021-10-07T17:43:00.230Z</updated>
         <content type="html"><![CDATA[븨븨(VV)엔터테인먼트 소속의 여성 케이팝 아티스트 ‘아뽀키’는 지난 2월22일 첫번째 디지털 싱글 ‘겟 잇 아웃’(Get it out)을 발매했다. 제트(Z)세대 아티스트들이 흔히 그렇듯 그 또한 다른 가수들의 노래를 커버한 영상을 온라인에 올리고, 라이브 채팅으로 팬들과 소통하며 차근차근 이름을 알리는 계단을 밟아 올라왔다. 그가 2019년 4월 유튜브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박나래의 성적 농담이 불쾌하다는 남성들에게]]></title>
-        <id>https://entertain.v.daum.net/v/20210508111607937</id>
-        <link href="https://entertain.v.daum.net/v/20210508111607937"/>
-        <updated>2021-10-07T17:43:00.232Z</updated>
-        <content type="html"><![CDATA[2018년도의 일이다. 미국에서 활동하는 남아프리카공화국 출신의 코미디언 트레버 노아는 그해 러시아 월드컵에서 프랑스 대표팀이 승리한 것을 축하하며 “아프리카 팀의 승리를 축하한다”고 했다가 일부 프랑스인들로부터 항의를 받았다. 트레버 노아는 23명의 대표팀 선수 중 14명이 아프리카에서 기원한 흑인 혈통이라는 점을 짚으며 그 사실을 기념한 것인데, “아프]]></content>
     </entry>
 </feed>

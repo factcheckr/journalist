@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 05:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 17:35:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트윗 못 참는 머스크…캐나다 총리 히틀러 비유했다 논란]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202202181517001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/america/article/202202181517001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 18 Feb 2022 17:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[트위터로 주가에 영향을 미친 혐의로 미국 증권거래위원회(SEC)로부터 조사를 받고 있는 테슬라 최고경영자 일론 머스크가 섣부른 트위터 사용으로 또 구설수에 올랐다. 캐나다 총리를 히틀러에 비유한 것이다.
+로이터통신에 따르면 머스크는 16일(현지시간) 캐나다에서 벌어진 백신 접종 의무화 반대 시위를 지지하는 가상통화 거래 관련 뉴스사이트를 언급하며 저스틴 트뤼도 캐나다 총리를 아돌프 히틀러에 비유하는 게시물을 올렸다. 앞서 머스크는 지난달에도 도로와 다리 등을 봉쇄하며 시위를 벌인 캐나다 트럭 운전사들을 지지한다는 트윗을 작성했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/18/2022021801002190800197481.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강의 동영상 5개 동시에 틀어놓고 …일 와세다대 비대면수업 부정행위 무더기 적발]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202202181114001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -21,9 +30,9 @@
             <link>https://www.khan.co.kr/world/america/article/202202181024001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/world/america/article/202202181024001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Fri, 18 Feb 2022 05:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[미국 법무부가 사이버 범죄자들이 자행하는 가상통화 범죄 수사를 전담할 신규 부서를 만들었다.
-리사 모나코 미 법무부 차관은 17일(현지시간) 가상통화 및 기타 디지털 자산의 악용을 식별·제거하기 위한 역할을 할 국가 가상화폐 단속국을 신설하고 사이버안보 전문가인 최은영 검사를 초대 국장으로 임명했다고 발표했다. 단속국은 가상화폐 사기를 집중 추적해 수사한 뒤 기소까지 담당하게 된다. 미국에서는 법무부가 검찰 기능을 겸하고 있다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/18/2022021801002151800193711.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[미국 법무부가 가상통화 범죄 수사를 전담할 신규 부서를 만들었다.
+리사 모나코 미 법무부 차관은 17일(현지시간) 가상통화 및 기타 디지털 자산의 악용을 식별·제거하기 위한 역할을 할 국가 가상화폐 단속국을 신설하고 사이버안보 전문가인 최은영 검사를 초대 국장으로 임명했다고 발표했다. 단속국은 가상화폐 사기를 집중 추적해 수사한 뒤 기소까지 담당하게 된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/18/2022021801002195200197881.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍수로 무너진 브라질 '제국의 도시' 페트로폴리스]]></title>
@@ -103,15 +112,6 @@ TASS에 따르면 자하로바 대변인은 이날 자신의 텔레그램 채널
             <pubDate>Wed, 16 Feb 2022 17:34:20 GMT</pubDate>
             <content:encoded><![CDATA[미국 증권거래위원회는 세계 최대 가상통화 거래소인 바이낸스의 미국 법인과 바이낸스 설립자인 중국계 캐나다인 창펑 자오와 관계된 무역회사 두 곳 간의 관계를 조사하고 있다고 월스트리트저널(WSJ)이 15일(현지시간) 보도했다. WSJ에 따르면 SEC는 바이낸스와 함께 시그마 체인 AG와 메리트 피크라는 두 회사를 들여다보고 있다. 이 회사들은 모두 바이낸스 미국지사에서 가상통화를 거래한다. 2019년 공개된 문서에 따르면 바이낸스 최고경영자(CEO) 자오가 실질적으로 지배하는 회사라는 정황이 있다. 부당거래가 가능할 수 있으므로 이 회사들의 정보를 공개하라는 것이 SEC의 입장이다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/16/2022021601001895400170151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 작가 “국민들 공황 없다···그저 살아갈 뿐”]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202202140600011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202202140600011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 14 Feb 2022 05:31:48 GMT</pubDate>
-            <content:encoded><![CDATA[“정신병도 공황도 없습니다. 모두가 그저 자신의 삶을 살아갑니다.”
-우크라이나의 수도 키예프에 살고 있는 소설가 안드레이 쿠르코프가 13일(현지시간) AFP통신에 전한 현지 분위기이다. 쿠르코프는 옛 소련 시절인 1961년 러시아 상트페레트부르크(소련 시절 이름 레닌그라드)에서 태어났으며 현재는 우크라이나와 유럽을 오가며 소설가, 정치평론가, 영화 시나리오 작가 등으로 활동한다. 우크라이나 인구의 30%에 해당하는 러시아어를 모어로 하는 우크라이나인 중 한 명이다. 방송에서는 우크라이나어를 사용하지만 집에서는 러시아어로 말하며 소설도 러시아어로 쓴다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/14/2022021401001496300134502.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
