@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 17:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 05:34:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 기시다 지지율 40%대로 하락… 여론은 “코로나 행동제한 완화해야”]]></title>
+            <link>https://n.news.naver.com/article/469/0000659240</link>
+            <guid>https://n.news.naver.com/article/469/0000659240</guid>
+            <pubDate>Sun, 20 Feb 2022 05:33:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/20/659240.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IAEA 조사단, “오염수 방류에 반대·승인은 안 해” 4월에 보고서 발표]]></title>
             <link>https://n.news.naver.com/article/469/0000659116</link>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000658711</link>
             <guid>https://n.news.naver.com/article/469/0000658711</guid>
             <pubDate>Thu, 17 Feb 2022 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/17/658711.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,8 +60,16 @@
             <link>https://n.news.naver.com/article/469/0000658567</link>
             <guid>https://n.news.naver.com/article/469/0000658567</guid>
             <pubDate>Wed, 16 Feb 2022 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658567.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요미우리 “윤석열 지일파 브레인 많아” 아사히 “대국적 논전 기대”]]></title>
+            <link>https://n.news.naver.com/article/469/0000658499</link>
+            <guid>https://n.news.naver.com/article/469/0000658499</guid>
+            <pubDate>Sun, 20 Feb 2022 05:33:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658499.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 日 총리, 우크라이나 대통령과 오늘 밤 통화한다]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 15 Feb 2022 17:34:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658390.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, '여성 재혼 금지기간' 120년 만에 없앤다]]></title>
-            <link>https://n.news.naver.com/article/469/0000658352</link>
-            <guid>https://n.news.naver.com/article/469/0000658352</guid>
-            <pubDate>Tue, 15 Feb 2022 17:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658352.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 작년 경제성장률 1.7%… 3년 만에 플러스 성장]]></title>
-            <link>https://n.news.naver.com/article/469/0000658328</link>
-            <guid>https://n.news.naver.com/article/469/0000658328</guid>
-            <pubDate>Tue, 15 Feb 2022 17:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
