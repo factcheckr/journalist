@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 05:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 17:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“병상 수 1위 일본서 병상 압박이라니… 의료 체계 정부 지휘권 강화해야”]]></title>
+            <link>https://n.news.naver.com/article/469/0000659478</link>
+            <guid>https://n.news.naver.com/article/469/0000659478</guid>
+            <pubDate>Mon, 21 Feb 2022 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/21/659478.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[G7 외교장관, 러시아 침공 시 “금융·경제 제재 엄청난 결과 초래”]]></title>
             <link>https://n.news.naver.com/article/469/0000659262</link>
             <guid>https://n.news.naver.com/article/469/0000659262</guid>
             <pubDate>Sun, 20 Feb 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/20/659262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000659116</link>
             <guid>https://n.news.naver.com/article/469/0000659116</guid>
             <pubDate>Fri, 18 Feb 2022 17:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/18/659116.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000658912</link>
             <guid>https://n.news.naver.com/article/469/0000658912</guid>
             <pubDate>Thu, 17 Feb 2022 17:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/17/658912.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000658829</link>
             <guid>https://n.news.naver.com/article/469/0000658829</guid>
             <pubDate>Thu, 17 Feb 2022 17:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/17/658829.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000658809</link>
             <guid>https://n.news.naver.com/article/469/0000658809</guid>
             <pubDate>Thu, 17 Feb 2022 17:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/17/658809.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Feb 2022 05:33:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658499.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 日 총리, 우크라이나 대통령과 오늘 밤 통화한다]]></title>
-            <link>https://n.news.naver.com/article/469/0000658395</link>
-            <guid>https://n.news.naver.com/article/469/0000658395</guid>
-            <pubDate>Tue, 15 Feb 2022 17:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/15/658395.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
