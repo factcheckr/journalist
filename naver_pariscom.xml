@@ -4,23 +4,15 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 17:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:34:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[비트코인 거래 소득세 떼는 일본, “신고 안 했다가 20억원 세금도”]]></title>
-            <link>https://n.news.naver.com/article/469/0000659271</link>
-            <guid>https://n.news.naver.com/article/469/0000659271</guid>
-            <pubDate>Sun, 20 Feb 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/20/659271.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[G7 외교장관, 러시아 침공 시 “금융·경제 제재 엄청난 결과 초래”]]></title>
             <link>https://n.news.naver.com/article/469/0000659262</link>
             <guid>https://n.news.naver.com/article/469/0000659262</guid>
             <pubDate>Sun, 20 Feb 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/20/659262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000659240</link>
             <guid>https://n.news.naver.com/article/469/0000659240</guid>
             <pubDate>Sun, 20 Feb 2022 05:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/20/659240.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000658711</link>
             <guid>https://n.news.naver.com/article/469/0000658711</guid>
             <pubDate>Thu, 17 Feb 2022 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/17/658711.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,8 +68,16 @@
             <link>https://n.news.naver.com/article/469/0000658567</link>
             <guid>https://n.news.naver.com/article/469/0000658567</guid>
             <pubDate>Wed, 16 Feb 2022 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658567.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요미우리 “윤석열 지일파 브레인 많아” 아사히 “대국적 논전 기대”]]></title>
+            <link>https://n.news.naver.com/article/469/0000658499</link>
+            <guid>https://n.news.naver.com/article/469/0000658499</guid>
+            <pubDate>Mon, 21 Feb 2022 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658499.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 日 총리, 우크라이나 대통령과 오늘 밤 통화한다]]></title>

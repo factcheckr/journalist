@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 17:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:34:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또다시 ‘구급차 출산’으로 내몰리는 코로나19 확진 산모들]]></title>
+            <link>https://n.news.naver.com/article/308/0000030408</link>
+            <guid>https://n.news.naver.com/article/308/0000030408</guid>
+            <pubDate>Mon, 21 Feb 2022 05:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/21/30408.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정기석 “현 정부 방역은 비과학적” [국민의힘 캠프 공약]]]></title>
             <link>https://n.news.naver.com/article/308/0000030380</link>
             <guid>https://n.news.naver.com/article/308/0000030380</guid>
             <pubDate>Thu, 17 Feb 2022 05:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/17/30380.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000030378</link>
             <guid>https://n.news.naver.com/article/308/0000030378</guid>
             <pubDate>Wed, 16 Feb 2022 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/16/30378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000030370</link>
             <guid>https://n.news.naver.com/article/308/0000030370</guid>
             <pubDate>Tue, 15 Feb 2022 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/15/30370.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Jan 2022 17:46:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/05/30020.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 지난 해 소상공인, 몇 명이나 줄었을까?]]></title>
-            <link>https://n.news.naver.com/article/308/0000030017</link>
-            <guid>https://n.news.naver.com/article/308/0000030017</guid>
-            <pubDate>Tue, 04 Jan 2022 05:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/04/30017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
