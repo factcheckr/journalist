@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 17:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 05:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전용 화장장까지…오사카, 日 코로나 최다 사망자 나오는 이유]]></title>
+            <link>https://n.news.naver.com/article/469/0000659643</link>
+            <guid>https://n.news.naver.com/article/469/0000659643</guid>
+            <pubDate>Tue, 22 Feb 2022 05:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>37분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/22/659643.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日, 대러시아 제재 2014년보다 세질 듯, "중국 때문"]]></title>
+            <link>https://n.news.naver.com/article/469/0000659631</link>
+            <guid>https://n.news.naver.com/article/469/0000659631</guid>
+            <pubDate>Tue, 22 Feb 2022 05:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/22/659631.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“병상 수 1위 일본서 병상 압박이라니… 의료 체계 정부 지휘권 강화해야”]]></title>
             <link>https://n.news.naver.com/article/469/0000659478</link>
             <guid>https://n.news.naver.com/article/469/0000659478</guid>
             <pubDate>Mon, 21 Feb 2022 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/21/659478.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000659240</link>
             <guid>https://n.news.naver.com/article/469/0000659240</guid>
             <pubDate>Sun, 20 Feb 2022 05:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/20/659240.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,24 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000658711</link>
             <guid>https://n.news.naver.com/article/469/0000658711</guid>
             <pubDate>Thu, 17 Feb 2022 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/17/658711.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“일본 입국자 격리, 백신 3회 접종 시 3일로 단축”]]></title>
-            <link>https://n.news.naver.com/article/469/0000658567</link>
-            <guid>https://n.news.naver.com/article/469/0000658567</guid>
-            <pubDate>Wed, 16 Feb 2022 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658567.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요미우리 “윤석열 지일파 브레인 많아” 아사히 “대국적 논전 기대”]]></title>
-            <link>https://n.news.naver.com/article/469/0000658499</link>
-            <guid>https://n.news.naver.com/article/469/0000658499</guid>
-            <pubDate>Mon, 21 Feb 2022 05:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/16/658499.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
