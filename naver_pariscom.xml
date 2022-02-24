@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 17:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:34:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명·윤석열 외교 브레인, 日 신문에 "한일 관계 개선 의지" 한목소리]]></title>
+            <link>https://n.news.naver.com/article/469/0000660130</link>
+            <guid>https://n.news.naver.com/article/469/0000660130</guid>
+            <pubDate>Thu, 24 Feb 2022 05:34:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/24/660130.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 야당, 40년 만에 첫 정부예산안 찬성... “여당 품으로?” 야권 비판 쇄도]]></title>
             <link>https://n.news.naver.com/article/469/0000659981</link>
             <guid>https://n.news.naver.com/article/469/0000659981</guid>
             <pubDate>Wed, 23 Feb 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/23/659981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000659927</link>
             <guid>https://n.news.naver.com/article/469/0000659927</guid>
             <pubDate>Wed, 23 Feb 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/23/659927.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000659880</link>
             <guid>https://n.news.naver.com/article/469/0000659880</guid>
             <pubDate>Wed, 23 Feb 2022 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/23/659880.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000659631</link>
             <guid>https://n.news.naver.com/article/469/0000659631</guid>
             <pubDate>Tue, 22 Feb 2022 05:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/22/659631.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Feb 2022 17:36:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/20/659271.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[G7 외교장관, 러시아 침공 시 “금융·경제 제재 엄청난 결과 초래”]]></title>
-            <link>https://n.news.naver.com/article/469/0000659262</link>
-            <guid>https://n.news.naver.com/article/469/0000659262</guid>
-            <pubDate>Sun, 20 Feb 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/20/659262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
