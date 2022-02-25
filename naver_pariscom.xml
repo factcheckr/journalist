@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 17:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 05:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본, 대러 금융기관 자산 동결·반도체 수출 규제 등 추가 제재 발표]]></title>
+            <link>https://n.news.naver.com/article/469/0000660327</link>
+            <guid>https://n.news.naver.com/article/469/0000660327</guid>
+            <pubDate>Fri, 25 Feb 2022 05:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/25/660327.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재명·윤석열 외교 브레인, 日 신문에 "한일 관계 개선 의지" 한목소리]]></title>
             <link>https://n.news.naver.com/article/469/0000660130</link>
             <guid>https://n.news.naver.com/article/469/0000660130</guid>
             <pubDate>Thu, 24 Feb 2022 05:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/24/660130.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000659880</link>
             <guid>https://n.news.naver.com/article/469/0000659880</guid>
             <pubDate>Wed, 23 Feb 2022 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/23/659880.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000659631</link>
             <guid>https://n.news.naver.com/article/469/0000659631</guid>
             <pubDate>Tue, 22 Feb 2022 05:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/22/659631.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Feb 2022 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/21/659478.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인 거래 소득세 떼는 일본, “신고 안 했다가 20억원 세금도”]]></title>
-            <link>https://n.news.naver.com/article/469/0000659271</link>
-            <guid>https://n.news.naver.com/article/469/0000659271</guid>
-            <pubDate>Tue, 22 Feb 2022 17:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/20/659271.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
