@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 05:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 17:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 팬데믹의 끝, 최선의 결말은 무엇일까]]></title>
+            <link>https://n.news.naver.com/article/308/0000030436</link>
+            <guid>https://n.news.naver.com/article/308/0000030436</guid>
+            <pubDate>Tue, 01 Mar 2022 17:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/25/30436.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프리스타일] ‘여섯 글자’ 공약 뒤에는 어떤 삶이 있다]]></title>
             <link>https://n.news.naver.com/article/308/0000030427</link>
@@ -22,6 +30,14 @@
             <pubDate>Wed, 23 Feb 2022 05:33:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/23/30421.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[외신 한 컷] 기후위기, 가축에게도 예외는 없다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030420</link>
+            <guid>https://n.news.naver.com/article/308/0000030420</guid>
+            <pubDate>Tue, 01 Mar 2022 17:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/23/30420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[또다시 ‘구급차 출산’으로 내몰리는 코로나19 확진 산모들]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 31 Jan 2022 17:35:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/25/30237.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“저는 코로나19 확진자 35명의 주치의입니다.”]]></title>
-            <link>https://n.news.naver.com/article/308/0000030051</link>
-            <guid>https://n.news.naver.com/article/308/0000030051</guid>
-            <pubDate>Tue, 11 Jan 2022 05:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/11/30051.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재 뒷담화] 글보다 사진이 더 마음을 건드리는 순간]]></title>
-            <link>https://n.news.naver.com/article/308/0000030033</link>
-            <guid>https://n.news.naver.com/article/308/0000030033</guid>
-            <pubDate>Fri, 07 Jan 2022 05:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/07/30033.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
