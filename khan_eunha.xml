@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 17:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 05:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나·러시아 1차 회담 종료…우크라이나는 EU가입 신청]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202203010303001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202203010303001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 01 Mar 2022 05:31:29 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 침공 닷새만에 양측이 협상 테이블에 마주 앉았지만 합의점을 찾는데 실패했다. 양측은 다만 일부 합의가 가능한 의제를 확인했으며 조만간 2차 회담을 갖기로 했다.
+우크라이나와 러시아 대표단은 교전 5일째인 28일(현지시간) 벨라루스 국경도시 고멜에서 회담을 열었다. 이날 오후 4시쯤 시작된 회담은 약 5시간 동안 진행됐다. 우크라이나는 휴전과 러시아군의 즉각 철군 및 돈바스 지역 영토반환을 요구했으며 러시아는 우크라이나 중립화 방안을 요구한 것으로 알려졌다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/03/01/2022030101000106800004381.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대화 임박한 시간에도 수십명 사망…대규모 러 병력 키예프 포위]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202202282128005/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -100,14 +109,6 @@
             <guid>https://www.khan.co.kr/world/europe-russia/article/202202242248005/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Thu, 24 Feb 2022 17:35:59 GMT</pubDate>
             <content:encoded><![CDATA[충격과 공포, 불안이 우크라이나 전역을 뒤덮었다. 러시아의 침공으로 전면전에 돌입한 24일(현지시간) 수도 키예프를 비롯한 우크라이나 주요 도시에서는 러시아와 반대편인 서쪽으로 탈출하려는 자동차 행렬이 이어졌다. 학교는 문을 닫고 떠나지 못한 사람들은 지하 공간으로 대피했다. 러시아의 침공으로 전면전이 시작된 우크라이나에는 계엄령이 선포됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폭발음에 잠 깬 우크라이나 시민들, 키예프 함락 공포에 '탈출 행렬']]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202202242107001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202202242107001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 24 Feb 2022 17:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[충격과 공포, 불안이 우크라이나 전역을 뒤덮었다. 러시아의 침공으로 전면전에 돌입한 24일(현지시간) 수도 키예프를 비롯한 우크라이나 주요 도시에서는 러시아와 반대편인 서쪽으로 탈출하려는 자동차 행렬이 이어졌다. 학교는 문을 닫고 떠나지 못한 사람들은 지하 공간으로 대피했다. 러시아군이 키예프까지 진입할 것이라는 공포가 시민들 사이에 번졌다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/02/24/2022022401003076400277001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
