@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 17:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,11 +280,19 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘우크라이나 교훈은 핵 보유’ 日 정치권 ‘비핵 3원칙’ 재검토 주장 잇따라 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000661264</link>
+            <guid>https://n.news.naver.com/article/469/0000661264</guid>
+            <pubDate>Wed, 02 Mar 2022 17:36:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/02/661264.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日언론 “中 지도부, 막판까지 러시아 침공 안 할 것으로 오산” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000661017</link>
             <guid>https://n.news.naver.com/article/469/0000661017</guid>
             <pubDate>Tue, 01 Mar 2022 17:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/661017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +300,7 @@
             <link>https://n.news.naver.com/article/469/0000661004</link>
             <guid>https://n.news.naver.com/article/469/0000661004</guid>
             <pubDate>Tue, 01 Mar 2022 17:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/661004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +324,7 @@
             <link>https://n.news.naver.com/article/469/0000660635</link>
             <guid>https://n.news.naver.com/article/469/0000660635</guid>
             <pubDate>Tue, 01 Mar 2022 17:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/27/660635.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +332,7 @@
             <link>https://n.news.naver.com/article/469/0000660407</link>
             <guid>https://n.news.naver.com/article/469/0000660407</guid>
             <pubDate>Wed, 02 Mar 2022 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/25/660407.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +340,7 @@
             <link>https://n.news.naver.com/article/469/0000660399</link>
             <guid>https://n.news.naver.com/article/469/0000660399</guid>
             <pubDate>Fri, 25 Feb 2022 17:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/25/660399.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -350,14 +358,6 @@
             <pubDate>Thu, 24 Feb 2022 05:34:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/24/660130.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 야당, 40년 만에 첫 정부예산안 찬성... “여당 품으로?” 야권 비판 쇄도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000659981</link>
-            <guid>https://n.news.naver.com/article/469/0000659981</guid>
-            <pubDate>Wed, 23 Feb 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/23/659981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자의 추천 책] 팬데믹의 끝, 최선의 결말은 무엇일까 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
