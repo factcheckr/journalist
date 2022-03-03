@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 17:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 05:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,11 +280,27 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본, 우크라이나 피란민 받는다… 할인점 ‘돈키호테’도 100가구 수용 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000661441</link>
+            <guid>https://n.news.naver.com/article/469/0000661441</guid>
+            <pubDate>Thu, 03 Mar 2022 05:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>22분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/03/661441.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열-안철수 단일화, 일본 언론도 신속 보도… “한국 정권 교체 가능성 커져” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000661401</link>
+            <guid>https://n.news.naver.com/article/469/0000661401</guid>
+            <pubDate>Thu, 03 Mar 2022 05:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/03/661401.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘우크라이나 교훈은 핵 보유’ 日 정치권 ‘비핵 3원칙’ 재검토 주장 잇따라 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000661264</link>
             <guid>https://n.news.naver.com/article/469/0000661264</guid>
             <pubDate>Wed, 02 Mar 2022 17:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/02/661264.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +324,7 @@
             <link>https://n.news.naver.com/article/469/0000660981</link>
             <guid>https://n.news.naver.com/article/469/0000660981</guid>
             <pubDate>Tue, 01 Mar 2022 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/660981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +332,7 @@
             <link>https://n.news.naver.com/article/469/0000660938</link>
             <guid>https://n.news.naver.com/article/469/0000660938</guid>
             <pubDate>Tue, 01 Mar 2022 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/660938.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,27 +360,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/25/660399.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본, 대러 금융기관 자산 동결·반도체 수출 규제 등 추가 제재 발표 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000660327</link>
-            <guid>https://n.news.naver.com/article/469/0000660327</guid>
-            <pubDate>Fri, 25 Feb 2022 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/25/660327.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명·윤석열 외교 브레인, 日 신문에 "한일 관계 개선 의지" 한목소리 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000660130</link>
-            <guid>https://n.news.naver.com/article/469/0000660130</guid>
-            <pubDate>Thu, 24 Feb 2022 05:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/02/24/660130.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[기자의 추천 책] 팬데믹의 끝, 최선의 결말은 무엇일까 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030436</link>
             <guid>https://n.news.naver.com/article/308/0000030436</guid>
             <pubDate>Tue, 01 Mar 2022 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/25/30436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -372,7 +372,7 @@
             <link>https://n.news.naver.com/article/308/0000030427</link>
             <guid>https://n.news.naver.com/article/308/0000030427</guid>
             <pubDate>Thu, 24 Feb 2022 05:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/24/30427.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -380,7 +380,7 @@
             <link>https://n.news.naver.com/article/308/0000030421</link>
             <guid>https://n.news.naver.com/article/308/0000030421</guid>
             <pubDate>Wed, 23 Feb 2022 05:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.02.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/23/30421.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -388,7 +388,7 @@
             <link>https://n.news.naver.com/article/308/0000030420</link>
             <guid>https://n.news.naver.com/article/308/0000030420</guid>
             <pubDate>Tue, 01 Mar 2022 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.02.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/23/30420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -438,6 +438,14 @@
             <pubDate>Mon, 31 Jan 2022 17:35:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/25/30237.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6살 성폭력 피해아동이 법정에 서야 하는 나라 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030475</link>
+            <guid>https://n.news.naver.com/article/308/0000030475</guid>
+            <pubDate>Thu, 03 Mar 2022 05:34:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/03/30475.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3월9일, 동물들이 투표하러 간다면 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -512,19 +520,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/24/29953.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[외신 한 컷] 20명의 축구선수는 모두 한 다리가 없다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000029952</link>
-            <guid>https://n.news.naver.com/article/308/0000029952</guid>
-            <pubDate>Sat, 01 Jan 2022 02:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/24/29952.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 검찰 공약 살펴보니 “뼛속까지 검찰주의자” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030454</link>
             <guid>https://n.news.naver.com/article/308/0000030454</guid>
             <pubDate>Mon, 28 Feb 2022 05:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/28/30454.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
