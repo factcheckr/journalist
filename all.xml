@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 17:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 05:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,7 +284,7 @@
             <link>https://n.news.naver.com/article/469/0000661441</link>
             <guid>https://n.news.naver.com/article/469/0000661441</guid>
             <pubDate>Thu, 03 Mar 2022 05:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/03/661441.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +292,7 @@
             <link>https://n.news.naver.com/article/469/0000661401</link>
             <guid>https://n.news.naver.com/article/469/0000661401</guid>
             <pubDate>Thu, 03 Mar 2022 05:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/03/661401.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +324,7 @@
             <link>https://n.news.naver.com/article/469/0000660981</link>
             <guid>https://n.news.naver.com/article/469/0000660981</guid>
             <pubDate>Tue, 01 Mar 2022 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/660981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +332,7 @@
             <link>https://n.news.naver.com/article/469/0000660938</link>
             <guid>https://n.news.naver.com/article/469/0000660938</guid>
             <pubDate>Tue, 01 Mar 2022 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/660938.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,7 +364,7 @@
             <link>https://n.news.naver.com/article/308/0000030436</link>
             <guid>https://n.news.naver.com/article/308/0000030436</guid>
             <pubDate>Tue, 01 Mar 2022 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/25/30436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -372,7 +372,7 @@
             <link>https://n.news.naver.com/article/308/0000030427</link>
             <guid>https://n.news.naver.com/article/308/0000030427</guid>
             <pubDate>Thu, 24 Feb 2022 05:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.02.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/24/30427.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -438,14 +438,6 @@
             <pubDate>Mon, 31 Jan 2022 17:35:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/25/30237.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6살 성폭력 피해아동이 법정에 서야 하는 나라 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030475</link>
-            <guid>https://n.news.naver.com/article/308/0000030475</guid>
-            <pubDate>Thu, 03 Mar 2022 05:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/03/30475.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3월9일, 동물들이 투표하러 간다면 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -520,11 +512,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/24/29953.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[외신 한 컷] 20명의 축구선수는 모두 한 다리가 없다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000029952</link>
+            <guid>https://n.news.naver.com/article/308/0000029952</guid>
+            <pubDate>Fri, 04 Mar 2022 05:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2021.12.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/24/29952.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 검찰 공약 살펴보니 “뼛속까지 검찰주의자” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030454</link>
             <guid>https://n.news.naver.com/article/308/0000030454</guid>
             <pubDate>Mon, 28 Feb 2022 05:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/28/30454.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
