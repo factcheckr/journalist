@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-03-04T05:33:56.845Z</updated>
+    <updated>2022-03-04T17:37:19.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[범죄를 택한 건 소년이지만 그들을 보호 안 한 사회도 '유죄'다]]></title>
+        <id>https://v.daum.net/v/20220304162350650</id>
+        <link href="https://v.daum.net/v/20220304162350650"/>
+        <updated>2022-03-04T17:37:18.497Z</updated>
+        <content type="html"><![CDATA[[경향신문] “저는 소년범을 혐오합니다.” 넷플릭스 오리지널 드라마 &lt;소년심판&gt;은 방영 전부터 강렬한 카피로 화제가 되었다. 소년법과 형사미성년자 제도를 주제로 하는 드라마로, 김혜수가 소년범을 혐오하는 판사 심은석 역을 맡았다. 지방법원 소년부에 부임한 우배석(작가가 가상으로 만든 ‘소년형사합의부’에는 총 3명의 판사가 재판에 참여한다. 재판장, 좌배석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[놀이로서 통제는 연인 관계의 통제보다 비정상적일까?]]></title>
         <id>https://v.daum.net/v/20220218160851904</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211001161557819"/>
         <updated>2021-10-03T13:16:11.849Z</updated>
         <content type="html"><![CDATA[[경향신문] 소년만화를 좋아했다. 우정, 노력, 승리, 모험과 성장, 눈물과 콧물과 땀, 가슴이 뜨거워지는 경쟁…. 시들해진 것은 언젠가부터 그 세계에는 내 자리가 없다는 사실을 깨달은 뒤다. 순정만화의 풍부한 스펙트럼과 별개로, 여캐(여자 캐릭터)가 주인공인 서사는 전체적으로 봤을 때 턱없이 부족했다. 여캐는 주인공의 친구이거나, 첫사랑이거나, 매니저이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뒤바꿔본 성역할.. 일상 속 가사노동의 불평등을 다시 생각하다]]></title>
-        <id>https://v.daum.net/v/20210917152040103</id>
-        <link href="https://v.daum.net/v/20210917152040103"/>
-        <updated>2021-10-03T13:16:11.850Z</updated>
-        <content type="html"><![CDATA[[경향신문] 추석연휴의 시작이다. 명절을 맞이하는 감정은 개인차와 세대차가 아주 크다. 여전히 사회의 ‘큰’ 틀에서는 명절을 전통적 색감과 명암으로 표현하고 싶어 한다. 따뜻한, 풍성한, 반가운, 가족의 사랑을 확인하는, 행복한 등등. 공중파를 틀면 나오는 장면 말이다. 하지만 디테일에서는 어쩔 수 없는 현실이 호주머니 속 송곳처럼 삐져나온다. 명절 노]]></content>
     </entry>
 </feed>
