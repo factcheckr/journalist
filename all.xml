@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 17:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 05:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,7 +284,7 @@
             <link>https://n.news.naver.com/article/469/0000661441</link>
             <guid>https://n.news.naver.com/article/469/0000661441</guid>
             <pubDate>Thu, 03 Mar 2022 05:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/03/661441.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +292,7 @@
             <link>https://n.news.naver.com/article/469/0000661401</link>
             <guid>https://n.news.naver.com/article/469/0000661401</guid>
             <pubDate>Thu, 03 Mar 2022 05:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/03/661401.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +324,7 @@
             <link>https://n.news.naver.com/article/469/0000660981</link>
             <guid>https://n.news.naver.com/article/469/0000660981</guid>
             <pubDate>Tue, 01 Mar 2022 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/660981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +332,7 @@
             <link>https://n.news.naver.com/article/469/0000660938</link>
             <guid>https://n.news.naver.com/article/469/0000660938</guid>
             <pubDate>Tue, 01 Mar 2022 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/660938.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,7 +364,7 @@
             <link>https://n.news.naver.com/article/308/0000030436</link>
             <guid>https://n.news.naver.com/article/308/0000030436</guid>
             <pubDate>Tue, 01 Mar 2022 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.02.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/25/30436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -524,7 +524,7 @@
             <link>https://n.news.naver.com/article/308/0000030454</link>
             <guid>https://n.news.naver.com/article/308/0000030454</guid>
             <pubDate>Mon, 28 Feb 2022 05:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/28/30454.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -598,6 +598,13 @@
             <pubDate>Tue, 11 Jan 2022 05:36:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/11/30054.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[평화는 다른 게 아니고, 음식이고 사랑이야 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20220305135614654</link>
+            <guid>https://entertain.v.daum.net/v/20220305135614654</guid>
+            <pubDate>Sat, 05 Mar 2022 05:33:43 GMT</pubDate>
+            <content:encoded><![CDATA[☞뉴스레터 구독하기 https://bit.ly/319DiiE 국내 스트리밍 서비스 플랫폼 ‘왓챠’가 오리지널 시리즈로 공개한 &lt;조인 마이 테이블&gt;은 대학 시절 교수와 제자로 인연을 맺었던 방송인 이금희와 소설가 박상영이 전국을 돌아다니며 함께 맛기행을 하는 미식 프로그램이다. 이렇게만 쓰고 보면 평범한 미식 방송 같지만, 이들이 돌아다니면서 먹는 음식은 다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[혐오정치와 차별 맞선 '호프펑크'를 아시나요? (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
@@ -731,13 +738,6 @@
             <guid>https://entertain.v.daum.net/v/20210605145602861</guid>
             <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
             <content:encoded><![CDATA[“제가 진짜 인정하는 게, 다독가예요. 좋은 책들을 보면 주변 사람들에게 소개해주고, 막 열권씩 구입을 해서. 항상 책장에 어려운 책들 많이 꽂혀 있거든요. 제 수준엔 어려운 책들이에요.” 홍진경이 못다 한 교과 공부의 한을 푼다는 내용의 카카오티브이 웹예능 &lt;공부왕찐천재&gt;의 한 장면, 홍진경이 학창시절에는 어떻게 공부했는지를 가족들이 증언하는 대목에서 남]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['인공지능 아이돌' 아뽀키에게 '진짜 가수'를 묻는다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20210521193604095</link>
-            <guid>https://entertain.v.daum.net/v/20210521193604095</guid>
-            <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[븨븨(VV)엔터테인먼트 소속의 여성 케이팝 아티스트 ‘아뽀키’는 지난 2월22일 첫번째 디지털 싱글 ‘겟 잇 아웃’(Get it out)을 발매했다. 제트(Z)세대 아티스트들이 흔히 그렇듯 그 또한 다른 가수들의 노래를 커버한 영상을 온라인에 올리고, 라이브 채팅으로 팬들과 소통하며 차근차근 이름을 알리는 계단을 밟아 올라왔다. 그가 2019년 4월 유튜브]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[범죄를 택한 건 소년이지만 그들을 보호 안 한 사회도 '유죄'다 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>

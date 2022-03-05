@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-03-04T17:37:19.088Z</updated>
+    <updated>2022-03-05T05:33:55.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평화는 다른 게 아니고, 음식이고 사랑이야]]></title>
+        <id>https://entertain.v.daum.net/v/20220305135614654</id>
+        <link href="https://entertain.v.daum.net/v/20220305135614654"/>
+        <updated>2022-03-05T05:33:43.739Z</updated>
+        <content type="html"><![CDATA[☞뉴스레터 구독하기 https://bit.ly/319DiiE 국내 스트리밍 서비스 플랫폼 ‘왓챠’가 오리지널 시리즈로 공개한 &lt;조인 마이 테이블&gt;은 대학 시절 교수와 제자로 인연을 맺었던 방송인 이금희와 소설가 박상영이 전국을 돌아다니며 함께 맛기행을 하는 미식 프로그램이다. 이렇게만 쓰고 보면 평범한 미식 방송 같지만, 이들이 돌아다니면서 먹는 음식은 다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혐오정치와 차별 맞선 '호프펑크'를 아시나요?]]></title>
         <id>https://entertain.v.daum.net/v/20220218190601522</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210605145602861"/>
         <updated>2021-10-07T17:43:00.229Z</updated>
         <content type="html"><![CDATA[“제가 진짜 인정하는 게, 다독가예요. 좋은 책들을 보면 주변 사람들에게 소개해주고, 막 열권씩 구입을 해서. 항상 책장에 어려운 책들 많이 꽂혀 있거든요. 제 수준엔 어려운 책들이에요.” 홍진경이 못다 한 교과 공부의 한을 푼다는 내용의 카카오티브이 웹예능 &lt;공부왕찐천재&gt;의 한 장면, 홍진경이 학창시절에는 어떻게 공부했는지를 가족들이 증언하는 대목에서 남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인공지능 아이돌' 아뽀키에게 '진짜 가수'를 묻는다]]></title>
-        <id>https://entertain.v.daum.net/v/20210521193604095</id>
-        <link href="https://entertain.v.daum.net/v/20210521193604095"/>
-        <updated>2021-10-07T17:43:00.230Z</updated>
-        <content type="html"><![CDATA[븨븨(VV)엔터테인먼트 소속의 여성 케이팝 아티스트 ‘아뽀키’는 지난 2월22일 첫번째 디지털 싱글 ‘겟 잇 아웃’(Get it out)을 발매했다. 제트(Z)세대 아티스트들이 흔히 그렇듯 그 또한 다른 가수들의 노래를 커버한 영상을 온라인에 올리고, 라이브 채팅으로 팬들과 소통하며 차근차근 이름을 알리는 계단을 밟아 올라왔다. 그가 2019년 4월 유튜브]]></content>
     </entry>
 </feed>
