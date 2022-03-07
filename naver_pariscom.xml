@@ -4,31 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 17:38:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 후쿠시마 원전사고 11년... 아직도 5개 현 민물고기서 방사성 물질]]></title>
+            <link>https://n.news.naver.com/article/469/0000662133</link>
+            <guid>https://n.news.naver.com/article/469/0000662133</guid>
+            <pubDate>Mon, 07 Mar 2022 17:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/07/662133.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“일본인, 자국 경제·기술력에 자신감 크게 떨어져”]]></title>
+            <link>https://n.news.naver.com/article/469/0000662105</link>
+            <guid>https://n.news.naver.com/article/469/0000662105</guid>
+            <pubDate>Mon, 07 Mar 2022 17:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/07/662105.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본, 러시아 여행 중지 권고... 러시아 체류 국민에겐 출국 권고]]></title>
             <link>https://n.news.naver.com/article/469/0000662059</link>
             <guid>https://n.news.naver.com/article/469/0000662059</guid>
             <pubDate>Mon, 07 Mar 2022 05:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/07/662059.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘펨코’ 日 아사히신문에 등장... “성평등 정책 불만 20대 남성, 대선에 영향”]]></title>
-            <link>https://n.news.naver.com/article/469/0000661961</link>
-            <guid>https://n.news.naver.com/article/469/0000661961</guid>
-            <pubDate>Sun, 06 Mar 2022 17:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/06/661961.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본서 ‘지상파 안 나오는 TV’ 인기 비결은 [특파원 24시]]]></title>
             <link>https://n.news.naver.com/article/469/0000661960</link>
             <guid>https://n.news.naver.com/article/469/0000661960</guid>
             <pubDate>Sun, 06 Mar 2022 17:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/06/661960.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,32 +68,24 @@
             <link>https://n.news.naver.com/article/469/0000661264</link>
             <guid>https://n.news.naver.com/article/469/0000661264</guid>
             <pubDate>Wed, 02 Mar 2022 17:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/02/661264.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천연가스 수입 세계1위 일본, 영국 셸 ‘사할린2’ 사업 철수에 고민]]></title>
+            <link>https://n.news.naver.com/article/469/0000661045</link>
+            <guid>https://n.news.naver.com/article/469/0000661045</guid>
+            <pubDate>Mon, 07 Mar 2022 17:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/661045.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日언론 “中 지도부, 막판까지 러시아 침공 안 할 것으로 오산”]]></title>
             <link>https://n.news.naver.com/article/469/0000661017</link>
             <guid>https://n.news.naver.com/article/469/0000661017</guid>
             <pubDate>Tue, 01 Mar 2022 17:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/661017.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 푸틴 자산 동결 등 추가 제재… 국회는 “가장 강한 말로 비난” 결의]]></title>
-            <link>https://n.news.naver.com/article/469/0000661004</link>
-            <guid>https://n.news.naver.com/article/469/0000661004</guid>
-            <pubDate>Tue, 01 Mar 2022 17:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/661004.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘역사의 종말’ 후쿠야마 “러시아 우크라이나 침략 대실패로 끝날 것”]]></title>
-            <link>https://n.news.naver.com/article/469/0000660981</link>
-            <guid>https://n.news.naver.com/article/469/0000660981</guid>
-            <pubDate>Tue, 01 Mar 2022 05:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/660981.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/661017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
