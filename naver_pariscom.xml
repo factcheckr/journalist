@@ -4,24 +4,48 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 17:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 한국드라마 전문가, “한드 성공 비결은 까다로운 시청자 덕분”]]></title>
+            <link>https://n.news.naver.com/article/469/0000662402</link>
+            <guid>https://n.news.naver.com/article/469/0000662402</guid>
+            <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662402.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니클로, "러시아 영업 계속" 방침에 비판 직면... "의류는 생활 필수품"]]></title>
+            <link>https://n.news.naver.com/article/469/0000662392</link>
+            <guid>https://n.news.naver.com/article/469/0000662392</guid>
+            <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662392.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본서 러시아인·러시아 음식점에 비방 잇따라… 간판 망가지기도]]></title>
+            <link>https://n.news.naver.com/article/469/0000662360</link>
+            <guid>https://n.news.naver.com/article/469/0000662360</guid>
+            <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662360.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 금융청, 상장기업 여성관리직 비율 공개 의무화 추진]]></title>
+            <link>https://n.news.naver.com/article/469/0000662353</link>
+            <guid>https://n.news.naver.com/article/469/0000662353</guid>
+            <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662353.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 후쿠시마 원전사고 11년... 아직도 5개 현 민물고기서 방사성 물질]]></title>
             <link>https://n.news.naver.com/article/469/0000662133</link>
             <guid>https://n.news.naver.com/article/469/0000662133</guid>
             <pubDate>Mon, 07 Mar 2022 17:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/07/662133.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“일본인, 자국 경제·기술력에 자신감 크게 떨어져”]]></title>
-            <link>https://n.news.naver.com/article/469/0000662105</link>
-            <guid>https://n.news.naver.com/article/469/0000662105</guid>
-            <pubDate>Mon, 07 Mar 2022 17:38:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/07/662105.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/07/662133.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본, 러시아 여행 중지 권고... 러시아 체류 국민에겐 출국 권고]]></title>
@@ -36,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000661960</link>
             <guid>https://n.news.naver.com/article/469/0000661960</guid>
             <pubDate>Sun, 06 Mar 2022 17:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/06/661960.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -62,30 +86,6 @@
             <pubDate>Thu, 03 Mar 2022 05:33:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/03/661401.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘우크라이나 교훈은 핵 보유’ 日 정치권 ‘비핵 3원칙’ 재검토 주장 잇따라]]></title>
-            <link>https://n.news.naver.com/article/469/0000661264</link>
-            <guid>https://n.news.naver.com/article/469/0000661264</guid>
-            <pubDate>Wed, 02 Mar 2022 17:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/02/661264.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천연가스 수입 세계1위 일본, 영국 셸 ‘사할린2’ 사업 철수에 고민]]></title>
-            <link>https://n.news.naver.com/article/469/0000661045</link>
-            <guid>https://n.news.naver.com/article/469/0000661045</guid>
-            <pubDate>Mon, 07 Mar 2022 17:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/661045.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日언론 “中 지도부, 막판까지 러시아 침공 안 할 것으로 오산”]]></title>
-            <link>https://n.news.naver.com/article/469/0000661017</link>
-            <guid>https://n.news.naver.com/article/469/0000661017</guid>
-            <pubDate>Tue, 01 Mar 2022 17:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/01/661017.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
