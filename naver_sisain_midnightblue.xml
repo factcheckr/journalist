@@ -4,9 +4,25 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 05:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 17:38:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“왜 싫다고 못했느냐”에 아동이 답할 수 있을까?]]></title>
+            <link>https://n.news.naver.com/article/308/0000030481</link>
+            <guid>https://n.news.naver.com/article/308/0000030481</guid>
+            <pubDate>Wed, 09 Mar 2022 17:37:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/04/30481.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6살 성폭력 피해아동이 법정에 서야 하는 나라]]></title>
+            <link>https://n.news.naver.com/article/308/0000030475</link>
+            <guid>https://n.news.naver.com/article/308/0000030475</guid>
+            <pubDate>Wed, 09 Mar 2022 17:37:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/03/30475.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월9일, 동물들이 투표하러 간다면]]></title>
             <link>https://n.news.naver.com/article/308/0000030373</link>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 01 Jan 2022 02:23:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2021.12.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/29/29979.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 글이 아니라 한 편의 재즈 공연 같은]]></title>
-            <link>https://n.news.naver.com/article/308/0000029953</link>
-            <guid>https://n.news.naver.com/article/308/0000029953</guid>
-            <pubDate>Sat, 01 Jan 2022 02:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/24/29953.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외신 한 컷] 20명의 축구선수는 모두 한 다리가 없다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029952</link>
-            <guid>https://n.news.naver.com/article/308/0000029952</guid>
-            <pubDate>Fri, 04 Mar 2022 05:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/24/29952.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
