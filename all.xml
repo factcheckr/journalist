@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 17:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 05:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <pubDate>Tue, 08 Mar 2022 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 침공에 따른 서방의 경제제재 여파로 러시아가 국가부도 위기에 직면했다는 진단이 나오고 있다. 연평균 성장률이 마이너스 5% 이하를 기록할 것이라는 암울한 전망도 나온다. 불평등이 심한 러시아에서 취약계층의 어려움이 가중될 것으로 우려된다.
 “첫 제재 때부터 어머니가 말했습니다. ‘약부터 챙겨놔라.’ 어머니 말이 맞다는 걸 빨리 이해했습니다. 해외에서 들여오는 모든 것들이 곧 사라질 테니까요.”]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/03/08/2022030801001153300098331.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/03/08/2022030801001179500101231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핵 재앙 피했지만…IAEA “러, 원전 점령 후 안전 우려” (경향신문 ─ 박은하 기자)]]></title>
@@ -282,11 +282,19 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 언론, 한국 대선 큰 관심… “5년 만 정권교체 여부 초점” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000662543</link>
+            <guid>https://n.news.naver.com/article/469/0000662543</guid>
+            <pubDate>Wed, 09 Mar 2022 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/09/662543.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 한국드라마 전문가, “한드 성공 비결은 까다로운 시청자 덕분” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000662402</link>
             <guid>https://n.news.naver.com/article/469/0000662402</guid>
             <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662402.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -294,7 +302,7 @@
             <link>https://n.news.naver.com/article/469/0000662392</link>
             <guid>https://n.news.naver.com/article/469/0000662392</guid>
             <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662392.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,7 +310,7 @@
             <link>https://n.news.naver.com/article/469/0000662360</link>
             <guid>https://n.news.naver.com/article/469/0000662360</guid>
             <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662360.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -310,7 +318,7 @@
             <link>https://n.news.naver.com/article/469/0000662353</link>
             <guid>https://n.news.naver.com/article/469/0000662353</guid>
             <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662353.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -326,7 +334,7 @@
             <link>https://n.news.naver.com/article/469/0000662059</link>
             <guid>https://n.news.naver.com/article/469/0000662059</guid>
             <pubDate>Mon, 07 Mar 2022 05:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/07/662059.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -342,7 +350,7 @@
             <link>https://n.news.naver.com/article/469/0000661924</link>
             <guid>https://n.news.naver.com/article/469/0000661924</guid>
             <pubDate>Sun, 06 Mar 2022 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/06/661924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -350,23 +358,15 @@
             <link>https://n.news.naver.com/article/469/0000661441</link>
             <guid>https://n.news.naver.com/article/469/0000661441</guid>
             <pubDate>Thu, 03 Mar 2022 05:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/03/661441.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열-안철수 단일화, 일본 언론도 신속 보도… “한국 정권 교체 가능성 커져” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000661401</link>
-            <guid>https://n.news.naver.com/article/469/0000661401</guid>
-            <pubDate>Thu, 03 Mar 2022 05:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/03/661401.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명•윤석열 모두 외친 소상공인 50조원, 발언만 화끈해? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030505</link>
             <guid>https://n.news.naver.com/article/308/0000030505</guid>
             <pubDate>Mon, 07 Mar 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30505.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,7 +526,7 @@
             <link>https://n.news.naver.com/article/308/0000030506</link>
             <guid>https://n.news.naver.com/article/308/0000030506</guid>
             <pubDate>Mon, 07 Mar 2022 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30506.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
