@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 17:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[日 기시다, 윤석열 당선인과 전화 통화... “한일 관계 개선 협력”]]></title>
+            <title><![CDATA[동일본대지진 11년 지났지만... 3만8000명 피난 중, 원전 폐로 작업은 더뎌]]></title>
+            <link>https://n.news.naver.com/article/469/0000663011</link>
+            <guid>https://n.news.naver.com/article/469/0000663011</guid>
+            <pubDate>Fri, 11 Mar 2022 17:37:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/663011.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 당선인, 기시다 日총리와 통화... 양측 “빠른 시일 내 만나자”]]></title>
             <link>https://n.news.naver.com/article/469/0000662939</link>
             <guid>https://n.news.naver.com/article/469/0000662939</guid>
             <pubDate>Fri, 11 Mar 2022 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/662939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000662936</link>
             <guid>https://n.news.naver.com/article/469/0000662936</guid>
             <pubDate>Fri, 11 Mar 2022 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/662936.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000662870</link>
             <guid>https://n.news.naver.com/article/469/0000662870</guid>
             <pubDate>Fri, 11 Mar 2022 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/662870.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000662402</link>
             <guid>https://n.news.naver.com/article/469/0000662402</guid>
             <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662402.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000662392</link>
             <guid>https://n.news.naver.com/article/469/0000662392</guid>
             <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662392.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000662360</link>
             <guid>https://n.news.naver.com/article/469/0000662360</guid>
             <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662360.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 금융청, 상장기업 여성관리직 비율 공개 의무화 추진]]></title>
-            <link>https://n.news.naver.com/article/469/0000662353</link>
-            <guid>https://n.news.naver.com/article/469/0000662353</guid>
-            <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662353.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
