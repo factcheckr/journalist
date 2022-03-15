@@ -4,31 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 05:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 17:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“러시아에 항복해 민간인 희생 줄여야”... 일본내 발언 두고 논쟁 잇따라]]></title>
+            <link>https://n.news.naver.com/article/469/0000663635</link>
+            <guid>https://n.news.naver.com/article/469/0000663635</guid>
+            <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663635.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHK "미군 특수정찰기 '코브라볼' 동해 상공 비행"… 北 ICBM 발사 경계]]></title>
+            <link>https://n.news.naver.com/article/469/0000663580</link>
+            <guid>https://n.news.naver.com/article/469/0000663580</guid>
+            <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663580.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아베 등 日 자민당 거물 정치인, 사도광산 세계유산 지원 의원연맹 발족]]></title>
             <link>https://n.news.naver.com/article/469/0000663524</link>
             <guid>https://n.news.naver.com/article/469/0000663524</guid>
             <pubDate>Tue, 15 Mar 2022 05:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663524.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日아베가 푸틴을 말릴 수 있을까... ‘아베 러시아 특사론’ 등장 배경은?]]></title>
-            <link>https://n.news.naver.com/article/469/0000663379</link>
-            <guid>https://n.news.naver.com/article/469/0000663379</guid>
-            <pubDate>Mon, 14 Mar 2022 17:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/14/663379.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동일본대지진 11년 지났지만... 3만8000명 피난 중, 원전 폐로 작업은 더뎌]]></title>
             <link>https://n.news.naver.com/article/469/0000663011</link>
             <guid>https://n.news.naver.com/article/469/0000663011</guid>
             <pubDate>Fri, 11 Mar 2022 17:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/663011.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -72,20 +80,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/10/662679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 언론, 한국 대선 큰 관심… “5년 만 정권교체 여부 초점”]]></title>
-            <link>https://n.news.naver.com/article/469/0000662543</link>
-            <guid>https://n.news.naver.com/article/469/0000662543</guid>
-            <pubDate>Wed, 09 Mar 2022 05:34:55 GMT</pubDate>
+            <title><![CDATA[일본 언론, 한국 대선 출구조사 ‘초박빙’ 신속히 보도]]></title>
+            <link>https://n.news.naver.com/article/469/0000662623</link>
+            <guid>https://n.news.naver.com/article/469/0000662623</guid>
+            <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/09/662543.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 한국드라마 전문가, “한드 성공 비결은 까다로운 시청자 덕분”]]></title>
-            <link>https://n.news.naver.com/article/469/0000662402</link>
-            <guid>https://n.news.naver.com/article/469/0000662402</guid>
-            <pubDate>Tue, 08 Mar 2022 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/08/662402.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/09/662623.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
