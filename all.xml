@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 17:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,27 @@ AP통신 등에 따르면 9일(현지시간) 마리우폴의 한 병원에서 �
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본, 코로나 행동 제한 다음주 초 해제... 그래도 안심 못하는 이유 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000663761</link>
+            <guid>https://n.news.naver.com/article/469/0000663761</guid>
+            <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663761.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 침공에 ‘유엔 안보리 개혁’ 띄우는 일본 왜? 현실성 있나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000663688</link>
+            <guid>https://n.news.naver.com/article/469/0000663688</guid>
+            <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663688.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“러시아에 항복해 민간인 희생 줄여야”... 일본내 발언 두고 논쟁 잇따라 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000663635</link>
             <guid>https://n.news.naver.com/article/469/0000663635</guid>
             <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663635.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +313,7 @@ AP통신 등에 따르면 9일(현지시간) 마리우폴의 한 병원에서 �
             <link>https://n.news.naver.com/article/469/0000663580</link>
             <guid>https://n.news.naver.com/article/469/0000663580</guid>
             <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663580.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,8 +321,16 @@ AP통신 등에 따르면 9일(현지시간) 마리우폴의 한 병원에서 �
             <link>https://n.news.naver.com/article/469/0000663524</link>
             <guid>https://n.news.naver.com/article/469/0000663524</guid>
             <pubDate>Tue, 15 Mar 2022 05:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663524.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日아베가 푸틴을 말릴 수 있을까... ‘아베 러시아 특사론’ 등장 배경은? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000663379</link>
+            <guid>https://n.news.naver.com/article/469/0000663379</guid>
+            <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/14/663379.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동일본대지진 11년 지났지만... 3만8000명 피난 중, 원전 폐로 작업은 더뎌 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -321,7 +345,7 @@ AP통신 등에 따르면 9일(현지시간) 마리우폴의 한 병원에서 �
             <link>https://n.news.naver.com/article/469/0000662939</link>
             <guid>https://n.news.naver.com/article/469/0000662939</guid>
             <pubDate>Fri, 11 Mar 2022 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/662939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,7 +353,7 @@ AP통신 등에 따르면 9일(현지시간) 마리우폴의 한 병원에서 �
             <link>https://n.news.naver.com/article/469/0000662936</link>
             <guid>https://n.news.naver.com/article/469/0000662936</guid>
             <pubDate>Fri, 11 Mar 2022 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/662936.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,32 +361,8 @@ AP통신 등에 따르면 9일(현지시간) 마리우폴의 한 병원에서 �
             <link>https://n.news.naver.com/article/469/0000662870</link>
             <guid>https://n.news.naver.com/article/469/0000662870</guid>
             <pubDate>Fri, 11 Mar 2022 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/662870.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 기시다 "윤석열 당선 진심으로 축하... 정상 간 의사소통 중요" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000662706</link>
-            <guid>https://n.news.naver.com/article/469/0000662706</guid>
-            <pubDate>Thu, 10 Mar 2022 05:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/10/662706.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 언론, 윤석열 당선 신속히 보도… “셔틀외교 부활 등 한일 관계 개선 의지” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000662679</link>
-            <guid>https://n.news.naver.com/article/469/0000662679</guid>
-            <pubDate>Thu, 10 Mar 2022 05:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/10/662679.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 언론, 한국 대선 출구조사 ‘초박빙’ 신속히 보도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000662623</link>
-            <guid>https://n.news.naver.com/article/469/0000662623</guid>
-            <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/09/662623.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명•윤석열 모두 외친 소상공인 50조원, 발언만 화끈해? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -525,6 +525,14 @@ AP통신 등에 따르면 9일(현지시간) 마리우폴의 한 병원에서 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/29/29979.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘0.73’ 차기 대통령이 새겨야 할 숫자 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030560</link>
+            <guid>https://n.news.naver.com/article/308/0000030560</guid>
+            <pubDate>Wed, 16 Mar 2022 05:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/16/30560.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘쇼’라 하더라도 주목해야할 정치개혁안 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030506</link>
             <guid>https://n.news.naver.com/article/308/0000030506</guid>
@@ -595,14 +603,6 @@ AP통신 등에 따르면 9일(현지시간) 마리우폴의 한 병원에서 �
             <pubDate>Sun, 16 Jan 2022 05:36:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/16/30080.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재 뒷담화] 두 대선 후보 뒤에 ‘사람들’이 있다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030061</link>
-            <guid>https://n.news.naver.com/article/308/0000030061</guid>
-            <pubDate>Thu, 13 Jan 2022 05:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/13/30061.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[평화는 다른 게 아니고, 음식이고 사랑이야 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
