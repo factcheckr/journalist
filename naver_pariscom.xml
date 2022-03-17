@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 17:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“동일본대지진 떠올라 철렁”... 공포의 밤, 원전 냉각기능 한때 중단]]></title>
+            <link>https://n.news.naver.com/article/469/0000664123</link>
+            <guid>https://n.news.naver.com/article/469/0000664123</guid>
+            <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664123.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 정책에 호응?... 日 대기업, 노조 임금 인상안 이례적 전액 수용]]></title>
+            <link>https://n.news.naver.com/article/469/0000664070</link>
+            <guid>https://n.news.naver.com/article/469/0000664070</guid>
+            <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664070.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“1년 만에 또” 열도 공포 빠뜨린 후쿠시마 강진… 사망자도 발생]]></title>
             <link>https://n.news.naver.com/article/469/0000663958</link>
             <guid>https://n.news.naver.com/article/469/0000663958</guid>
             <pubDate>Thu, 17 Mar 2022 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/663958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000663857</link>
             <guid>https://n.news.naver.com/article/469/0000663857</guid>
             <pubDate>Wed, 16 Mar 2022 17:37:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000663635</link>
             <guid>https://n.news.naver.com/article/469/0000663635</guid>
             <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663635.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000663580</link>
             <guid>https://n.news.naver.com/article/469/0000663580</guid>
             <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663580.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 15 Mar 2022 05:32:57 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663524.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日아베가 푸틴을 말릴 수 있을까... ‘아베 러시아 특사론’ 등장 배경은?]]></title>
-            <link>https://n.news.naver.com/article/469/0000663379</link>
-            <guid>https://n.news.naver.com/article/469/0000663379</guid>
-            <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/14/663379.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동일본대지진 11년 지났지만... 3만8000명 피난 중, 원전 폐로 작업은 더뎌]]></title>
-            <link>https://n.news.naver.com/article/469/0000663011</link>
-            <guid>https://n.news.naver.com/article/469/0000663011</guid>
-            <pubDate>Fri, 11 Mar 2022 17:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/663011.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
