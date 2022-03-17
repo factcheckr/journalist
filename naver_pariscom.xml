@@ -4,23 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 17:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 05:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[일본 후쿠시마현 앞바다서 규모 7.3 강진… 도쿄도 크게 흔들려]]></title>
-            <link>https://n.news.naver.com/article/469/0000663918</link>
-            <guid>https://n.news.naver.com/article/469/0000663918</guid>
-            <pubDate>Wed, 16 Mar 2022 17:37:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/663918.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[“1년 만에 또” 열도 공포 빠뜨린 후쿠시마 강진… 사망자도 발생]]></title>
+            <link>https://n.news.naver.com/article/469/0000663958</link>
+            <guid>https://n.news.naver.com/article/469/0000663958</guid>
+            <pubDate>Thu, 17 Mar 2022 05:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/663958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러 태생 우크라 국민작가 쿠르코프 “러시아어로 말하기 부끄럽다”]]></title>
             <link>https://n.news.naver.com/article/469/0000663857</link>
             <guid>https://n.news.naver.com/article/469/0000663857</guid>
             <pubDate>Wed, 16 Mar 2022 17:37:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,15 +28,23 @@
             <link>https://n.news.naver.com/article/469/0000663761</link>
             <guid>https://n.news.naver.com/article/469/0000663761</guid>
             <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663761.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHK "북한 탄도미사일 가능성 물체 발사"... 日 정부 "날아간 건 확인 안 돼"]]></title>
+            <link>https://n.news.naver.com/article/469/0000663733</link>
+            <guid>https://n.news.naver.com/article/469/0000663733</guid>
+            <pubDate>Thu, 17 Mar 2022 05:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663733.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 침공에 ‘유엔 안보리 개혁’ 띄우는 일본 왜? 현실성 있나]]></title>
             <link>https://n.news.naver.com/article/469/0000663688</link>
             <guid>https://n.news.naver.com/article/469/0000663688</guid>
             <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000663524</link>
             <guid>https://n.news.naver.com/article/469/0000663524</guid>
             <pubDate>Tue, 15 Mar 2022 05:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663524.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Mar 2022 17:37:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/663011.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 당선인, 기시다 日총리와 통화... 양측 “빠른 시일 내 만나자”]]></title>
-            <link>https://n.news.naver.com/article/469/0000662939</link>
-            <guid>https://n.news.naver.com/article/469/0000662939</guid>
-            <pubDate>Fri, 11 Mar 2022 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/11/662939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
