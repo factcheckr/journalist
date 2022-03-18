@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 05:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 17:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -282,19 +282,11 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“日 규모 7 강진 빨라져… 지난해 제주 지진, 새 지각판 경계면 진행 우려” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000664233</link>
-            <guid>https://n.news.naver.com/article/469/0000664233</guid>
-            <pubDate>Fri, 18 Mar 2022 05:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/18/664233.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“동일본대지진 떠올라 철렁”... 공포의 밤, 원전 냉각기능 한때 중단 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000664123</link>
             <guid>https://n.news.naver.com/article/469/0000664123</guid>
             <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,7 +294,7 @@
             <link>https://n.news.naver.com/article/469/0000664070</link>
             <guid>https://n.news.naver.com/article/469/0000664070</guid>
             <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664070.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,7 +310,7 @@
             <link>https://n.news.naver.com/article/469/0000663857</link>
             <guid>https://n.news.naver.com/article/469/0000663857</guid>
             <pubDate>Wed, 16 Mar 2022 17:37:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -350,7 +342,7 @@
             <link>https://n.news.naver.com/article/469/0000663635</link>
             <guid>https://n.news.naver.com/article/469/0000663635</guid>
             <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663635.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,8 +350,16 @@
             <link>https://n.news.naver.com/article/469/0000663580</link>
             <guid>https://n.news.naver.com/article/469/0000663580</guid>
             <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663580.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아베 등 日 자민당 거물 정치인, 사도광산 세계유산 지원 의원연맹 발족 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000663524</link>
+            <guid>https://n.news.naver.com/article/469/0000663524</guid>
+            <pubDate>Fri, 18 Mar 2022 17:37:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663524.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명•윤석열 모두 외친 소상공인 50조원, 발언만 화끈해? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -742,6 +742,13 @@
             <content:encoded><![CDATA[“제가 진짜 인정하는 게, 다독가예요. 좋은 책들을 보면 주변 사람들에게 소개해주고, 막 열권씩 구입을 해서. 항상 책장에 어려운 책들 많이 꽂혀 있거든요. 제 수준엔 어려운 책들이에요.” 홍진경이 못다 한 교과 공부의 한을 푼다는 내용의 카카오티브이 웹예능 &lt;공부왕찐천재&gt;의 한 장면, 홍진경이 학창시절에는 어떻게 공부했는지를 가족들이 증언하는 대목에서 남]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['살아남은' 여성들이 세상을 향한 폭력에 저항하는 방식 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20220318160139590</link>
+            <guid>https://v.daum.net/v/20220318160139590</guid>
+            <pubDate>Fri, 18 Mar 2022 17:38:29 GMT</pubDate>
+            <content:encoded><![CDATA[[경향신문] 제20대 대통령 선거가 끝났다. 반여성적 공약과 젠더 갈라치기 전략을 펼쳤던 당선인은 압승을 예상했으나, 0.7% 표차로 초접전을 벌였다. 차별과 혐오를 저지하려는 절박함, 디지털 성범죄 근절 활동을 펼쳤던 박지현 부위원장에 대한 지지 등 다양한 이유로 2030 여성들이 집결했기 때문이다. 2030 여성들이 소위 ‘전략투표’를 한 후, 미안함]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[범죄를 택한 건 소년이지만 그들을 보호 안 한 사회도 '유죄'다 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
             <link>https://v.daum.net/v/20220304162350650</link>
             <guid>https://v.daum.net/v/20220304162350650</guid>
@@ -817,13 +824,6 @@
             <guid>https://v.daum.net/v/20211015163439432</guid>
             <pubDate>Mon, 18 Oct 2021 05:38:21 GMT</pubDate>
             <content:encoded><![CDATA[[경향신문] &lt;갯마을 차차차&gt;는 신민아(윤혜진 역), 김선호(홍반장 역) 주연의 tvN 드라마다. 2004년 영화 &lt;어디선가 누군가에 무슨 일이 생기면 틀림없이 나타난다 홍반장&gt;을 원작으로 한다. “현실주의 치과의사 윤혜진과 만능 백수 홍반장이 짠내 사람 내음 가득한 바닷마을 ‘공진’에서 벌이는 티키타카 로맨스를 그린 드라마”라는 공식 설명처럼, 힐링과]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여성은 원래 셌다..당신이 못 봤을 뿐 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20211001161557819</link>
-            <guid>https://v.daum.net/v/20211001161557819</guid>
-            <pubDate>Sun, 03 Oct 2021 13:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] 소년만화를 좋아했다. 우정, 노력, 승리, 모험과 성장, 눈물과 콧물과 땀, 가슴이 뜨거워지는 경쟁…. 시들해진 것은 언젠가부터 그 세계에는 내 자리가 없다는 사실을 깨달은 뒤다. 순정만화의 풍부한 스펙트럼과 별개로, 여캐(여자 캐릭터)가 주인공인 서사는 전체적으로 봤을 때 턱없이 부족했다. 여캐는 주인공의 친구이거나, 첫사랑이거나, 매니저이]]></content:encoded>
         </item>
     </channel>
 </rss>

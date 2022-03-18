@@ -4,23 +4,15 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 05:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 17:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[“日 규모 7 강진 빨라져… 지난해 제주 지진, 새 지각판 경계면 진행 우려”]]></title>
-            <link>https://n.news.naver.com/article/469/0000664233</link>
-            <guid>https://n.news.naver.com/article/469/0000664233</guid>
-            <pubDate>Fri, 18 Mar 2022 05:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/18/664233.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[“동일본대지진 떠올라 철렁”... 공포의 밤, 원전 냉각기능 한때 중단]]></title>
             <link>https://n.news.naver.com/article/469/0000664123</link>
             <guid>https://n.news.naver.com/article/469/0000664123</guid>
             <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000664070</link>
             <guid>https://n.news.naver.com/article/469/0000664070</guid>
             <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664070.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000663857</link>
             <guid>https://n.news.naver.com/article/469/0000663857</guid>
             <pubDate>Wed, 16 Mar 2022 17:37:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000663635</link>
             <guid>https://n.news.naver.com/article/469/0000663635</guid>
             <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663635.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,8 +76,16 @@
             <link>https://n.news.naver.com/article/469/0000663580</link>
             <guid>https://n.news.naver.com/article/469/0000663580</guid>
             <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663580.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아베 등 日 자민당 거물 정치인, 사도광산 세계유산 지원 의원연맹 발족]]></title>
+            <link>https://n.news.naver.com/article/469/0000663524</link>
+            <guid>https://n.news.naver.com/article/469/0000663524</guid>
+            <pubDate>Fri, 18 Mar 2022 17:37:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663524.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
