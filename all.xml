@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 17:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 05:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,7 +302,7 @@
             <link>https://n.news.naver.com/article/469/0000663958</link>
             <guid>https://n.news.naver.com/article/469/0000663958</guid>
             <pubDate>Thu, 17 Mar 2022 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/663958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,7 +318,7 @@
             <link>https://n.news.naver.com/article/469/0000663761</link>
             <guid>https://n.news.naver.com/article/469/0000663761</guid>
             <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663761.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -326,7 +326,7 @@
             <link>https://n.news.naver.com/article/469/0000663733</link>
             <guid>https://n.news.naver.com/article/469/0000663733</guid>
             <pubDate>Thu, 17 Mar 2022 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663733.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -334,7 +334,7 @@
             <link>https://n.news.naver.com/article/469/0000663688</link>
             <guid>https://n.news.naver.com/article/469/0000663688</guid>
             <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,7 +358,7 @@
             <link>https://n.news.naver.com/article/469/0000663524</link>
             <guid>https://n.news.naver.com/article/469/0000663524</guid>
             <pubDate>Fri, 18 Mar 2022 17:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663524.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,7 +526,7 @@
             <link>https://n.news.naver.com/article/308/0000030560</link>
             <guid>https://n.news.naver.com/article/308/0000030560</guid>
             <pubDate>Wed, 16 Mar 2022 05:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/16/30560.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -600,6 +600,13 @@
             <pubDate>Sun, 16 Jan 2022 05:36:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/16/30080.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나문희·김영옥의 서툰 노래, 더 마음 가는 건 왜일까 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20220319093602468</link>
+            <guid>https://entertain.v.daum.net/v/20220319093602468</guid>
+            <pubDate>Sat, 19 Mar 2022 05:33:09 GMT</pubDate>
+            <content:encoded><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 2주쯤 전이었나. &lt;제이티비시&gt;(JTBC) 새 음악예능 &lt;뜨거운 씽어즈&gt;의 첫 홍보 영상이 나온 직후 내 주변 사람들의 인사말은 모두 이것이었다. “혹시 나문희 선생님 노래하는 거 봤어요?” 그럴 법도 했다. 나문희는 언제나 보는 사람을 먹먹하게 만드는 명배우지만, 홍보 영상 속 나문희는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[평화는 다른 게 아니고, 음식이고 사랑이야 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
@@ -733,13 +740,6 @@
             <guid>https://entertain.v.daum.net/v/20210619115601218</guid>
             <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대의 티파니 영이 ‘다시 만난 세계’에 맞춰 힘차게 춤을 춘다. 지난 14년 동안 못해도 수만번은 췄을 춤인데, 영상을 본 사람들은 새삼스러운 자부심과 기쁨을 감추지 못했다. 이번에 공개된 영상은 다름 아닌 ‘프라이드 먼스’(Pride Month) 기념 영상이기 때문이다. “제가 연예계 생활을 하면서도 ‘내가 충분히 하고 있나?’ ‘이 얘기를 해도 되]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['공부왕찐천재' 홍진경의 진짜 비결은 굴하지 않는 솔직당당함 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20210605145602861</link>
-            <guid>https://entertain.v.daum.net/v/20210605145602861</guid>
-            <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[“제가 진짜 인정하는 게, 다독가예요. 좋은 책들을 보면 주변 사람들에게 소개해주고, 막 열권씩 구입을 해서. 항상 책장에 어려운 책들 많이 꽂혀 있거든요. 제 수준엔 어려운 책들이에요.” 홍진경이 못다 한 교과 공부의 한을 푼다는 내용의 카카오티브이 웹예능 &lt;공부왕찐천재&gt;의 한 장면, 홍진경이 학창시절에는 어떻게 공부했는지를 가족들이 증언하는 대목에서 남]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['살아남은' 여성들이 세상을 향한 폭력에 저항하는 방식 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>

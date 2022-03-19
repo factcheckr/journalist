@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-03-18T17:38:30.619Z</updated>
+    <updated>2022-03-19T05:33:22.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나문희·김영옥의 서툰 노래, 더 마음 가는 건 왜일까]]></title>
+        <id>https://entertain.v.daum.net/v/20220319093602468</id>
+        <link href="https://entertain.v.daum.net/v/20220319093602468"/>
+        <updated>2022-03-19T05:33:09.565Z</updated>
+        <content type="html"><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 2주쯤 전이었나. &lt;제이티비시&gt;(JTBC) 새 음악예능 &lt;뜨거운 씽어즈&gt;의 첫 홍보 영상이 나온 직후 내 주변 사람들의 인사말은 모두 이것이었다. “혹시 나문희 선생님 노래하는 거 봤어요?” 그럴 법도 했다. 나문희는 언제나 보는 사람을 먹먹하게 만드는 명배우지만, 홍보 영상 속 나문희는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평화는 다른 게 아니고, 음식이고 사랑이야]]></title>
         <id>https://entertain.v.daum.net/v/20220305135614654</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210619115601218"/>
         <updated>2021-10-07T17:43:00.228Z</updated>
         <content type="html"><![CDATA[소녀시대의 티파니 영이 ‘다시 만난 세계’에 맞춰 힘차게 춤을 춘다. 지난 14년 동안 못해도 수만번은 췄을 춤인데, 영상을 본 사람들은 새삼스러운 자부심과 기쁨을 감추지 못했다. 이번에 공개된 영상은 다름 아닌 ‘프라이드 먼스’(Pride Month) 기념 영상이기 때문이다. “제가 연예계 생활을 하면서도 ‘내가 충분히 하고 있나?’ ‘이 얘기를 해도 되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공부왕찐천재' 홍진경의 진짜 비결은 굴하지 않는 솔직당당함]]></title>
-        <id>https://entertain.v.daum.net/v/20210605145602861</id>
-        <link href="https://entertain.v.daum.net/v/20210605145602861"/>
-        <updated>2021-10-07T17:43:00.229Z</updated>
-        <content type="html"><![CDATA[“제가 진짜 인정하는 게, 다독가예요. 좋은 책들을 보면 주변 사람들에게 소개해주고, 막 열권씩 구입을 해서. 항상 책장에 어려운 책들 많이 꽂혀 있거든요. 제 수준엔 어려운 책들이에요.” 홍진경이 못다 한 교과 공부의 한을 푼다는 내용의 카카오티브이 웹예능 &lt;공부왕찐천재&gt;의 한 장면, 홍진경이 학창시절에는 어떻게 공부했는지를 가족들이 증언하는 대목에서 남]]></content>
     </entry>
 </feed>
