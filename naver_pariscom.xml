@@ -4,23 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 05:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 17:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[16일 밤 강진이 핵폭발로 인한 ‘인공지진’이라고? 日 NHK의 반박 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000664481</link>
-            <guid>https://n.news.naver.com/article/469/0000664481</guid>
-            <pubDate>Sun, 20 Mar 2022 05:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/20/664481.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[일본 수출 이끈 ‘엔저’, 이제 일본 경제 ‘리스크’로]]></title>
+            <link>https://n.news.naver.com/article/469/0000664536</link>
+            <guid>https://n.news.naver.com/article/469/0000664536</guid>
+            <pubDate>Sun, 20 Mar 2022 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/20/664536.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본·인도 정상 "우크라이나 심각한 우려"…러 직접 비판은 빠져]]></title>
+            <link>https://n.news.naver.com/article/469/0000664517</link>
+            <guid>https://n.news.naver.com/article/469/0000664517</guid>
+            <pubDate>Sun, 20 Mar 2022 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/20/664517.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“동일본대지진 떠올라 철렁”... 공포의 밤, 원전 냉각기능 한때 중단]]></title>
             <link>https://n.news.naver.com/article/469/0000664123</link>
             <guid>https://n.news.naver.com/article/469/0000664123</guid>
             <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000664070</link>
             <guid>https://n.news.naver.com/article/469/0000664070</guid>
             <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664070.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,11 +48,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/663958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 후쿠시마현 앞바다서 규모 7.3 강진… 도쿄도 크게 흔들려]]></title>
+            <link>https://n.news.naver.com/article/469/0000663918</link>
+            <guid>https://n.news.naver.com/article/469/0000663918</guid>
+            <pubDate>Sun, 20 Mar 2022 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/663918.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러 태생 우크라 국민작가 쿠르코프 “러시아어로 말하기 부끄럽다”]]></title>
             <link>https://n.news.naver.com/article/469/0000663857</link>
             <guid>https://n.news.naver.com/article/469/0000663857</guid>
             <pubDate>Wed, 16 Mar 2022 17:37:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663688.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“러시아에 항복해 민간인 희생 줄여야”... 일본내 발언 두고 논쟁 잇따라]]></title>
-            <link>https://n.news.naver.com/article/469/0000663635</link>
-            <guid>https://n.news.naver.com/article/469/0000663635</guid>
-            <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663635.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NHK "미군 특수정찰기 '코브라볼' 동해 상공 비행"… 北 ICBM 발사 경계]]></title>
-            <link>https://n.news.naver.com/article/469/0000663580</link>
-            <guid>https://n.news.naver.com/article/469/0000663580</guid>
-            <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663580.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
