@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 17:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 05:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -282,6 +282,14 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[16일 밤 강진이 핵폭발로 인한 ‘인공지진’이라고? 日 NHK의 반박 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000664481</link>
+            <guid>https://n.news.naver.com/article/469/0000664481</guid>
+            <pubDate>Sun, 20 Mar 2022 05:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/20/664481.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“동일본대지진 떠올라 철렁”... 공포의 밤, 원전 냉각기능 한때 중단 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000664123</link>
             <guid>https://n.news.naver.com/article/469/0000664123</guid>
@@ -302,7 +310,7 @@
             <link>https://n.news.naver.com/article/469/0000663958</link>
             <guid>https://n.news.naver.com/article/469/0000663958</guid>
             <pubDate>Thu, 17 Mar 2022 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/663958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,7 +326,7 @@
             <link>https://n.news.naver.com/article/469/0000663761</link>
             <guid>https://n.news.naver.com/article/469/0000663761</guid>
             <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663761.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -326,7 +334,7 @@
             <link>https://n.news.naver.com/article/469/0000663733</link>
             <guid>https://n.news.naver.com/article/469/0000663733</guid>
             <pubDate>Thu, 17 Mar 2022 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663733.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -334,7 +342,7 @@
             <link>https://n.news.naver.com/article/469/0000663688</link>
             <guid>https://n.news.naver.com/article/469/0000663688</guid>
             <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,14 +360,6 @@
             <pubDate>Tue, 15 Mar 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663580.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아베 등 日 자민당 거물 정치인, 사도광산 세계유산 지원 의원연맹 발족 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000663524</link>
-            <guid>https://n.news.naver.com/article/469/0000663524</guid>
-            <pubDate>Fri, 18 Mar 2022 17:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/15/663524.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명•윤석열 모두 외친 소상공인 50조원, 발언만 화끈해? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -526,7 +526,7 @@
             <link>https://n.news.naver.com/article/308/0000030560</link>
             <guid>https://n.news.naver.com/article/308/0000030560</guid>
             <pubDate>Wed, 16 Mar 2022 05:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/16/30560.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
