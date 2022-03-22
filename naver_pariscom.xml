@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 17:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 05:34:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강진에 강추위까지 덮친 일본, ‘전력수급 위기경보’ 첫 발령]]></title>
+            <link>https://n.news.naver.com/article/469/0000664854</link>
+            <guid>https://n.news.naver.com/article/469/0000664854</guid>
+            <pubDate>Tue, 22 Mar 2022 05:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664854.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 최대 노총 ‘렌고’ 자민당과 밀착… ‘노동 귀족’ 비판 커져]]></title>
             <link>https://n.news.naver.com/article/469/0000664731</link>
             <guid>https://n.news.naver.com/article/469/0000664731</guid>
             <pubDate>Mon, 21 Mar 2022 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/21/664731.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000664672</link>
             <guid>https://n.news.naver.com/article/469/0000664672</guid>
             <pubDate>Mon, 21 Mar 2022 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/21/664672.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000663958</link>
             <guid>https://n.news.naver.com/article/469/0000663958</guid>
             <pubDate>Thu, 17 Mar 2022 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/663958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 17:37:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663857.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 코로나 행동 제한 다음주 초 해제... 그래도 안심 못하는 이유]]></title>
-            <link>https://n.news.naver.com/article/469/0000663761</link>
-            <guid>https://n.news.naver.com/article/469/0000663761</guid>
-            <pubDate>Wed, 16 Mar 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/16/663761.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
