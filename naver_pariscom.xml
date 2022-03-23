@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 17:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 05:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["중국 북핵수석대표 이달 러 방문… 북한 미사일 대응 협의"]]></title>
+            <link>https://n.news.naver.com/article/469/0000665062</link>
+            <guid>https://n.news.naver.com/article/469/0000665062</guid>
+            <pubDate>Wed, 23 Mar 2022 05:32:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665062.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무서운 괴물? 일본 오사카·간사이 만국박람회 공식 캐릭터 보니…]]></title>
             <link>https://n.news.naver.com/article/469/0000664986</link>
             <guid>https://n.news.naver.com/article/469/0000664986</guid>
             <pubDate>Tue, 22 Mar 2022 17:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664986.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000664980</link>
             <guid>https://n.news.naver.com/article/469/0000664980</guid>
             <pubDate>Tue, 22 Mar 2022 17:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664980.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000664854</link>
             <guid>https://n.news.naver.com/article/469/0000664854</guid>
             <pubDate>Tue, 22 Mar 2022 05:33:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664854.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664070.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“1년 만에 또” 열도 공포 빠뜨린 후쿠시마 강진… 사망자도 발생]]></title>
-            <link>https://n.news.naver.com/article/469/0000663958</link>
-            <guid>https://n.news.naver.com/article/469/0000663958</guid>
-            <pubDate>Thu, 17 Mar 2022 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/663958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
