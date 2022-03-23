@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 05:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 17:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,27 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[젤렌스키, 日 연설 “아시아 처음 제재 동참”... 日언론 “日측 사전에 ‘진주만 공습’ 거론 말라” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000665229</link>
+            <guid>https://n.news.naver.com/article/469/0000665229</guid>
+            <pubDate>Wed, 23 Mar 2022 17:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665229.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[11년 만에 재현된 日 ‘야시마 작전’... 도쿄타워 조명 끄고 ‘전국민 절전 운동’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000665187</link>
+            <guid>https://n.news.naver.com/article/469/0000665187</guid>
+            <pubDate>Wed, 23 Mar 2022 17:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665187.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["중국 북핵수석대표 이달 러 방문… 북한 미사일 대응 협의" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000665062</link>
             <guid>https://n.news.naver.com/article/469/0000665062</guid>
             <pubDate>Wed, 23 Mar 2022 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665062.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +312,7 @@
             <link>https://n.news.naver.com/article/469/0000664986</link>
             <guid>https://n.news.naver.com/article/469/0000664986</guid>
             <pubDate>Tue, 22 Mar 2022 17:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664986.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +320,7 @@
             <link>https://n.news.naver.com/article/469/0000664980</link>
             <guid>https://n.news.naver.com/article/469/0000664980</guid>
             <pubDate>Tue, 22 Mar 2022 17:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664980.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +336,7 @@
             <link>https://n.news.naver.com/article/469/0000664731</link>
             <guid>https://n.news.naver.com/article/469/0000664731</guid>
             <pubDate>Mon, 21 Mar 2022 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/21/664731.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +344,7 @@
             <link>https://n.news.naver.com/article/469/0000664672</link>
             <guid>https://n.news.naver.com/article/469/0000664672</guid>
             <pubDate>Mon, 21 Mar 2022 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/21/664672.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +352,7 @@
             <link>https://n.news.naver.com/article/469/0000664536</link>
             <guid>https://n.news.naver.com/article/469/0000664536</guid>
             <pubDate>Sun, 20 Mar 2022 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/20/664536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,24 +360,8 @@
             <link>https://n.news.naver.com/article/469/0000664517</link>
             <guid>https://n.news.naver.com/article/469/0000664517</guid>
             <pubDate>Sun, 20 Mar 2022 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/20/664517.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“동일본대지진 떠올라 철렁”... 공포의 밤, 원전 냉각기능 한때 중단 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000664123</link>
-            <guid>https://n.news.naver.com/article/469/0000664123</guid>
-            <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664123.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 정책에 호응?... 日 대기업, 노조 임금 인상안 이례적 전액 수용 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000664070</link>
-            <guid>https://n.news.naver.com/article/469/0000664070</guid>
-            <pubDate>Thu, 17 Mar 2022 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/17/664070.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명•윤석열 모두 외친 소상공인 50조원, 발언만 화끈해? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
