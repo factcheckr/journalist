@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 17:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,19 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본, 우크라이나에 1억달러 추가 지원 검토… 자위대 의료진 파견도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000665323</link>
+            <guid>https://n.news.naver.com/article/469/0000665323</guid>
+            <pubDate>Thu, 24 Mar 2022 05:32:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/24/665323.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[젤렌스키, 日 연설 “아시아 처음 제재 동참”... 日언론 “日측 사전에 ‘진주만 공습’ 거론 말라” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000665229</link>
             <guid>https://n.news.naver.com/article/469/0000665229</guid>
             <pubDate>Wed, 23 Mar 2022 17:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665229.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +304,7 @@
             <link>https://n.news.naver.com/article/469/0000665187</link>
             <guid>https://n.news.naver.com/article/469/0000665187</guid>
             <pubDate>Wed, 23 Mar 2022 17:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +312,7 @@
             <link>https://n.news.naver.com/article/469/0000665062</link>
             <guid>https://n.news.naver.com/article/469/0000665062</guid>
             <pubDate>Wed, 23 Mar 2022 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665062.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +336,7 @@
             <link>https://n.news.naver.com/article/469/0000664854</link>
             <guid>https://n.news.naver.com/article/469/0000664854</guid>
             <pubDate>Tue, 22 Mar 2022 05:33:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664854.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +352,7 @@
             <link>https://n.news.naver.com/article/469/0000664672</link>
             <guid>https://n.news.naver.com/article/469/0000664672</guid>
             <pubDate>Mon, 21 Mar 2022 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/21/664672.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -354,14 +362,6 @@
             <pubDate>Sun, 20 Mar 2022 17:35:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/20/664536.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본·인도 정상 "우크라이나 심각한 우려"…러 직접 비판은 빠져 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000664517</link>
-            <guid>https://n.news.naver.com/article/469/0000664517</guid>
-            <pubDate>Sun, 20 Mar 2022 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/20/664517.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명•윤석열 모두 외친 소상공인 50조원, 발언만 화끈해? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -524,11 +524,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/29/29979.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[열심히 투표한 당신 왜 찍고 왜 안 찍었나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030593</link>
+            <guid>https://n.news.naver.com/article/308/0000030593</guid>
+            <pubDate>Thu, 24 Mar 2022 05:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/24/30593.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘0.73’ 차기 대통령이 새겨야 할 숫자 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030560</link>
             <guid>https://n.news.naver.com/article/308/0000030560</guid>
             <pubDate>Wed, 16 Mar 2022 05:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.03.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/16/30560.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -594,14 +602,6 @@
             <pubDate>Tue, 18 Jan 2022 05:37:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/18/30091.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정치 글로 보는 정치의 본령 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030080</link>
-            <guid>https://n.news.naver.com/article/308/0000030080</guid>
-            <pubDate>Sun, 16 Jan 2022 05:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/16/30080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나문희·김영옥의 서툰 노래, 더 마음 가는 건 왜일까 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
