@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 17:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:34:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한일 외교장관, 북한 ICBM 강하게 비난... "국제사회 심각한 도전"]]></title>
+            <link>https://n.news.naver.com/article/469/0000665560</link>
+            <guid>https://n.news.naver.com/article/469/0000665560</guid>
+            <pubDate>Fri, 25 Mar 2022 05:34:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/25/665560.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벨기에行 기내서 보고받은 日 기시다 격노 “北 용서할 수 없는 폭거”... 총리 공백 일본 비상]]></title>
             <link>https://n.news.naver.com/article/469/0000665454</link>
             <guid>https://n.news.naver.com/article/469/0000665454</guid>
             <pubDate>Thu, 24 Mar 2022 17:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/24/665454.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000665408</link>
             <guid>https://n.news.naver.com/article/469/0000665408</guid>
             <pubDate>Thu, 24 Mar 2022 17:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/24/665408.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000665400</link>
             <guid>https://n.news.naver.com/article/469/0000665400</guid>
             <pubDate>Thu, 24 Mar 2022 17:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/24/665400.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000665323</link>
             <guid>https://n.news.naver.com/article/469/0000665323</guid>
             <pubDate>Thu, 24 Mar 2022 05:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/24/665323.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000665062</link>
             <guid>https://n.news.naver.com/article/469/0000665062</guid>
             <pubDate>Wed, 23 Mar 2022 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665062.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000664854</link>
             <guid>https://n.news.naver.com/article/469/0000664854</guid>
             <pubDate>Tue, 22 Mar 2022 05:33:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664854.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 최대 노총 ‘렌고’ 자민당과 밀착… ‘노동 귀족’ 비판 커져]]></title>
-            <link>https://n.news.naver.com/article/469/0000664731</link>
-            <guid>https://n.news.naver.com/article/469/0000664731</guid>
-            <pubDate>Mon, 21 Mar 2022 17:36:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/21/664731.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664854.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
