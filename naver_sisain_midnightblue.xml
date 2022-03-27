@@ -4,9 +4,25 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 05:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘사이버 레커’ 유튜버와 언론, 비극과 혐오로 돈을 번다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030580</link>
+            <guid>https://n.news.naver.com/article/308/0000030580</guid>
+            <pubDate>Sun, 27 Mar 2022 17:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/22/30580.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포토IN] 화마 너머, 불의 머리를 쫓는 그들이 있다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030576</link>
+            <guid>https://n.news.naver.com/article/308/0000030576</guid>
+            <pubDate>Sun, 27 Mar 2022 17:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/21/30576.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“왜 싫다고 못했느냐”에 아동이 답할 수 있을까?]]></title>
             <link>https://n.news.naver.com/article/308/0000030481</link>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 16 Jan 2022 17:45:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/10/30050.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그들은 오늘도 ‘청원과 범죄’에 대한 노래를 부른다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030004</link>
-            <guid>https://n.news.naver.com/article/308/0000030004</guid>
-            <pubDate>Sun, 02 Jan 2022 05:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/02/30004.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리스타일] 김용균 떠난 후 3년 ‘또 다른 김용균’만 남았다]]></title>
-            <link>https://n.news.naver.com/article/308/0000029979</link>
-            <guid>https://n.news.naver.com/article/308/0000029979</guid>
-            <pubDate>Tue, 22 Mar 2022 05:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2021.12.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2021/12/29/29979.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
