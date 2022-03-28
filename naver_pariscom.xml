@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 05:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 17:39:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“북한 ICBM은 신형” 한미 조작설 제기에 “일본 입장 변경 없어”]]></title>
+            <link>https://n.news.naver.com/article/469/0000666079</link>
+            <guid>https://n.news.naver.com/article/469/0000666079</guid>
+            <pubDate>Mon, 28 Mar 2022 17:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/28/666079.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난민 수용 기피 일본, 우크라이나 피란민 수용은 90% 찬성]]></title>
             <link>https://n.news.naver.com/article/469/0000665996</link>
             <guid>https://n.news.naver.com/article/469/0000665996</guid>
             <pubDate>Mon, 28 Mar 2022 05:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/28/665996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000665628</link>
             <guid>https://n.news.naver.com/article/469/0000665628</guid>
             <pubDate>Fri, 25 Mar 2022 17:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/25/665628.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000665408</link>
             <guid>https://n.news.naver.com/article/469/0000665408</guid>
             <pubDate>Thu, 24 Mar 2022 17:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/24/665408.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000665400</link>
             <guid>https://n.news.naver.com/article/469/0000665400</guid>
             <pubDate>Thu, 24 Mar 2022 17:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/24/665400.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000665187</link>
             <guid>https://n.news.naver.com/article/469/0000665187</guid>
             <pubDate>Wed, 23 Mar 2022 17:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Mar 2022 05:32:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665062.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무서운 괴물? 일본 오사카·간사이 만국박람회 공식 캐릭터 보니…]]></title>
-            <link>https://n.news.naver.com/article/469/0000664986</link>
-            <guid>https://n.news.naver.com/article/469/0000664986</guid>
-            <pubDate>Tue, 22 Mar 2022 17:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664986.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
