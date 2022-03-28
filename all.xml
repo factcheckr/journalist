@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 17:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:35:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,11 +288,19 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[난민 수용 기피 일본, 우크라이나 피란민 수용은 90% 찬성 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000665996</link>
+            <guid>https://n.news.naver.com/article/469/0000665996</guid>
+            <pubDate>Mon, 28 Mar 2022 05:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/28/665996.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샐러리맨 신화 ‘시마 과장’, 회장→고문 이어 사외이사에 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000665825</link>
             <guid>https://n.news.naver.com/article/469/0000665825</guid>
             <pubDate>Sun, 27 Mar 2022 05:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/27/665825.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +316,7 @@
             <link>https://n.news.naver.com/article/469/0000665560</link>
             <guid>https://n.news.naver.com/article/469/0000665560</guid>
             <pubDate>Fri, 25 Mar 2022 05:34:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/25/665560.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +340,7 @@
             <link>https://n.news.naver.com/article/469/0000665323</link>
             <guid>https://n.news.naver.com/article/469/0000665323</guid>
             <pubDate>Thu, 24 Mar 2022 05:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/24/665323.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +356,7 @@
             <link>https://n.news.naver.com/article/469/0000665062</link>
             <guid>https://n.news.naver.com/article/469/0000665062</guid>
             <pubDate>Wed, 23 Mar 2022 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/23/665062.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 22 Mar 2022 17:41:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664986.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러, 일본과 평화조약 협상 중단… 日 ‘쿠릴 열도 반환’ 꿈 사라지나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000664980</link>
-            <guid>https://n.news.naver.com/article/469/0000664980</guid>
-            <pubDate>Tue, 22 Mar 2022 17:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/22/664980.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명•윤석열 모두 외친 소상공인 50조원, 발언만 화끈해? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -448,11 +448,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/28/30258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기자들의 시선] 빈 유모차가 광장을 채웠다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030606</link>
+            <guid>https://n.news.naver.com/article/308/0000030606</guid>
+            <pubDate>Mon, 28 Mar 2022 05:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/28/30606.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘사이버 레커’ 유튜버와 언론, 비극과 혐오로 돈을 번다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030580</link>
             <guid>https://n.news.naver.com/article/308/0000030580</guid>
             <pubDate>Sun, 27 Mar 2022 17:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/22/30580.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -460,7 +468,7 @@
             <link>https://n.news.naver.com/article/308/0000030576</link>
             <guid>https://n.news.naver.com/article/308/0000030576</guid>
             <pubDate>Sun, 27 Mar 2022 17:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/21/30576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -520,19 +528,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/11/30053.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 대한민국 기후위기 보고서를 공개합니다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030050</link>
-            <guid>https://n.news.naver.com/article/308/0000030050</guid>
-            <pubDate>Sun, 16 Jan 2022 17:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/10/30050.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[열심히 투표한 당신 왜 찍고 왜 안 찍었나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030593</link>
             <guid>https://n.news.naver.com/article/308/0000030593</guid>
             <pubDate>Thu, 24 Mar 2022 05:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/24/30593.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
