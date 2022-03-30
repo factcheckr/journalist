@@ -4,17 +4,9 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 17:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 05:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[대학기자상] 학교가 사라졌다, 동네가 무너졌다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030614</link>
-            <guid>https://n.news.naver.com/article/308/0000030614</guid>
-            <pubDate>Tue, 29 Mar 2022 05:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/29/30614.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이재명•윤석열 모두 외친 소상공인 50조원, 발언만 화끈해?]]></title>
             <link>https://n.news.naver.com/article/308/0000030505</link>
@@ -86,6 +78,14 @@
             <pubDate>Tue, 15 Feb 2022 05:33:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/15/30370.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 오미크론 시나리오: 성문 밖으로 나가시겠습니까?]]></title>
+            <link>https://n.news.naver.com/article/308/0000030258</link>
+            <guid>https://n.news.naver.com/article/308/0000030258</guid>
+            <pubDate>Wed, 30 Mar 2022 05:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.01.28.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/28/30258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
