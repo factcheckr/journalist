@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-04-01T05:34:16.948Z</updated>
+    <updated>2022-04-01T17:40:32.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공정성·객관성의 담보없는 평가와 그에 의한 차별은 폭력이다]]></title>
+        <id>https://v.daum.net/v/20220401162326206</id>
+        <link href="https://v.daum.net/v/20220401162326206"/>
+        <updated>2022-04-01T17:40:31.693Z</updated>
+        <content type="html"><![CDATA[[경향신문] “별 다섯 개 좀 꼭 부탁드릴게요.” 서비스를 이용하고 나면, 서비스 노동자들이 으레 부탁하는 말이다. 잠시 후 서비스 만족도를 평가해달라는 메시지와 함께 온라인 링크가 날아온다. 세상에 존재하는 거의 모든 업체가 고객 만족을 최우선으로 내세우는 세상에서, 우리는 하루에도 몇 번씩 ‘평가’를 하면서 살아간다. 매우 만족, 만족, 보통, 불만족]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['살아남은' 여성들이 세상을 향한 폭력에 저항하는 방식]]></title>
         <id>https://v.daum.net/v/20220318160139590</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211029202636146"/>
         <updated>2021-10-29T17:43:35.125Z</updated>
         <content type="html"><![CDATA[[경향신문] 넷플릭스 드라마 ‘마이 네임’주연 한소희의 베드신 논란사전 고지 없는 노출 강요는2015년 반민정의 폭로 등어제오늘의 일이 아니다 당신은 어느 날 아르바이트를 시작했다. 조건과 업무를 파악한 후 계약했다. 성실하게 일하는 와중에 갑자기 상대방이 계약 사항에 없던 일을 요구한다. 유리창을 닦기로 했는데 겸사겸사 바닥까지 닦아달라고만 해도 욕 나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tvN '갯마을 차차차' 속 서울 깍쟁이 길들이기 서사가 불편한 이유]]></title>
-        <id>https://v.daum.net/v/20211015163439432</id>
-        <link href="https://v.daum.net/v/20211015163439432"/>
-        <updated>2021-10-18T05:38:21.382Z</updated>
-        <content type="html"><![CDATA[[경향신문] &lt;갯마을 차차차&gt;는 신민아(윤혜진 역), 김선호(홍반장 역) 주연의 tvN 드라마다. 2004년 영화 &lt;어디선가 누군가에 무슨 일이 생기면 틀림없이 나타난다 홍반장&gt;을 원작으로 한다. “현실주의 치과의사 윤혜진과 만능 백수 홍반장이 짠내 사람 내음 가득한 바닷마을 ‘공진’에서 벌이는 티키타카 로맨스를 그린 드라마”라는 공식 설명처럼, 힐링과]]></content>
     </entry>
 </feed>
