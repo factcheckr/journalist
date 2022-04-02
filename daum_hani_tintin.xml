@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-04-01T17:40:32.427Z</updated>
+    <updated>2022-04-02T05:33:35.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윌 스미스 손바닥과 크리스 록 뺨 사이에 남은 질문]]></title>
+        <id>https://entertain.v.daum.net/v/20220402093604498</id>
+        <link href="https://entertain.v.daum.net/v/20220402093604498"/>
+        <updated>2022-04-02T05:33:25.088Z</updated>
+        <content type="html"><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 지난 27일(현지시각) 미국 로스앤젤레스에서 열린 제94회 아카데미 시상식, 최우수 다큐멘터리 상을 시상하러 무대 위로 올라온 코미디언 크리스 록은 삭발을 하고 시상식에 참여한 제이다 핑킷 스미스를 향해 농담을 던졌다. “제이다! &lt;지.아이.제인 2&gt; 기대하고 있어요!” 여성 정보장교가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나문희·김영옥의 서툰 노래, 더 마음 가는 건 왜일까]]></title>
         <id>https://entertain.v.daum.net/v/20220319093602468</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210702191603730"/>
         <updated>2021-10-07T17:43:00.227Z</updated>
         <content type="html"><![CDATA[올해 초 파일럿엔 ‘여혐’ 비판 나와‘누구누구 아내’로 불렸던 선수들4개월 뒤 진짜 자기 이름 찾으며축구 프로그램 ‘선수’로 평가받아 리그제 운영하며 고정출연 30명소수의 긍정 측면만 다루지 않고모두를 주인공 삼는 게 가능해져시청자들도 이런 모습에 열광해 2021년 설 특집 파일럿 프로그램으로 첫선을 보인 에스비에스(SBS) &lt;골 때리는 그녀들&gt;을 처음 봤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티파니가 LGBTQ+와 함께한 '다시 만난 세계'..특별한 이유]]></title>
-        <id>https://entertain.v.daum.net/v/20210619115601218</id>
-        <link href="https://entertain.v.daum.net/v/20210619115601218"/>
-        <updated>2021-10-07T17:43:00.228Z</updated>
-        <content type="html"><![CDATA[소녀시대의 티파니 영이 ‘다시 만난 세계’에 맞춰 힘차게 춤을 춘다. 지난 14년 동안 못해도 수만번은 췄을 춤인데, 영상을 본 사람들은 새삼스러운 자부심과 기쁨을 감추지 못했다. 이번에 공개된 영상은 다름 아닌 ‘프라이드 먼스’(Pride Month) 기념 영상이기 때문이다. “제가 연예계 생활을 하면서도 ‘내가 충분히 하고 있나?’ ‘이 얘기를 해도 되]]></content>
     </entry>
 </feed>
