@@ -4,9 +4,17 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 05:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 17:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 전쟁은 일어나지 말았어야 했다]]></title>
+            <link>https://www.khan.co.kr/world/asia-australia/article/202204031553001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/asia-australia/article/202204031553001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sun, 03 Apr 2022 17:35:34 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;편집자 주&gt; 러시아가 지난 2월24일 우크라이나를 침공한 지 한 달이 지났습니다. 러시아군이 수도 키이우 방면에서 물러나고 있으나 전쟁으로 인한 우크라이나인들의 고통은 지속되고 있습니다. 경향신문은 르비우에서 피난 생활을 하고 있는 올렉산드르 구젠코(28)가 전쟁의 현실을 알리고 싶다며 보내온 글을 싣습니다. 대학에서 저널리즘을 전공한 구젠코는 전쟁 전에는 키이우에서 경영 컨설턴트로 일했으며 현재는 르비우에서 외신 기자들의 취재를 돕고 있습니다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/04/03/2022040301000242500017547.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸틴 “가스값 루블화로 결제”…유럽 각국 “계약위반” 반발]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202204012104015/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -104,15 +112,6 @@
             <pubDate>Wed, 30 Mar 2022 17:36:17 GMT</pubDate>
             <content:encoded><![CDATA[올해 일본 역사교과서 검정 과정에서 정부의 통일된 견해를 따르지 않았다는 지적에 따라 내용을 수정한 사례가 14건으로 역대 가장 많은 것으로 나타났다.
 지난 29일 종료한 일본 문부과학성 교과서 검정 결과 “정부 견해에 근거하지 않는다”거나 “학생이 오해할 우려가 있는 표현”이라고 지적받고 수정한 사례는 총 14건이다. 일제강점기 강제연행은 모두 동원으로 수정됐고, 일본군 위안부는 위안부로 고쳐 썼다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아 함대에 “꺼져라” 무전 친 병사···훈장받았다]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202203301838001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202203301838001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 30 Mar 2022 17:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[러시아군의 침공 첫날 항복을 요구하는 러시아 군함에 “꺼져라”고 말했던 우크라이나 병사가 포로에서 풀려나 훈장을 받았다.
-우크라이나 국방부는 자국 병사 로만 흐리보우에게 훈장을 수여했다고 가디언이 29일(현지시간) 전했다. 우크라이나 남부 도시 오데사에서 48km 떨어진 지미니섬(뱀섬) 국경수비대에 근무했던 흐리보우는 지난달 24일 우크라이나를 침공한 러시아 군함이 항복하지 않으면 포격하겠다고 하자 무전으로 욕설을 섞어가며 “꺼져라”고 답했다. 이후 러시아 군함이 공격을 개시하며 양측간 교전이 벌어졌다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/03/30/2022033001003923800349461.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
