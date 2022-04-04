@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 05:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 17:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[日 언론 “바이든, 트럼프 행정부 추진 신형 순항미사일 개발 중단”]]></title>
+            <title><![CDATA[日 아베 “적 기지 넘어 ‘중추’ 공격해야”... 오자와 “푸틴과 같은 미래? 국가 파괴자”]]></title>
+            <link>https://n.news.naver.com/article/469/0000667514</link>
+            <guid>https://n.news.naver.com/article/469/0000667514</guid>
+            <pubDate>Mon, 04 Apr 2022 17:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/04/667514.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 언론 “美 바이든, 신형 순항 핵미사일 개발 중단”]]></title>
             <link>https://n.news.naver.com/article/469/0000667412</link>
             <guid>https://n.news.naver.com/article/469/0000667412</guid>
             <pubDate>Mon, 04 Apr 2022 05:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/04/667412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000667376</link>
             <guid>https://n.news.naver.com/article/469/0000667376</guid>
             <pubDate>Mon, 04 Apr 2022 05:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/04/667376.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000667284</link>
             <guid>https://n.news.naver.com/article/469/0000667284</guid>
             <pubDate>Sun, 03 Apr 2022 17:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/03/667284.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000666908</link>
             <guid>https://n.news.naver.com/article/469/0000666908</guid>
             <pubDate>Thu, 31 Mar 2022 17:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/31/666908.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000666896</link>
             <guid>https://n.news.naver.com/article/469/0000666896</guid>
             <pubDate>Thu, 31 Mar 2022 17:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/31/666896.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000666861</link>
             <guid>https://n.news.naver.com/article/469/0000666861</guid>
             <pubDate>Thu, 31 Mar 2022 17:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/31/666861.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000666834</link>
             <guid>https://n.news.naver.com/article/469/0000666834</guid>
             <pubDate>Thu, 31 Mar 2022 17:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/31/666834.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000666659</link>
             <guid>https://n.news.naver.com/article/469/0000666659</guid>
             <pubDate>Wed, 30 Mar 2022 17:36:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/30/666659.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 정부 “교과서 검정 한국 항의, 수용할 수 없어”]]></title>
-            <link>https://n.news.naver.com/article/469/0000666652</link>
-            <guid>https://n.news.naver.com/article/469/0000666652</guid>
-            <pubDate>Wed, 30 Mar 2022 17:36:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/30/666652.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
