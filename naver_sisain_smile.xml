@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 17:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 05:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[20대 남녀 투표, 이 지점에서 극명히 갈렸다 [대선 표심 분석]]]></title>
+            <link>https://n.news.naver.com/article/308/0000030648</link>
+            <guid>https://n.news.naver.com/article/308/0000030648</guid>
+            <pubDate>Mon, 04 Apr 2022 05:35:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30648.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열심히 투표한 당신 왜 찍고 왜 안 찍었나]]></title>
             <link>https://n.news.naver.com/article/308/0000030593</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/27/30252.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] ‘물컵 갑질’도 막지 못한 조현민의 사장 승진]]></title>
-            <link>https://n.news.naver.com/article/308/0000030091</link>
-            <guid>https://n.news.naver.com/article/308/0000030091</guid>
-            <pubDate>Tue, 18 Jan 2022 05:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/18/30091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

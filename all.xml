@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 17:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 05:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,11 +283,27 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 언론 “바이든, 트럼프 행정부 추진 신형 순항미사일 개발 중단” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000667412</link>
+            <guid>https://n.news.naver.com/article/469/0000667412</guid>
+            <pubDate>Mon, 04 Apr 2022 05:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/04/667412.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 기시다 정권, 출범 반년 지지율 50% 유지 비법은?... ‘장기집권’ 조짐 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000667376</link>
+            <guid>https://n.news.naver.com/article/469/0000667376</guid>
+            <pubDate>Mon, 04 Apr 2022 05:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/04/667376.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아 상황 교훈? “중국서 1분기 외국인 투자 사상 최대 유출” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000667284</link>
             <guid>https://n.news.naver.com/article/469/0000667284</guid>
             <pubDate>Sun, 03 Apr 2022 17:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/03/667284.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,7 +311,7 @@
             <link>https://n.news.naver.com/article/469/0000667263</link>
             <guid>https://n.news.naver.com/article/469/0000667263</guid>
             <pubDate>Sun, 03 Apr 2022 05:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/03/667263.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -347,27 +363,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/30/666652.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日, 폴란드에 법무장관 특사 파견... 정부 전용기로 우크라이나 피란민 이송 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000666566</link>
-            <guid>https://n.news.naver.com/article/469/0000666566</guid>
-            <pubDate>Wed, 30 Mar 2022 05:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/30/666566.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 역사 교과서, 위안부·강제연행 등 정부 입김에 '최다 수정' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000666558</link>
-            <guid>https://n.news.naver.com/article/469/0000666558</guid>
-            <pubDate>Wed, 30 Mar 2022 05:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/30/666558.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대학기자상] “모두가 떠나면 아무것도 바뀌지 않는다” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030643</link>
             <guid>https://n.news.naver.com/article/308/0000030643</guid>
             <pubDate>Sun, 03 Apr 2022 05:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/03/30643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,7 +375,7 @@
             <link>https://n.news.naver.com/article/308/0000030635</link>
             <guid>https://n.news.naver.com/article/308/0000030635</guid>
             <pubDate>Sat, 02 Apr 2022 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/02/30635.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -383,7 +383,7 @@
             <link>https://n.news.naver.com/article/308/0000030626</link>
             <guid>https://n.news.naver.com/article/308/0000030626</guid>
             <pubDate>Thu, 31 Mar 2022 05:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/31/30626.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -391,7 +391,7 @@
             <link>https://n.news.naver.com/article/308/0000030617</link>
             <guid>https://n.news.naver.com/article/308/0000030617</guid>
             <pubDate>Fri, 01 Apr 2022 17:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/30/30617.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -443,11 +443,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/21/30408.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[프리스타일] 대선 개표의 밤, 대구의 장례식장에서 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030646</link>
+            <guid>https://n.news.naver.com/article/308/0000030646</guid>
+            <pubDate>Mon, 04 Apr 2022 05:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30646.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기자들의 시선] 빈 유모차가 광장을 채웠다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030606</link>
             <guid>https://n.news.naver.com/article/308/0000030606</guid>
             <pubDate>Mon, 28 Mar 2022 05:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/28/30606.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -515,12 +523,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/25/30240.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2050년 탄소중립까지 무엇을 할 것인가 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030053</link>
-            <guid>https://n.news.naver.com/article/308/0000030053</guid>
-            <pubDate>Sun, 16 Jan 2022 17:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/11/30053.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[20대 남녀 투표, 이 지점에서 극명히 갈렸다 [대선 표심 분석] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030648</link>
+            <guid>https://n.news.naver.com/article/308/0000030648</guid>
+            <pubDate>Mon, 04 Apr 2022 05:35:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30648.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열심히 투표한 당신 왜 찍고 왜 안 찍었나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
@@ -593,14 +601,6 @@
             <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/27/30252.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] ‘물컵 갑질’도 막지 못한 조현민의 사장 승진 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030091</link>
-            <guid>https://n.news.naver.com/article/308/0000030091</guid>
-            <pubDate>Tue, 18 Jan 2022 05:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/18/30091.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윌 스미스 손바닥과 크리스 록 뺨 사이에 남은 질문 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>

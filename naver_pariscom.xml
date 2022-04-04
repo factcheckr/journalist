@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 17:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 05:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 언론 “바이든, 트럼프 행정부 추진 신형 순항미사일 개발 중단”]]></title>
+            <link>https://n.news.naver.com/article/469/0000667412</link>
+            <guid>https://n.news.naver.com/article/469/0000667412</guid>
+            <pubDate>Mon, 04 Apr 2022 05:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/04/667412.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 기시다 정권, 출범 반년 지지율 50% 유지 비법은?... ‘장기집권’ 조짐]]></title>
+            <link>https://n.news.naver.com/article/469/0000667376</link>
+            <guid>https://n.news.naver.com/article/469/0000667376</guid>
+            <pubDate>Mon, 04 Apr 2022 05:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/04/667376.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 상황 교훈? “중국서 1분기 외국인 투자 사상 최대 유출”]]></title>
             <link>https://n.news.naver.com/article/469/0000667284</link>
             <guid>https://n.news.naver.com/article/469/0000667284</guid>
             <pubDate>Sun, 03 Apr 2022 17:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/03/667284.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000667263</link>
             <guid>https://n.news.naver.com/article/469/0000667263</guid>
             <pubDate>Sun, 03 Apr 2022 05:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/03/667263.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 30 Mar 2022 17:36:57 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/30/666652.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 폴란드에 법무장관 특사 파견... 정부 전용기로 우크라이나 피란민 이송]]></title>
-            <link>https://n.news.naver.com/article/469/0000666566</link>
-            <guid>https://n.news.naver.com/article/469/0000666566</guid>
-            <pubDate>Wed, 30 Mar 2022 05:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/30/666566.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 역사 교과서, 위안부·강제연행 등 정부 입김에 '최다 수정']]></title>
-            <link>https://n.news.naver.com/article/469/0000666558</link>
-            <guid>https://n.news.naver.com/article/469/0000666558</guid>
-            <pubDate>Wed, 30 Mar 2022 05:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/30/666558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
