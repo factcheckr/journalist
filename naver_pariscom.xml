@@ -4,15 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 05:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 17:38:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘코로나 쇄국’ 일본에서 지지받는 이유, 위험 회피가 '신앙']]></title>
+            <link>https://n.news.naver.com/article/469/0000668223</link>
+            <guid>https://n.news.naver.com/article/469/0000668223</guid>
+            <pubDate>Thu, 07 Apr 2022 17:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/07/668223.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘닌자 핫토리군’ 일본 국민 만화가 후지코 후지오A 별세]]></title>
+            <link>https://n.news.naver.com/article/469/0000668201</link>
+            <guid>https://n.news.naver.com/article/469/0000668201</guid>
+            <pubDate>Thu, 07 Apr 2022 17:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/07/668201.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 코로나 ‘7차 대유행’ 시작되나… 10~20대가 원인]]></title>
+            <link>https://n.news.naver.com/article/469/0000668172</link>
+            <guid>https://n.news.naver.com/article/469/0000668172</guid>
+            <pubDate>Thu, 07 Apr 2022 17:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/07/668172.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 정부 “러시아의 민간인 살해는 ‘전쟁 범죄’”]]></title>
             <link>https://n.news.naver.com/article/469/0000667969</link>
             <guid>https://n.news.naver.com/article/469/0000667969</guid>
             <pubDate>Wed, 06 Apr 2022 17:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/06/667969.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000667956</link>
             <guid>https://n.news.naver.com/article/469/0000667956</guid>
             <pubDate>Wed, 06 Apr 2022 17:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/06/667956.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000667724</link>
             <guid>https://n.news.naver.com/article/469/0000667724</guid>
             <pubDate>Tue, 05 Apr 2022 17:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/05/667724.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000667686</link>
             <guid>https://n.news.naver.com/article/469/0000667686</guid>
             <pubDate>Tue, 05 Apr 2022 17:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/05/667686.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000667514</link>
             <guid>https://n.news.naver.com/article/469/0000667514</guid>
             <pubDate>Mon, 04 Apr 2022 17:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/04/667514.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -62,30 +86,6 @@
             <pubDate>Mon, 04 Apr 2022 05:34:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/04/667376.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 상황 교훈? “중국서 1분기 외국인 투자 사상 최대 유출”]]></title>
-            <link>https://n.news.naver.com/article/469/0000667284</link>
-            <guid>https://n.news.naver.com/article/469/0000667284</guid>
-            <pubDate>Sun, 03 Apr 2022 17:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/03/667284.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“북한, 극초음속 미사일 기술 해킹으로 빼낸 듯”]]></title>
-            <link>https://n.news.naver.com/article/469/0000667263</link>
-            <guid>https://n.news.naver.com/article/469/0000667263</guid>
-            <pubDate>Sun, 03 Apr 2022 05:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/03/667263.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘日 차기 총리 주자’ 모테기 vs 다카이치 갈등 표면화]]></title>
-            <link>https://n.news.naver.com/article/469/0000666908</link>
-            <guid>https://n.news.naver.com/article/469/0000666908</guid>
-            <pubDate>Thu, 31 Mar 2022 17:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/03/31/666908.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
