@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 17:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼펙트게임 日 사사키, ‘고시엔보다 투수 어깨’ 택했던 고교 감독 재조명]]></title>
+            <link>https://n.news.naver.com/article/469/0000668786</link>
+            <guid>https://n.news.naver.com/article/469/0000668786</guid>
+            <pubDate>Mon, 11 Apr 2022 05:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/11/668786.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본, 석탄 수입 금지 등 러시아 추가 제재 발표]]></title>
             <link>https://n.news.naver.com/article/469/0000668449</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Apr 2022 17:38:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/05/667724.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난민에 인색한 日 정부 이례적...우크라이나 피란민 20명, 日 도착 ‘생활 지원’]]></title>
-            <link>https://n.news.naver.com/article/469/0000667686</link>
-            <guid>https://n.news.naver.com/article/469/0000667686</guid>
-            <pubDate>Sun, 10 Apr 2022 17:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/05/667686.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

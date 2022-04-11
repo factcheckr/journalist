@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 17:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,6 +283,14 @@ CNN은 미국 국무부 고위 관계자를 인용해 지난 7일(현지시간) 
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[퍼펙트게임 日 사사키, ‘고시엔보다 투수 어깨’ 택했던 고교 감독 재조명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000668786</link>
+            <guid>https://n.news.naver.com/article/469/0000668786</guid>
+            <pubDate>Mon, 11 Apr 2022 05:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/11/668786.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본, 석탄 수입 금지 등 러시아 추가 제재 발표 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000668449</link>
             <guid>https://n.news.naver.com/article/469/0000668449</guid>
@@ -355,19 +363,11 @@ CNN은 미국 국무부 고위 관계자를 인용해 지난 7일(현지시간) 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/05/667724.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[난민에 인색한 日 정부 이례적...우크라이나 피란민 20명, 日 도착 ‘생활 지원’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000667686</link>
-            <guid>https://n.news.naver.com/article/469/0000667686</guid>
-            <pubDate>Sun, 10 Apr 2022 17:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/05/667686.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대학기자상] “모두가 떠나면 아무것도 바뀌지 않는다” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030643</link>
             <guid>https://n.news.naver.com/article/308/0000030643</guid>
             <pubDate>Fri, 08 Apr 2022 17:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.04.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/03/30643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -447,7 +447,7 @@ CNN은 미국 국무부 고위 관계자를 인용해 지난 7일(현지시간) 
             <link>https://n.news.naver.com/article/308/0000030667</link>
             <guid>https://n.news.naver.com/article/308/0000030667</guid>
             <pubDate>Fri, 08 Apr 2022 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/08/30667.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -455,7 +455,7 @@ CNN은 미국 국무부 고위 관계자를 인용해 지난 7일(현지시간) 
             <link>https://n.news.naver.com/article/308/0000030657</link>
             <guid>https://n.news.naver.com/article/308/0000030657</guid>
             <pubDate>Wed, 06 Apr 2022 05:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/06/30657.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -463,7 +463,7 @@ CNN은 미국 국무부 고위 관계자를 인용해 지난 7일(현지시간) 
             <link>https://n.news.naver.com/article/308/0000030655</link>
             <guid>https://n.news.naver.com/article/308/0000030655</guid>
             <pubDate>Tue, 05 Apr 2022 05:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -471,7 +471,7 @@ CNN은 미국 국무부 고위 관계자를 인용해 지난 7일(현지시간) 
             <link>https://n.news.naver.com/article/308/0000030651</link>
             <guid>https://n.news.naver.com/article/308/0000030651</guid>
             <pubDate>Tue, 05 Apr 2022 05:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -479,7 +479,7 @@ CNN은 미국 국무부 고위 관계자를 인용해 지난 7일(현지시간) 
             <link>https://n.news.naver.com/article/308/0000030646</link>
             <guid>https://n.news.naver.com/article/308/0000030646</guid>
             <pubDate>Mon, 04 Apr 2022 05:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30646.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -527,7 +527,7 @@ CNN은 미국 국무부 고위 관계자를 인용해 지난 7일(현지시간) 
             <link>https://n.news.naver.com/article/308/0000030648</link>
             <guid>https://n.news.naver.com/article/308/0000030648</guid>
             <pubDate>Mon, 04 Apr 2022 05:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30648.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
