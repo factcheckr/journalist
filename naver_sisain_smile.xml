@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 17:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 05:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아”]]></title>
+            <link>https://n.news.naver.com/article/308/0000030688</link>
+            <guid>https://n.news.naver.com/article/308/0000030688</guid>
+            <pubDate>Tue, 12 Apr 2022 05:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20대 남녀 투표, 이 지점에서 극명히 갈렸다 [대선 표심 분석]]]></title>
             <link>https://n.news.naver.com/article/308/0000030648</link>
             <guid>https://n.news.naver.com/article/308/0000030648</guid>
             <pubDate>Mon, 04 Apr 2022 05:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30648.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/29/30265.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명·윤석열·심상정·안철수 〈삼프로TV〉 댓글 분석해보니]]></title>
-            <link>https://n.news.naver.com/article/308/0000030252</link>
-            <guid>https://n.news.naver.com/article/308/0000030252</guid>
-            <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/27/30252.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
