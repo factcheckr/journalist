@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 17:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도요타 전기차, 일본선 ‘구독’ 방식으로 판매... 월 사용료 내고 추후 반납]]></title>
+            <link>https://n.news.naver.com/article/469/0000669329</link>
+            <guid>https://n.news.naver.com/article/469/0000669329</guid>
+            <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669329.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 언론 “바이든 방일 5월 22~24일... 한국 방문 및 정상회담도 검토”]]></title>
+            <link>https://n.news.naver.com/article/469/0000669303</link>
+            <guid>https://n.news.naver.com/article/469/0000669303</guid>
+            <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669303.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 언론 “미·영·호주, 일본에 오커스(AUKUS) 참가 타진”]]></title>
             <link>https://n.news.naver.com/article/469/0000669251</link>
             <guid>https://n.news.naver.com/article/469/0000669251</guid>
             <pubDate>Wed, 13 Apr 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669251.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000669232</link>
             <guid>https://n.news.naver.com/article/469/0000669232</guid>
             <pubDate>Wed, 13 Apr 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669232.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000669080</link>
             <guid>https://n.news.naver.com/article/469/0000669080</guid>
             <pubDate>Tue, 12 Apr 2022 17:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000669072</link>
             <guid>https://n.news.naver.com/article/469/0000669072</guid>
             <pubDate>Tue, 12 Apr 2022 17:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000668843</link>
             <guid>https://n.news.naver.com/article/469/0000668843</guid>
             <pubDate>Mon, 11 Apr 2022 17:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/11/668843.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,24 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000668449</link>
             <guid>https://n.news.naver.com/article/469/0000668449</guid>
             <pubDate>Fri, 08 Apr 2022 17:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/08/668449.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아사히신문 기자가 아베 대변인? 타 언론에 “기사 미리 보여달라” 요구 파문]]></title>
-            <link>https://n.news.naver.com/article/469/0000668414</link>
-            <guid>https://n.news.naver.com/article/469/0000668414</guid>
-            <pubDate>Fri, 08 Apr 2022 17:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/08/668414.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 초등 6년생 6.5%가 가족 돌보는 ‘영 케어러’… 하루 7시간 돌보는 사례도]]></title>
-            <link>https://n.news.naver.com/article/469/0000668402</link>
-            <guid>https://n.news.naver.com/article/469/0000668402</guid>
-            <pubDate>Fri, 08 Apr 2022 17:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/08/668402.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
