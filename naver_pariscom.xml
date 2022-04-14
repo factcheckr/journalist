@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 17:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 05:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 언론 “윤 내각에 소꿉친구 다수 등용”... 박진 도쿄대 유학도 언급]]></title>
+            <link>https://n.news.naver.com/article/469/0000669485</link>
+            <guid>https://n.news.naver.com/article/469/0000669485</guid>
+            <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669485.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 언론 "윤석열 정부, 5월 쿼드 정상회의에 옵서버 참석 타진"]]></title>
+            <link>https://n.news.naver.com/article/469/0000669458</link>
+            <guid>https://n.news.naver.com/article/469/0000669458</guid>
+            <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669458.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도요타 전기차, 일본선 ‘구독’ 방식으로 판매... 월 사용료 내고 추후 반납]]></title>
             <link>https://n.news.naver.com/article/469/0000669329</link>
             <guid>https://n.news.naver.com/article/469/0000669329</guid>
             <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000669303</link>
             <guid>https://n.news.naver.com/article/469/0000669303</guid>
             <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000669251</link>
             <guid>https://n.news.naver.com/article/469/0000669251</guid>
             <pubDate>Wed, 13 Apr 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669251.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000669232</link>
             <guid>https://n.news.naver.com/article/469/0000669232</guid>
             <pubDate>Wed, 13 Apr 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669232.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000669030</link>
             <guid>https://n.news.naver.com/article/469/0000669030</guid>
             <pubDate>Tue, 12 Apr 2022 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669030.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 11 Apr 2022 17:40:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/11/668843.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼펙트게임 日 사사키, ‘고시엔보다 투수 어깨’ 택했던 고교 감독 재조명]]></title>
-            <link>https://n.news.naver.com/article/469/0000668786</link>
-            <guid>https://n.news.naver.com/article/469/0000668786</guid>
-            <pubDate>Mon, 11 Apr 2022 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/11/668786.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 석탄 수입 금지 등 러시아 추가 제재 발표]]></title>
-            <link>https://n.news.naver.com/article/469/0000668449</link>
-            <guid>https://n.news.naver.com/article/469/0000668449</guid>
-            <pubDate>Fri, 08 Apr 2022 17:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/08/668449.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
