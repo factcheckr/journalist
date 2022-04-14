@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 언론 “러시아서 수입, 중국 26%·한국 44% 증가... 제재 약점”]]></title>
+            <link>https://n.news.naver.com/article/469/0000669536</link>
+            <guid>https://n.news.naver.com/article/469/0000669536</guid>
+            <pubDate>Thu, 14 Apr 2022 17:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669536.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 언론 “윤 내각에 소꿉친구 다수 등용”... 박진 도쿄대 유학도 언급]]></title>
             <link>https://n.news.naver.com/article/469/0000669485</link>
             <guid>https://n.news.naver.com/article/469/0000669485</guid>
             <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669485.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000669458</link>
             <guid>https://n.news.naver.com/article/469/0000669458</guid>
             <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000669329</link>
             <guid>https://n.news.naver.com/article/469/0000669329</guid>
             <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000669303</link>
             <guid>https://n.news.naver.com/article/469/0000669303</guid>
             <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000669080</link>
             <guid>https://n.news.naver.com/article/469/0000669080</guid>
             <pubDate>Tue, 12 Apr 2022 17:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000669072</link>
             <guid>https://n.news.naver.com/article/469/0000669072</guid>
             <pubDate>Tue, 12 Apr 2022 17:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Apr 2022 05:33:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669030.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성인 연령 18세로 낮춘 日, 18·19세 AV 출연 뒤늦게 법 정비]]></title>
-            <link>https://n.news.naver.com/article/469/0000668843</link>
-            <guid>https://n.news.naver.com/article/469/0000668843</guid>
-            <pubDate>Mon, 11 Apr 2022 17:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/11/668843.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
