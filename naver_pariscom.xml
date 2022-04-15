@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 17:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스가 전 총리 ‘경제교사’, “일본은 최저임금 지역차 부작용 시정 중...일률화가 바람직”]]></title>
+            <link>https://n.news.naver.com/article/469/0000669640</link>
+            <guid>https://n.news.naver.com/article/469/0000669640</guid>
+            <pubDate>Fri, 15 Apr 2022 05:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/15/669640.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 언론 “러시아서 수입, 중국 26%·한국 44% 증가... 제재 약점”]]></title>
             <link>https://n.news.naver.com/article/469/0000669536</link>
             <guid>https://n.news.naver.com/article/469/0000669536</guid>
             <pubDate>Thu, 14 Apr 2022 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000669485</link>
             <guid>https://n.news.naver.com/article/469/0000669485</guid>
             <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669485.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000669458</link>
             <guid>https://n.news.naver.com/article/469/0000669458</guid>
             <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000669251</link>
             <guid>https://n.news.naver.com/article/469/0000669251</guid>
             <pubDate>Wed, 13 Apr 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669251.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000669232</link>
             <guid>https://n.news.naver.com/article/469/0000669232</guid>
             <pubDate>Wed, 13 Apr 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669232.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Apr 2022 17:46:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669072.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 히타치, 주 3일 쉴 수 있다… 총 근무시간·급여 그대로]]></title>
-            <link>https://n.news.naver.com/article/469/0000669030</link>
-            <guid>https://n.news.naver.com/article/469/0000669030</guid>
-            <pubDate>Tue, 12 Apr 2022 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669030.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
