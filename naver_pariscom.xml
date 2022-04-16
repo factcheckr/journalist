@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 05:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 17:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000669536</link>
             <guid>https://n.news.naver.com/article/469/0000669536</guid>
             <pubDate>Thu, 14 Apr 2022 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000669329</link>
             <guid>https://n.news.naver.com/article/469/0000669329</guid>
             <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000669303</link>
             <guid>https://n.news.naver.com/article/469/0000669303</guid>
             <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669232.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본도 푸틴 딸 2명 자산동결… 러시아산 보드카 등 수입 금지]]></title>
-            <link>https://n.news.naver.com/article/469/0000669080</link>
-            <guid>https://n.news.naver.com/article/469/0000669080</guid>
-            <pubDate>Tue, 12 Apr 2022 17:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669080.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[日 자민당, ‘적 기지 공격 능력’ 보유 요구키로… “전수방위 해석 바꿔야” 의견도]]></title>
             <link>https://n.news.naver.com/article/469/0000669072</link>
             <guid>https://n.news.naver.com/article/469/0000669072</guid>
             <pubDate>Tue, 12 Apr 2022 17:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669072.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 히타치, 주 3일 쉴 수 있다… 총 근무시간·급여 그대로]]></title>
+            <link>https://n.news.naver.com/article/469/0000669030</link>
+            <guid>https://n.news.naver.com/article/469/0000669030</guid>
+            <pubDate>Sat, 16 Apr 2022 17:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/12/669030.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
