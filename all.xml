@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 17:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 05:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,7 +286,7 @@ CNN 등에 따르면 바이든 대통령은 12일(현지시간) 아이오와에�
             <link>https://n.news.naver.com/article/469/0000669640</link>
             <guid>https://n.news.naver.com/article/469/0000669640</guid>
             <pubDate>Fri, 15 Apr 2022 05:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/15/669640.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,7 +302,7 @@ CNN 등에 따르면 바이든 대통령은 12일(현지시간) 아이오와에�
             <link>https://n.news.naver.com/article/469/0000669485</link>
             <guid>https://n.news.naver.com/article/469/0000669485</guid>
             <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669485.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -310,7 +310,7 @@ CNN 등에 따르면 바이든 대통령은 12일(현지시간) 아이오와에�
             <link>https://n.news.naver.com/article/469/0000669458</link>
             <guid>https://n.news.naver.com/article/469/0000669458</guid>
             <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -334,7 +334,7 @@ CNN 등에 따르면 바이든 대통령은 12일(현지시간) 아이오와에�
             <link>https://n.news.naver.com/article/469/0000669251</link>
             <guid>https://n.news.naver.com/article/469/0000669251</guid>
             <pubDate>Wed, 13 Apr 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669251.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -342,7 +342,7 @@ CNN 등에 따르면 바이든 대통령은 12일(현지시간) 아이오와에�
             <link>https://n.news.naver.com/article/469/0000669232</link>
             <guid>https://n.news.naver.com/article/469/0000669232</guid>
             <pubDate>Wed, 13 Apr 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669232.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -446,7 +446,7 @@ CNN 등에 따르면 바이든 대통령은 12일(현지시간) 아이오와에�
             <link>https://n.news.naver.com/article/308/0000030667</link>
             <guid>https://n.news.naver.com/article/308/0000030667</guid>
             <pubDate>Fri, 08 Apr 2022 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.04.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/08/30667.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,7 +526,7 @@ CNN 등에 따르면 바이든 대통령은 12일(현지시간) 아이오와에�
             <link>https://n.news.naver.com/article/308/0000030688</link>
             <guid>https://n.news.naver.com/article/308/0000030688</guid>
             <pubDate>Tue, 12 Apr 2022 05:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -600,6 +600,13 @@ CNN 등에 따르면 바이든 대통령은 12일(현지시간) 아이오와에�
             <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.01.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/29/30265.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['썰전' 박경석-이준석 테이블에 숨겨진 방송사의 민낯 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20220416093601329</link>
+            <guid>https://entertain.v.daum.net/v/20220416093601329</guid>
+            <pubDate>Sat, 16 Apr 2022 05:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 제이티비시(JTBC)가 &lt;썰전 라이브&gt;를 통해 중계한 이준석 국민의힘 당대표와 박경석 전국장애인차별철폐연대(전장연) 대표의 토론을 함축적으로 보여준 장면은 테이블의 높이였다. 두 발로 보행이 가능한 비장애인 출연자의 키에 맞춰서 제작한 토론 테이블은, 휠체어에 탄 박경석 대표에겐 높았다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윌 스미스 손바닥과 크리스 록 뺨 사이에 남은 질문 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
@@ -733,13 +740,6 @@ CNN 등에 따르면 바이든 대통령은 12일(현지시간) 아이오와에�
             <guid>https://entertain.v.daum.net/v/20210717170602196</guid>
             <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
             <content:encoded><![CDATA[인터넷 포털사이트에서 연예뉴스를 보는 일이 갈수록 어려워진다. ‘실시간 많이 본 뉴스’로 추천되는 기사마다 제목에 하트를 달지 못해 안달이기 때문이다. 연예인이나 온라인상에서 인기를 얻고 있는 셀레브리티들에 관한 기사를 쓰면서, 제목에 ‘♥ 아무개’ 같은 식으로 해당 인물의 배우자나, 지금 사귀고 있는 사람의 이름을 끼워 넣는 언론이 자꾸 늘어나는 추세다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['누구누구 아내'로 불리다 4개월 뒤 오롯이 자기 이름 찾아 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20210702191603730</link>
-            <guid>https://entertain.v.daum.net/v/20210702191603730</guid>
-            <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[올해 초 파일럿엔 ‘여혐’ 비판 나와‘누구누구 아내’로 불렸던 선수들4개월 뒤 진짜 자기 이름 찾으며축구 프로그램 ‘선수’로 평가받아 리그제 운영하며 고정출연 30명소수의 긍정 측면만 다루지 않고모두를 주인공 삼는 게 가능해져시청자들도 이런 모습에 열광해 2021년 설 특집 파일럿 프로그램으로 첫선을 보인 에스비에스(SBS) &lt;골 때리는 그녀들&gt;을 처음 봤]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영화 '버스를 타자' 이후 20년..장애인 이동권 시위를 향한 시선은 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>

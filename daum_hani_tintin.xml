@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-04-15T17:40:30.721Z</updated>
+    <updated>2022-04-16T05:33:59.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['썰전' 박경석-이준석 테이블에 숨겨진 방송사의 민낯]]></title>
+        <id>https://entertain.v.daum.net/v/20220416093601329</id>
+        <link href="https://entertain.v.daum.net/v/20220416093601329"/>
+        <updated>2022-04-16T05:33:49.815Z</updated>
+        <content type="html"><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 제이티비시(JTBC)가 &lt;썰전 라이브&gt;를 통해 중계한 이준석 국민의힘 당대표와 박경석 전국장애인차별철폐연대(전장연) 대표의 토론을 함축적으로 보여준 장면은 테이블의 높이였다. 두 발로 보행이 가능한 비장애인 출연자의 키에 맞춰서 제작한 토론 테이블은, 휠체어에 탄 박경석 대표에겐 높았다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윌 스미스 손바닥과 크리스 록 뺨 사이에 남은 질문]]></title>
         <id>https://entertain.v.daum.net/v/20220402093604498</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210717170602196"/>
         <updated>2021-10-07T17:43:00.226Z</updated>
         <content type="html"><![CDATA[인터넷 포털사이트에서 연예뉴스를 보는 일이 갈수록 어려워진다. ‘실시간 많이 본 뉴스’로 추천되는 기사마다 제목에 하트를 달지 못해 안달이기 때문이다. 연예인이나 온라인상에서 인기를 얻고 있는 셀레브리티들에 관한 기사를 쓰면서, 제목에 ‘♥ 아무개’ 같은 식으로 해당 인물의 배우자나, 지금 사귀고 있는 사람의 이름을 끼워 넣는 언론이 자꾸 늘어나는 추세다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['누구누구 아내'로 불리다 4개월 뒤 오롯이 자기 이름 찾아]]></title>
-        <id>https://entertain.v.daum.net/v/20210702191603730</id>
-        <link href="https://entertain.v.daum.net/v/20210702191603730"/>
-        <updated>2021-10-07T17:43:00.227Z</updated>
-        <content type="html"><![CDATA[올해 초 파일럿엔 ‘여혐’ 비판 나와‘누구누구 아내’로 불렸던 선수들4개월 뒤 진짜 자기 이름 찾으며축구 프로그램 ‘선수’로 평가받아 리그제 운영하며 고정출연 30명소수의 긍정 측면만 다루지 않고모두를 주인공 삼는 게 가능해져시청자들도 이런 모습에 열광해 2021년 설 특집 파일럿 프로그램으로 첫선을 보인 에스비에스(SBS) &lt;골 때리는 그녀들&gt;을 처음 봤]]></content>
     </entry>
 </feed>
