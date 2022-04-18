@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 17:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000669986</link>
             <guid>https://n.news.naver.com/article/469/0000669986</guid>
             <pubDate>Sun, 17 Apr 2022 17:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/17/669986.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,23 +20,15 @@
             <link>https://n.news.naver.com/article/469/0000669966</link>
             <guid>https://n.news.naver.com/article/469/0000669966</guid>
             <pubDate>Sun, 17 Apr 2022 17:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/17/669966.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여고생 성적 대상화’ 만화 전면광고 논란... 유엔 여성기구 항의도 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000669959</link>
-            <guid>https://n.news.naver.com/article/469/0000669959</guid>
-            <pubDate>Sun, 17 Apr 2022 17:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/17/669959.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스가 전 총리 ‘경제교사’, “일본은 최저임금 지역차 부작용 시정 중...일률화가 바람직”]]></title>
             <link>https://n.news.naver.com/article/469/0000669640</link>
             <guid>https://n.news.naver.com/article/469/0000669640</guid>
             <pubDate>Fri, 15 Apr 2022 05:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/15/669640.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,8 +44,16 @@
             <link>https://n.news.naver.com/article/469/0000669485</link>
             <guid>https://n.news.naver.com/article/469/0000669485</guid>
             <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669485.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 언론 "윤석열 정부, 5월 쿼드 정상회의에 옵서버 참석 타진"]]></title>
+            <link>https://n.news.naver.com/article/469/0000669458</link>
+            <guid>https://n.news.naver.com/article/469/0000669458</guid>
+            <pubDate>Mon, 18 Apr 2022 05:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도요타 전기차, 일본선 ‘구독’ 방식으로 판매... 월 사용료 내고 추후 반납]]></title>
@@ -76,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000669251</link>
             <guid>https://n.news.naver.com/article/469/0000669251</guid>
             <pubDate>Wed, 13 Apr 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669251.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000669232</link>
             <guid>https://n.news.naver.com/article/469/0000669232</guid>
             <pubDate>Wed, 13 Apr 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669232.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
