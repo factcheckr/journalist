@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 05:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 17:44:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본은행 총재 구두개입 비웃듯 엔화 추락... ‘완화정책 계속’에 베팅하는 시장]]></title>
+            <link>https://n.news.naver.com/article/469/0000670393</link>
+            <guid>https://n.news.naver.com/article/469/0000670393</guid>
+            <pubDate>Tue, 19 Apr 2022 17:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670393.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 덮밥 체인 요시노야 임원, ‘젊은 여성 약물 중독시키듯 마케팅’ 발언]]></title>
             <link>https://n.news.naver.com/article/469/0000670321</link>
             <guid>https://n.news.naver.com/article/469/0000670321</guid>
             <pubDate>Tue, 19 Apr 2022 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000670166</link>
             <guid>https://n.news.naver.com/article/469/0000670166</guid>
             <pubDate>Mon, 18 Apr 2022 17:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/18/670166.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000670156</link>
             <guid>https://n.news.naver.com/article/469/0000670156</guid>
             <pubDate>Mon, 18 Apr 2022 17:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/18/670156.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000669966</link>
             <guid>https://n.news.naver.com/article/469/0000669966</guid>
             <pubDate>Sun, 17 Apr 2022 17:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/17/669966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000669536</link>
             <guid>https://n.news.naver.com/article/469/0000669536</guid>
             <pubDate>Thu, 14 Apr 2022 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000669329</link>
             <guid>https://n.news.naver.com/article/469/0000669329</guid>
             <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669329.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 언론 “바이든 방일 5월 22~24일... 한국 방문 및 정상회담도 검토”]]></title>
-            <link>https://n.news.naver.com/article/469/0000669303</link>
-            <guid>https://n.news.naver.com/article/469/0000669303</guid>
-            <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
