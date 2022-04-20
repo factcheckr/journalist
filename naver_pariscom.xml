@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 17:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 직원 80% “재택근무 계속 희망” 기업은 절반 이상이 “단점 더 많아”]]></title>
+            <link>https://n.news.naver.com/article/469/0000670549</link>
+            <guid>https://n.news.naver.com/article/469/0000670549</guid>
+            <pubDate>Wed, 20 Apr 2022 05:52:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670549.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본은행 총재 구두개입 비웃듯 엔화 추락... ‘완화정책 계속’에 베팅하는 시장]]></title>
             <link>https://n.news.naver.com/article/469/0000670393</link>
             <guid>https://n.news.naver.com/article/469/0000670393</guid>
             <pubDate>Tue, 19 Apr 2022 17:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000670321</link>
             <guid>https://n.news.naver.com/article/469/0000670321</guid>
             <pubDate>Tue, 19 Apr 2022 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000669640</link>
             <guid>https://n.news.naver.com/article/469/0000669640</guid>
             <pubDate>Fri, 15 Apr 2022 05:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/15/669640.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000669485</link>
             <guid>https://n.news.naver.com/article/469/0000669485</guid>
             <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669485.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000669458</link>
             <guid>https://n.news.naver.com/article/469/0000669458</guid>
             <pubDate>Mon, 18 Apr 2022 05:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669458.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도요타 전기차, 일본선 ‘구독’ 방식으로 판매... 월 사용료 내고 추후 반납]]></title>
-            <link>https://n.news.naver.com/article/469/0000669329</link>
-            <guid>https://n.news.naver.com/article/469/0000669329</guid>
-            <pubDate>Wed, 13 Apr 2022 17:39:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/13/669329.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
