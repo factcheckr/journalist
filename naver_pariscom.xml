@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 재계, 윤석열 정부 한일관계 개선 의지에 기대감 "터널 끝 빛 보여"]]></title>
+            <link>https://n.news.naver.com/article/469/0000670718</link>
+            <guid>https://n.news.naver.com/article/469/0000670718</guid>
+            <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670718.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달러당 엔화 129엔 추락에도... 일본은행 “엔화보다 금리 지켜라”]]></title>
+            <link>https://n.news.naver.com/article/469/0000670651</link>
+            <guid>https://n.news.naver.com/article/469/0000670651</guid>
+            <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670651.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 직원 80% “재택근무 계속 희망” 기업은 절반 이상이 “단점 더 많아”]]></title>
             <link>https://n.news.naver.com/article/469/0000670549</link>
             <guid>https://n.news.naver.com/article/469/0000670549</guid>
             <pubDate>Wed, 20 Apr 2022 05:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000670393</link>
             <guid>https://n.news.naver.com/article/469/0000670393</guid>
             <pubDate>Tue, 19 Apr 2022 17:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000670166</link>
             <guid>https://n.news.naver.com/article/469/0000670166</guid>
             <pubDate>Mon, 18 Apr 2022 17:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/18/670166.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,15 +60,23 @@
             <link>https://n.news.naver.com/article/469/0000670156</link>
             <guid>https://n.news.naver.com/article/469/0000670156</guid>
             <pubDate>Mon, 18 Apr 2022 17:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/18/670156.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 자민당 “방위비 5년 내 2배” 제언... 세계 3위 군사 대국 현실성 있나]]></title>
+            <link>https://n.news.naver.com/article/469/0000669986</link>
+            <guid>https://n.news.naver.com/article/469/0000669986</guid>
+            <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/17/669986.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日 전문가 “모스크바호 침몰은 전함 야마토 침몰에 필적”]]></title>
             <link>https://n.news.naver.com/article/469/0000669966</link>
             <guid>https://n.news.naver.com/article/469/0000669966</guid>
             <pubDate>Sun, 17 Apr 2022 17:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/17/669966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -62,30 +86,6 @@
             <pubDate>Fri, 15 Apr 2022 05:39:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/15/669640.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 언론 “러시아서 수입, 중국 26%·한국 44% 증가... 제재 약점”]]></title>
-            <link>https://n.news.naver.com/article/469/0000669536</link>
-            <guid>https://n.news.naver.com/article/469/0000669536</guid>
-            <pubDate>Thu, 14 Apr 2022 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669536.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 언론 “윤 내각에 소꿉친구 다수 등용”... 박진 도쿄대 유학도 언급]]></title>
-            <link>https://n.news.naver.com/article/469/0000669485</link>
-            <guid>https://n.news.naver.com/article/469/0000669485</guid>
-            <pubDate>Thu, 14 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669485.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 언론 "윤석열 정부, 5월 쿼드 정상회의에 옵서버 참석 타진"]]></title>
-            <link>https://n.news.naver.com/article/469/0000669458</link>
-            <guid>https://n.news.naver.com/article/469/0000669458</guid>
-            <pubDate>Mon, 18 Apr 2022 05:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/14/669458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
