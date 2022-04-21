@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 05:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 17:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 정부, 보조금 주며 배터리 생산 늘린다… “2030년까지 20배 증대”]]></title>
+            <link>https://n.news.naver.com/article/469/0000670847</link>
+            <guid>https://n.news.naver.com/article/469/0000670847</guid>
+            <pubDate>Thu, 21 Apr 2022 17:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/21/670847.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“우크라이나 피란민 지원 日 자위대기, 인도가 수용 거부”]]></title>
+            <link>https://n.news.naver.com/article/469/0000670837</link>
+            <guid>https://n.news.naver.com/article/469/0000670837</guid>
+            <pubDate>Thu, 21 Apr 2022 17:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/21/670837.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다 日 총리, 야스쿠니 신사에 공물 봉납]]></title>
             <link>https://n.news.naver.com/article/469/0000670767</link>
             <guid>https://n.news.naver.com/article/469/0000670767</guid>
             <pubDate>Thu, 21 Apr 2022 05:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/21/670767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000670718</link>
             <guid>https://n.news.naver.com/article/469/0000670718</guid>
             <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000670651</link>
             <guid>https://n.news.naver.com/article/469/0000670651</guid>
             <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000670393</link>
             <guid>https://n.news.naver.com/article/469/0000670393</guid>
             <pubDate>Tue, 19 Apr 2022 17:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000670166</link>
             <guid>https://n.news.naver.com/article/469/0000670166</guid>
             <pubDate>Mon, 18 Apr 2022 17:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/18/670166.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,24 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000670156</link>
             <guid>https://n.news.naver.com/article/469/0000670156</guid>
             <pubDate>Mon, 18 Apr 2022 17:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/18/670156.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 자민당 “방위비 5년 내 2배” 제언... 세계 3위 군사 대국 현실성 있나]]></title>
-            <link>https://n.news.naver.com/article/469/0000669986</link>
-            <guid>https://n.news.naver.com/article/469/0000669986</guid>
-            <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/17/669986.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 전문가 “모스크바호 침몰은 전함 야마토 침몰에 필적”]]></title>
-            <link>https://n.news.naver.com/article/469/0000669966</link>
-            <guid>https://n.news.naver.com/article/469/0000669966</guid>
-            <pubDate>Sun, 17 Apr 2022 17:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/17/669966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
