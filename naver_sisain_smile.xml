@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 17:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 05:53:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“페미니즘 정치와 계급 정치 연계시킬 토양 탄탄하게 존재한다”]]></title>
+            <link>https://n.news.naver.com/article/308/0000030737</link>
+            <guid>https://n.news.naver.com/article/308/0000030737</guid>
+            <pubDate>Thu, 21 Apr 2022 05:53:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아”]]></title>
             <link>https://n.news.naver.com/article/308/0000030688</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Feb 2022 17:35:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/05/30306.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 뒷담화] 패스만 하는 민주당, 4자 토론 피하는 국민의힘?]]></title>
-            <link>https://n.news.naver.com/article/308/0000030265</link>
-            <guid>https://n.news.naver.com/article/308/0000030265</guid>
-            <pubDate>Wed, 02 Feb 2022 17:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.01.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/01/29/30265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

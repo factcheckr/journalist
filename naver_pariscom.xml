@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 17:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 05:53:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기시다 日 총리, 야스쿠니 신사에 공물 봉납]]></title>
+            <link>https://n.news.naver.com/article/469/0000670767</link>
+            <guid>https://n.news.naver.com/article/469/0000670767</guid>
+            <pubDate>Thu, 21 Apr 2022 05:52:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/21/670767.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 재계, 윤석열 정부 한일관계 개선 의지에 기대감 "터널 끝 빛 보여"]]></title>
             <link>https://n.news.naver.com/article/469/0000670718</link>
             <guid>https://n.news.naver.com/article/469/0000670718</guid>
             <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000670651</link>
             <guid>https://n.news.naver.com/article/469/0000670651</guid>
             <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000670549</link>
             <guid>https://n.news.naver.com/article/469/0000670549</guid>
             <pubDate>Wed, 20 Apr 2022 05:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000670321</link>
             <guid>https://n.news.naver.com/article/469/0000670321</guid>
             <pubDate>Tue, 19 Apr 2022 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 17 Apr 2022 17:37:57 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/17/669966.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스가 전 총리 ‘경제교사’, “일본은 최저임금 지역차 부작용 시정 중...일률화가 바람직”]]></title>
-            <link>https://n.news.naver.com/article/469/0000669640</link>
-            <guid>https://n.news.naver.com/article/469/0000669640</guid>
-            <pubDate>Fri, 15 Apr 2022 05:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/15/669640.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
