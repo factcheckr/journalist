@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 05:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 17:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 자민당, ‘적 기지 공격능력’→‘반격 능력’ 명칭 바꿔 추진]]></title>
+            <link>https://n.news.naver.com/article/469/0000671070</link>
+            <guid>https://n.news.naver.com/article/469/0000671070</guid>
+            <pubDate>Fri, 22 Apr 2022 17:44:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/22/671070.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 외교청서, 독도 영유권 억지 주장 되풀이... “한국이 불법 점거”]]></title>
             <link>https://n.news.naver.com/article/469/0000671049</link>
             <guid>https://n.news.naver.com/article/469/0000671049</guid>
             <pubDate>Fri, 22 Apr 2022 05:52:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/22/671049.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000670847</link>
             <guid>https://n.news.naver.com/article/469/0000670847</guid>
             <pubDate>Thu, 21 Apr 2022 17:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/21/670847.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000670718</link>
             <guid>https://n.news.naver.com/article/469/0000670718</guid>
             <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000670651</link>
             <guid>https://n.news.naver.com/article/469/0000670651</guid>
             <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000670393</link>
             <guid>https://n.news.naver.com/article/469/0000670393</guid>
             <pubDate>Tue, 19 Apr 2022 17:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Apr 2022 05:41:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670321.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘지원금 줬다 뺏는’ 日 마이넘버카드, 보험증 연동 기능... “의사 기득권만 배려” 불만]]></title>
-            <link>https://n.news.naver.com/article/469/0000670166</link>
-            <guid>https://n.news.naver.com/article/469/0000670166</guid>
-            <pubDate>Mon, 18 Apr 2022 17:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/18/670166.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
