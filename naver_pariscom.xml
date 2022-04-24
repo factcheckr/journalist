@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 17:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 05:35:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 축구부 코치가 학생 폭행 논란… 피해 학생이 사과, 왜? [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000671258</link>
+            <guid>https://n.news.naver.com/article/469/0000671258</guid>
+            <pubDate>Sun, 24 Apr 2022 05:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/24/671258.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 자민당, ‘적 기지 공격능력’→‘반격 능력’ 명칭 바꿔 추진]]></title>
             <link>https://n.news.naver.com/article/469/0000671070</link>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000670767</link>
             <guid>https://n.news.naver.com/article/469/0000670767</guid>
             <pubDate>Thu, 21 Apr 2022 05:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/21/670767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -64,28 +72,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“러시아 키이우 점령 실패, 중국에 큰 충격... 대만 침공 시나리오 ‘경고등’” 日 언론 분석]]></title>
+            <link>https://n.news.naver.com/article/469/0000670593</link>
+            <guid>https://n.news.naver.com/article/469/0000670593</guid>
+            <pubDate>Sun, 24 Apr 2022 05:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670593.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 직원 80% “재택근무 계속 희망” 기업은 절반 이상이 “단점 더 많아”]]></title>
             <link>https://n.news.naver.com/article/469/0000670549</link>
             <guid>https://n.news.naver.com/article/469/0000670549</guid>
             <pubDate>Wed, 20 Apr 2022 05:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670549.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본은행 총재 구두개입 비웃듯 엔화 추락... ‘완화정책 계속’에 베팅하는 시장]]></title>
-            <link>https://n.news.naver.com/article/469/0000670393</link>
-            <guid>https://n.news.naver.com/article/469/0000670393</guid>
-            <pubDate>Tue, 19 Apr 2022 17:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670393.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 덮밥 체인 요시노야 임원, ‘젊은 여성 약물 중독시키듯 마케팅’ 발언]]></title>
-            <link>https://n.news.naver.com/article/469/0000670321</link>
-            <guid>https://n.news.naver.com/article/469/0000670321</guid>
-            <pubDate>Tue, 19 Apr 2022 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/19/670321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
