@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 05:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 17:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[일본 관광선 침몰사고 실종자 26명 중 7명 발견…의식불명 상태 (경향신문 ─ 박은하 기자)]]></title>
+            <title><![CDATA[일본 관광선 침몰사고 실종자 9명 구조, 8명 의식 없어 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/national/incident/article/202204241128001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/incident/article/202204241128001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Sun, 24 Apr 2022 05:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[일본 홋카이도 관광선 침몰 사고로 실종됐던 26명의 탑승자 중 7명이 발견됐지만 모두 의식불명 상태라고 교도통신과 NHK가 24일 보도했다.
-보도에 따르면 이날 오전에 발견된 7명은 모두 의식불명 상태로 인근 병원으로 이송됐다.
+            <content:encoded><![CDATA[일본 홋카이도 관광선 침몰 사고로 실종됐던 26명의 탑승자 중 9명이 구조됐지만 이중 8명이 의식이 없는 상태라고 교도통신과 NHK가 24일 보도했다.
+보도에 따르면 탑승자 중 9명은 이날 오전 구조돼 인근 병원으로 이송됐다. 이 중 8명은 의식이 없는 상태다.
 앞서 NHK와 교도통신은 전날 오후 1시15분쯤 홋카이도 시레토코반도 앞바다에서 26명이 탑승한 관광선으로부터 침수로 인한 구조 요청이 있었으며 이후 선박과 탑승자가 발견되지 않고 있다고 보도했다.]]></content:encoded>
         </item>
         <item>
@@ -286,11 +286,27 @@ NHK와 교도통신은 홋카이도 시레토코반도 앞바다에서 23일 오
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 관광선 침몰 후 발견된 10명 모두 숨져 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000671308</link>
+            <guid>https://n.news.naver.com/article/469/0000671308</guid>
+            <pubDate>Sun, 24 Apr 2022 17:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/24/671308.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정책협의단, 윤석열 친서 들고 방일… 정진석 “한일 관계 의지 담겼을 것” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000671284</link>
+            <guid>https://n.news.naver.com/article/469/0000671284</guid>
+            <pubDate>Sun, 24 Apr 2022 17:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/24/671284.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 축구부 코치가 학생 폭행 논란… 피해 학생이 사과, 왜? [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000671258</link>
             <guid>https://n.news.naver.com/article/469/0000671258</guid>
             <pubDate>Sun, 24 Apr 2022 05:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/24/671258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +314,7 @@ NHK와 교도통신은 홋카이도 시레토코반도 앞바다에서 23일 오
             <link>https://n.news.naver.com/article/469/0000671070</link>
             <guid>https://n.news.naver.com/article/469/0000671070</guid>
             <pubDate>Fri, 22 Apr 2022 17:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/22/671070.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +322,7 @@ NHK와 교도통신은 홋카이도 시레토코반도 앞바다에서 23일 오
             <link>https://n.news.naver.com/article/469/0000671049</link>
             <guid>https://n.news.naver.com/article/469/0000671049</guid>
             <pubDate>Fri, 22 Apr 2022 05:52:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/22/671049.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +330,7 @@ NHK와 교도통신은 홋카이도 시레토코반도 앞바다에서 23일 오
             <link>https://n.news.naver.com/article/469/0000670847</link>
             <guid>https://n.news.naver.com/article/469/0000670847</guid>
             <pubDate>Thu, 21 Apr 2022 17:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/21/670847.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +338,7 @@ NHK와 교도통신은 홋카이도 시레토코반도 앞바다에서 23일 오
             <link>https://n.news.naver.com/article/469/0000670837</link>
             <guid>https://n.news.naver.com/article/469/0000670837</guid>
             <pubDate>Thu, 21 Apr 2022 17:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/21/670837.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +354,7 @@ NHK와 교도통신은 홋카이도 시레토코반도 앞바다에서 23일 오
             <link>https://n.news.naver.com/article/469/0000670718</link>
             <guid>https://n.news.naver.com/article/469/0000670718</guid>
             <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,24 +362,8 @@ NHK와 교도통신은 홋카이도 시레토코반도 앞바다에서 23일 오
             <link>https://n.news.naver.com/article/469/0000670651</link>
             <guid>https://n.news.naver.com/article/469/0000670651</guid>
             <pubDate>Wed, 20 Apr 2022 17:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670651.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“러시아 키이우 점령 실패, 중국에 큰 충격... 대만 침공 시나리오 ‘경고등’” 日 언론 분석 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000670593</link>
-            <guid>https://n.news.naver.com/article/469/0000670593</guid>
-            <pubDate>Sun, 24 Apr 2022 05:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670593.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 직원 80% “재택근무 계속 희망” 기업은 절반 이상이 “단점 더 많아” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000670549</link>
-            <guid>https://n.news.naver.com/article/469/0000670549</guid>
-            <pubDate>Wed, 20 Apr 2022 05:52:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670549.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/20/670651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] 중국 상하이 봉쇄, SF 아닌 현실 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
