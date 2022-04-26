@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 17:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 05:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한일 정책협의단, 기시다 후미오 일본 총리와 면담]]></title>
+            <link>https://n.news.naver.com/article/469/0000671641</link>
+            <guid>https://n.news.naver.com/article/469/0000671641</guid>
+            <pubDate>Tue, 26 Apr 2022 05:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671641.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전쟁범죄를 비난하는 전범 국가 [특파원의 시선]]]></title>
+            <link>https://n.news.naver.com/article/469/0000671591</link>
+            <guid>https://n.news.naver.com/article/469/0000671591</guid>
+            <pubDate>Tue, 26 Apr 2022 05:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671591.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계 최고령 日 다나카 할머니, 119세로 별세]]></title>
             <link>https://n.news.naver.com/article/469/0000671457</link>
             <guid>https://n.news.naver.com/article/469/0000671457</guid>
             <pubDate>Mon, 25 Apr 2022 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/25/671457.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000671427</link>
             <guid>https://n.news.naver.com/article/469/0000671427</guid>
             <pubDate>Mon, 25 Apr 2022 05:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/25/671427.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000671413</link>
             <guid>https://n.news.naver.com/article/469/0000671413</guid>
             <pubDate>Mon, 25 Apr 2022 05:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/25/671413.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000671348</link>
             <guid>https://n.news.naver.com/article/469/0000671348</guid>
             <pubDate>Mon, 25 Apr 2022 05:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/25/671348.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000671258</link>
             <guid>https://n.news.naver.com/article/469/0000671258</guid>
             <pubDate>Sun, 24 Apr 2022 05:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/24/671258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 22 Apr 2022 17:44:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/22/671070.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 외교청서, 독도 영유권 억지 주장 되풀이... “한국이 불법 점거”]]></title>
-            <link>https://n.news.naver.com/article/469/0000671049</link>
-            <guid>https://n.news.naver.com/article/469/0000671049</guid>
-            <pubDate>Fri, 22 Apr 2022 05:52:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/22/671049.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 정부, 보조금 주며 배터리 생산 늘린다… “2030년까지 20배 증대”]]></title>
-            <link>https://n.news.naver.com/article/469/0000670847</link>
-            <guid>https://n.news.naver.com/article/469/0000670847</guid>
-            <pubDate>Thu, 21 Apr 2022 17:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/21/670847.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
