@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 05:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 17:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000672199</link>
             <guid>https://n.news.naver.com/article/469/0000672199</guid>
             <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000672171</link>
             <guid>https://n.news.naver.com/article/469/0000672171</guid>
             <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672171.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000672169</link>
             <guid>https://n.news.naver.com/article/469/0000672169</guid>
             <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672169.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000671989</link>
             <guid>https://n.news.naver.com/article/469/0000671989</guid>
             <pubDate>Wed, 27 Apr 2022 17:45:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/27/671989.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -64,19 +64,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/27/671839.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[文정부 주일대사는 안 만나주더니… 尹 당선 후 싹 바뀐 일본]]></title>
-            <link>https://n.news.naver.com/article/469/0000671731</link>
-            <guid>https://n.news.naver.com/article/469/0000671731</guid>
-            <pubDate>Wed, 27 Apr 2022 17:45:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671731.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[尹 친서 받은 기시다 日총리, “한일 관계 개선 더 기다릴 수 없어”]]></title>
             <link>https://n.news.naver.com/article/469/0000671680</link>
             <guid>https://n.news.naver.com/article/469/0000671680</guid>
             <pubDate>Tue, 26 Apr 2022 17:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671680.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -86,6 +78,14 @@
             <pubDate>Tue, 26 Apr 2022 05:37:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671641.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전쟁범죄를 비난하는 전범 국가 [특파원의 시선]]]></title>
+            <link>https://n.news.naver.com/article/469/0000671591</link>
+            <guid>https://n.news.naver.com/article/469/0000671591</guid>
+            <pubDate>Fri, 29 Apr 2022 17:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

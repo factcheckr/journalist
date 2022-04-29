@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 05:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 17:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,7 +290,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000672199</link>
             <guid>https://n.news.naver.com/article/469/0000672199</guid>
             <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +298,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000672171</link>
             <guid>https://n.news.naver.com/article/469/0000672171</guid>
             <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672171.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +306,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000672169</link>
             <guid>https://n.news.naver.com/article/469/0000672169</guid>
             <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672169.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +322,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000671989</link>
             <guid>https://n.news.naver.com/article/469/0000671989</guid>
             <pubDate>Wed, 27 Apr 2022 17:45:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/27/671989.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -342,19 +342,11 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/27/671839.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[文정부 주일대사는 안 만나주더니… 尹 당선 후 싹 바뀐 일본 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000671731</link>
-            <guid>https://n.news.naver.com/article/469/0000671731</guid>
-            <pubDate>Wed, 27 Apr 2022 17:45:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671731.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[尹 친서 받은 기시다 日총리, “한일 관계 개선 더 기다릴 수 없어” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000671680</link>
             <guid>https://n.news.naver.com/article/469/0000671680</guid>
             <pubDate>Tue, 26 Apr 2022 17:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671680.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,6 +356,14 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <pubDate>Tue, 26 Apr 2022 05:37:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671641.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전쟁범죄를 비난하는 전범 국가 [특파원의 시선] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000671591</link>
+            <guid>https://n.news.naver.com/article/469/0000671591</guid>
+            <pubDate>Fri, 29 Apr 2022 17:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] 일론 머스크, 트위터까지 손에 넣을까 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -746,6 +746,13 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <content:encoded><![CDATA[인터넷 포털사이트에서 연예뉴스를 보는 일이 갈수록 어려워진다. ‘실시간 많이 본 뉴스’로 추천되는 기사마다 제목에 하트를 달지 못해 안달이기 때문이다. 연예인이나 온라인상에서 인기를 얻고 있는 셀레브리티들에 관한 기사를 쓰면서, 제목에 ‘♥ 아무개’ 같은 식으로 해당 인물의 배우자나, 지금 사귀고 있는 사람의 이름을 끼워 넣는 언론이 자꾸 늘어나는 추세다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[원치 않은 임신에도 죄책감·사랑의 결실이라니..지긋지긋하다 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20220429162613003</link>
+            <guid>https://v.daum.net/v/20220429162613003</guid>
+            <pubDate>Fri, 29 Apr 2022 17:41:13 GMT</pubDate>
+            <content:encoded><![CDATA[[경향신문] tvN 드라마 &lt;우리들의 블루스&gt;는 지난 회차에서 청소년 임신 소재를 다루었다. 아버지들끼리 철천지 원수이자 학교에서는 전교 1, 2등의 경쟁자인 영주와 현이 주인공이다. 영주는 어머니가 일찍 도망가는 바람에 끈끈한 공동체 육아 속에서 자랐다. 가는 곳마다 자신을 모르는 곳 없는 제주도가 지긋지긋한 영주는 서울대 의대를 노리며 ‘인서울’, 정]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[영화 '버스를 타자' 이후 20년..장애인 이동권 시위를 향한 시선은 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
             <link>https://v.daum.net/v/20220415162050954</link>
             <guid>https://v.daum.net/v/20220415162050954</guid>
@@ -821,13 +828,6 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <guid>https://v.daum.net/v/20211126163519178</guid>
             <pubDate>Fri, 26 Nov 2021 17:45:48 GMT</pubDate>
             <content:encoded><![CDATA[[경향신문] 올해 가장 ‘핫’한 스포츠를 꼽자면, 단연 여자배구다. 2020 도쿄 올림픽에서 끝까지 포기하지 않는 투지와 팀워크를 보여주며 4강까지 가는 기염을 토한 여자배구는 숱한 명장면과 유행어를 탄생시켰다. 마감이 임박해 글을 쓰는 나 역시 지금도 외치고 있다. “해보자, 해보자, 해보자, 후회하지 말고!” 올림픽이 끝난 후 여자배구 선수들은 각종]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아들의 커밍아웃..불행하냐고? 아니, 그게 뭐 어때서 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20211112161043498</link>
-            <guid>https://v.daum.net/v/20211112161043498</guid>
-            <pubDate>Fri, 12 Nov 2021 17:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] 한 사람의 세계는 필연적으로 편협하다. 우리는 물리적 한계가 뚜렷한 몸에 기거하며, 경험이 선을 그어놓은 범위 안에서 살아간다. 니체의 말처럼 인간은 유리잔에 빠져, 그 안에서 보고 느끼는 세상이 전부라고 생각하는 파리다. 그래, 우물 안 개구리, 그거. 하지만 서로의 우물과 하늘을 공유할 때, 울타리를 조금씩 무너뜨릴 수 있다. 서로의 세계]]></content:encoded>
         </item>
     </channel>
 </rss>

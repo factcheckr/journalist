@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-04-29T05:38:39.372Z</updated>
+    <updated>2022-04-29T17:41:14.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원치 않은 임신에도 죄책감·사랑의 결실이라니..지긋지긋하다]]></title>
+        <id>https://v.daum.net/v/20220429162613003</id>
+        <link href="https://v.daum.net/v/20220429162613003"/>
+        <updated>2022-04-29T17:41:13.534Z</updated>
+        <content type="html"><![CDATA[[경향신문] tvN 드라마 &lt;우리들의 블루스&gt;는 지난 회차에서 청소년 임신 소재를 다루었다. 아버지들끼리 철천지 원수이자 학교에서는 전교 1, 2등의 경쟁자인 영주와 현이 주인공이다. 영주는 어머니가 일찍 도망가는 바람에 끈끈한 공동체 육아 속에서 자랐다. 가는 곳마다 자신을 모르는 곳 없는 제주도가 지긋지긋한 영주는 서울대 의대를 노리며 ‘인서울’, 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '버스를 타자' 이후 20년..장애인 이동권 시위를 향한 시선은]]></title>
         <id>https://v.daum.net/v/20220415162050954</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211126163519178"/>
         <updated>2021-11-26T17:45:48.979Z</updated>
         <content type="html"><![CDATA[[경향신문] 올해 가장 ‘핫’한 스포츠를 꼽자면, 단연 여자배구다. 2020 도쿄 올림픽에서 끝까지 포기하지 않는 투지와 팀워크를 보여주며 4강까지 가는 기염을 토한 여자배구는 숱한 명장면과 유행어를 탄생시켰다. 마감이 임박해 글을 쓰는 나 역시 지금도 외치고 있다. “해보자, 해보자, 해보자, 후회하지 말고!” 올림픽이 끝난 후 여자배구 선수들은 각종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아들의 커밍아웃..불행하냐고? 아니, 그게 뭐 어때서]]></title>
-        <id>https://v.daum.net/v/20211112161043498</id>
-        <link href="https://v.daum.net/v/20211112161043498"/>
-        <updated>2021-11-12T17:44:49.760Z</updated>
-        <content type="html"><![CDATA[[경향신문] 한 사람의 세계는 필연적으로 편협하다. 우리는 물리적 한계가 뚜렷한 몸에 기거하며, 경험이 선을 그어놓은 범위 안에서 살아간다. 니체의 말처럼 인간은 유리잔에 빠져, 그 안에서 보고 느끼는 세상이 전부라고 생각하는 파리다. 그래, 우물 안 개구리, 그거. 하지만 서로의 우물과 하늘을 공유할 때, 울타리를 조금씩 무너뜨릴 수 있다. 서로의 세계]]></content>
     </entry>
 </feed>
