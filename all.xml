@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 17:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 05:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -314,7 +314,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000672126</link>
             <guid>https://n.news.naver.com/article/469/0000672126</guid>
             <pubDate>Thu, 28 Apr 2022 05:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672126.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,7 +330,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000671843</link>
             <guid>https://n.news.naver.com/article/469/0000671843</guid>
             <pubDate>Wed, 27 Apr 2022 05:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/27/671843.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +338,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000671839</link>
             <guid>https://n.news.naver.com/article/469/0000671839</guid>
             <pubDate>Wed, 27 Apr 2022 05:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/27/671839.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -354,7 +354,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000671641</link>
             <guid>https://n.news.naver.com/article/469/0000671641</guid>
             <pubDate>Tue, 26 Apr 2022 05:37:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671641.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -362,7 +362,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000671591</link>
             <guid>https://n.news.naver.com/article/469/0000671591</guid>
             <pubDate>Fri, 29 Apr 2022 17:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -370,7 +370,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/308/0000030761</link>
             <guid>https://n.news.naver.com/article/308/0000030761</guid>
             <pubDate>Tue, 26 Apr 2022 05:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/26/30761.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -450,7 +450,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/308/0000030766</link>
             <guid>https://n.news.naver.com/article/308/0000030766</guid>
             <pubDate>Wed, 27 Apr 2022 05:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/27/30766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -606,6 +606,13 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/05/30306.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['정치언어' 없었던 윤석열과 '광대언어' 잃은 유재석 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20220430090608620</link>
+            <guid>https://entertain.v.daum.net/v/20220430090608620</guid>
+            <pubDate>Sat, 30 Apr 2022 05:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE ‘일기’라는 테마로 방송된 4월27일 방영분 티브이엔(tvN) 토크쇼 &lt;유 퀴즈 온 더 블럭&gt;의 에필로그는 일기의 형식을 빌려 제작진의 복잡한 속내를 드러냈다. “폭풍 같았던 지난 몇주를 보내고도 아무 일 아닌 듯 아무렇지 않은 듯 쳇바퀴에 그저 몸을 맡겨야만 하는 나의 제작일지.” 윤석]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['썰전' 박경석-이준석 '테이블 불평등'에 숨겨진 방송사 민낯 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
             <link>https://entertain.v.daum.net/v/20220416093601329</link>
             <guid>https://entertain.v.daum.net/v/20220416093601329</guid>
@@ -737,13 +744,6 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <guid>https://entertain.v.daum.net/v/20210730213602909</guid>
             <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
             <content:encoded><![CDATA[올림픽 개회식 중 선수단 입장은 스포츠로 우애를 다지기 위해 날아온 선수들을 맞이한다는 의미에서 가장 중요한 대목이다. 그러나 참여하는 국가가 200여국에 달하는 탓에, 잘 모르는 국가의 선수단이 입장할 때면 보는 이들의 주의력이 분산되기도 쉽다. 그런 탓에 개회식을 중계하는 방송사들은 시청자들에게 짧은 시간 안에 각 국가의 특징을 설명하기 위해 최선을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['셀럽 ♥아무개' 그 흉측한 하트를 떼낼 때도 됐다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20210717170602196</link>
-            <guid>https://entertain.v.daum.net/v/20210717170602196</guid>
-            <pubDate>Sun, 03 Oct 2021 13:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷 포털사이트에서 연예뉴스를 보는 일이 갈수록 어려워진다. ‘실시간 많이 본 뉴스’로 추천되는 기사마다 제목에 하트를 달지 못해 안달이기 때문이다. 연예인이나 온라인상에서 인기를 얻고 있는 셀레브리티들에 관한 기사를 쓰면서, 제목에 ‘♥ 아무개’ 같은 식으로 해당 인물의 배우자나, 지금 사귀고 있는 사람의 이름을 끼워 넣는 언론이 자꾸 늘어나는 추세다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[원치 않은 임신에도 죄책감·사랑의 결실이라니..지긋지긋하다 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>

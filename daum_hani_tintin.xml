@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-04-29T17:41:14.204Z</updated>
+    <updated>2022-04-30T05:35:08.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정치언어' 없었던 윤석열과 '광대언어' 잃은 유재석]]></title>
+        <id>https://entertain.v.daum.net/v/20220430090608620</id>
+        <link href="https://entertain.v.daum.net/v/20220430090608620"/>
+        <updated>2022-04-30T05:34:59.360Z</updated>
+        <content type="html"><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE ‘일기’라는 테마로 방송된 4월27일 방영분 티브이엔(tvN) 토크쇼 &lt;유 퀴즈 온 더 블럭&gt;의 에필로그는 일기의 형식을 빌려 제작진의 복잡한 속내를 드러냈다. “폭풍 같았던 지난 몇주를 보내고도 아무 일 아닌 듯 아무렇지 않은 듯 쳇바퀴에 그저 몸을 맡겨야만 하는 나의 제작일지.” 윤석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['썰전' 박경석-이준석 '테이블 불평등'에 숨겨진 방송사 민낯]]></title>
         <id>https://entertain.v.daum.net/v/20220416093601329</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210730213602909"/>
         <updated>2021-10-07T17:43:00.225Z</updated>
         <content type="html"><![CDATA[올림픽 개회식 중 선수단 입장은 스포츠로 우애를 다지기 위해 날아온 선수들을 맞이한다는 의미에서 가장 중요한 대목이다. 그러나 참여하는 국가가 200여국에 달하는 탓에, 잘 모르는 국가의 선수단이 입장할 때면 보는 이들의 주의력이 분산되기도 쉽다. 그런 탓에 개회식을 중계하는 방송사들은 시청자들에게 짧은 시간 안에 각 국가의 특징을 설명하기 위해 최선을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['셀럽 ♥아무개' 그 흉측한 하트를 떼낼 때도 됐다]]></title>
-        <id>https://entertain.v.daum.net/v/20210717170602196</id>
-        <link href="https://entertain.v.daum.net/v/20210717170602196"/>
-        <updated>2021-10-07T17:43:00.226Z</updated>
-        <content type="html"><![CDATA[인터넷 포털사이트에서 연예뉴스를 보는 일이 갈수록 어려워진다. ‘실시간 많이 본 뉴스’로 추천되는 기사마다 제목에 하트를 달지 못해 안달이기 때문이다. 연예인이나 온라인상에서 인기를 얻고 있는 셀레브리티들에 관한 기사를 쓰면서, 제목에 ‘♥ 아무개’ 같은 식으로 해당 인물의 배우자나, 지금 사귀고 있는 사람의 이름을 끼워 넣는 언론이 자꾸 늘어나는 추세다.]]></content>
     </entry>
 </feed>
