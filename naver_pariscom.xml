@@ -4,15 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 17:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포]시영주택과 평화기념관... 재일 조선인 ‘우토로마을’의 변신]]></title>
+            <link>https://n.news.naver.com/article/469/0000672663</link>
+            <guid>https://n.news.naver.com/article/469/0000672663</guid>
+            <pubDate>Sun, 01 May 2022 17:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/01/672663.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“발견되러 온 듯”... 파도 속 떠오른 日 침몰 관광선 3세 소녀]]></title>
+            <link>https://n.news.naver.com/article/469/0000672634</link>
+            <guid>https://n.news.naver.com/article/469/0000672634</guid>
+            <pubDate>Sun, 01 May 2022 17:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/01/672634.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘파친코’ 선자가 김치 팔던 쓰루하시에 일본인 몰려드는 이유 [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000672602</link>
+            <guid>https://n.news.naver.com/article/469/0000672602</guid>
+            <pubDate>Sun, 01 May 2022 17:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/01/672602.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["日 방위성, 동해에 무인기 상시 배치 검토... 극초음속 무기 감시용"]]></title>
             <link>https://n.news.naver.com/article/469/0000672588</link>
             <guid>https://n.news.naver.com/article/469/0000672588</guid>
             <pubDate>Sun, 01 May 2022 05:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/01/672588.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000672576</link>
             <guid>https://n.news.naver.com/article/469/0000672576</guid>
             <pubDate>Sun, 01 May 2022 05:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/01/672576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000672199</link>
             <guid>https://n.news.naver.com/article/469/0000672199</guid>
             <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000672171</link>
             <guid>https://n.news.naver.com/article/469/0000672171</guid>
             <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672171.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000672169</link>
             <guid>https://n.news.naver.com/article/469/0000672169</guid>
             <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672169.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,32 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000671989</link>
             <guid>https://n.news.naver.com/article/469/0000671989</guid>
             <pubDate>Wed, 27 Apr 2022 17:45:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/27/671989.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 '독도 정밀 측량'에 뿔난 일본, 尹협의단에도 항의]]></title>
-            <link>https://n.news.naver.com/article/469/0000671843</link>
-            <guid>https://n.news.naver.com/article/469/0000671843</guid>
-            <pubDate>Wed, 27 Apr 2022 05:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/27/671843.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 아사히신문, “윤석열 취임식은 기회…기시다, 참석해야”]]></title>
-            <link>https://n.news.naver.com/article/469/0000671839</link>
-            <guid>https://n.news.naver.com/article/469/0000671839</guid>
-            <pubDate>Wed, 27 Apr 2022 05:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/27/671839.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 친서 받은 기시다 日총리, “한일 관계 개선 더 기다릴 수 없어”]]></title>
-            <link>https://n.news.naver.com/article/469/0000671680</link>
-            <guid>https://n.news.naver.com/article/469/0000671680</guid>
-            <pubDate>Tue, 26 Apr 2022 17:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/26/671680.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
