@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 17:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 05:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,7 +288,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000672815</link>
             <guid>https://n.news.naver.com/article/469/0000672815</guid>
             <pubDate>Mon, 02 May 2022 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/02/672815.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +296,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000672781</link>
             <guid>https://n.news.naver.com/article/469/0000672781</guid>
             <pubDate>Mon, 02 May 2022 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/02/672781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +304,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000672744</link>
             <guid>https://n.news.naver.com/article/469/0000672744</guid>
             <pubDate>Mon, 02 May 2022 05:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/02/672744.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +320,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000672602</link>
             <guid>https://n.news.naver.com/article/469/0000672602</guid>
             <pubDate>Sun, 01 May 2022 17:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/01/672602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +328,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000672588</link>
             <guid>https://n.news.naver.com/article/469/0000672588</guid>
             <pubDate>Sun, 01 May 2022 05:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/01/672588.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +336,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/469/0000672576</link>
             <guid>https://n.news.naver.com/article/469/0000672576</guid>
             <pubDate>Sun, 01 May 2022 05:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/01/672576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,11 +364,19 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672169.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[프리스타일] 오미크론의 정점, 요양시설에 가보니 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030799</link>
+            <guid>https://n.news.naver.com/article/308/0000030799</guid>
+            <pubDate>Tue, 03 May 2022 05:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/03/30799.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기자들의 시선] 일론 머스크, 트위터까지 손에 넣을까 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030761</link>
             <guid>https://n.news.naver.com/article/308/0000030761</guid>
             <pubDate>Tue, 26 Apr 2022 05:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/26/30761.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -436,19 +444,11 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/29/30614.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이재명•윤석열 모두 외친 소상공인 50조원, 발언만 화끈해? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030505</link>
-            <guid>https://n.news.naver.com/article/308/0000030505</guid>
-            <pubDate>Mon, 07 Mar 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30505.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이재명의 ‘개딸’들이 민주당에 미치는 영향 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030766</link>
             <guid>https://n.news.naver.com/article/308/0000030766</guid>
             <pubDate>Wed, 27 Apr 2022 05:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/27/30766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +528,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/308/0000030791</link>
             <guid>https://n.news.naver.com/article/308/0000030791</guid>
             <pubDate>Mon, 02 May 2022 05:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -536,7 +536,7 @@ NHK 등 일본 언론에 따르면 가쓰라다 세이이치 시레토코 유람
             <link>https://n.news.naver.com/article/308/0000030789</link>
             <guid>https://n.news.naver.com/article/308/0000030789</guid>
             <pubDate>Mon, 02 May 2022 05:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
