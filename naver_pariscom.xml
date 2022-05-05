@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 17:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 05:41:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국, 日 후쿠시마산  식품 수입규제 철폐한다… 존슨 총리, 기시다와 시식도]]></title>
+            <link>https://n.news.naver.com/article/469/0000673411</link>
+            <guid>https://n.news.naver.com/article/469/0000673411</guid>
+            <pubDate>Thu, 05 May 2022 05:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/05/673411.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라 사태에 개헌 찬성으로 바뀐 日 여론... 기시다 “자위대 위헌 논쟁 종지부”]]></title>
             <link>https://n.news.naver.com/article/469/0000673072</link>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000672744</link>
             <guid>https://n.news.naver.com/article/469/0000672744</guid>
             <pubDate>Mon, 02 May 2022 05:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/02/672744.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000672588</link>
             <guid>https://n.news.naver.com/article/469/0000672588</guid>
             <pubDate>Sun, 01 May 2022 05:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/01/672588.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000672576</link>
             <guid>https://n.news.naver.com/article/469/0000672576</guid>
             <pubDate>Sun, 01 May 2022 05:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/01/672576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672199.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차별 받던 일본 아이누족 문화 세계에 알렸다... 만화 ‘골든 카무이’ 완결]]></title>
-            <link>https://n.news.naver.com/article/469/0000672171</link>
-            <guid>https://n.news.naver.com/article/469/0000672171</guid>
-            <pubDate>Thu, 28 Apr 2022 17:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/04/28/672171.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
