@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 17:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 05:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[취재 뒷담화] 가로세로연구소 콘서트, 직접 다녀왔습니다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030815</link>
+            <guid>https://n.news.naver.com/article/308/0000030815</guid>
+            <pubDate>Fri, 06 May 2022 05:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/06/30815.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[길 위의 저 냉장고, 어쩐 일로 여기에?]]></title>
             <link>https://n.news.naver.com/article/308/0000030805</link>
             <guid>https://n.news.naver.com/article/308/0000030805</guid>
             <pubDate>Wed, 04 May 2022 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/04/30805.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000030799</link>
             <guid>https://n.news.naver.com/article/308/0000030799</guid>
             <pubDate>Tue, 03 May 2022 05:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/03/30799.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 31 Mar 2022 05:33:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/31/30626.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학기자상] 판결문 424개로 들여다 본 음주운전]]></title>
-            <link>https://n.news.naver.com/article/308/0000030617</link>
-            <guid>https://n.news.naver.com/article/308/0000030617</guid>
-            <pubDate>Fri, 01 Apr 2022 17:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/30/30617.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
