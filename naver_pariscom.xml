@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 17:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 05:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘그 병동은 지옥이었다’ 日 정신병원서 벌어진 학대 [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000673777</link>
+            <guid>https://n.news.naver.com/article/469/0000673777</guid>
+            <pubDate>Sun, 08 May 2022 05:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/08/673777.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김포-하네다 항공편 내달 재개… 일본 단체 관광도 허용 가능성]]></title>
             <link>https://n.news.naver.com/article/469/0000673618</link>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000673552</link>
             <guid>https://n.news.naver.com/article/469/0000673552</guid>
             <pubDate>Fri, 06 May 2022 05:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673552.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000673411</link>
             <guid>https://n.news.naver.com/article/469/0000673411</guid>
             <pubDate>Thu, 05 May 2022 05:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/05/673411.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 May 2022 17:42:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/02/672781.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흔들리는 '노벨상 강국' 일본…박사 인력 줄면서 저학력 위기]]></title>
-            <link>https://n.news.naver.com/article/469/0000672744</link>
-            <guid>https://n.news.naver.com/article/469/0000672744</guid>
-            <pubDate>Sat, 07 May 2022 17:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/02/672744.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
