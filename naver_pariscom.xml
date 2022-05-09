@@ -4,9 +4,25 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 17:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 05:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["옛날 특권 못 잊어" 신칸센 특실 무임승차하다 걸린 日 전 의원]]></title>
+            <link>https://n.news.naver.com/article/469/0000673918</link>
+            <guid>https://n.news.naver.com/article/469/0000673918</guid>
+            <pubDate>Mon, 09 May 2022 05:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/09/673918.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하야시 日 외무, 기시다 총리 친서 들고 오늘 방한]]></title>
+            <link>https://n.news.naver.com/article/469/0000673907</link>
+            <guid>https://n.news.naver.com/article/469/0000673907</guid>
+            <pubDate>Mon, 09 May 2022 05:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/09/673907.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“미국에만 기대선 안돼”... 英·호주 등 ‘준동맹’ 공략하는 일본]]></title>
             <link>https://n.news.naver.com/article/469/0000673636</link>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000673552</link>
             <guid>https://n.news.naver.com/article/469/0000673552</guid>
             <pubDate>Fri, 06 May 2022 05:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673552.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000673411</link>
             <guid>https://n.news.naver.com/article/469/0000673411</guid>
             <pubDate>Thu, 05 May 2022 05:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/05/673411.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 03 May 2022 17:47:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/03/673034.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 진료 없이 같은 약 ‘리필 처방’ 도입 한 달… 의사들 거부로 차질]]></title>
-            <link>https://n.news.naver.com/article/469/0000672815</link>
-            <guid>https://n.news.naver.com/article/469/0000672815</guid>
-            <pubDate>Mon, 02 May 2022 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/02/672815.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“日 정부, 尹 취임식에 기시다 총리 불참·하야시 외무 참석 방침 굳혀”]]></title>
-            <link>https://n.news.naver.com/article/469/0000672781</link>
-            <guid>https://n.news.naver.com/article/469/0000672781</guid>
-            <pubDate>Mon, 02 May 2022 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/02/672781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
