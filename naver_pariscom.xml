@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 17:47:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 항모 ‘랴오닝’ 함대 대만·오키나와 인근 해역 연일 훈련… 日 경계 강화]]></title>
+            <link>https://n.news.naver.com/article/469/0000674264</link>
+            <guid>https://n.news.naver.com/article/469/0000674264</guid>
+            <pubDate>Tue, 10 May 2022 17:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674264.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 정부 “윤 대통령 취임 축하… 한일 관계, 尹 리더십에 기대”]]></title>
+            <link>https://n.news.naver.com/article/469/0000674204</link>
+            <guid>https://n.news.naver.com/article/469/0000674204</guid>
+            <pubDate>Tue, 10 May 2022 17:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674204.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아베 "일본은행은 정부 자회사…1000조엔 나라 빚 안 갚아도 돼"]]></title>
             <link>https://n.news.naver.com/article/469/0000674180</link>
             <guid>https://n.news.naver.com/article/469/0000674180</guid>
             <pubDate>Tue, 10 May 2022 05:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>50분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000674004</link>
             <guid>https://n.news.naver.com/article/469/0000674004</guid>
             <pubDate>Mon, 09 May 2022 17:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/09/674004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000673636</link>
             <guid>https://n.news.naver.com/article/469/0000673636</guid>
             <pubDate>Sun, 08 May 2022 17:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673636.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000673618</link>
             <guid>https://n.news.naver.com/article/469/0000673618</guid>
             <pubDate>Fri, 06 May 2022 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673618.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000673600</link>
             <guid>https://n.news.naver.com/article/469/0000673600</guid>
             <pubDate>Fri, 06 May 2022 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673600.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 06 May 2022 05:36:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673552.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든 한일 순방 앞두고 미국에 간 日 방위장관… “안보 전략 긴밀 협의”]]></title>
-            <link>https://n.news.naver.com/article/469/0000673457</link>
-            <guid>https://n.news.naver.com/article/469/0000673457</guid>
-            <pubDate>Thu, 05 May 2022 17:43:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/05/673457.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국, 日 후쿠시마산  식품 수입규제 철폐한다… 존슨 총리, 기시다와 시식도]]></title>
-            <link>https://n.news.naver.com/article/469/0000673411</link>
-            <guid>https://n.news.naver.com/article/469/0000673411</guid>
-            <pubDate>Thu, 05 May 2022 05:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/05/673411.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
