@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 17:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[日 총리, 독일 총리에 "베를린 소녀상 철거" 이례적 직접 압박 요청]]></title>
+            <title><![CDATA[일본 경제안보법 국회 통과... 2023년부터 시행]]></title>
+            <link>https://n.news.naver.com/article/469/0000674462</link>
+            <guid>https://n.news.naver.com/article/469/0000674462</guid>
+            <pubDate>Wed, 11 May 2022 17:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/11/674462.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 언론 “尹, 한일 정상회담 조기 개최 희망”… 징용소송 해법이 선결 조건?]]></title>
+            <link>https://n.news.naver.com/article/469/0000674450</link>
+            <guid>https://n.news.naver.com/article/469/0000674450</guid>
+            <pubDate>Wed, 11 May 2022 17:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/11/674450.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["日 총리, 독일 총리에 베를린 소녀상 철거 요청... 獨 반응은 좋지 않아"]]></title>
             <link>https://n.news.naver.com/article/469/0000674366</link>
             <guid>https://n.news.naver.com/article/469/0000674366</guid>
             <pubDate>Wed, 11 May 2022 05:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/11/674366.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000674264</link>
             <guid>https://n.news.naver.com/article/469/0000674264</guid>
             <pubDate>Tue, 10 May 2022 17:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674264.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,23 +44,15 @@
             <link>https://n.news.naver.com/article/469/0000674204</link>
             <guid>https://n.news.naver.com/article/469/0000674204</guid>
             <pubDate>Tue, 10 May 2022 17:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674204.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아베 "일본은행은 정부 자회사…1000조엔 나라 빚 안 갚아도 돼"]]></title>
-            <link>https://n.news.naver.com/article/469/0000674180</link>
-            <guid>https://n.news.naver.com/article/469/0000674180</guid>
-            <pubDate>Tue, 10 May 2022 05:37:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674180.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3월엔 ‘도쿄 블랙아웃’ 위기라더니... 日 재생에너지 발전 ‘일시 중지’ 왜?]]></title>
             <link>https://n.news.naver.com/article/469/0000674004</link>
             <guid>https://n.news.naver.com/article/469/0000674004</guid>
             <pubDate>Mon, 09 May 2022 17:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/09/674004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000673636</link>
             <guid>https://n.news.naver.com/article/469/0000673636</guid>
             <pubDate>Sun, 08 May 2022 17:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673636.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000673618</link>
             <guid>https://n.news.naver.com/article/469/0000673618</guid>
             <pubDate>Fri, 06 May 2022 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673618.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소매 전문 일본 신전력회사, “팔수록 적자” 사업 철수 잇따라]]></title>
-            <link>https://n.news.naver.com/article/469/0000673600</link>
-            <guid>https://n.news.naver.com/article/469/0000673600</guid>
-            <pubDate>Fri, 06 May 2022 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673600.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
