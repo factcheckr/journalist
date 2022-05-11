@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 17:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 05:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 총리, 독일 총리에 "베를린 소녀상 철거" 이례적 직접 압박 요청]]></title>
+            <link>https://n.news.naver.com/article/469/0000674366</link>
+            <guid>https://n.news.naver.com/article/469/0000674366</guid>
+            <pubDate>Wed, 11 May 2022 05:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/11/674366.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[中 항모 ‘랴오닝’ 함대 대만·오키나와 인근 해역 연일 훈련… 日 경계 강화]]></title>
             <link>https://n.news.naver.com/article/469/0000674264</link>
             <guid>https://n.news.naver.com/article/469/0000674264</guid>
             <pubDate>Tue, 10 May 2022 17:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674264.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000674204</link>
             <guid>https://n.news.naver.com/article/469/0000674204</guid>
             <pubDate>Tue, 10 May 2022 17:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000674180</link>
             <guid>https://n.news.naver.com/article/469/0000674180</guid>
             <pubDate>Tue, 10 May 2022 05:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000673918</link>
             <guid>https://n.news.naver.com/article/469/0000673918</guid>
             <pubDate>Mon, 09 May 2022 05:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/09/673918.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000673907</link>
             <guid>https://n.news.naver.com/article/469/0000673907</guid>
             <pubDate>Mon, 09 May 2022 05:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/09/673907.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 06 May 2022 17:42:41 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673600.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 기시다 “6월부터 G7 수준으로 입국 규제 완화”]]></title>
-            <link>https://n.news.naver.com/article/469/0000673552</link>
-            <guid>https://n.news.naver.com/article/469/0000673552</guid>
-            <pubDate>Fri, 06 May 2022 05:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673552.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

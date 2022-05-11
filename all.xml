@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 17:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 05:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,11 +283,19 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 총리, 독일 총리에 "베를린 소녀상 철거" 이례적 직접 압박 요청 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000674366</link>
+            <guid>https://n.news.naver.com/article/469/0000674366</guid>
+            <pubDate>Wed, 11 May 2022 05:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/11/674366.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[中 항모 ‘랴오닝’ 함대 대만·오키나와 인근 해역 연일 훈련… 日 경계 강화 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000674264</link>
             <guid>https://n.news.naver.com/article/469/0000674264</guid>
             <pubDate>Tue, 10 May 2022 17:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674264.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,7 +303,7 @@
             <link>https://n.news.naver.com/article/469/0000674204</link>
             <guid>https://n.news.naver.com/article/469/0000674204</guid>
             <pubDate>Tue, 10 May 2022 17:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,7 +311,7 @@
             <link>https://n.news.naver.com/article/469/0000674180</link>
             <guid>https://n.news.naver.com/article/469/0000674180</guid>
             <pubDate>Tue, 10 May 2022 05:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -319,7 +327,7 @@
             <link>https://n.news.naver.com/article/469/0000673918</link>
             <guid>https://n.news.naver.com/article/469/0000673918</guid>
             <pubDate>Mon, 09 May 2022 05:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/09/673918.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -327,7 +335,7 @@
             <link>https://n.news.naver.com/article/469/0000673907</link>
             <guid>https://n.news.naver.com/article/469/0000673907</guid>
             <pubDate>Mon, 09 May 2022 05:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/09/673907.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -355,19 +363,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673600.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 기시다 “6월부터 G7 수준으로 입국 규제 완화” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000673552</link>
-            <guid>https://n.news.naver.com/article/469/0000673552</guid>
-            <pubDate>Fri, 06 May 2022 05:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673552.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[취재 뒷담화] 가로세로연구소 콘서트, 직접 다녀왔습니다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030815</link>
             <guid>https://n.news.naver.com/article/308/0000030815</guid>
             <pubDate>Fri, 06 May 2022 05:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/06/30815.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,7 +375,7 @@
             <link>https://n.news.naver.com/article/308/0000030805</link>
             <guid>https://n.news.naver.com/article/308/0000030805</guid>
             <pubDate>Wed, 04 May 2022 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/04/30805.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -383,7 +383,7 @@
             <link>https://n.news.naver.com/article/308/0000030799</link>
             <guid>https://n.news.naver.com/article/308/0000030799</guid>
             <pubDate>Tue, 03 May 2022 05:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/03/30799.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -447,7 +447,7 @@
             <link>https://n.news.naver.com/article/308/0000030807</link>
             <guid>https://n.news.naver.com/article/308/0000030807</guid>
             <pubDate>Thu, 05 May 2022 05:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30807.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -523,11 +523,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/22/30580.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[취재 뒷담화] 박진 검증 위해, 캐나다 등 전세계 사이트 검색 중 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030836</link>
+            <guid>https://n.news.naver.com/article/308/0000030836</guid>
+            <pubDate>Wed, 11 May 2022 05:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/11/30836.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기자들의 시선] 윤석열 정부 국정과제, 공약서 빠진 내용은? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030834</link>
             <guid>https://n.news.naver.com/article/308/0000030834</guid>
             <pubDate>Tue, 10 May 2022 05:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -535,7 +543,7 @@
             <link>https://n.news.naver.com/article/308/0000030831</link>
             <guid>https://n.news.naver.com/article/308/0000030831</guid>
             <pubDate>Tue, 10 May 2022 05:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -593,14 +601,6 @@
             <pubDate>Wed, 16 Mar 2022 05:33:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/16/30560.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘쇼’라 하더라도 주목해야할 정치개혁안 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030506</link>
-            <guid>https://n.news.naver.com/article/308/0000030506</guid>
-            <pubDate>Mon, 07 Mar 2022 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30506.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['정치언어' 없었던 윤석열과 '광대언어' 잃은 유재석 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
