@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 05:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 17:46:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 반환 50년 맞는 오키나와, 여전히 ‘미군 기지의 섬’... 안보 환경 악화]]></title>
+            <link>https://n.news.naver.com/article/469/0000674658</link>
+            <guid>https://n.news.naver.com/article/469/0000674658</guid>
+            <pubDate>Thu, 12 May 2022 17:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/12/674658.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 경제안보법 국회 통과... 2023년부터 시행]]></title>
             <link>https://n.news.naver.com/article/469/0000674462</link>
             <guid>https://n.news.naver.com/article/469/0000674462</guid>
             <pubDate>Wed, 11 May 2022 17:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/11/674462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000674450</link>
             <guid>https://n.news.naver.com/article/469/0000674450</guid>
             <pubDate>Wed, 11 May 2022 17:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/11/674450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000674264</link>
             <guid>https://n.news.naver.com/article/469/0000674264</guid>
             <pubDate>Tue, 10 May 2022 17:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674264.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000674204</link>
             <guid>https://n.news.naver.com/article/469/0000674204</guid>
             <pubDate>Tue, 10 May 2022 17:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/10/674204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000674004</link>
             <guid>https://n.news.naver.com/article/469/0000674004</guid>
             <pubDate>Mon, 09 May 2022 17:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/09/674004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000673636</link>
             <guid>https://n.news.naver.com/article/469/0000673636</guid>
             <pubDate>Sun, 08 May 2022 17:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673636.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김포-하네다 항공편 내달 재개… 일본 단체 관광도 허용 가능성]]></title>
-            <link>https://n.news.naver.com/article/469/0000673618</link>
-            <guid>https://n.news.naver.com/article/469/0000673618</guid>
-            <pubDate>Fri, 06 May 2022 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/06/673618.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
