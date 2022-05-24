@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-05-12T17:46:31.843Z</updated>
+    <updated>2022-05-24T01:54:40.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마트 영수증으로 약자들 구하는 '가족같은 이웃']]></title>
+        <id>https://entertain.v.daum.net/v/20220514160601109</id>
+        <link href="https://entertain.v.daum.net/v/20220514160601109"/>
+        <updated>2022-05-24T01:54:31.350Z</updated>
+        <content type="html"><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 강지영 작가의 2017년작 원작 단편소설을 읽은 이들에게, 티브이엔(tvN) 드라마 &lt;살인자의 쇼핑목록&gt;(2022)은 다소 당혹스러운 작품일지도 모른다. 타인을 향한 관음증적인 호기심과 자신의 통찰력에 대한 과신으로 똘똘 뭉쳐 있던 여성화자 ‘나’는, 드라마판에 와서는 기억력과 두뇌 회전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정치언어' 없었던 윤석열과 '광대언어' 잃은 유재석]]></title>
         <id>https://entertain.v.daum.net/v/20220430090608620</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210813215603519"/>
         <updated>2021-10-07T17:43:00.225Z</updated>
         <content type="html"><![CDATA[“시드니올림픽 여자 공기소총 은메달리스트인 강초현 선수의 인기가 폭발적입니다. 예쁘기도 하고….” “양궁 2관왕의 주인공입니다. ‘얼짱 궁사’ 기보배 선수 모셨습니다.” “연재가 그렇다. 이제는 사랑받는 국민 여동생이 됐다.” “하늘 높이 치솟는 인기를 구가하고 있는 미녀 배구 군단!” 지난 12일 방영된 한국방송 다큐멘터리 &lt;다큐인사이트: 다큐멘터리 국가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혐오선동 판치는 지상파 3사 올림픽 중계]]></title>
-        <id>https://entertain.v.daum.net/v/20210730213602909</id>
-        <link href="https://entertain.v.daum.net/v/20210730213602909"/>
-        <updated>2021-10-07T17:43:00.225Z</updated>
-        <content type="html"><![CDATA[올림픽 개회식 중 선수단 입장은 스포츠로 우애를 다지기 위해 날아온 선수들을 맞이한다는 의미에서 가장 중요한 대목이다. 그러나 참여하는 국가가 200여국에 달하는 탓에, 잘 모르는 국가의 선수단이 입장할 때면 보는 이들의 주의력이 분산되기도 쉽다. 그런 탓에 개회식을 중계하는 방송사들은 시청자들에게 짧은 시간 안에 각 국가의 특징을 설명하기 위해 최선을]]></content>
     </entry>
 </feed>

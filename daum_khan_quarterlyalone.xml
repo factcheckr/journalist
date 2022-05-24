@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-05-12T17:46:31.852Z</updated>
+    <updated>2022-05-24T01:54:40.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["느그 아버지 뭐하시노?" 묻던 '미친개'..왜 시대마다 존재할까]]></title>
+        <id>https://v.daum.net/v/20220513162120051</id>
+        <link href="https://v.daum.net/v/20220513162120051"/>
+        <updated>2022-05-24T01:54:39.710Z</updated>
+        <content type="html"><![CDATA[[경향신문] 곧 스승의날이다. 스승의날 하면, 한 편의 부조리극 같은 장면이 떠오른다. 초등학교 3학년 때 담임교사는 아이들을 엎드려뻗쳐시켜놓고 제일 앞의 어린이를 걷어찬 뒤 도미노처럼 연이어 쓰러지게 하는 체벌을 즐겼다. 나는 모랫바닥에 엎드린 채, 쓰러진 친구의 몸이 언제 나를 칠지 초조해하다 내 차례가 오면 적당히 무너졌다. 그러다가도 우리를 걷어찬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원치 않은 임신에도 죄책감·사랑의 결실이라니..지긋지긋하다]]></title>
         <id>https://v.daum.net/v/20220429162613003</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211210163052656"/>
         <updated>2022-01-01T02:24:12.764Z</updated>
         <content type="html"><![CDATA[[경향신문] 대화의 밀도가 높은 시간이었다. 상대는 별것 아닌 일도 재미있게 이야기하는 재주가 있었고 우리는 자주 웃었다. 어느 순간 상대는 지인이 겪은 일을 나에게 풀어놓았다. 흥미진진하고 박진감 있게. 때로는 나의 반응을 살피며 이야기의 속도를 조절하며. 그 ‘썰’은 내가 만나본 적 없는 타인에게 일어난 비극적인 사건이었다. “야, 내가 아는 사람 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀 내분이 여자배구 선수들의 '스타병' 때문이라고?]]></title>
-        <id>https://v.daum.net/v/20211126163519178</id>
-        <link href="https://v.daum.net/v/20211126163519178"/>
-        <updated>2021-11-26T17:45:48.979Z</updated>
-        <content type="html"><![CDATA[[경향신문] 올해 가장 ‘핫’한 스포츠를 꼽자면, 단연 여자배구다. 2020 도쿄 올림픽에서 끝까지 포기하지 않는 투지와 팀워크를 보여주며 4강까지 가는 기염을 토한 여자배구는 숱한 명장면과 유행어를 탄생시켰다. 마감이 임박해 글을 쓰는 나 역시 지금도 외치고 있다. “해보자, 해보자, 해보자, 후회하지 말고!” 올림픽이 끝난 후 여자배구 선수들은 각종]]></content>
     </entry>
 </feed>

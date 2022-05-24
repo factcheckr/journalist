@@ -4,15 +4,31 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 01:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이해충돌 논란, 윤석열 정부 공직자의 자격을 묻다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030865</link>
+            <guid>https://n.news.naver.com/article/308/0000030865</guid>
+            <pubDate>Tue, 24 May 2022 01:54:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/17/30865.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인주의자를 위한 국내 최초 ‘북한학 전문’ 동네책방]]></title>
+            <link>https://n.news.naver.com/article/308/0000030852</link>
+            <guid>https://n.news.naver.com/article/308/0000030852</guid>
+            <pubDate>Tue, 24 May 2022 01:54:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.14.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/14/30852.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자의 추천 책] 아무도 잊히지 말자, 우리가 끝낼 때까지]]></title>
             <link>https://n.news.naver.com/article/308/0000030840</link>
             <guid>https://n.news.naver.com/article/308/0000030840</guid>
             <pubDate>Thu, 12 May 2022 05:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/12/30840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000030836</link>
             <guid>https://n.news.naver.com/article/308/0000030836</guid>
             <pubDate>Wed, 11 May 2022 05:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/11/30836.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/308/0000030834</link>
             <guid>https://n.news.naver.com/article/308/0000030834</guid>
             <pubDate>Tue, 10 May 2022 05:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/308/0000030831</link>
             <guid>https://n.news.naver.com/article/308/0000030831</guid>
             <pubDate>Tue, 10 May 2022 05:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 12 Apr 2022 05:34:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20대 남녀 투표, 이 지점에서 극명히 갈렸다 [대선 표심 분석]]]></title>
-            <link>https://n.news.naver.com/article/308/0000030648</link>
-            <guid>https://n.news.naver.com/article/308/0000030648</guid>
-            <pubDate>Mon, 04 Apr 2022 05:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30648.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열심히 투표한 당신 왜 찍고 왜 안 찍었나]]></title>
-            <link>https://n.news.naver.com/article/308/0000030593</link>
-            <guid>https://n.news.naver.com/article/308/0000030593</guid>
-            <pubDate>Thu, 24 Mar 2022 05:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/24/30593.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

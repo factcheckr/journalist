@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 01:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘제로 코로나’와 ‘위드 코로나’ 사이, 중국의 진퇴양난]]></title>
+            <link>https://n.news.naver.com/article/308/0000030853</link>
+            <guid>https://n.news.naver.com/article/308/0000030853</guid>
+            <pubDate>Tue, 24 May 2022 01:54:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.14.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/14/30853.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[취재 뒷담화] 가로세로연구소 콘서트, 직접 다녀왔습니다]]></title>
             <link>https://n.news.naver.com/article/308/0000030815</link>
             <guid>https://n.news.naver.com/article/308/0000030815</guid>
             <pubDate>Fri, 06 May 2022 05:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/06/30815.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000030811</link>
             <guid>https://n.news.naver.com/article/308/0000030811</guid>
             <pubDate>Wed, 11 May 2022 17:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30811.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000030808</link>
             <guid>https://n.news.naver.com/article/308/0000030808</guid>
             <pubDate>Wed, 11 May 2022 17:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30808.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Apr 2022 17:40:41 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/03/30643.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학기자상] 청소노동자의 파업, 이후 7년]]></title>
-            <link>https://n.news.naver.com/article/308/0000030635</link>
-            <guid>https://n.news.naver.com/article/308/0000030635</guid>
-            <pubDate>Fri, 08 Apr 2022 17:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/02/30635.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
