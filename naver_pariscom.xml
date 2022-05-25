@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 17:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000676869</link>
             <guid>https://n.news.naver.com/article/469/0000676869</guid>
             <pubDate>Tue, 24 May 2022 17:45:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/24/676869.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000676817</link>
             <guid>https://n.news.naver.com/article/469/0000676817</guid>
             <pubDate>Tue, 24 May 2022 17:45:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/24/676817.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,23 +52,15 @@
             <link>https://n.news.naver.com/article/469/0000676704</link>
             <guid>https://n.news.naver.com/article/469/0000676704</guid>
             <pubDate>Tue, 24 May 2022 01:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/23/676704.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공론화한 일본 안보리 상임이사국 진출... 현실성 있나]]></title>
-            <link>https://n.news.naver.com/article/469/0000676690</link>
-            <guid>https://n.news.naver.com/article/469/0000676690</guid>
-            <pubDate>Tue, 24 May 2022 01:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/23/676690.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바이든-기시다, 안보·경제 협력...日 앞세워 대중· 대러 외교 재조정]]></title>
             <link>https://n.news.naver.com/article/469/0000676687</link>
             <guid>https://n.news.naver.com/article/469/0000676687</guid>
             <pubDate>Tue, 24 May 2022 01:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/23/676687.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,8 +68,16 @@
             <link>https://n.news.naver.com/article/469/0000676686</link>
             <guid>https://n.news.naver.com/article/469/0000676686</guid>
             <pubDate>Tue, 24 May 2022 01:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/23/676686.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든, 중국 대만 침공시 군사개입 여부 질문에 "예스"]]></title>
+            <link>https://n.news.naver.com/article/469/0000676636</link>
+            <guid>https://n.news.naver.com/article/469/0000676636</guid>
+            <pubDate>Wed, 25 May 2022 17:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/23/676636.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
