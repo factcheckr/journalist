@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-05-27T05:42:03.040Z</updated>
+    <updated>2022-05-27T17:46:11.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지현·하연수..왜요, 할 말 다 하는 여자 처음 봐요?]]></title>
+        <id>https://entertain.v.daum.net/v/20220527202602090</id>
+        <link href="https://entertain.v.daum.net/v/20220527202602090"/>
+        <updated>2022-05-27T17:45:58.774Z</updated>
+        <content type="html"><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 지난 12일, 배우 하연수는 자신에 대한 악성 루머를 퍼뜨리는 누리꾼들이 활동하는 남초 커뮤니티에 직접 가입해 댓글난에서 ‘고소할 수 있으니 허위사실 유포를 중단하라’고 경고했다. 근거 없는 루머와 모욕적인 언사를 남긴 누리꾼들은, 조목조목 잘못을 따지며 준엄하게 경고하는 하연수의 댓글에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마트 영수증으로 약자들 구하는 '가족같은 이웃']]></title>
         <id>https://entertain.v.daum.net/v/20220514160601109</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210828091601013"/>
         <updated>2021-10-07T17:43:00.225Z</updated>
         <content type="html"><![CDATA[“그 얼마나 기다렸나. 지금 이 순간을 고대하면서. 낮엔 그리움이, 밤엔 외로움이 가슴 가득히 있었네.” 시트콤 &lt;엘에이(LA)아리랑&gt;(1995~2000)이 &lt;에스비에스&gt;(SBS)의 유튜브 채널 ‘빽능-스브스 옛날 예능’에 올라오자, 사람들이 하나둘 댓글창에 모여 홀린 듯이 주제가를 따라 흥얼거렸다. &lt;엘에이아리랑&gt;은 한국 시트콤계의 마에스트로 김병욱 피디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가대표 이름 앞에 붙는 '미녀' 또는 '마녀']]></title>
-        <id>https://entertain.v.daum.net/v/20210813215603519</id>
-        <link href="https://entertain.v.daum.net/v/20210813215603519"/>
-        <updated>2021-10-07T17:43:00.225Z</updated>
-        <content type="html"><![CDATA[“시드니올림픽 여자 공기소총 은메달리스트인 강초현 선수의 인기가 폭발적입니다. 예쁘기도 하고….” “양궁 2관왕의 주인공입니다. ‘얼짱 궁사’ 기보배 선수 모셨습니다.” “연재가 그렇다. 이제는 사랑받는 국민 여동생이 됐다.” “하늘 높이 치솟는 인기를 구가하고 있는 미녀 배구 군단!” 지난 12일 방영된 한국방송 다큐멘터리 &lt;다큐인사이트: 다큐멘터리 국가]]></content>
     </entry>
 </feed>
