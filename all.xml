@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 17:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 05:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,11 +279,19 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본, 다음달 10일부터 외국인 관광객 수용… 우선 단체 관광만 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000677410</link>
+            <guid>https://n.news.naver.com/article/469/0000677410</guid>
+            <pubDate>Fri, 27 May 2022 05:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/27/677410.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“20년 전 월드컵 열기 아직도 생생… 한일 좋은 이웃이었는데” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000677329</link>
             <guid>https://n.news.naver.com/article/469/0000677329</guid>
             <pubDate>Thu, 26 May 2022 17:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/26/677329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -291,7 +299,7 @@
             <link>https://n.news.naver.com/article/469/0000677262</link>
             <guid>https://n.news.naver.com/article/469/0000677262</guid>
             <pubDate>Thu, 26 May 2022 17:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/26/677262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -315,7 +323,7 @@
             <link>https://n.news.naver.com/article/469/0000676800</link>
             <guid>https://n.news.naver.com/article/469/0000676800</guid>
             <pubDate>Tue, 24 May 2022 17:45:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/24/676800.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +331,7 @@
             <link>https://n.news.naver.com/article/469/0000676786</link>
             <guid>https://n.news.naver.com/article/469/0000676786</guid>
             <pubDate>Tue, 24 May 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/24/676786.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +339,7 @@
             <link>https://n.news.naver.com/article/469/0000676726</link>
             <guid>https://n.news.naver.com/article/469/0000676726</guid>
             <pubDate>Tue, 24 May 2022 01:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/24/676726.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -341,14 +349,6 @@
             <pubDate>Tue, 24 May 2022 01:53:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/23/676704.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든-기시다, 안보·경제 협력...日 앞세워 대중· 대러 외교 재조정 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000676687</link>
-            <guid>https://n.news.naver.com/article/469/0000676687</guid>
-            <pubDate>Tue, 24 May 2022 01:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/23/676687.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘제로 코로나’와 ‘위드 코로나’ 사이, 중국의 진퇴양난 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -435,7 +435,7 @@
             <link>https://n.news.naver.com/article/308/0000030905</link>
             <guid>https://n.news.naver.com/article/308/0000030905</guid>
             <pubDate>Wed, 25 May 2022 05:41:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/24/30905.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -511,14 +511,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30646.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이시원 검사는 진짜 ‘간첩 조작’ 몰랐을까 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030912</link>
-            <guid>https://n.news.naver.com/article/308/0000030912</guid>
-            <pubDate>Wed, 25 May 2022 05:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이해충돌 논란, 윤석열 정부 공직자의 자격을 묻다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030865</link>
             <guid>https://n.news.naver.com/article/308/0000030865</guid>
@@ -589,6 +581,14 @@
             <pubDate>Thu, 21 Apr 2022 05:53:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030688</link>
+            <guid>https://n.news.naver.com/article/308/0000030688</guid>
+            <pubDate>Fri, 27 May 2022 05:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마트 영수증으로 약자들 구하는 '가족같은 이웃' (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
