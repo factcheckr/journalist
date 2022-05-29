@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 17:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 05:39:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["단둘이 만나고 싶어♥♥" 문자도… 日 국회의장, 기자 성희롱 의혹 일파만파 [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000677681</link>
+            <guid>https://n.news.naver.com/article/469/0000677681</guid>
+            <pubDate>Sun, 29 May 2022 05:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>17분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677681.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한반도 도래인 후손? 日 야요이인 얼굴 복원, ‘꼭 닮은 사람’ 찾았다]]></title>
+            <link>https://n.news.naver.com/article/469/0000677674</link>
+            <guid>https://n.news.naver.com/article/469/0000677674</guid>
+            <pubDate>Sun, 29 May 2022 05:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677674.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본, 다음달 10일부터 외국인 관광객 수용… 우선 단체 관광만]]></title>
             <link>https://n.news.naver.com/article/469/0000677410</link>
             <guid>https://n.news.naver.com/article/469/0000677410</guid>
             <pubDate>Fri, 27 May 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/27/677410.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,24 +76,8 @@
             <link>https://n.news.naver.com/article/469/0000676786</link>
             <guid>https://n.news.naver.com/article/469/0000676786</guid>
             <pubDate>Tue, 24 May 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/24/676786.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특파원의 시선] ‘반격 능력’이라는 눈속임]]></title>
-            <link>https://n.news.naver.com/article/469/0000676726</link>
-            <guid>https://n.news.naver.com/article/469/0000676726</guid>
-            <pubDate>Tue, 24 May 2022 01:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/24/676726.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든, 납치 피해자 가족에 "나도 아이 잃어"… 미일 정상회담 이모저모]]></title>
-            <link>https://n.news.naver.com/article/469/0000676704</link>
-            <guid>https://n.news.naver.com/article/469/0000676704</guid>
-            <pubDate>Tue, 24 May 2022 01:53:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/23/676704.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/24/676786.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
