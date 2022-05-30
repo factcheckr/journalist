@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 17:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 05:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,11 +283,27 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 정부 "한국의 독도 주변 해양 조사, 일본 사전 동의 받아야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000677869</link>
+            <guid>https://n.news.naver.com/article/469/0000677869</guid>
+            <pubDate>Mon, 30 May 2022 05:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>24분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677869.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 지지율 출범 후 연일 최고치…니혼게이자이 66% (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000677851</link>
+            <guid>https://n.news.naver.com/article/469/0000677851</guid>
+            <pubDate>Mon, 30 May 2022 05:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677851.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“日 검찰, 극우인사 말만 믿고 ‘카운터’ 기소... 한국 언론, 혐한 재판에 관심을” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000677723</link>
             <guid>https://n.news.naver.com/article/469/0000677723</guid>
             <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,7 +311,7 @@
             <link>https://n.news.naver.com/article/469/0000677718</link>
             <guid>https://n.news.naver.com/article/469/0000677718</guid>
             <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,7 +319,7 @@
             <link>https://n.news.naver.com/article/469/0000677717</link>
             <guid>https://n.news.naver.com/article/469/0000677717</guid>
             <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -311,7 +327,7 @@
             <link>https://n.news.naver.com/article/469/0000677696</link>
             <guid>https://n.news.naver.com/article/469/0000677696</guid>
             <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -319,7 +335,7 @@
             <link>https://n.news.naver.com/article/469/0000677691</link>
             <guid>https://n.news.naver.com/article/469/0000677691</guid>
             <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -327,7 +343,7 @@
             <link>https://n.news.naver.com/article/469/0000677681</link>
             <guid>https://n.news.naver.com/article/469/0000677681</guid>
             <pubDate>Sun, 29 May 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677681.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -335,7 +351,7 @@
             <link>https://n.news.naver.com/article/469/0000677410</link>
             <guid>https://n.news.naver.com/article/469/0000677410</guid>
             <pubDate>Fri, 27 May 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/27/677410.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,14 +361,6 @@
             <pubDate>Thu, 26 May 2022 17:45:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/26/677329.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 신문, “박진 방일 후 한일 정상회담 조율할 것… 美 요구 때문” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000677262</link>
-            <guid>https://n.news.naver.com/article/469/0000677262</guid>
-            <pubDate>Thu, 26 May 2022 17:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/26/677262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘제로 코로나’와 ‘위드 코로나’ 사이, 중국의 진퇴양난 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -439,7 +447,7 @@
             <link>https://n.news.naver.com/article/308/0000030900</link>
             <guid>https://n.news.naver.com/article/308/0000030900</guid>
             <pubDate>Sun, 29 May 2022 17:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/23/30900.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
