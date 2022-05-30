@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 17:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 나가사키시 간부, 기자 성폭력 후 자살… 법원, 시의 배상 책임 인정]]></title>
+            <link>https://n.news.naver.com/article/469/0000677955</link>
+            <guid>https://n.news.naver.com/article/469/0000677955</guid>
+            <pubDate>Mon, 30 May 2022 17:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677955.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 정부 "한국의 독도 주변 해양 조사, 일본 사전 동의 받아야"]]></title>
             <link>https://n.news.naver.com/article/469/0000677869</link>
             <guid>https://n.news.naver.com/article/469/0000677869</guid>
             <pubDate>Mon, 30 May 2022 05:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>24분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677869.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000677851</link>
             <guid>https://n.news.naver.com/article/469/0000677851</guid>
             <pubDate>Mon, 30 May 2022 05:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677851.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000677723</link>
             <guid>https://n.news.naver.com/article/469/0000677723</guid>
             <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000677718</link>
             <guid>https://n.news.naver.com/article/469/0000677718</guid>
             <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000677717</link>
             <guid>https://n.news.naver.com/article/469/0000677717</guid>
             <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000677696</link>
             <guid>https://n.news.naver.com/article/469/0000677696</guid>
             <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000677691</link>
             <guid>https://n.news.naver.com/article/469/0000677691</guid>
             <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -72,20 +80,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677681.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본, 다음달 10일부터 외국인 관광객 수용… 우선 단체 관광만]]></title>
-            <link>https://n.news.naver.com/article/469/0000677410</link>
-            <guid>https://n.news.naver.com/article/469/0000677410</guid>
-            <pubDate>Fri, 27 May 2022 05:41:19 GMT</pubDate>
+            <title><![CDATA[일본 극우단체, 도쿄서 인형으로 소녀상 모욕 퍼포먼스 벌여]]></title>
+            <link>https://n.news.naver.com/article/469/0000677414</link>
+            <guid>https://n.news.naver.com/article/469/0000677414</guid>
+            <pubDate>Mon, 30 May 2022 17:43:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/27/677410.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“20년 전 월드컵 열기 아직도 생생… 한일 좋은 이웃이었는데”]]></title>
-            <link>https://n.news.naver.com/article/469/0000677329</link>
-            <guid>https://n.news.naver.com/article/469/0000677329</guid>
-            <pubDate>Thu, 26 May 2022 17:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/26/677329.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/27/677414.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

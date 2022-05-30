@@ -4,9 +4,27 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 17:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[똑똑하고 유쾌하고 사랑받았던 아이들…미 텍사스 지역언론 1면에 총격사건 희생자 사진 공개]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202205301803001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/america/article/202205301803001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Mon, 30 May 2022 17:42:27 GMT</pubDate>
+            <content:encoded><![CDATA[19명의 초등학생과 2명의 교사가 사망한 총격사건이 벌어진 미국 텍사스주 유벨디 지역언론이 1면을 희생자들의 얼굴사진과 부고로 구성하는 추모 지면을 내보냈다.
+유밸디 리더 뉴스는 29일자 1면에서 “그들은 똑똑하고, 유쾌하고, 사랑받았다”는 제목과 함께 총격사건 희생자들인 롭 초등학교 교사와 학생 21명의 이름과 얼굴을 공개했다. 가족 인터뷰를 통해 알게 된 희생자 각각의 삶을 담은 간략한 기사가 이어졌다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/05/30/2022053001003785900345621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유로비전 우승한 우크라이나 밴드, 트로피 경매 대금 11억 기부]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202205301708011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202205301708011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Mon, 30 May 2022 17:42:27 GMT</pubDate>
+            <content:encoded><![CDATA[유럽 최대의 팝 음악 축제인 유로비전에서 우승한 우크라이나 밴드가 조국의 전쟁자금 마련에 보태기 위해 경매에 붙인 우승 트로피가 90만달러(약 11억1700원)에 낙찰됐다.
+우크라이나인들로 구성된 칼루시 오케스트라는 지난 14일 이탈리아 토리노에서 유로비전 결선에서 우크라이나 전통 민요에 랩과 춤을 접목한 ‘스테파니아’로 우승을 차지했다. 우크라이나 정부가 전쟁 발발 직전 60세 미만 남성들의 출국을 금지했으나 밴드 멤버들은 특별허가를 받아 경연에 참여했다. 국가대항 음악 경연대회에서 밴드의 분전은 전쟁으로 위기에 처한 우크라이나의 문화와 자존심을 알리려는 노력으로 여겨져 1억6000명에 달하는 전 세계 시청자들의 응원을 받았다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/05/30/2022053001003772000345051.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젤렌스키 “종전 위해 우크라 땅 포기 안 해” 영토 사수 의지 재확인]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202205292141015/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -96,22 +114,6 @@
             <guid>https://www.khan.co.kr/world/china/article/202205242308005/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Tue, 24 May 2022 17:44:19 GMT</pubDate>
             <content:encoded><![CDATA[중국 정부가 신장(新彊)위구르자치구에서 위구르족을 비롯한 튀르크계 소수민족 문화를 말살하기 위해 강제수용소를 운영했다는 새로운 증거가 각국 언론을 통해 무더기로 공개됐다. ‘중국공안파일’로 불리는 자료에는 2만명 이상의 수용자 명단과 수용소 내부 사진, ‘수감자가 도망치려 하면 사살하라’고 전한 중국 공산당 간부의 발언이 포함됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[몰도바 검찰, 친러성향 전 대통령 체포]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202205242248001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202205242248001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 24 May 2022 17:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[몰도바 검찰이 친러시아 성향의 이고리 도돈 전 몰도바 대통령을 상대로 국가반역 혐의 등을 적용해 수사에 나섰다고 러시아 스푸트니크 통신 등이 24일(현지시간) 보도했다.
-보도에 따르면 몰도바 검찰청 대변인은 이날 반부패검찰청과 정보보안국이 도돈 전 대통령의 자택 등 12곳을 압수수색하고 그를 72시간 동안 구금했다고 밝혔다. 도돈 전 대통령은 지난 2019년 몰도바 전 국회의원이자 갑부 사업가인 블라디미르 플라호트뉵에게서 여당인 ‘사회주의자당’ 운영을 위한 자금을 뇌물로 받은 혐의를 받고 있다. 몰도바 수사당국은 도돈 대통령이 2019년 6월 플라호트뉵이 이끌던 민주당 당사에서 돈이 든 것으로 추정되는 큰 검은색 비밀봉투를 넘겨받은 모습이 담겼다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/05/24/2022052401003072400280961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 핵우산 안에서 중국 핵군축 말하는 기시다]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202205242220015/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202205242220015/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 24 May 2022 17:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[기시다 후미오 일본 총리가 내년 주요 7개국(G7) 정상회의를 히로시마에서 개최한다고 선언하고 조 바이든 미국 대통령의 지지를 이끌어낸 것은 미·일 정상외교 성과로 꼽힌다. 기시다 총리는 ‘핵무기 없는 세상’을 이끄는 지도자로 자리매김했다. 미국의 핵우산 제공과 핵군축·북한 비핵화를 같은 날 말하는 것은 모순이라는 지적도 나왔다.]]></content:encoded>
         </item>
     </channel>
 </rss>
