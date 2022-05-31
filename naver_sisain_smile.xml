@@ -4,9 +4,25 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 05:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 17:48:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송영길의 ‘견제론’vs 오세훈의 ‘준비된 미래’]]></title>
+            <link>https://n.news.naver.com/article/308/0000030924</link>
+            <guid>https://n.news.naver.com/article/308/0000030924</guid>
+            <pubDate>Tue, 31 May 2022 17:48:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이시원 검사는 진짜 ‘간첩 조작’ 몰랐을까]]></title>
+            <link>https://n.news.naver.com/article/308/0000030912</link>
+            <guid>https://n.news.naver.com/article/308/0000030912</guid>
+            <pubDate>Tue, 31 May 2022 17:48:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이해충돌 논란, 윤석열 정부 공직자의 자격을 묻다]]></title>
             <link>https://n.news.naver.com/article/308/0000030865</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 02 May 2022 05:47:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“페미니즘 정치와 계급 정치 연계시킬 토양 탄탄하게 존재한다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000030737</link>
-            <guid>https://n.news.naver.com/article/308/0000030737</guid>
-            <pubDate>Thu, 21 Apr 2022 05:53:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아”]]></title>
-            <link>https://n.news.naver.com/article/308/0000030688</link>
-            <guid>https://n.news.naver.com/article/308/0000030688</guid>
-            <pubDate>Fri, 27 May 2022 05:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
