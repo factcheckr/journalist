@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 17:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,7 +289,7 @@
             <link>https://n.news.naver.com/article/469/0000677955</link>
             <guid>https://n.news.naver.com/article/469/0000677955</guid>
             <pubDate>Mon, 30 May 2022 17:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677955.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +297,7 @@
             <link>https://n.news.naver.com/article/469/0000677869</link>
             <guid>https://n.news.naver.com/article/469/0000677869</guid>
             <pubDate>Mon, 30 May 2022 05:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677869.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +305,7 @@
             <link>https://n.news.naver.com/article/469/0000677851</link>
             <guid>https://n.news.naver.com/article/469/0000677851</guid>
             <pubDate>Mon, 30 May 2022 05:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677851.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +353,7 @@
             <link>https://n.news.naver.com/article/469/0000677681</link>
             <guid>https://n.news.naver.com/article/469/0000677681</guid>
             <pubDate>Sun, 29 May 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677681.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +361,7 @@
             <link>https://n.news.naver.com/article/469/0000677414</link>
             <guid>https://n.news.naver.com/article/469/0000677414</guid>
             <pubDate>Mon, 30 May 2022 17:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/27/677414.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -445,19 +445,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/03/30643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기후위기 시대, ‘고기를 먹느냐 마느냐’에서 ‘얼마나 먹느냐’로 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030915</link>
-            <guid>https://n.news.naver.com/article/308/0000030915</guid>
-            <pubDate>Mon, 30 May 2022 17:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30915.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기후위기 시대, 축산업계의 딜레마 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030905</link>
             <guid>https://n.news.naver.com/article/308/0000030905</guid>
             <pubDate>Mon, 30 May 2022 17:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/24/30905.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -465,7 +457,7 @@
             <link>https://n.news.naver.com/article/308/0000030900</link>
             <guid>https://n.news.naver.com/article/308/0000030900</guid>
             <pubDate>Sun, 29 May 2022 17:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/23/30900.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -523,6 +515,14 @@
             <pubDate>Tue, 05 Apr 2022 05:33:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30655.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[취재 뒷담화] 도심 기자회견장부터 전국의 오지까지 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030651</link>
+            <guid>https://n.news.naver.com/article/308/0000030651</guid>
+            <pubDate>Tue, 31 May 2022 05:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이해충돌 논란, 윤석열 정부 공직자의 자격을 묻다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
