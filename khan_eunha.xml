@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 17:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조니 뎁, 엠버 허드 상대 명예훼손 소송 승소]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202206021552001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/america/article/202206021552001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 02 Jun 2022 17:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[조니 뎁이 전처 엠버 허드를 상대로 한 명예훼손 소송에서 승소했다.
+AP통신 등에 따르면 미국 버지니아주 페어팩스 법원 배심원단은 1일(현지시간) 허드가 언론 기고를 통해 뎁의 명예를 훼손했다며 1500만달러(약 188억원)를 배상하라고 평결했다. 허드가 낸 맞소송에서 200만달러를 배상하라는 평결이 나왔지만 전반적으로 뎁의 승리로 평가된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/06/02/2022060201000294100022271.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바이든 “우크라 무기 지원 계속…미, 공격 받지 않는 한 전쟁에 직접 관여 안 해”]]></title>
             <link>https://www.khan.co.kr/world/america/article/202206012241025/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -107,15 +116,6 @@
             <pubDate>Sun, 29 May 2022 17:39:41 GMT</pubDate>
             <content:encoded><![CDATA[프란치스코 교황이 교황청 성직자성 장관인 유흥식 라자로 대주교(71·사진)를 추기경으로 공식 임명했다.
 로이터통신에 따르면 프란치스코 교황은 29일(현지시간) 바티칸 사도궁에서 주일 삼종기도를 집례한 뒤 유 대주교를 포함한 신임 추기경 21명을 발표했다. 유 대주교는 한국천주교 역사상 네번째 추기경으로 이름을 올리게 됐다. 교황청 장관으로 임명된 지 약 11개월 만이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[교황, 유흥식 대주교 추기경 임명…한국천주교 사상 네 번째]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202205292015001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202205292015001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Sun, 29 May 2022 17:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[교황청 성직자성 장관인 유흥식 라자로 대주교(71)가 추기경에 공식 임명됐다.
-프란치스코 교황은 29일(현지시간) 바티칸 사도궁에서 주일 삼종기도를 집례한 뒤 유 대주교를 포함한 신임 추기경 21명을 발표했다. 유 대주교는 한국천주교 역사상 네 번째 추기경으로 이름을 올리게 됐다. 교황청 장관으로 임명된 지 약 11개월 만이다. 한국천주교는 선종한 김수환 스테파노(1922∼2009)·정진석 니콜라오(1931∼2021) 추기경과 염수정 안드레아(78) 추기경을 배출했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/05/29/2022052901003644300333031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
