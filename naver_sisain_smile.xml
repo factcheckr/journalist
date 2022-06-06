@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 17:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 05:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불꽃'같은 낯선 존재, 박지현의 80일]]></title>
+            <link>https://n.news.naver.com/article/308/0000030980</link>
+            <guid>https://n.news.naver.com/article/308/0000030980</guid>
+            <pubDate>Mon, 06 Jun 2022 05:36:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/06/30980.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송영길의 ‘견제론’vs 오세훈의 ‘준비된 미래’]]></title>
             <link>https://n.news.naver.com/article/308/0000030924</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 May 2022 05:47:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] ‘부모 찬스’ 쓴 미성년자 논문, 공식 확인됐다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030789</link>
-            <guid>https://n.news.naver.com/article/308/0000030789</guid>
-            <pubDate>Mon, 02 May 2022 05:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

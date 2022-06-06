@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 17:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 05:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,7 +291,7 @@ AP통신 등에 따르면 미국 버지니아주 페어팩스 법원 배심원�
             <link>https://n.news.naver.com/article/469/0000678941</link>
             <guid>https://n.news.naver.com/article/469/0000678941</guid>
             <pubDate>Sun, 05 Jun 2022 05:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/05/678941.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -339,7 +339,7 @@ AP통신 등에 따르면 미국 버지니아주 페어팩스 법원 배심원�
             <link>https://n.news.naver.com/article/469/0000677851</link>
             <guid>https://n.news.naver.com/article/469/0000677851</guid>
             <pubDate>Mon, 30 May 2022 05:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677851.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -451,7 +451,7 @@ AP통신 등에 따르면 미국 버지니아주 페어팩스 법원 배심원�
             <link>https://n.news.naver.com/article/308/0000030944</link>
             <guid>https://n.news.naver.com/article/308/0000030944</guid>
             <pubDate>Tue, 31 May 2022 17:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/31/30944.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -527,6 +527,14 @@ AP통신 등에 따르면 미국 버지니아주 페어팩스 법원 배심원�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/06/30657.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['불꽃'같은 낯선 존재, 박지현의 80일 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030980</link>
+            <guid>https://n.news.naver.com/article/308/0000030980</guid>
+            <pubDate>Mon, 06 Jun 2022 05:36:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/06/30980.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[송영길의 ‘견제론’vs 오세훈의 ‘준비된 미래’ (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030924</link>
             <guid>https://n.news.naver.com/article/308/0000030924</guid>
@@ -597,14 +605,6 @@ AP통신 등에 따르면 미국 버지니아주 페어팩스 법원 배심원�
             <pubDate>Mon, 02 May 2022 05:47:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] ‘부모 찬스’ 쓴 미성년자 논문, 공식 확인됐다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030789</link>
-            <guid>https://n.news.naver.com/article/308/0000030789</guid>
-            <pubDate>Mon, 02 May 2022 05:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박지현·하연수..왜요, 할 말 다 하는 여자 처음 봐요? (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
