@@ -4,9 +4,25 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 17:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아베노믹스를 싫어하는군!" 전화 위협도... 기시다 정부 흔드는 아베]]></title>
+            <link>https://n.news.naver.com/article/469/0000679564</link>
+            <guid>https://n.news.naver.com/article/469/0000679564</guid>
+            <pubDate>Wed, 08 Jun 2022 17:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/08/679564.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본은행 총재, '물가 인상' 옹호했다 난타... 하루 만에 사과]]></title>
+            <link>https://n.news.naver.com/article/469/0000679501</link>
+            <guid>https://n.news.naver.com/article/469/0000679501</guid>
+            <pubDate>Wed, 08 Jun 2022 17:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/08/679501.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["윤 대통령, 한일관계를 국내 정치에 이용해선 안 된다고 했다"]]></title>
             <link>https://n.news.naver.com/article/469/0000679216</link>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000678802</link>
             <guid>https://n.news.naver.com/article/469/0000678802</guid>
             <pubDate>Fri, 03 Jun 2022 17:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/03/678802.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000678179</link>
             <guid>https://n.news.naver.com/article/469/0000678179</guid>
             <pubDate>Mon, 06 Jun 2022 17:37:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/31/678179.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000678117</link>
             <guid>https://n.news.naver.com/article/469/0000678117</guid>
             <pubDate>Tue, 31 May 2022 17:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.05.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/31/678117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 30 May 2022 05:42:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677869.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 지지율 출범 후 연일 최고치…니혼게이자이 66%]]></title>
-            <link>https://n.news.naver.com/article/469/0000677851</link>
-            <guid>https://n.news.naver.com/article/469/0000677851</guid>
-            <pubDate>Mon, 30 May 2022 05:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677851.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“日 검찰, 극우인사 말만 믿고 ‘카운터’ 기소... 한국 언론, 혐한 재판에 관심을”]]></title>
-            <link>https://n.news.naver.com/article/469/0000677723</link>
-            <guid>https://n.news.naver.com/article/469/0000677723</guid>
-            <pubDate>Sun, 29 May 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/29/677723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
