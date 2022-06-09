@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 17:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 05:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 기업 74%가 '엔저 악영향' 호소... GDP도 타격]]></title>
+            <link>https://n.news.naver.com/article/469/0000679740</link>
+            <guid>https://n.news.naver.com/article/469/0000679740</guid>
+            <pubDate>Thu, 09 Jun 2022 05:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>19분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/09/679740.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["중국과의 관계 나쁘다"는 한국인은 63%, 일본인은 80%[여론조사]]]></title>
+            <link>https://n.news.naver.com/article/469/0000679597</link>
+            <guid>https://n.news.naver.com/article/469/0000679597</guid>
+            <pubDate>Thu, 09 Jun 2022 05:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/09/679597.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["아베노믹스를 싫어하는군!" 전화 위협도... 기시다 정부 흔드는 아베]]></title>
             <link>https://n.news.naver.com/article/469/0000679564</link>
             <guid>https://n.news.naver.com/article/469/0000679564</guid>
             <pubDate>Wed, 08 Jun 2022 17:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/08/679564.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000679501</link>
             <guid>https://n.news.naver.com/article/469/0000679501</guid>
             <pubDate>Wed, 08 Jun 2022 17:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/08/679501.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -32,11 +48,27 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/07/679216.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생명의 기원은 역시 우주? 소행성 ‘류구’ 흙에서 아미노산 20종 확인]]></title>
+            <link>https://n.news.naver.com/article/469/0000679067</link>
+            <guid>https://n.news.naver.com/article/469/0000679067</guid>
+            <pubDate>Thu, 09 Jun 2022 05:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/06/679067.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 자민당 의원, 국내외 여성 무단 촬영한 ‘미인도감’ 물의 [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000678948</link>
+            <guid>https://n.news.naver.com/article/469/0000678948</guid>
+            <pubDate>Thu, 09 Jun 2022 05:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/05/678948.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 방위성, 북한 탄도미사일 “적어도 6발” 기시다 “북한에 엄중 항의”]]></title>
             <link>https://n.news.naver.com/article/469/0000678941</link>
             <guid>https://n.news.naver.com/article/469/0000678941</guid>
             <pubDate>Sun, 05 Jun 2022 05:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/05/678941.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -54,38 +86,6 @@
             <pubDate>Mon, 06 Jun 2022 17:37:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/31/678179.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 기업도 "여성 이사 늘려라" 압박... 남성 편중, 주총서 불이익]]></title>
-            <link>https://n.news.naver.com/article/469/0000678117</link>
-            <guid>https://n.news.naver.com/article/469/0000678117</guid>
-            <pubDate>Tue, 31 May 2022 17:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/31/678117.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 나가사키시 간부, 기자 성폭력 후 자살… 법원, 시의 배상 책임 인정]]></title>
-            <link>https://n.news.naver.com/article/469/0000677955</link>
-            <guid>https://n.news.naver.com/article/469/0000677955</guid>
-            <pubDate>Mon, 30 May 2022 17:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677955.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['수염 안 깎아도, 화장 안 해도 되니까'..한여름 더위에도 마스크 안 벗는 일본]]></title>
-            <link>https://n.news.naver.com/article/469/0000677938</link>
-            <guid>https://n.news.naver.com/article/469/0000677938</guid>
-            <pubDate>Sun, 05 Jun 2022 17:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677938.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 정부 "한국의 독도 주변 해양 조사, 일본 사전 동의 받아야"]]></title>
-            <link>https://n.news.naver.com/article/469/0000677869</link>
-            <guid>https://n.news.naver.com/article/469/0000677869</guid>
-            <pubDate>Mon, 30 May 2022 05:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/05/30/677869.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
