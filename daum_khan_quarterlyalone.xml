@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-06-10T05:35:29.457Z</updated>
+    <updated>2022-06-10T17:40:53.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[승리한 성기훈보다 유혹 못 이긴 해롱이가 '중독의 본모습']]></title>
+        <id>https://v.daum.net/v/20220610160444957</id>
+        <link href="https://v.daum.net/v/20220610160444957"/>
+        <updated>2022-06-10T17:40:52.479Z</updated>
+        <content type="html"><![CDATA[지난해 전 세계적인 돌풍을 일으킨 넷플릭스 드라마 &lt;오징어 게임&gt;(2021)의 주인공 성기훈(이정재)은 도박 빚 때문에 목숨을 건 게임에 뛰어든다. &lt;오징어 게임&gt;을 본 한 친구는 진저리를 쳤다. “나는 저렇게 도박 중독자가 ‘그래도 본성은 선량한’ 인물로 그려지는 게 싫어. 중독은 그런 게 아니야. 최소한의 인간성이나 판단력까지 앗아간다고.” 친구는 어렸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나의 첫 심부름'으로 살펴보는 어린이의 성장 과정]]></title>
         <id>https://v.daum.net/v/20220527160943856</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220107162020997"/>
         <updated>2022-01-07T17:47:00.392Z</updated>
         <content type="html"><![CDATA[[경향신문] ‘어그로’라는 말이 있다. 관심을 끌고 분란을 일으키고자 인터넷 게시판 등에 자극적인 내용을 올리거나, 그런 행동을 의미한다. 주로 ‘어그로 끈다’라고 쓴다. 언젠가 나도 어그로를 끌려고 한 적 있다. “내가 발간하는 독립잡지 ‘계간홀로 : 연애하지 않을 자유’를 홍보하기 위해 데이팅 프로그램에 나가볼까?!” 당시 &lt;짝&gt;(SBS)이라는 프로그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['설강화'..시대에 휘말린 청춘의 사랑, 이 하나를 위해 너무 많은 것을 오염시켰다]]></title>
-        <id>https://v.daum.net/v/20211224162150906</id>
-        <link href="https://v.daum.net/v/20211224162150906"/>
-        <updated>2022-01-01T02:24:12.763Z</updated>
-        <content type="html"><![CDATA[[경향신문] 드라마 &lt;설강화&gt;가 12월18일 JTBC와 디즈니플러스에서 방영을 시작했다. 배우 정해인과 걸그룹 ‘블랙핑크’의 멤버 지수가 주연을, 유현미 작가와 조현탁 PD가 극본과 연출을 맡았다. 한편, 이 드라마의 방영 중지를 요청하는 국민청원에는 12월21일 기준 32만명 이상이 서명했다. 시청자들이 불매운동을 벌이면서 광고주들도 줄줄이 제작 지원을]]></content>
     </entry>
 </feed>
