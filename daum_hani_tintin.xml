@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-06-10T17:40:53.041Z</updated>
+    <updated>2022-06-11T05:34:15.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['흔한 사람' 송해..평범한 동네사람과 평생을 함께하다]]></title>
+        <id>https://entertain.v.daum.net/v/20220611090502365</id>
+        <link href="https://entertain.v.daum.net/v/20220611090502365"/>
+        <updated>2022-06-11T05:34:06.685Z</updated>
+        <content type="html"><![CDATA[☞한겨레 S 뉴스레터 구독하기 https://bit.ly/319DiiE 2016년, 종로문화원은 서울 종로2가 낙원동 골목에 ‘송해길’이라는 명예도로명을 붙였다. 탑골공원 옆 육의전빌딩 옆길에서 시작돼 낙원상가 초입에서 끝나는 이 240미터 남짓한 골목에는, 송해가 생전 출근했던 ‘원로연예상록회’ 사무실부터 그가 즐겨 찾던 식당과 그가 애용하던 이발소 등이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지현·하연수..왜요, 할 말 다 하는 여자 처음 봐요?]]></title>
         <id>https://entertain.v.daum.net/v/20220527202602090</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20210911095601254"/>
         <updated>2021-10-07T17:43:00.225Z</updated>
         <content type="html"><![CDATA[넷플릭스에 콘텐츠 시장의 안방을 다 내줄 수 없다는 위기감 때문일까. 최근 국내 스트리밍 서비스들은 오리지널 콘텐츠를 제작하는 데 온 힘을 쏟는 눈치다. 씨제이이엔엠(CJ ENM)과 제이티비시(JTBC)가 함께 운영하는 티빙(tving)은 &lt;여고추리반&gt;을 필두로 &lt;환승연애&gt;, &lt;마녀식당으로 오세요&gt; 등의 오리지널 시리즈를 성공시켰고, 지상파 3사와 에스케이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한때 우리였던 난민에게 따뜻한 손길을]]></title>
-        <id>https://entertain.v.daum.net/v/20210828091601013</id>
-        <link href="https://entertain.v.daum.net/v/20210828091601013"/>
-        <updated>2021-10-07T17:43:00.225Z</updated>
-        <content type="html"><![CDATA[“그 얼마나 기다렸나. 지금 이 순간을 고대하면서. 낮엔 그리움이, 밤엔 외로움이 가슴 가득히 있었네.” 시트콤 &lt;엘에이(LA)아리랑&gt;(1995~2000)이 &lt;에스비에스&gt;(SBS)의 유튜브 채널 ‘빽능-스브스 옛날 예능’에 올라오자, 사람들이 하나둘 댓글창에 모여 홀린 듯이 주제가를 따라 흥얼거렸다. &lt;엘에이아리랑&gt;은 한국 시트콤계의 마에스트로 김병욱 피디]]></content>
     </entry>
 </feed>
