@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 17:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 05:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민주당 비대위가 주목해야 할 세 가지 숫자]]></title>
+            <link>https://n.news.naver.com/article/308/0000031010</link>
+            <guid>https://n.news.naver.com/article/308/0000031010</guid>
+            <pubDate>Mon, 13 Jun 2022 05:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/13/31010.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['불꽃'같은 낯선 존재, 박지현의 80일]]></title>
             <link>https://n.news.naver.com/article/308/0000030980</link>
             <guid>https://n.news.naver.com/article/308/0000030980</guid>
             <pubDate>Mon, 06 Jun 2022 05:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/06/30980.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 May 2022 05:37:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이들을 보라, 이들이 메시지다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030791</link>
-            <guid>https://n.news.naver.com/article/308/0000030791</guid>
-            <pubDate>Mon, 02 May 2022 05:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
