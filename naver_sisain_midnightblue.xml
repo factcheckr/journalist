@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 17:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 05:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발달장애인 딸의 죽음 그 뒤에 ‘등급 조사’ 있다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031020</link>
+            <guid>https://n.news.naver.com/article/308/0000031020</guid>
+            <pubDate>Wed, 15 Jun 2022 05:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/15/31020.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디시인사이드 우울증갤러리 수사는 왜 중단됐나]]></title>
             <link>https://n.news.naver.com/article/308/0000030987</link>
             <guid>https://n.news.naver.com/article/308/0000030987</guid>
             <pubDate>Wed, 08 Jun 2022 05:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/08/30987.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Apr 2022 05:41:51 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/19/30727.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 어서 와, 이런 언니는 처음이지?]]></title>
-            <link>https://n.news.naver.com/article/308/0000030667</link>
-            <guid>https://n.news.naver.com/article/308/0000030667</guid>
-            <pubDate>Fri, 08 Apr 2022 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/08/30667.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
