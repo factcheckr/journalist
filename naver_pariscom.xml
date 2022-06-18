@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 05:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 17:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000681325</link>
             <guid>https://n.news.naver.com/article/469/0000681325</guid>
             <pubDate>Fri, 17 Jun 2022 17:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/17/681325.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000680915</link>
             <guid>https://n.news.naver.com/article/469/0000680915</guid>
             <pubDate>Wed, 15 Jun 2022 17:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,19 +40,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680812.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“日 정부, 나토 정상회의 때 한일 정상회담 안 하기로”]]></title>
-            <link>https://n.news.naver.com/article/469/0000680760</link>
-            <guid>https://n.news.naver.com/article/469/0000680760</guid>
-            <pubDate>Wed, 15 Jun 2022 05:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680760.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[일본, 남태평양에 손 뻗어 중국 견제... 피지와 최초 방위장관 회담]]></title>
             <link>https://n.news.naver.com/article/469/0000680481</link>
             <guid>https://n.news.naver.com/article/469/0000680481</guid>
             <pubDate>Mon, 13 Jun 2022 17:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/13/680481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000680466</link>
             <guid>https://n.news.naver.com/article/469/0000680466</guid>
             <pubDate>Mon, 13 Jun 2022 17:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/13/680466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,8 +60,16 @@
             <link>https://n.news.naver.com/article/469/0000680274</link>
             <guid>https://n.news.naver.com/article/469/0000680274</guid>
             <pubDate>Fri, 17 Jun 2022 17:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/12/680274.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["나, 18세 여성에 흥미 느껴"... 일본 의원, 성추문에 탈당 [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000680227</link>
+            <guid>https://n.news.naver.com/article/469/0000680227</guid>
+            <pubDate>Sat, 18 Jun 2022 17:34:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/12/680227.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본, 내일부터 해외관광객 접수... 한국 출발은 7월에 가능할 듯]]></title>
