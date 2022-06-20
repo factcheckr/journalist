@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 17:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 리추얼이 사라진 시대의 우리]]></title>
+            <link>https://n.news.naver.com/article/308/0000031043</link>
+            <guid>https://n.news.naver.com/article/308/0000031043</guid>
+            <pubDate>Mon, 20 Jun 2022 05:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/20/31043.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘제로 코로나’와 ‘위드 코로나’ 사이, 중국의 진퇴양난]]></title>
             <link>https://n.news.naver.com/article/308/0000030853</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Apr 2022 05:36:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/18/30718.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학기자상] “모두가 떠나면 아무것도 바뀌지 않는다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000030643</link>
-            <guid>https://n.news.naver.com/article/308/0000030643</guid>
-            <pubDate>Fri, 08 Apr 2022 17:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/03/30643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
