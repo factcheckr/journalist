@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 17:50:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000681791</link>
             <guid>https://n.news.naver.com/article/469/0000681791</guid>
             <pubDate>Tue, 21 Jun 2022 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/21/681791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000681746</link>
             <guid>https://n.news.naver.com/article/469/0000681746</guid>
             <pubDate>Mon, 20 Jun 2022 17:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681746.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -32,19 +32,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[책 읽는 헬스클럽·만화 보는 호텔... 일본 출판계 생존 안간힘 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000681496</link>
-            <guid>https://n.news.naver.com/article/469/0000681496</guid>
-            <pubDate>Sun, 19 Jun 2022 17:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/19/681496.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[선거구 조정안  日자민당에  '불똥'...아베 vs 하야시 충돌 불가피]]></title>
             <link>https://n.news.naver.com/article/469/0000681325</link>
             <guid>https://n.news.naver.com/article/469/0000681325</guid>
             <pubDate>Fri, 17 Jun 2022 17:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/17/681325.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000680915</link>
             <guid>https://n.news.naver.com/article/469/0000680915</guid>
             <pubDate>Wed, 15 Jun 2022 17:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -72,11 +64,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680812.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“日 정부, 나토 정상회의 때 한일 정상회담 안 하기로”]]></title>
+            <link>https://n.news.naver.com/article/469/0000680760</link>
+            <guid>https://n.news.naver.com/article/469/0000680760</guid>
+            <pubDate>Tue, 21 Jun 2022 17:49:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680760.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본, 남태평양에 손 뻗어 중국 견제... 피지와 최초 방위장관 회담]]></title>
             <link>https://n.news.naver.com/article/469/0000680481</link>
             <guid>https://n.news.naver.com/article/469/0000680481</guid>
             <pubDate>Mon, 13 Jun 2022 17:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.06.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/13/680481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000680466</link>
             <guid>https://n.news.naver.com/article/469/0000680466</guid>
             <pubDate>Mon, 13 Jun 2022 17:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.06.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/13/680466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
