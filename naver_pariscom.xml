@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 17:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 05:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특파원의 시선] 한일관계 개선, 조급함 버려라]]></title>
+            <link>https://n.news.naver.com/article/469/0000681791</link>
+            <guid>https://n.news.naver.com/article/469/0000681791</guid>
+            <pubDate>Tue, 21 Jun 2022 05:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/21/681791.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다, 아베 측근 자르고 재정건전성 강조… '홀로서기' 시동]]></title>
             <link>https://n.news.naver.com/article/469/0000681746</link>
             <guid>https://n.news.naver.com/article/469/0000681746</guid>
             <pubDate>Mon, 20 Jun 2022 17:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681746.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000681615</link>
             <guid>https://n.news.naver.com/article/469/0000681615</guid>
             <pubDate>Mon, 20 Jun 2022 05:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000681036</link>
             <guid>https://n.news.naver.com/article/469/0000681036</guid>
             <pubDate>Thu, 16 Jun 2022 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/16/681036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000680812</link>
             <guid>https://n.news.naver.com/article/469/0000680812</guid>
             <pubDate>Wed, 15 Jun 2022 05:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680812.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Jun 2022 17:42:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/13/680466.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹정부 러브콜에도... 日 방위장관, 이종섭에 눈길도 안 줬다]]></title>
-            <link>https://n.news.naver.com/article/469/0000680274</link>
-            <guid>https://n.news.naver.com/article/469/0000680274</guid>
-            <pubDate>Fri, 17 Jun 2022 17:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/12/680274.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 17:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 05:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,19 @@ BBC에 따르면 로이드 오스틴 미 국방장관과 마크 밀리 미 합�
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0630/A0002755682_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[특파원의 시선] 한일관계 개선, 조급함 버려라 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000681791</link>
+            <guid>https://n.news.naver.com/article/469/0000681791</guid>
+            <pubDate>Tue, 21 Jun 2022 05:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/21/681791.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다, 아베 측근 자르고 재정건전성 강조… '홀로서기' 시동 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000681746</link>
             <guid>https://n.news.naver.com/article/469/0000681746</guid>
             <pubDate>Mon, 20 Jun 2022 17:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681746.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +305,7 @@ BBC에 따르면 로이드 오스틴 미 국방장관과 마크 밀리 미 합�
             <link>https://n.news.naver.com/article/469/0000681615</link>
             <guid>https://n.news.naver.com/article/469/0000681615</guid>
             <pubDate>Mon, 20 Jun 2022 05:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,7 +329,7 @@ BBC에 따르면 로이드 오스틴 미 국방장관과 마크 밀리 미 합�
             <link>https://n.news.naver.com/article/469/0000681036</link>
             <guid>https://n.news.naver.com/article/469/0000681036</guid>
             <pubDate>Thu, 16 Jun 2022 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/16/681036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +345,7 @@ BBC에 따르면 로이드 오스틴 미 국방장관과 마크 밀리 미 합�
             <link>https://n.news.naver.com/article/469/0000680812</link>
             <guid>https://n.news.naver.com/article/469/0000680812</guid>
             <pubDate>Wed, 15 Jun 2022 05:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680812.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -357,19 +365,11 @@ BBC에 따르면 로이드 오스틴 미 국방장관과 마크 밀리 미 합�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/13/680466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[尹정부 러브콜에도... 日 방위장관, 이종섭에 눈길도 안 줬다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000680274</link>
-            <guid>https://n.news.naver.com/article/469/0000680274</guid>
-            <pubDate>Fri, 17 Jun 2022 17:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/12/680274.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[기자의 추천 책] 리추얼이 사라진 시대의 우리 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031043</link>
             <guid>https://n.news.naver.com/article/308/0000031043</guid>
             <pubDate>Mon, 20 Jun 2022 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/20/31043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -449,7 +449,7 @@ BBC에 따르면 로이드 오스틴 미 국방장관과 마크 밀리 미 합�
             <link>https://n.news.naver.com/article/308/0000031020</link>
             <guid>https://n.news.naver.com/article/308/0000031020</guid>
             <pubDate>Wed, 15 Jun 2022 05:38:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/15/31020.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -525,11 +525,19 @@ BBC에 따르면 로이드 오스틴 미 국방장관과 마크 밀리 미 합�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/19/30727.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기자들의 시선] 김건희 여사의 잇따른 행보, ‘제2부속실 폐지’ 괜찮나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031045</link>
+            <guid>https://n.news.naver.com/article/308/0000031045</guid>
+            <pubDate>Tue, 21 Jun 2022 05:39:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31045.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[민주당 비대위가 주목해야 할 세 가지 숫자 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031010</link>
             <guid>https://n.news.naver.com/article/308/0000031010</guid>
             <pubDate>Mon, 13 Jun 2022 05:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.06.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/13/31010.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -595,14 +603,6 @@ BBC에 따르면 로이드 오스틴 미 국방장관과 마크 밀리 미 합�
             <pubDate>Tue, 10 May 2022 05:37:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리스타일] 어느 날, 유우성씨에게 연락이 왔다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030831</link>
-            <guid>https://n.news.naver.com/article/308/0000030831</guid>
-            <pubDate>Tue, 10 May 2022 05:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['흔한 사람' 송해..평범한 동네사람과 평생을 함께하다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
