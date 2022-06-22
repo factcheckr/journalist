@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,24 +20,24 @@
             <link>https://n.news.naver.com/article/469/0000681746</link>
             <guid>https://n.news.naver.com/article/469/0000681746</guid>
             <pubDate>Mon, 20 Jun 2022 17:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681746.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 언론 “나토 정상회의서 한·일·호·뉴 4개국 정상 회담 검토”]]></title>
-            <link>https://n.news.naver.com/article/469/0000681615</link>
-            <guid>https://n.news.naver.com/article/469/0000681615</guid>
-            <pubDate>Mon, 20 Jun 2022 05:38:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681615.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681746.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선거구 조정안  日자민당에  '불똥'...아베 vs 하야시 충돌 불가피]]></title>
             <link>https://n.news.naver.com/article/469/0000681325</link>
             <guid>https://n.news.naver.com/article/469/0000681325</guid>
             <pubDate>Fri, 17 Jun 2022 17:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/17/681325.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이폰, 일본서 제일 싸다... 급속한 엔저로 '싼 일본' 가속화]]></title>
+            <link>https://n.news.naver.com/article/469/0000681043</link>
+            <guid>https://n.news.naver.com/article/469/0000681043</guid>
+            <pubDate>Wed, 22 Jun 2022 17:46:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/16/681043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고레에다 감독 "'브로커' 찍으며 몸은 편했다... 한국 52시간제 덕분"]]></title>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000680915</link>
             <guid>https://n.news.naver.com/article/469/0000680915</guid>
             <pubDate>Wed, 15 Jun 2022 17:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
