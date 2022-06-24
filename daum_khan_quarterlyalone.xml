@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-06-24T05:40:16.114Z</updated>
+    <updated>2022-06-24T17:40:03.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS의 성공 뒤에 자신을 갈아 넣은 멤버들..경쟁과 성과만을 강요하는 K팝의 산업 구조]]></title>
+        <id>https://v.daum.net/v/20220624163846306</id>
+        <link href="https://v.daum.net/v/20220624163846306"/>
+        <updated>2022-06-24T17:40:02.793Z</updated>
+        <content type="html"><![CDATA[지난 14일, 방탄소년단(BTS)은 공식 유튜브 채널에 올린 영상을 통해 활동의 기조 변화를 예고했다. 요약하자면 지금까지 그룹 활동에 집중해왔다면 이제부터는 멤버 각자가 솔로 활동을 시작하며 휴식과 재충전의 시간이 필요하다는 내용이다. 영상이 공개된 직후 ‘해체’, ‘활동 중단’ 같은 자극적인 타이틀로 떠들썩했지만, 영상에서 명시하듯 해체가 아니라 활동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[승리한 성기훈보다 유혹 못 이긴 해롱이가 '중독의 본모습']]></title>
         <id>https://v.daum.net/v/20220610160444957</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220121162008728"/>
         <updated>2022-01-21T17:39:16.487Z</updated>
         <content type="html"><![CDATA[[경향신문] 2022년 1월1일, 해리포터 20주년 기념 다큐멘터리 &lt;리턴 투 호그와트&gt;가 HBO 맥스를 통해 공개되었다. 국내에서는 웨이브(Wavve)를 통해 볼 수 있다. &lt;리턴 투 호그와트&gt;가 시작되면, 가뜩이나 비현실적인 2022년은 마법에 걸린다. ‘머글 세계’의 이곳저곳에 흩어져 있던 호그와트의 마법사들은 호그와트 문양이 찍힌 초대장을 받는다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭력적 상황도 개입 없이 객관적으로 찍는다..이게 리얼입니까?]]></title>
-        <id>https://v.daum.net/v/20220107162020997</id>
-        <link href="https://v.daum.net/v/20220107162020997"/>
-        <updated>2022-01-07T17:47:00.392Z</updated>
-        <content type="html"><![CDATA[[경향신문] ‘어그로’라는 말이 있다. 관심을 끌고 분란을 일으키고자 인터넷 게시판 등에 자극적인 내용을 올리거나, 그런 행동을 의미한다. 주로 ‘어그로 끈다’라고 쓴다. 언젠가 나도 어그로를 끌려고 한 적 있다. “내가 발간하는 독립잡지 ‘계간홀로 : 연애하지 않을 자유’를 홍보하기 위해 데이팅 프로그램에 나가볼까?!” 당시 &lt;짝&gt;(SBS)이라는 프로그]]></content>
     </entry>
 </feed>
