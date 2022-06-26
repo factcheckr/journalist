@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 05:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 17:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,6 +284,14 @@ dpa통신 등에 따르면 독일 경제부는 19일(현지시간) 전력 소비
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0630/A0002755682_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[46만명 정보 담긴 USB 분실… 일본 지자체의 '허술함' [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000682757</link>
+            <guid>https://n.news.naver.com/article/469/0000682757</guid>
+            <pubDate>Sun, 26 Jun 2022 17:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/26/682757.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[특파원의 시선] 한일관계 개선, 조급함 버려라 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000681791</link>
             <guid>https://n.news.naver.com/article/469/0000681791</guid>
@@ -292,11 +300,27 @@ dpa통신 등에 따르면 독일 경제부는 19일(현지시간) 전력 소비
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/21/681791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기시다, 아베 측근 자르고 재정건전성 강조… '홀로서기' 시동 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000681746</link>
+            <guid>https://n.news.naver.com/article/469/0000681746</guid>
+            <pubDate>Sun, 26 Jun 2022 17:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681746.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 언론 “나토 정상회의서 한·일·호·뉴 4개국 정상 회담 검토” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000681615</link>
+            <guid>https://n.news.naver.com/article/469/0000681615</guid>
+            <pubDate>Sun, 26 Jun 2022 17:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681615.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[책 읽는 헬스클럽·만화 보는 호텔... 일본 출판계 생존 안간힘 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000681496</link>
             <guid>https://n.news.naver.com/article/469/0000681496</guid>
             <pubDate>Sat, 25 Jun 2022 17:36:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/19/681496.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,30 +362,6 @@ dpa통신 등에 따르면 독일 경제부는 19일(현지시간) 전력 소비
             <pubDate>Wed, 15 Jun 2022 05:38:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680812.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“日 정부, 나토 정상회의 때 한일 정상회담 안 하기로” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000680760</link>
-            <guid>https://n.news.naver.com/article/469/0000680760</guid>
-            <pubDate>Tue, 21 Jun 2022 17:49:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/15/680760.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 남태평양에 손 뻗어 중국 견제... 피지와 최초 방위장관 회담 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000680481</link>
-            <guid>https://n.news.naver.com/article/469/0000680481</guid>
-            <pubDate>Mon, 13 Jun 2022 17:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/13/680481.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔화, 외환위기 수준으로 추락했지만...'저금리 기조' 안 바꾸는 일본은행 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000680466</link>
-            <guid>https://n.news.naver.com/article/469/0000680466</guid>
-            <pubDate>Mon, 13 Jun 2022 17:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/13/680466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프리 스타일] '성공'의 K방역과 남겨진 재난의 흔적 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
