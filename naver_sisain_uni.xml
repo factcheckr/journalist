@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 17:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 05:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그의 낙선 인사, 왜 이렇게 명랑하지?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031075</link>
+            <guid>https://n.news.naver.com/article/308/0000031075</guid>
+            <pubDate>Mon, 27 Jun 2022 05:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/27/31075.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프리 스타일] '성공'의 K방역과 남겨진 재난의 흔적]]></title>
             <link>https://n.news.naver.com/article/308/0000031054</link>
             <guid>https://n.news.naver.com/article/308/0000031054</guid>
             <pubDate>Thu, 23 Jun 2022 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/23/31054.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000031043</link>
             <guid>https://n.news.naver.com/article/308/0000031043</guid>
             <pubDate>Mon, 20 Jun 2022 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/20/31043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Apr 2022 05:37:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/26/30761.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 중국 상하이 봉쇄, SF 아닌 현실]]></title>
-            <link>https://n.news.naver.com/article/308/0000030724</link>
-            <guid>https://n.news.naver.com/article/308/0000030724</guid>
-            <pubDate>Tue, 19 Apr 2022 05:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/19/30724.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

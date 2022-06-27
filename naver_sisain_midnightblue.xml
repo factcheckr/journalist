@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 17:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 05:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자들의 시선] 이준석·배현진의 ‘살벌한’ 인사]]></title>
+            <link>https://n.news.naver.com/article/308/0000031072</link>
+            <guid>https://n.news.naver.com/article/308/0000031072</guid>
+            <pubDate>Mon, 27 Jun 2022 05:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/27/31072.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발달장애인 딸의 죽음 그 뒤에 ‘등급 조사’ 있다]]></title>
             <link>https://n.news.naver.com/article/308/0000031020</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Apr 2022 05:44:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/27/30766.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박근혜에게 가세연은 아낌없이 주는 나무?]]></title>
-            <link>https://n.news.naver.com/article/308/0000030727</link>
-            <guid>https://n.news.naver.com/article/308/0000030727</guid>
-            <pubDate>Tue, 19 Apr 2022 05:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/19/30727.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
