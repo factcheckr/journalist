@@ -4,9 +4,25 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 05:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 17:44:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[51명의 검사 징계 내역을 공개합니다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031047</link>
+            <guid>https://n.news.naver.com/article/308/0000031047</guid>
+            <pubDate>Mon, 27 Jun 2022 17:43:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31047.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문재인 정부 5년의 ‘검찰개혁’을 묻다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031046</link>
+            <guid>https://n.news.naver.com/article/308/0000031046</guid>
+            <pubDate>Mon, 27 Jun 2022 17:43:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31046.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자들의 시선] 김건희 여사의 잇따른 행보, ‘제2부속실 폐지’ 괜찮나]]></title>
             <link>https://n.news.naver.com/article/308/0000031045</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 12 May 2022 05:43:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/12/30840.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재 뒷담화] 박진 검증 위해, 캐나다 등 전세계 사이트 검색 중]]></title>
-            <link>https://n.news.naver.com/article/308/0000030836</link>
-            <guid>https://n.news.naver.com/article/308/0000030836</guid>
-            <pubDate>Wed, 11 May 2022 05:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/11/30836.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 윤석열 정부 국정과제, 공약서 빠진 내용은?]]></title>
-            <link>https://n.news.naver.com/article/308/0000030834</link>
-            <guid>https://n.news.naver.com/article/308/0000030834</guid>
-            <pubDate>Tue, 10 May 2022 05:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
