@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 18:00:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 05:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 견제한 기시다 "동아시아에서 '제2의 우크라' 나올 수도"]]></title>
+            <link>https://n.news.naver.com/article/469/0000683608</link>
+            <guid>https://n.news.naver.com/article/469/0000683608</guid>
+            <pubDate>Thu, 30 Jun 2022 05:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/30/683608.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["올랐던 식재룟값 또 오른다고?”...일본 이례적 물가고에 내각 지지율 '뚝']]></title>
             <link>https://n.news.naver.com/article/469/0000683511</link>
             <guid>https://n.news.naver.com/article/469/0000683511</guid>
             <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000683436</link>
             <guid>https://n.news.naver.com/article/469/0000683436</guid>
             <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Jun 2022 17:37:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/17/681325.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰, 일본서 제일 싸다... 급속한 엔저로 '싼 일본' 가속화]]></title>
-            <link>https://n.news.naver.com/article/469/0000681043</link>
-            <guid>https://n.news.naver.com/article/469/0000681043</guid>
-            <pubDate>Wed, 22 Jun 2022 17:46:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/16/681043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
