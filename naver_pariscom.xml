@@ -4,9 +4,25 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 05:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 17:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 3대 이통사 KDDI 이틀째 통신장애…휴대폰 이어 금융·물류도 '마비']]></title>
+            <link>https://n.news.naver.com/article/469/0000684118</link>
+            <guid>https://n.news.naver.com/article/469/0000684118</guid>
+            <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/03/684118.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연봉 1900만 원이 풍족?… 30년간 임금 안 오른 일본인들 '분노'[특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000684089</link>
+            <guid>https://n.news.naver.com/article/469/0000684089</guid>
+            <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/03/684089.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도쿄도지사 “육아휴직 쉬는 것 아냐...'육휴(育休)' 대신 '육업(育業)' 쓰자”]]></title>
             <link>https://n.news.naver.com/article/469/0000683831</link>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000683511</link>
             <guid>https://n.news.naver.com/article/469/0000683511</guid>
             <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000683441</link>
             <guid>https://n.news.naver.com/article/469/0000683441</guid>
             <pubDate>Thu, 30 Jun 2022 17:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683441.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000683436</link>
             <guid>https://n.news.naver.com/article/469/0000683436</guid>
             <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,40 +68,24 @@
             <link>https://n.news.naver.com/article/469/0000683188</link>
             <guid>https://n.news.naver.com/article/469/0000683188</guid>
             <pubDate>Tue, 28 Jun 2022 17:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/28/683188.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국제 비난에도 강행했는데…日 포경업체, '벼랑 끝'에 몰렸다]]></title>
+            <link>https://n.news.naver.com/article/469/0000683171</link>
+            <guid>https://n.news.naver.com/article/469/0000683171</guid>
+            <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/28/683171.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[46만명 정보 담긴 USB 분실… 일본 지자체의 '허술함' [특파원 24시]]]></title>
             <link>https://n.news.naver.com/article/469/0000682757</link>
             <guid>https://n.news.naver.com/article/469/0000682757</guid>
             <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/26/682757.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특파원의 시선] 한일관계 개선, 조급함 버려라]]></title>
-            <link>https://n.news.naver.com/article/469/0000681791</link>
-            <guid>https://n.news.naver.com/article/469/0000681791</guid>
-            <pubDate>Tue, 21 Jun 2022 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/21/681791.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다, 아베 측근 자르고 재정건전성 강조… '홀로서기' 시동]]></title>
-            <link>https://n.news.naver.com/article/469/0000681746</link>
-            <guid>https://n.news.naver.com/article/469/0000681746</guid>
-            <pubDate>Sun, 26 Jun 2022 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681746.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 언론 “나토 정상회의서 한·일·호·뉴 4개국 정상 회담 검토”]]></title>
-            <link>https://n.news.naver.com/article/469/0000681615</link>
-            <guid>https://n.news.naver.com/article/469/0000681615</guid>
-            <pubDate>Sun, 26 Jun 2022 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/20/681615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
