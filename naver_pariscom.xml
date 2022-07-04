@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 17:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 05:46:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['가수에 스포츠선수까지'...일본 참의원 비례대표에 이색후보 많은 이유는?]]></title>
+            <link>https://n.news.naver.com/article/469/0000684166</link>
+            <guid>https://n.news.naver.com/article/469/0000684166</guid>
+            <pubDate>Mon, 04 Jul 2022 05:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/04/684166.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 3대 이통사 KDDI 이틀째 통신장애…휴대폰 이어 금융·물류도 '마비']]></title>
             <link>https://n.news.naver.com/article/469/0000684118</link>
             <guid>https://n.news.naver.com/article/469/0000684118</guid>
             <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/03/684118.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000684089</link>
             <guid>https://n.news.naver.com/article/469/0000684089</guid>
             <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/03/684089.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000683831</link>
             <guid>https://n.news.naver.com/article/469/0000683831</guid>
             <pubDate>Fri, 01 Jul 2022 17:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/01/683831.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000683608</link>
             <guid>https://n.news.naver.com/article/469/0000683608</guid>
             <pubDate>Thu, 30 Jun 2022 05:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/30/683608.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/28/683171.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[46만명 정보 담긴 USB 분실… 일본 지자체의 '허술함' [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000682757</link>
-            <guid>https://n.news.naver.com/article/469/0000682757</guid>
-            <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/26/682757.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
