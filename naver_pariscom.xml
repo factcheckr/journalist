@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 05:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 17:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 참의원 선거 D-6, 기시다의 자민당 '무난한 승리' 전망]]></title>
+            <link>https://n.news.naver.com/article/469/0000684312</link>
+            <guid>https://n.news.naver.com/article/469/0000684312</guid>
+            <pubDate>Mon, 04 Jul 2022 17:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/04/684312.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["러시아 와 달라" 푸틴 요청에... 시진핑 대답은 "곤란"]]></title>
+            <link>https://n.news.naver.com/article/469/0000684270</link>
+            <guid>https://n.news.naver.com/article/469/0000684270</guid>
+            <pubDate>Mon, 04 Jul 2022 17:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/04/684270.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['가수에 스포츠선수까지'...일본 참의원 비례대표에 이색후보 많은 이유는?]]></title>
             <link>https://n.news.naver.com/article/469/0000684166</link>
             <guid>https://n.news.naver.com/article/469/0000684166</guid>
             <pubDate>Mon, 04 Jul 2022 05:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/04/684166.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000684118</link>
             <guid>https://n.news.naver.com/article/469/0000684118</guid>
             <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/03/684118.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000684089</link>
             <guid>https://n.news.naver.com/article/469/0000684089</guid>
             <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/03/684089.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000683511</link>
             <guid>https://n.news.naver.com/article/469/0000683511</guid>
             <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000683441</link>
             <guid>https://n.news.naver.com/article/469/0000683441</guid>
             <pubDate>Thu, 30 Jun 2022 17:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683441.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,24 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000683436</link>
             <guid>https://n.news.naver.com/article/469/0000683436</guid>
             <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683436.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 147년 만의 6월 폭염…사흘 연속 '전력 주의보' 발령]]></title>
-            <link>https://n.news.naver.com/article/469/0000683188</link>
-            <guid>https://n.news.naver.com/article/469/0000683188</guid>
-            <pubDate>Tue, 28 Jun 2022 17:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/28/683188.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제 비난에도 강행했는데…日 포경업체, '벼랑 끝'에 몰렸다]]></title>
-            <link>https://n.news.naver.com/article/469/0000683171</link>
-            <guid>https://n.news.naver.com/article/469/0000683171</guid>
-            <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/28/683171.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
