@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 17:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:39:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인기드라마 주연배우의 커밍아웃... 제작진의 대응]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002847026</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002847026</guid>
+            <pubDate>Tue, 05 Jul 2022 05:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0701/A0002847026_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돈때문에 변절했다 고백한 운동가... 그럼에도]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002843660</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Sep 2021 02:21:36 GMT</pubDate>
             <content:encoded><![CDATA[<span>버금</span>]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0809/A0002765331_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자살'이 특별하지 않은 일이 될 때]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002755682</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002755682</guid>
-            <pubDate>Tue, 28 Sep 2021 02:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0630/A0002755682_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
