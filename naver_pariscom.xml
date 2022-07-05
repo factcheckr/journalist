@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 05:39:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 17:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 참의원 선거 후보자 절반 "평화헌법 개정해야"]]></title>
+            <link>https://n.news.naver.com/article/469/0000684554</link>
+            <guid>https://n.news.naver.com/article/469/0000684554</guid>
+            <pubDate>Tue, 05 Jul 2022 17:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/05/684554.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 참의원 선거 D-6, 기시다의 자민당 '무난한 승리' 전망]]></title>
             <link>https://n.news.naver.com/article/469/0000684312</link>
             <guid>https://n.news.naver.com/article/469/0000684312</guid>
             <pubDate>Mon, 04 Jul 2022 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/04/684312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000684270</link>
             <guid>https://n.news.naver.com/article/469/0000684270</guid>
             <pubDate>Mon, 04 Jul 2022 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/04/684270.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000684118</link>
             <guid>https://n.news.naver.com/article/469/0000684118</guid>
             <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/03/684118.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000684089</link>
             <guid>https://n.news.naver.com/article/469/0000684089</guid>
             <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/03/684089.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000683511</link>
             <guid>https://n.news.naver.com/article/469/0000683511</guid>
             <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000683441</link>
             <guid>https://n.news.naver.com/article/469/0000683441</guid>
             <pubDate>Thu, 30 Jun 2022 17:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683441.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령·기시다 조우에... 일본 "매우 짧은 시간, 간단한 인사만"]]></title>
-            <link>https://n.news.naver.com/article/469/0000683436</link>
-            <guid>https://n.news.naver.com/article/469/0000683436</guid>
-            <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
