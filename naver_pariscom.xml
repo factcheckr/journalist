@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 17:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 05:46:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["G20서 한미일 외교장관회담 조율 중… 한일 양자회담은 보류"]]></title>
+            <link>https://n.news.naver.com/article/469/0000684684</link>
+            <guid>https://n.news.naver.com/article/469/0000684684</guid>
+            <pubDate>Wed, 06 Jul 2022 05:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/06/684684.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["재일코리안 정체성 감춘 나... 차별과 싸우는 정치 하겠다”[인터뷰]]]></title>
+            <link>https://n.news.naver.com/article/469/0000684651</link>
+            <guid>https://n.news.naver.com/article/469/0000684651</guid>
+            <pubDate>Wed, 06 Jul 2022 05:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/06/684651.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 참의원 선거 후보자 절반 "평화헌법 개정해야"]]></title>
             <link>https://n.news.naver.com/article/469/0000684554</link>
             <guid>https://n.news.naver.com/article/469/0000684554</guid>
             <pubDate>Tue, 05 Jul 2022 17:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/05/684554.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000684166</link>
             <guid>https://n.news.naver.com/article/469/0000684166</guid>
             <pubDate>Mon, 04 Jul 2022 05:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/04/684166.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000683831</link>
             <guid>https://n.news.naver.com/article/469/0000683831</guid>
             <pubDate>Fri, 01 Jul 2022 17:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/01/683831.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,24 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000683608</link>
             <guid>https://n.news.naver.com/article/469/0000683608</guid>
             <pubDate>Thu, 30 Jun 2022 05:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/30/683608.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["올랐던 식재룟값 또 오른다고?”...일본 이례적 물가고에 내각 지지율 '뚝']]></title>
-            <link>https://n.news.naver.com/article/469/0000683511</link>
-            <guid>https://n.news.naver.com/article/469/0000683511</guid>
-            <pubDate>Wed, 29 Jun 2022 17:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683511.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닛케이 "이재용도 역부족...대만·네덜란드가 독점하는 첨단 반도체 시장"]]></title>
-            <link>https://n.news.naver.com/article/469/0000683441</link>
-            <guid>https://n.news.naver.com/article/469/0000683441</guid>
-            <pubDate>Thu, 30 Jun 2022 17:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/29/683441.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
