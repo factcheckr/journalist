@@ -4,9 +4,33 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 17:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 코로나 확진자 2배 급증…여행 지원책 연기될 듯]]></title>
+            <link>https://n.news.naver.com/article/469/0000685003</link>
+            <guid>https://n.news.naver.com/article/469/0000685003</guid>
+            <pubDate>Thu, 07 Jul 2022 17:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/07/685003.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 만화 '유희왕' 작가 다카하시 가즈키 별세]]></title>
+            <link>https://n.news.naver.com/article/469/0000684998</link>
+            <guid>https://n.news.naver.com/article/469/0000684998</guid>
+            <pubDate>Thu, 07 Jul 2022 17:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/07/684998.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차세대 전기차 배터리 특허 상위 10위권 일본·한국이 '싹쓸이']]></title>
+            <link>https://n.news.naver.com/article/469/0000684944</link>
+            <guid>https://n.news.naver.com/article/469/0000684944</guid>
+            <pubDate>Thu, 07 Jul 2022 17:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/07/684944.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["G20서 한미일 외교장관회담 조율 중… 한일 양자회담은 보류"]]></title>
             <link>https://n.news.naver.com/article/469/0000684684</link>
@@ -28,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000684554</link>
             <guid>https://n.news.naver.com/article/469/0000684554</guid>
             <pubDate>Tue, 05 Jul 2022 17:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/05/684554.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000684312</link>
             <guid>https://n.news.naver.com/article/469/0000684312</guid>
             <pubDate>Mon, 04 Jul 2022 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/04/684312.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000684270</link>
             <guid>https://n.news.naver.com/article/469/0000684270</guid>
             <pubDate>Mon, 04 Jul 2022 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/04/684270.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,32 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000684118</link>
             <guid>https://n.news.naver.com/article/469/0000684118</guid>
             <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/03/684118.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연봉 1900만 원이 풍족?… 30년간 임금 안 오른 일본인들 '분노'[특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000684089</link>
-            <guid>https://n.news.naver.com/article/469/0000684089</guid>
-            <pubDate>Sun, 03 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/03/684089.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄도지사 “육아휴직 쉬는 것 아냐...'육휴(育休)' 대신 '육업(育業)' 쓰자”]]></title>
-            <link>https://n.news.naver.com/article/469/0000683831</link>
-            <guid>https://n.news.naver.com/article/469/0000683831</guid>
-            <pubDate>Fri, 01 Jul 2022 17:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/01/683831.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령에 다시 차가워진 기시다... "독도 해양조사가 결정적"]]></title>
-            <link>https://n.news.naver.com/article/469/0000683670</link>
-            <guid>https://n.news.naver.com/article/469/0000683670</guid>
-            <pubDate>Wed, 06 Jul 2022 17:43:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/06/30/683670.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
