@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-07-08T05:41:48.839Z</updated>
+    <updated>2022-07-08T17:47:25.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["일기장 훔쳐봐" "살쪘다고 구박"..상처 입은 자식들이 입을 열었다]]></title>
+        <id>https://v.daum.net/v/20220708162156072</id>
+        <link href="https://v.daum.net/v/20220708162156072"/>
+        <updated>2022-07-08T17:47:24.796Z</updated>
+        <content type="html"><![CDATA[채널A의 &lt;금쪽같은 내 새끼&gt;의 매회, 아이들은 이상 행동의 원인인 부모를 사랑한다고 고백한다. 아무리 이상한 부모라도 열렬하게 사랑하고 간절하게 사랑받고 싶어 한다. 내리사랑은 있어도 치사랑은 없…는 게 맞나? 내리사랑의 우월함만을 강조하는 속담은, 성장한 자식에게 연로한 부모가 우선순위에서 밀릴 때 자주 소환된다. 하지만 어린 시절을 조금이라도 기억한다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS의 성공 뒤에 자신을 갈아 넣은 멤버들..경쟁과 성과만을 강요하는 K팝의 산업 구조]]></title>
         <id>https://v.daum.net/v/20220624163846306</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220204162923574"/>
         <updated>2022-02-04T17:34:45.959Z</updated>
         <content type="html"><![CDATA[[경향신문] 설연휴는 잘 보내셨는지요. 조상님이 발행한 최후의 유예 기간, ‘음력 새해’마저 지났으니 2022년의 시작을 더는 부정할 수 없다. 1월1일의 결심은 까맣게 잊었지만 우리의 새해는 이제 막 시작한 참이니 아직 기회가 있다. 새해 목표가 ‘운동하기’ 또는 ‘다이어트’인 사람이 올해에도 많을 것이다. 트렌드를 반영해서 좀 더 구체적인 목표를 설정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다큐 '리턴 투 호그와트'로 본 해리포터 20년]]></title>
-        <id>https://v.daum.net/v/20220121162008728</id>
-        <link href="https://v.daum.net/v/20220121162008728"/>
-        <updated>2022-01-21T17:39:16.487Z</updated>
-        <content type="html"><![CDATA[[경향신문] 2022년 1월1일, 해리포터 20주년 기념 다큐멘터리 &lt;리턴 투 호그와트&gt;가 HBO 맥스를 통해 공개되었다. 국내에서는 웨이브(Wavve)를 통해 볼 수 있다. &lt;리턴 투 호그와트&gt;가 시작되면, 가뜩이나 비현실적인 2022년은 마법에 걸린다. ‘머글 세계’의 이곳저곳에 흩어져 있던 호그와트의 마법사들은 호그와트 문양이 찍힌 초대장을 받는다.]]></content>
     </entry>
 </feed>

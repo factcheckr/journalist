@@ -4,23 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 17:47:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[아베 신조 전 일본 총리, 총 맞아 심폐정지… 40대 용의자 체포]]></title>
-            <link>https://n.news.naver.com/article/469/0000685122</link>
-            <guid>https://n.news.naver.com/article/469/0000685122</guid>
-            <pubDate>Fri, 08 Jul 2022 05:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/08/685122.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[우익 아베, 전직 자위대원의 총탄에 사망... 일본 '격랑으로']]></title>
+            <link>https://n.news.naver.com/article/469/0000685195</link>
+            <guid>https://n.news.naver.com/article/469/0000685195</guid>
+            <pubDate>Fri, 08 Jul 2022 17:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/08/685195.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아베 사망에도 10일 참의원 선거한다"... 보수 더 결집하나]]></title>
+            <link>https://n.news.naver.com/article/469/0000685194</link>
+            <guid>https://n.news.naver.com/article/469/0000685194</guid>
+            <pubDate>Fri, 08 Jul 2022 17:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/08/685194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아사히 “박진 외교부 장관, 오는 18~21일 방일 일정 조율 중"]]></title>
             <link>https://n.news.naver.com/article/469/0000685109</link>
             <guid>https://n.news.naver.com/article/469/0000685109</guid>
             <pubDate>Fri, 08 Jul 2022 05:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/08/685109.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000685003</link>
             <guid>https://n.news.naver.com/article/469/0000685003</guid>
             <pubDate>Thu, 07 Jul 2022 17:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/07/685003.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000684998</link>
             <guid>https://n.news.naver.com/article/469/0000684998</guid>
             <pubDate>Thu, 07 Jul 2022 17:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/07/684998.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000684944</link>
             <guid>https://n.news.naver.com/article/469/0000684944</guid>
             <pubDate>Thu, 07 Jul 2022 17:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/07/684944.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000684805</link>
             <guid>https://n.news.naver.com/article/469/0000684805</guid>
             <pubDate>Fri, 08 Jul 2022 05:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/06/684805.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000684554</link>
             <guid>https://n.news.naver.com/article/469/0000684554</guid>
             <pubDate>Tue, 05 Jul 2022 17:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/05/684554.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 참의원 선거 D-6, 기시다의 자민당 '무난한 승리' 전망]]></title>
-            <link>https://n.news.naver.com/article/469/0000684312</link>
-            <guid>https://n.news.naver.com/article/469/0000684312</guid>
-            <pubDate>Mon, 04 Jul 2022 17:40:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/04/684312.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/05/684554.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
