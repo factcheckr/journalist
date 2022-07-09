@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 17:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 05:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아베 그늘' 사라진 일본 정치... 더 우경화냐, 정중동이냐]]></title>
+            <link>https://n.news.naver.com/article/469/0000685240</link>
+            <guid>https://n.news.naver.com/article/469/0000685240</guid>
+            <pubDate>Sat, 09 Jul 2022 05:33:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/09/685240.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우익 아베, 전직 자위대원의 총탄에 사망... 일본 '격랑으로']]></title>
             <link>https://n.news.naver.com/article/469/0000685195</link>
             <guid>https://n.news.naver.com/article/469/0000685195</guid>
             <pubDate>Fri, 08 Jul 2022 17:46:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/08/685195.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000685194</link>
             <guid>https://n.news.naver.com/article/469/0000685194</guid>
             <pubDate>Fri, 08 Jul 2022 17:46:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/08/685194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000685109</link>
             <guid>https://n.news.naver.com/article/469/0000685109</guid>
             <pubDate>Fri, 08 Jul 2022 05:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/08/685109.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000684684</link>
             <guid>https://n.news.naver.com/article/469/0000684684</guid>
             <pubDate>Wed, 06 Jul 2022 05:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/06/684684.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000684651</link>
             <guid>https://n.news.naver.com/article/469/0000684651</guid>
             <pubDate>Wed, 06 Jul 2022 05:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/06/684651.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 참의원 선거 후보자 절반 "평화헌법 개정해야"]]></title>
-            <link>https://n.news.naver.com/article/469/0000684554</link>
-            <guid>https://n.news.naver.com/article/469/0000684554</guid>
-            <pubDate>Tue, 05 Jul 2022 17:42:59 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/05/684554.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/06/684651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
