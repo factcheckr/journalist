@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 17:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 05:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자들의 시선] 러브버그의 습격, 출몰의 배경은?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031141</link>
+            <guid>https://n.news.naver.com/article/308/0000031141</guid>
+            <pubDate>Mon, 11 Jul 2022 05:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/11/31141.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그의 낙선 인사, 왜 이렇게 명랑하지?]]></title>
             <link>https://n.news.naver.com/article/308/0000031075</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 03 May 2022 05:39:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/03/30799.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 일론 머스크, 트위터까지 손에 넣을까]]></title>
-            <link>https://n.news.naver.com/article/308/0000030761</link>
-            <guid>https://n.news.naver.com/article/308/0000030761</guid>
-            <pubDate>Tue, 26 Apr 2022 05:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/26/30761.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

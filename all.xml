@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 17:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 05:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,11 +287,19 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0809/A0002765331_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 여당, 개헌으로?... 아베 사망 이틀 만에 참의원 선거 압승 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000685402</link>
+            <guid>https://n.news.naver.com/article/469/0000685402</guid>
+            <pubDate>Mon, 11 Jul 2022 05:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/11/685402.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아베 잃은 일본 여당, '개헌 의석' 확보할 듯... 참의원 선거 압승 유력 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000685374</link>
             <guid>https://n.news.naver.com/article/469/0000685374</guid>
             <pubDate>Sun, 10 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/10/685374.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -299,7 +307,7 @@
             <link>https://n.news.naver.com/article/469/0000685360</link>
             <guid>https://n.news.naver.com/article/469/0000685360</guid>
             <pubDate>Sun, 10 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/10/685360.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -307,7 +315,7 @@
             <link>https://n.news.naver.com/article/469/0000685325</link>
             <guid>https://n.news.naver.com/article/469/0000685325</guid>
             <pubDate>Sun, 10 Jul 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/10/685325.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -315,7 +323,7 @@
             <link>https://n.news.naver.com/article/469/0000685311</link>
             <guid>https://n.news.naver.com/article/469/0000685311</guid>
             <pubDate>Sun, 10 Jul 2022 05:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/10/685311.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +331,7 @@
             <link>https://n.news.naver.com/article/469/0000685299</link>
             <guid>https://n.news.naver.com/article/469/0000685299</guid>
             <pubDate>Sun, 10 Jul 2022 05:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/10/685299.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +339,7 @@
             <link>https://n.news.naver.com/article/469/0000685240</link>
             <guid>https://n.news.naver.com/article/469/0000685240</guid>
             <pubDate>Sat, 09 Jul 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/09/685240.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -355,16 +363,16 @@
             <link>https://n.news.naver.com/article/469/0000685109</link>
             <guid>https://n.news.naver.com/article/469/0000685109</guid>
             <pubDate>Fri, 08 Jul 2022 05:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/08/685109.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 코로나 확진자 2배 급증…여행 지원책 연기될 듯 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000685003</link>
-            <guid>https://n.news.naver.com/article/469/0000685003</guid>
-            <pubDate>Thu, 07 Jul 2022 17:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/07/685003.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[[기자들의 시선] 러브버그의 습격, 출몰의 배경은? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031141</link>
+            <guid>https://n.news.naver.com/article/308/0000031141</guid>
+            <pubDate>Mon, 11 Jul 2022 05:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/11/31141.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그의 낙선 인사, 왜 이렇게 명랑하지? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Tue, 03 May 2022 05:39:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/03/30799.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 일론 머스크, 트위터까지 손에 넣을까 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030761</link>
-            <guid>https://n.news.naver.com/article/308/0000030761</guid>
-            <pubDate>Tue, 26 Apr 2022 05:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/26/30761.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언론이 '김건희 패션 보도'에서 놓치고 있는 것 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -531,7 +531,7 @@
             <link>https://n.news.naver.com/article/308/0000031118</link>
             <guid>https://n.news.naver.com/article/308/0000031118</guid>
             <pubDate>Wed, 06 Jul 2022 05:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31118.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -539,7 +539,7 @@
             <link>https://n.news.naver.com/article/308/0000031110</link>
             <guid>https://n.news.naver.com/article/308/0000031110</guid>
             <pubDate>Tue, 05 Jul 2022 05:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/05/31110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
