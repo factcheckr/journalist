@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 17:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[외신 한 컷] 우크라이나 크레멘추크, 18명 사망, 36명 실종]]></title>
+            <link>https://n.news.naver.com/article/308/0000031162</link>
+            <guid>https://n.news.naver.com/article/308/0000031162</guid>
+            <pubDate>Fri, 15 Jul 2022 05:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/15/31162.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자들의 시선] 러브버그의 습격, 출몰의 배경은?]]></title>
             <link>https://n.news.naver.com/article/308/0000031141</link>
             <guid>https://n.news.naver.com/article/308/0000031141</guid>
             <pubDate>Mon, 11 Jul 2022 05:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/11/31141.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 May 2022 05:38:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/04/30805.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리스타일] 오미크론의 정점, 요양시설에 가보니]]></title>
-            <link>https://n.news.naver.com/article/308/0000030799</link>
-            <guid>https://n.news.naver.com/article/308/0000030799</guid>
-            <pubDate>Tue, 03 May 2022 05:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/03/30799.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
