@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 17:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['헤어질 결심'의 부진, 이 영화에 없는 것]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002850673</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002850673</guid>
+            <pubDate>Mon, 18 Jul 2022 17:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0715/A0002850673_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["대법관 탄핵" 118만명이 동의, 미국 뒤흔든 일대 사건]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002848132</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Sep 2021 02:21:36 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span>]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0914/A0002774010_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄올림픽에 등장한 '또다른' 최초들... 그들이 참 반갑다]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002765996</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002765996</guid>
-            <pubDate>Tue, 28 Sep 2021 02:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0811/A0002765996_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
