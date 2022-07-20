@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 05:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 17:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,27 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0914/A0002774010_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['보수분열 막자'...기시다, 야당 반대에도 '아베 국장' 밀어붙이기 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000687278</link>
+            <guid>https://n.news.naver.com/article/469/0000687278</guid>
+            <pubDate>Wed, 20 Jul 2022 17:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/20/687278.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박진 "강제동원 문제 해결 위해 일본도 성의 보여야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000687199</link>
+            <guid>https://n.news.naver.com/article/469/0000687199</guid>
+            <pubDate>Wed, 20 Jul 2022 17:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/20/687199.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["한일 관계 개선 기대"...윤 대통령 메시지, 기시다에 전달 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000686971</link>
             <guid>https://n.news.naver.com/article/469/0000686971</guid>
             <pubDate>Tue, 19 Jul 2022 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686971.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +330,7 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000686740</link>
             <guid>https://n.news.naver.com/article/469/0000686740</guid>
             <pubDate>Mon, 18 Jul 2022 17:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/18/686740.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +338,7 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000686582</link>
             <guid>https://n.news.naver.com/article/469/0000686582</guid>
             <pubDate>Sun, 17 Jul 2022 17:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686582.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,7 +346,7 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000686536</link>
             <guid>https://n.news.naver.com/article/469/0000686536</guid>
             <pubDate>Sun, 17 Jul 2022 17:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,24 +362,8 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000686451</link>
             <guid>https://n.news.naver.com/article/469/0000686451</guid>
             <pubDate>Sat, 16 Jul 2022 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/16/686451.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 하루 9만명 코로나 확진… 여행 지원 사업 연기 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000686209</link>
-            <guid>https://n.news.naver.com/article/469/0000686209</guid>
-            <pubDate>Thu, 14 Jul 2022 17:49:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/14/686209.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 "아베 장례식, 가을에 '국장'으로 거행" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000686204</link>
-            <guid>https://n.news.naver.com/article/469/0000686204</guid>
-            <pubDate>Thu, 14 Jul 2022 17:49:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/14/686204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[외신 한 컷] 우크라이나 크레멘추크, 18명 사망, 36명 실종 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
