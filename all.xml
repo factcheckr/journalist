@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 17:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,19 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0914/A0002774010_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 "다케시마는 우리 영토"라면서 "한국과 안보협력 중요" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000687615</link>
+            <guid>https://n.news.naver.com/article/469/0000687615</guid>
+            <pubDate>Fri, 22 Jul 2022 05:44:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/22/687615.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["문선명 귀중한 존재"...기시 노부스케가 레이건에 보낸 탄원서 공개 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000687447</link>
             <guid>https://n.news.naver.com/article/469/0000687447</guid>
             <pubDate>Thu, 21 Jul 2022 17:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/21/687447.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +330,7 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000686833</link>
             <guid>https://n.news.naver.com/article/469/0000686833</guid>
             <pubDate>Tue, 19 Jul 2022 05:55:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,7 +338,7 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000686812</link>
             <guid>https://n.news.naver.com/article/469/0000686812</guid>
             <pubDate>Tue, 19 Jul 2022 05:55:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686812.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,19 +366,11 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BA.5 확산에...일본, 하루 확진자 11만명 '역대 최다' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000686501</link>
-            <guid>https://n.news.naver.com/article/469/0000686501</guid>
-            <pubDate>Sun, 17 Jul 2022 05:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686501.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[외신 한 컷] 우크라이나 크레멘추크, 18명 사망, 36명 실종 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031162</link>
             <guid>https://n.news.naver.com/article/308/0000031162</guid>
             <pubDate>Fri, 15 Jul 2022 05:55:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/15/31162.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -446,11 +446,19 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/04/30805.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘가상 인간’ 세계,  우리는 가짜가 아니다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031199</link>
+            <guid>https://n.news.naver.com/article/308/0000031199</guid>
+            <pubDate>Fri, 22 Jul 2022 05:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31199.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘퀴어적 시선’으로 사회적 참사를 들여다본다는 것 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031165</link>
             <guid>https://n.news.naver.com/article/308/0000031165</guid>
             <pubDate>Fri, 15 Jul 2022 05:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/15/31165.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -518,12 +526,12 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/31/30944.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기후위기 시대, ‘고기를 먹느냐 마느냐’에서 ‘얼마나 먹느냐’로 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030915</link>
-            <guid>https://n.news.naver.com/article/308/0000030915</guid>
-            <pubDate>Tue, 31 May 2022 17:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30915.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[[기자의 추천 책] 미국 엘리트의  솔직한 심경 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031196</link>
+            <guid>https://n.news.naver.com/article/308/0000031196</guid>
+            <pubDate>Fri, 22 Jul 2022 05:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행보마다 사고, 사라지지 않는 김건희 리스크 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
@@ -596,14 +604,6 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <pubDate>Tue, 31 May 2022 17:48:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시원 검사는 진짜 ‘간첩 조작’ 몰랐을까 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030912</link>
-            <guid>https://n.news.naver.com/article/308/0000030912</guid>
-            <pubDate>Tue, 31 May 2022 17:48:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["자폐는 왜 사는지 증명해야 하나요" 되묻는 영우의 독백 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>

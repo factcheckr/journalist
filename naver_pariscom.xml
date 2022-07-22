@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 17:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 "다케시마는 우리 영토"라면서 "한국과 안보협력 중요"]]></title>
+            <link>https://n.news.naver.com/article/469/0000687615</link>
+            <guid>https://n.news.naver.com/article/469/0000687615</guid>
+            <pubDate>Fri, 22 Jul 2022 05:44:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/22/687615.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["문선명 귀중한 존재"...기시 노부스케가 레이건에 보낸 탄원서 공개]]></title>
             <link>https://n.news.naver.com/article/469/0000687447</link>
             <guid>https://n.news.naver.com/article/469/0000687447</guid>
             <pubDate>Thu, 21 Jul 2022 17:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/21/687447.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000686833</link>
             <guid>https://n.news.naver.com/article/469/0000686833</guid>
             <pubDate>Tue, 19 Jul 2022 05:55:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000686812</link>
             <guid>https://n.news.naver.com/article/469/0000686812</guid>
             <pubDate>Tue, 19 Jul 2022 05:55:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686812.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 17 Jul 2022 17:37:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686536.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BA.5 확산에...일본, 하루 확진자 11만명 '역대 최다']]></title>
-            <link>https://n.news.naver.com/article/469/0000686501</link>
-            <guid>https://n.news.naver.com/article/469/0000686501</guid>
-            <pubDate>Sun, 17 Jul 2022 05:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686501.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

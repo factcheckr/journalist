@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 17:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 미국 엘리트의  솔직한 심경]]></title>
+            <link>https://n.news.naver.com/article/308/0000031196</link>
+            <guid>https://n.news.naver.com/article/308/0000031196</guid>
+            <pubDate>Fri, 22 Jul 2022 05:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[행보마다 사고, 사라지지 않는 김건희 리스크]]></title>
             <link>https://n.news.naver.com/article/308/0000031118</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 31 May 2022 17:48:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시원 검사는 진짜 ‘간첩 조작’ 몰랐을까]]></title>
-            <link>https://n.news.naver.com/article/308/0000030912</link>
-            <guid>https://n.news.naver.com/article/308/0000030912</guid>
-            <pubDate>Tue, 31 May 2022 17:48:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
