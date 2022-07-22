@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-07-22T05:44:49.866Z</updated>
+    <updated>2022-07-22T17:46:14.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영리하고 어리석은" 우영우처럼..'장애 전형성' 한계와 차별성 공존]]></title>
+        <id>https://v.daum.net/v/20220722160912652</id>
+        <link href="https://v.daum.net/v/20220722160912652"/>
+        <updated>2022-07-22T17:46:14.048Z</updated>
+        <content type="html"><![CDATA[&lt;이상한 변호사 우영우&gt;(ENA)의 인기가 뜨겁다. 첫 방송 때는 케이블 방송 평균 수준이었던 시청률(0.9%)이 한 달도 안 돼 10배로 껑충 뛰었다(7월14일 기준 9.6%). 방송 날이면 드라마와 관련한 단어가 온라인 실시간 트렌드에 오르고, 다양한 감상과 해석이 쏟아진다. 이 드라마는 뜨거운 반응만큼이나 드라마를 둘러싼 논의가 활발하다. 이 드라마에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["일기장 훔쳐봐" "살쪘다고 구박"..상처 입은 자식들이 입을 열었다]]></title>
         <id>https://v.daum.net/v/20220708162156072</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220218160851904"/>
         <updated>2022-02-18T17:35:53.970Z</updated>
         <content type="html"><![CDATA[[경향신문] &lt;모럴센스&gt;는 지난 11일 넷플릭스에서 공개된 로맨스 코미디 영화로, 동명의 웹툰이 원작이다. 유능하지만 애교 없고 무섭다는 평가를 듣는 사원 지우(서현)는 비슷한 이름 때문에 회사 동료인 대리 지후(이준영)의 택배를 잘못 수령하고, 그의 비밀을 알게 된다. BDSM 성향자인 지후가 지우에게 주인님이 되어달라고 부탁하면서 두 사람은 3개월짜리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내 맘대로 되는 건 내 몸뿐'..저성장 시대의 현실을 먹고 자라난 딜레마]]></title>
-        <id>https://v.daum.net/v/20220204162923574</id>
-        <link href="https://v.daum.net/v/20220204162923574"/>
-        <updated>2022-02-04T17:34:45.959Z</updated>
-        <content type="html"><![CDATA[[경향신문] 설연휴는 잘 보내셨는지요. 조상님이 발행한 최후의 유예 기간, ‘음력 새해’마저 지났으니 2022년의 시작을 더는 부정할 수 없다. 1월1일의 결심은 까맣게 잊었지만 우리의 새해는 이제 막 시작한 참이니 아직 기회가 있다. 새해 목표가 ‘운동하기’ 또는 ‘다이어트’인 사람이 올해에도 많을 것이다. 트렌드를 반영해서 좀 더 구체적인 목표를 설정]]></content>
     </entry>
 </feed>
