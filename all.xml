@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 05:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 17:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,7 +298,7 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000687447</link>
             <guid>https://n.news.naver.com/article/469/0000687447</guid>
             <pubDate>Thu, 21 Jul 2022 17:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/21/687447.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +306,7 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000687278</link>
             <guid>https://n.news.naver.com/article/469/0000687278</guid>
             <pubDate>Wed, 20 Jul 2022 17:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/20/687278.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +314,7 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000687199</link>
             <guid>https://n.news.naver.com/article/469/0000687199</guid>
             <pubDate>Wed, 20 Jul 2022 17:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/20/687199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +322,7 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000686971</link>
             <guid>https://n.news.naver.com/article/469/0000686971</guid>
             <pubDate>Tue, 19 Jul 2022 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686971.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -334,27 +334,27 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[박진 “일본 기업 자산 매각 전 강제동원 배상 해결책 마련 노력” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000686812</link>
-            <guid>https://n.news.naver.com/article/469/0000686812</guid>
-            <pubDate>Tue, 19 Jul 2022 05:55:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686812.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[박진 "수출 통제, 지소미아  등 한일 현안 종합적 논의” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000686740</link>
             <guid>https://n.news.naver.com/article/469/0000686740</guid>
             <pubDate>Mon, 18 Jul 2022 17:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/18/686740.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아베 전 비서도 통일교 지원받고 '당선'... 파장 커지는 자민당·통일교 관계 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000686583</link>
+            <guid>https://n.news.naver.com/article/469/0000686583</guid>
+            <pubDate>Sat, 23 Jul 2022 17:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686583.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당선됐는데 일본 안 가겠다는 참의원...왜? [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000686582</link>
             <guid>https://n.news.naver.com/article/469/0000686582</guid>
             <pubDate>Sun, 17 Jul 2022 17:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686582.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -362,7 +362,7 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <link>https://n.news.naver.com/article/469/0000686536</link>
             <guid>https://n.news.naver.com/article/469/0000686536</guid>
             <pubDate>Sun, 17 Jul 2022 17:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -606,6 +606,13 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['씨름의 여왕' 포스터라면서, 왜 세 남자 얼굴로 꽉 채웠나 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723190501130</link>
+            <guid>https://entertain.v.daum.net/v/20220723190501130</guid>
+            <pubDate>Sat, 23 Jul 2022 17:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[☞한겨레S 뉴스레터 구독하기 스무명의 여자 방송인들이 씨름에 도전한다니! 게다가 감독으로는 이만기와 이태현이 참여하고 코치로는 임태혁, 최정만, 허선행, 노범수가 참여한다니! 티브이엔(tvN) 스토리 채널과 이엔에이(ENA) 채널이 공동제작한 여성 씨름 서바이벌 예능 &lt;씨름의 여왕&gt; 소식을 들은 나는 전에 없이 흥분했다. 제작진이 나 좋으라고 이런 프로그램]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["자폐는 왜 사는지 증명해야 하나요" 되묻는 영우의 독백 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
             <link>https://entertain.v.daum.net/v/20220708192502593</link>
             <guid>https://entertain.v.daum.net/v/20220708192502593</guid>
@@ -737,13 +744,6 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <guid>https://entertain.v.daum.net/v/20211029202602135</guid>
             <pubDate>Fri, 29 Oct 2021 17:43:22 GMT</pubDate>
             <content:encoded><![CDATA[종영한 지 10년이 넘었지만, 미국 드라마 &lt;로스트&gt;(2004~2010) 속 한국 묘사는 잊을 만하면 다시 인터넷에 등장해 조롱을 당한다. 극중 오세아닉 815편에 탑승했다가 조난당한 인물 중엔 한국인 권진수(대니얼 대 김)와 그의 아내 백선화(김윤진)도 있는데, 드라마는 종종 두 사람의 배경을 설명하기 위해 플래시백으로 과거 한국에서 있었던 일을 보여준다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["KBS는 '오징어 게임' 못 만들어?"..국감이 부른 '명텐도' 추억 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20211015201603936</link>
-            <guid>https://entertain.v.daum.net/v/20211015201603936</guid>
-            <pubDate>Tue, 19 Oct 2021 17:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[2009년 2월4일 과천정부청사에서 열린 비상경제대책회의에 참석했던 이명박 당시 대통령은 이런 말을 했다. “닌텐도 게임기 같은 것을 우리는 왜 못 만드나? 닌텐도 같은 게임기를 개발하는 데 만전을 기해달라.” 한창 닌텐도가 가정용 게임 콘솔 ‘위’(Wii)와 휴대용 게임 콘솔 ‘닌텐도 디에스(DS)’ 시리즈로 게임 콘솔 시장에서 제 존재감을 다시 뽐내던]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["영리하고 어리석은" 우영우처럼..'장애 전형성' 한계와 차별성 공존 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
