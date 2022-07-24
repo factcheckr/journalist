@@ -4,9 +4,28 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 05:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 17:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치명률 낮지만 세계 동시다발 유행은 처음…WHO 선제적 대응]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202207242111005/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202207242111005/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sun, 24 Jul 2022 17:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[1만6000여명 감염…5명 사망비상사태 선포 상황인지 논란
+성소수자 낙인 효과 우려에WHO 내 ‘선언 반대’ 많았지만백신 부족 현상 등 영향 끼쳐
+세계보건기구(WHO)가 23일(현지시간) 국제적 공중보건 비상사태(PHEIC)를 선언한 원숭이두창이 어떤 질병이며 세계적으로 어떤 상황인지 WHO와 한국 질병관리청, 미 질병통제예방센터(CDC), 가디언 등의 외신을 참고해 문답 형식으로 정리했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/07/24/2022072501001546000129281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국제 비상사태 선포…원숭이두창 어떤 질병인가]]></title>
+            <link>https://www.khan.co.kr/national/health-welfare/article/202207241453001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/health-welfare/article/202207241453001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sun, 24 Jul 2022 17:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[세계보건기구(WHO)가 원숭이두창 감염 확산에 대해 23일(현지시간) 국제적 공중보건 비상사태(PHEIC)를 선언했다. PHEIC는 WHO가 내릴 수 있는 최고 수준의 공중보건 경계 선언이다.
+전 세계 원숭이두창 감염자는 지난 22일 기준 1만6016명이며 사망자는 5명이다. WHO는 추가 확산세를 막기 위해 선제적으로 대응하겠다는 의미에서 PHEIC를 선언한 것으로 보인다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/07/24/news-p.v1.20220724.d7f520df7d3740fdb5fbb3d1afea25a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다 “아베 장례, 올가을 ‘국장’으로”]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202207152147045/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -97,24 +116,6 @@ ANSA통신에 따르면 드라기 총리는 14일(현지시간) 이탈리아 최
             <content:encoded><![CDATA[일본 후쿠시마 원전 사고와 관련해 도쿄전력 옛 경영진의 민사상 책임을 인정한 판결이 지난 13일 나오면서 향후 원전 운영을 위한 비용이 더욱 증가할 것으로 예상된다. 회사뿐 아니라 경영진까지 책임을 지게 되면서 안전에 대한 투자가 늘어나는 등 비용 증가가 불가피해졌다는 것이다.
 일본에서 가동되는 원전은 후쿠시마 원전 사고 이전 54기에서 현재 10기로 크게 줄었으며 전체 전력에서 원전이 담당하는 비중도 30%에서 6%로 낮아졌다. 하지만 일본 정부는 폭염과 전력수급 위기가 불거지자 점차 원전 재가동을 추진하고 있다. 기시다 후미오 총리는 “(원전) 심사를 신속하게 해 최대한 활용하겠다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/07/14/khan_AAALo3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 원전사고 관련 도쿄전력 전 임원 127조원 배상 판결 후폭풍 …상승하는 원전 비용]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202207141643011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202207141643011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 14 Jul 2022 17:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[일본 후쿠시마 원전 사고와 관련해 도쿄전력 옛 경영진의 민사상 책임을 인정한 판결이 나오면서 향후 원전 운영을 위한 비용이 더욱 증가할 것으로 예상된다. 회사뿐 아니라 경영진까지 책임을 지게 되면서 안전에 대한 투자가 늘어나는 등 비용 증가가 불가피해졌다는 것이다.
-일본에서 가동되는 원전은 후쿠시마 원전 사고 이전 54기에서 현재 10기로 크게 줄었으며 전체 전력에서 원전이 담당하는 비중도 30%에서 6%로 낮아졌다. 하지만 일본 정부는 폭염과 전력수급 위기가 불거지자 점차 원전 재가동을 추진하고 있다. 기시다 후미오 총리는 “(원전)심사를 신속하게 해 최대한 활용하겠다”고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/07/14/news-p.v1.20220714.60ba9753392c416abadd96b6853ddb19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일 법원 “옛 도쿄전력 경영진, 회사에 127조원 배상하라”…원전사고 첫 민사 책임 인정 판결]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202207132158001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202207132158001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 13 Jul 2022 17:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[일본 후쿠시마 제1원전 사고 당시 도쿄전력 경영진이 도쿄전력에 거액을 배상해야 한다는 첫 판결이 나왔다.
-교도통신에 따르면 도쿄지방재판소(지방법원)는 13일 도쿄전력 주주 48명이 후쿠시마 제1원전 사고로 회사가 큰 손해를 봤다며 가쓰마타 쓰네히사 전 회장 등 도쿄전력 옛 경영진 4명을 상대로 제기한 주주 대표 소송에서 피고들이 13조3210억엔(약 126조9000억원)의 배상금을 도쿄전력에 지급하라고 판결했다. 재판부는 가쓰마타 전 회장 등에게 “안전 의식이나 책임감이 근본적으로 결여됐다”며 이들이 만약 경영자로서 주의의무를 다했다면 원전 사고를 막을 수 있었을 것이라고 보고 이 같이 판결했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/07/13/2022071301001115800091161.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

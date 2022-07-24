@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 05:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 17:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 의대도 공직자 자녀 '부정 입학'시켰다... "뇌물 인정" [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000687861</link>
+            <guid>https://n.news.naver.com/article/469/0000687861</guid>
+            <pubDate>Sun, 24 Jul 2022 17:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/24/687861.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 "다케시마는 우리 영토"라면서 "한국과 안보협력 중요"]]></title>
             <link>https://n.news.naver.com/article/469/0000687615</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000687447</link>
             <guid>https://n.news.naver.com/article/469/0000687447</guid>
             <pubDate>Thu, 21 Jul 2022 17:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/21/687447.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000687278</link>
             <guid>https://n.news.naver.com/article/469/0000687278</guid>
             <pubDate>Wed, 20 Jul 2022 17:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/20/687278.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000687199</link>
             <guid>https://n.news.naver.com/article/469/0000687199</guid>
             <pubDate>Wed, 20 Jul 2022 17:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/20/687199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000686971</link>
             <guid>https://n.news.naver.com/article/469/0000686971</guid>
             <pubDate>Tue, 19 Jul 2022 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686971.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000686740</link>
             <guid>https://n.news.naver.com/article/469/0000686740</guid>
             <pubDate>Mon, 18 Jul 2022 17:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/18/686740.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000686583</link>
             <guid>https://n.news.naver.com/article/469/0000686583</guid>
             <pubDate>Sat, 23 Jul 2022 17:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686583.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000686582</link>
             <guid>https://n.news.naver.com/article/469/0000686582</guid>
             <pubDate>Sun, 17 Jul 2022 17:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686582.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한항공, 인천-삿포로 노선 2년여 만에 운항 재개]]></title>
-            <link>https://n.news.naver.com/article/469/0000686536</link>
-            <guid>https://n.news.naver.com/article/469/0000686536</guid>
-            <pubDate>Sun, 17 Jul 2022 17:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
