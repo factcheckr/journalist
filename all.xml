@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 17:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,11 +288,19 @@ NHK에 따르면 기시다 후미오 총리는 14일 밤 총리관저에서 기�
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0914/A0002774010_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본, '무차별 살인범' 14년 만에 사형 집행... "사형제 폐지 부적절" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000688220</link>
+            <guid>https://n.news.naver.com/article/469/0000688220</guid>
+            <pubDate>Tue, 26 Jul 2022 05:54:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>17분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/26/688220.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 "다케시마는 우리 영토"라면서 "한국과 안보협력 중요" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000687615</link>
             <guid>https://n.news.naver.com/article/469/0000687615</guid>
             <pubDate>Fri, 22 Jul 2022 05:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/22/687615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +340,7 @@ NHK에 따르면 기시다 후미오 총리는 14일 밤 총리관저에서 기�
             <link>https://n.news.naver.com/article/469/0000686899</link>
             <guid>https://n.news.naver.com/article/469/0000686899</guid>
             <pubDate>Mon, 25 Jul 2022 17:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +348,7 @@ NHK에 따르면 기시다 후미오 총리는 14일 밤 총리관저에서 기�
             <link>https://n.news.naver.com/article/469/0000686833</link>
             <guid>https://n.news.naver.com/article/469/0000686833</guid>
             <pubDate>Tue, 19 Jul 2022 05:55:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +356,7 @@ NHK에 따르면 기시다 후미오 총리는 14일 밤 총리관저에서 기�
             <link>https://n.news.naver.com/article/469/0000686812</link>
             <guid>https://n.news.naver.com/article/469/0000686812</guid>
             <pubDate>Mon, 25 Jul 2022 17:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686812.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -360,19 +368,11 @@ NHK에 따르면 기시다 후미오 총리는 14일 밤 총리관저에서 기�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/18/686740.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아베 전 비서도 통일교 지원받고 '당선'... 파장 커지는 자민당·통일교 관계 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000686583</link>
-            <guid>https://n.news.naver.com/article/469/0000686583</guid>
-            <pubDate>Sat, 23 Jul 2022 17:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/17/686583.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[끝날 것 같았던 코로나 파도 얼마나 거세질까 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031211</link>
             <guid>https://n.news.naver.com/article/308/0000031211</guid>
             <pubDate>Mon, 25 Jul 2022 05:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/25/31211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -452,7 +452,7 @@ NHK에 따르면 기시다 후미오 총리는 14일 밤 총리관저에서 기�
             <link>https://n.news.naver.com/article/308/0000031199</link>
             <guid>https://n.news.naver.com/article/308/0000031199</guid>
             <pubDate>Fri, 22 Jul 2022 05:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,11 +528,19 @@ NHK에 따르면 기시다 후미오 총리는 14일 밤 총리관저에서 기�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/31/30944.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기자들의 시선] 해외 순방 체면 구긴 바이든 대통령 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031219</link>
+            <guid>https://n.news.naver.com/article/308/0000031219</guid>
+            <pubDate>Tue, 26 Jul 2022 05:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/26/31219.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기자의 추천 책] 미국 엘리트의  솔직한 심경 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031196</link>
             <guid>https://n.news.naver.com/article/308/0000031196</guid>
             <pubDate>Fri, 22 Jul 2022 05:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -598,14 +606,6 @@ NHK에 따르면 기시다 후미오 총리는 14일 밤 총리관저에서 기�
             <pubDate>Mon, 06 Jun 2022 05:36:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/06/30980.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송영길의 ‘견제론’vs 오세훈의 ‘준비된 미래’ (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030924</link>
-            <guid>https://n.news.naver.com/article/308/0000030924</guid>
-            <pubDate>Tue, 31 May 2022 17:48:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['씨름의 여왕' 포스터라면서, 왜 세 남자 얼굴로 꽉 채웠나 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
