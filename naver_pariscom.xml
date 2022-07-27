@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 17:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000688261</link>
             <guid>https://n.news.naver.com/article/469/0000688261</guid>
             <pubDate>Tue, 26 Jul 2022 17:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/26/688261.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,15 +20,23 @@
             <link>https://n.news.naver.com/article/469/0000688220</link>
             <guid>https://n.news.naver.com/article/469/0000688220</guid>
             <pubDate>Tue, 26 Jul 2022 05:54:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/26/688220.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 사쿠라지마 화산 분화… 최고수위 경계령 발동]]></title>
+            <link>https://n.news.naver.com/article/469/0000687986</link>
+            <guid>https://n.news.naver.com/article/469/0000687986</guid>
+            <pubDate>Wed, 27 Jul 2022 05:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/25/687986.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 "다케시마는 우리 영토"라면서 "한국과 안보협력 중요"]]></title>
             <link>https://n.news.naver.com/article/469/0000687615</link>
             <guid>https://n.news.naver.com/article/469/0000687615</guid>
             <pubDate>Fri, 22 Jul 2022 05:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/22/687615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000686899</link>
             <guid>https://n.news.naver.com/article/469/0000686899</guid>
             <pubDate>Mon, 25 Jul 2022 17:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.07.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000686833</link>
             <guid>https://n.news.naver.com/article/469/0000686833</guid>
             <pubDate>Tue, 19 Jul 2022 05:55:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.07.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686833.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박진 “일본 기업 자산 매각 전 강제동원 배상 해결책 마련 노력”]]></title>
-            <link>https://n.news.naver.com/article/469/0000686812</link>
-            <guid>https://n.news.naver.com/article/469/0000686812</guid>
-            <pubDate>Mon, 25 Jul 2022 17:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/19/686812.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
