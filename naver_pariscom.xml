@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 05:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 17:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000688723</link>
             <guid>https://n.news.naver.com/article/469/0000688723</guid>
             <pubDate>Thu, 28 Jul 2022 17:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/28/688723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000688679</link>
             <guid>https://n.news.naver.com/article/469/0000688679</guid>
             <pubDate>Thu, 28 Jul 2022 17:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/28/688679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000688536</link>
             <guid>https://n.news.naver.com/article/469/0000688536</guid>
             <pubDate>Wed, 27 Jul 2022 17:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/27/688536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000688514</link>
             <guid>https://n.news.naver.com/article/469/0000688514</guid>
             <pubDate>Wed, 27 Jul 2022 17:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/27/688514.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,16 +44,8 @@
             <link>https://n.news.naver.com/article/469/0000688457</link>
             <guid>https://n.news.naver.com/article/469/0000688457</guid>
             <pubDate>Wed, 27 Jul 2022 17:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/27/688457.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['철도대국' 일본, 만성 적자 노선 폐지 본격화... "인구감소 직격탄"]]></title>
-            <link>https://n.news.naver.com/article/469/0000688261</link>
-            <guid>https://n.news.naver.com/article/469/0000688261</guid>
-            <pubDate>Tue, 26 Jul 2022 17:41:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/26/688261.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/27/688457.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본, '무차별 살인범' 14년 만에 사형 집행... "사형제 폐지 부적절"]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 27 Jul 2022 05:48:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/25/687986.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 의대도 공직자 자녀 '부정 입학'시켰다... "뇌물 인정" [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000687861</link>
+            <guid>https://n.news.naver.com/article/469/0000687861</guid>
+            <pubDate>Sat, 30 Jul 2022 17:37:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/24/687861.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 "다케시마는 우리 영토"라면서 "한국과 안보협력 중요"]]></title>
