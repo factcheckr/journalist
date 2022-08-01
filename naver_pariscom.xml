@@ -4,31 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 17:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[반도체로 똘똘 뭉친 美日... “中 '대만 침공'도 대비”]]></title>
-            <link>https://n.news.naver.com/article/469/0000689162</link>
-            <guid>https://n.news.naver.com/article/469/0000689162</guid>
-            <pubDate>Sun, 31 Jul 2022 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689162.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[“일본 교과서 검정제도, ‘애국심’ 내세워 정치가 교육에 개입"]]></title>
+            <link>https://n.news.naver.com/article/469/0000689191</link>
+            <guid>https://n.news.naver.com/article/469/0000689191</guid>
+            <pubDate>Mon, 01 Aug 2022 06:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/01/689191.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["성평등 우수국, 출산율 상승... 한국·일본은 하락 지속"]]></title>
             <link>https://n.news.naver.com/article/469/0000689154</link>
             <guid>https://n.news.naver.com/article/469/0000689154</guid>
             <pubDate>Sun, 31 Jul 2022 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689154.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['정자' 3만원에 사고판다... 인터넷 비밀 거래 증가하는 일본[특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000689113</link>
+            <guid>https://n.news.naver.com/article/469/0000689113</guid>
+            <pubDate>Mon, 01 Aug 2022 06:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘핵무기 폐기 호소’ 재일동포 2세 피폭자 이종근씨 별세]]></title>
             <link>https://n.news.naver.com/article/469/0000689110</link>
             <guid>https://n.news.naver.com/article/469/0000689110</guid>
             <pubDate>Sun, 31 Jul 2022 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000688679</link>
             <guid>https://n.news.naver.com/article/469/0000688679</guid>
             <pubDate>Thu, 28 Jul 2022 17:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/28/688679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 31 Jul 2022 17:36:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/26/688261.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, '무차별 살인범' 14년 만에 사형 집행... "사형제 폐지 부적절"]]></title>
-            <link>https://n.news.naver.com/article/469/0000688220</link>
-            <guid>https://n.news.naver.com/article/469/0000688220</guid>
-            <pubDate>Tue, 26 Jul 2022 05:54:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/26/688220.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

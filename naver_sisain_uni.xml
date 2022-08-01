@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 17:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제임스 웹 우주망원경이 건넨 선물]]></title>
+            <link>https://n.news.naver.com/article/308/0000031248</link>
+            <guid>https://n.news.naver.com/article/308/0000031248</guid>
+            <pubDate>Mon, 01 Aug 2022 06:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/01/31248.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[끝날 것 같았던 코로나 파도 얼마나 거세질까]]></title>
             <link>https://n.news.naver.com/article/308/0000031211</link>
             <guid>https://n.news.naver.com/article/308/0000031211</guid>
             <pubDate>Mon, 25 Jul 2022 05:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/25/31211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 11 May 2022 17:47:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30811.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외신 한 컷] 스리랑카 시민들은 왜 거리로 나왔나]]></title>
-            <link>https://n.news.naver.com/article/308/0000030808</link>
-            <guid>https://n.news.naver.com/article/308/0000030808</guid>
-            <pubDate>Wed, 11 May 2022 17:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30808.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
