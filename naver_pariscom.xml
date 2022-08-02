@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 17:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 05:55:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아베 살해는 '외톨이 늑대' 테러… 한국에 전파될 수도"[인터뷰]]]></title>
+            <link>https://n.news.naver.com/article/469/0000689464</link>
+            <guid>https://n.news.naver.com/article/469/0000689464</guid>
+            <pubDate>Tue, 02 Aug 2022 05:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>53분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/02/689464.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다 지지율도 하락... 통일교 의혹엔 '불통', 민생엔 '무능']]></title>
             <link>https://n.news.naver.com/article/469/0000689343</link>
             <guid>https://n.news.naver.com/article/469/0000689343</guid>
             <pubDate>Mon, 01 Aug 2022 17:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/01/689343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000689191</link>
             <guid>https://n.news.naver.com/article/469/0000689191</guid>
             <pubDate>Mon, 01 Aug 2022 06:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/01/689191.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000689113</link>
             <guid>https://n.news.naver.com/article/469/0000689113</guid>
             <pubDate>Mon, 01 Aug 2022 06:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000689110</link>
             <guid>https://n.news.naver.com/article/469/0000689110</guid>
             <pubDate>Sun, 31 Jul 2022 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000688679</link>
             <guid>https://n.news.naver.com/article/469/0000688679</guid>
             <pubDate>Thu, 28 Jul 2022 17:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/28/688679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Jul 2022 17:45:51 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/27/688514.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 키옥시아에 9천억 지원…"메모리 1위 삼성에 대항"]]></title>
-            <link>https://n.news.naver.com/article/469/0000688457</link>
-            <guid>https://n.news.naver.com/article/469/0000688457</guid>
-            <pubDate>Wed, 27 Jul 2022 17:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/27/688457.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
