@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 05:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 17:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기시다 "NPT 수호자 되겠다"]]></title>
+            <link>https://n.news.naver.com/article/469/0000689539</link>
+            <guid>https://n.news.naver.com/article/469/0000689539</guid>
+            <pubDate>Tue, 02 Aug 2022 17:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/02/689539.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[文정부 땐 피했는데...일본 외무장관, '부임 17일' 윤덕민 대사 대면]]></title>
+            <link>https://n.news.naver.com/article/469/0000689525</link>
+            <guid>https://n.news.naver.com/article/469/0000689525</guid>
+            <pubDate>Tue, 02 Aug 2022 17:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/02/689525.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["아베 살해는 '외톨이 늑대' 테러… 한국에 전파될 수도"[인터뷰]]]></title>
             <link>https://n.news.naver.com/article/469/0000689464</link>
             <guid>https://n.news.naver.com/article/469/0000689464</guid>
             <pubDate>Tue, 02 Aug 2022 05:55:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>53분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/02/689464.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000689343</link>
             <guid>https://n.news.naver.com/article/469/0000689343</guid>
             <pubDate>Mon, 01 Aug 2022 17:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/01/689343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,16 +52,8 @@
             <link>https://n.news.naver.com/article/469/0000689154</link>
             <guid>https://n.news.naver.com/article/469/0000689154</guid>
             <pubDate>Sun, 31 Jul 2022 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689154.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['정자' 3만원에 사고판다... 인터넷 비밀 거래 증가하는 일본[특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000689113</link>
-            <guid>https://n.news.naver.com/article/469/0000689113</guid>
-            <pubDate>Mon, 01 Aug 2022 06:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689113.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689154.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘핵무기 폐기 호소’ 재일동포 2세 피폭자 이종근씨 별세]]></title>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000688723</link>
             <guid>https://n.news.naver.com/article/469/0000688723</guid>
             <pubDate>Thu, 28 Jul 2022 17:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/28/688723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://n.news.naver.com/article/469/0000688536</link>
             <guid>https://n.news.naver.com/article/469/0000688536</guid>
             <pubDate>Wed, 27 Jul 2022 17:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/27/688536.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국어 교가 또 일본 전역에"...교토국제고, '고시엔' 2년 연속 진출]]></title>
-            <link>https://n.news.naver.com/article/469/0000688514</link>
-            <guid>https://n.news.naver.com/article/469/0000688514</guid>
-            <pubDate>Wed, 27 Jul 2022 17:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/27/688514.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
