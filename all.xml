@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 17:46:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,19 +283,11 @@ BBC 등에 따르면 영국 웨일스 뉴포트 출신의 IT업계 종사자 제
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0923/A0002775487_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“일본은 한국의 형님뻘… 한일 대등하지 않아” 日 전 중의원 부의장 망언 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000690063</link>
-            <guid>https://n.news.naver.com/article/469/0000690063</guid>
-            <pubDate>Fri, 05 Aug 2022 05:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/05/690063.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[긴장한 일본, 중국발 대만 위기에 "중대한 우려" 경고 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000689942</link>
             <guid>https://n.news.naver.com/article/469/0000689942</guid>
             <pubDate>Thu, 04 Aug 2022 17:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/04/689942.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,7 +295,7 @@ BBC 등에 따르면 영국 웨일스 뉴포트 출신의 IT업계 종사자 제
             <link>https://n.news.naver.com/article/469/0000689539</link>
             <guid>https://n.news.naver.com/article/469/0000689539</guid>
             <pubDate>Tue, 02 Aug 2022 17:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/02/689539.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -311,7 +303,7 @@ BBC 등에 따르면 영국 웨일스 뉴포트 출신의 IT업계 종사자 제
             <link>https://n.news.naver.com/article/469/0000689525</link>
             <guid>https://n.news.naver.com/article/469/0000689525</guid>
             <pubDate>Tue, 02 Aug 2022 17:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/02/689525.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -327,7 +319,7 @@ BBC 등에 따르면 영국 웨일스 뉴포트 출신의 IT업계 종사자 제
             <link>https://n.news.naver.com/article/469/0000689343</link>
             <guid>https://n.news.naver.com/article/469/0000689343</guid>
             <pubDate>Mon, 01 Aug 2022 17:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/01/689343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,8 +335,16 @@ BBC 등에 따르면 영국 웨일스 뉴포트 출신의 IT업계 종사자 제
             <link>https://n.news.naver.com/article/469/0000689154</link>
             <guid>https://n.news.naver.com/article/469/0000689154</guid>
             <pubDate>Sun, 31 Jul 2022 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689154.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['정자' 3만원에 사고판다... 인터넷 비밀 거래 증가하는 일본[특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000689113</link>
+            <guid>https://n.news.naver.com/article/469/0000689113</guid>
+            <pubDate>Fri, 05 Aug 2022 17:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689113.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘핵무기 폐기 호소’ 재일동포 2세 피폭자 이종근씨 별세 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -359,7 +359,7 @@ BBC 등에 따르면 영국 웨일스 뉴포트 출신의 IT업계 종사자 제
             <link>https://n.news.naver.com/article/469/0000688723</link>
             <guid>https://n.news.naver.com/article/469/0000688723</guid>
             <pubDate>Thu, 28 Jul 2022 17:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.07.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/28/688723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
