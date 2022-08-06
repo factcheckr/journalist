@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-08-05T17:46:10.519Z</updated>
+    <updated>2022-08-06T05:36:09.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["난 마음먹은 건 다 해요"..쿠팡플레이의 빗나간 욕망]]></title>
+        <id>https://entertain.v.daum.net/v/20220806090502020</id>
+        <link href="https://entertain.v.daum.net/v/20220806090502020"/>
+        <updated>2022-08-06T05:35:59.801Z</updated>
+        <content type="html"><![CDATA[“그 결과 시청자들의 큰 호평을 받는 작품이 제작되었습니다.” 지난 3일, 스트리밍 플랫폼 쿠팡플레이 쪽이 발표한 입장문 중 일부다. 앞서 드라마 &lt;안나&gt;(2022)의 이주영 감독은, 보도자료를 통해 쿠팡플레이 쪽이 감독과 스태프들 동의 없이 8부작인 작품을 무단으로 6부작으로 편집했고, 그 때문에 등장인물의 심리상태가 지나치게 평면적으로 묘사되면서 작품의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['씨름의 여왕' 포스터라면서, 왜 세 남자 얼굴로 꽉 채웠나]]></title>
         <id>https://entertain.v.daum.net/v/20220723190501130</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20211112191606121"/>
         <updated>2021-11-12T17:44:39.459Z</updated>
         <content type="html"><![CDATA[국내 스트리밍 서비스(OTT) 시장의 경쟁이 전에 없이 치열했던 한 해였다. 연간 한국에서 벌어들이는 구독료 수입이 한국방송공사(KBS) 수신료 수입을 뛰어넘을 만큼 크게 성장한 ‘넷플릭스’와, 이에 맞선 국내 스트리밍 서비스 ‘티빙’과 ‘웨이브’, ‘왓챠’ 등의 경쟁이 뜨거웠다. 티빙과 웨이브 모두 막대한 예산을 들여 &lt;여고추리반&gt;, &lt;환승연애&gt;, &lt;유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어 게임' 명배우를 낡은 편견에 가둔 '나 혼자 산다']]></title>
-        <id>https://entertain.v.daum.net/v/20211029202602135</id>
-        <link href="https://entertain.v.daum.net/v/20211029202602135"/>
-        <updated>2021-10-29T17:43:22.329Z</updated>
-        <content type="html"><![CDATA[종영한 지 10년이 넘었지만, 미국 드라마 &lt;로스트&gt;(2004~2010) 속 한국 묘사는 잊을 만하면 다시 인터넷에 등장해 조롱을 당한다. 극중 오세아닉 815편에 탑승했다가 조난당한 인물 중엔 한국인 권진수(대니얼 대 김)와 그의 아내 백선화(김윤진)도 있는데, 드라마는 종종 두 사람의 배경을 설명하기 위해 플래시백으로 과거 한국에서 있었던 일을 보여준다]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 17:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 05:36:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기시다는 펠로시 만나 "中 군사훈련 즉각 중단하라" 강경 발언 쏟아내]]></title>
+            <link>https://n.news.naver.com/article/469/0000690170</link>
+            <guid>https://n.news.naver.com/article/469/0000690170</guid>
+            <pubDate>Sat, 06 Aug 2022 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/06/690170.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긴장한 일본, 중국발 대만 위기에 "중대한 우려" 경고]]></title>
             <link>https://n.news.naver.com/article/469/0000689942</link>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000689464</link>
             <guid>https://n.news.naver.com/article/469/0000689464</guid>
             <pubDate>Tue, 02 Aug 2022 05:55:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/02/689464.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000689191</link>
             <guid>https://n.news.naver.com/article/469/0000689191</guid>
             <pubDate>Mon, 01 Aug 2022 06:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/01/689191.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 31 Jul 2022 17:36:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689110.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아베 사망 보궐선거에 배우자 아키에 여사 등판론… 본인은 ‘NO’]]></title>
-            <link>https://n.news.naver.com/article/469/0000688723</link>
-            <guid>https://n.news.naver.com/article/469/0000688723</guid>
-            <pubDate>Thu, 28 Jul 2022 17:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/28/688723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
