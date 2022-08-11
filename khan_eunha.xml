@@ -4,9 +4,17 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 17:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 05:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수학교육을 망치는 유행을 버려라 …호주 교육계 논쟁]]></title>
+            <link>https://www.khan.co.kr/national/education/article/202208111356001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/education/article/202208111356001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 11 Aug 2022 05:35:06 GMT</pubDate>
+            <content:encoded><![CDATA[‘수포자(수학포기자)’는 한국만의 고민거리가 아니다. ‘수포자 없는 수학교육’이야말로 전 세계 교육계의 난제이다. 이 문제를 해결하기 위해 수학을 일상생활과 연관 짓거나 토론 등의 집단활동을 통해 쉽고 재밌게 익히도록 하는 교수법도 곳곳에서 시도하고 있다. 이러한 새로운 교수법이 효과가 있는지를 두고 호주 교육계에서 논쟁이 벌어지고 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/11/news-p.v1.20220811.de9e48ff42cd417ba6b008f75074e821.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“푸틴이라면 대만 폭격”…중국 당국 성토하는 ‘극단적 민족주의자들’]]></title>
             <link>https://www.khan.co.kr/world/china/article/202208072135015/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -103,14 +111,6 @@ G7 외교장관들과 EU 고위 대표는 성명에서 “중국이 발표한 �
             <content:encoded><![CDATA[이라크의 포퓰리스트 성직자이자 정치가 무크타다 알 사드르가 국회를 점거한 지지자들에게  조기총선을 포함한 자신의 요구가 관철될 때까지 연좌농성을 계속할 것을 촉구했다.
 알 사드르는 3일(현지시간) TV 연설로 이 같이 발언했다고 알자지라가 전했다. 알 자지라는 알 사드르의 발언이 지난해 10월부터 거의 10개월 간 지속된 정치적 교착상태를 연장시킬 수 있다고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/04/news-p.v1.20220804.c8bca0da77314dfb95ba9262c3ed383c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스코틀랜드선 “아동의 삶 위해 취학연령 상향”]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202208032138015/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202208032138015/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 03 Aug 2022 17:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[스코틀랜드에서 취학연령을 현행 5세에서 6세로 상향하자는 움직임이 일고 있다. 더 스코츠맨 등 현지 매체에 따르면 스코틀랜드 집권당인 스코틀랜드 국민당(SNP)은 이 같은 방안을 오는 10월부터 논의할 계획이다.
-영국과 스코틀랜드 아동들은 보통 3~4세에 프리스쿨로 불리는 공립 유치원에 다니다가 5세에 초등학교에 입학한다. 일반적으로 6~7세에 입학하는 유럽 아동들보다 입학 시기가 1~2년 빠르다.]]></content:encoded>
         </item>
     </channel>
 </rss>
