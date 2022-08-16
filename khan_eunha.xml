@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 17:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 05:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노조 설립 막고 싶은 스타벅스…“투표 절차 문제” 주장]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202208161123001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/america/article/202208161123001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 16 Aug 2022 05:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스가 선거 부정 가능성을 이유로 미국 전역에서 진행되고 있는 노동조합 설립을 위한 우편투표의 중단을 요구하고 나섰다.
+스타벅스 측은 15일(현지시간) 미국 캔자스주를 비롯한 일부 지역의 전국노동관계위원회(NLRB) 직원들이 지역 노조 조직가들과 몰래 협력해 투표 결과를 노조 결성에 유리하게 유도하고 있다는 내용이 담긴 항의서한을 NLRB에 전달했다고 AP통신 등이 보도했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/16/news-p.v1.20220816.9fb8c7f928c646bab183df387885afe8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공해 보존 위한 국제 협약 이번엔 가능할까···유엔 BBNJ 협약 5차 회의 개최]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202208151044001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -98,15 +107,6 @@
             <pubDate>Thu, 04 Aug 2022 17:43:25 GMT</pubDate>
             <content:encoded><![CDATA[미얀마 양곤 인세인 교도소 수감자들이 민주진영 인사들의 사형을 집행한 군부에 반발하는 집단 단식투쟁에 나섰다.
 현지매체 이라와디는 인세인 교도소에 수감된 정치범 다수가 민주화운동가에 대한 군부의 사형 집행을 규탄하는 동시에 고인들을 추모하는 의미로 단식을 시작했다고 전했다. 앞서 미얀마 군부는 지난달 23일 민주주의민족동맹(NLD) 소속 표 제야 또 전 의원과 민주화운동가 초 민 유 등 4명에 대한 사형을 집행했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중, 대만해협 중간선 너머로 장거리 포사격…포위훈련 개시]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202208041501011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/china/article/202208041501011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 04 Aug 2022 17:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[낸시 펠로시 미 하원의장이 대만을 떠난지 하루 만인 4일 중국군은 대만을 겨냥해 전쟁연습을 방불케 하는 고강도 군사훈련을 시작했다.
-중국 인민해방군은 이날 12시부터 7일 12시까지 대만 북부와 동북, 북서, 동부, 남서, 동남 등 6개 해역과 영공에서 실탄사격을 전제로 한 대규모 군사훈련에 돌입했다. 훈련에는 중국판 스텔스기 젠-2와 훙-6K 폭격기, 052D형 구축함 등 주력 무기들이 총동원 됐다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/04/news-p.v1.20220804.9be32d68f4b841b78260eeb017b6ba35.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
