@@ -4,9 +4,25 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 17:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 05:49:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 디자이너 모리 하나에 별세... 아시아 최초 파리 오트쿠튀르 회원]]></title>
+            <link>https://n.news.naver.com/article/469/0000692215</link>
+            <guid>https://n.news.naver.com/article/469/0000692215</guid>
+            <pubDate>Thu, 18 Aug 2022 05:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>46분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/18/692215.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특파원의 시선] 일본도 움직이라 요구하라]]></title>
+            <link>https://n.news.naver.com/article/469/0000692147</link>
+            <guid>https://n.news.naver.com/article/469/0000692147</guid>
+            <pubDate>Thu, 18 Aug 2022 05:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/18/692147.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 언론, "관계 개선" 강조한 윤 대통령 경축사에 '주목']]></title>
             <link>https://n.news.naver.com/article/469/0000691817</link>
@@ -30,6 +46,14 @@
             <pubDate>Sun, 14 Aug 2022 17:36:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/14/691544.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흔들리는 '애니 왕국' 일본… 제작사 40%가 적자]]></title>
+            <link>https://n.news.naver.com/article/469/0000691322</link>
+            <guid>https://n.news.naver.com/article/469/0000691322</guid>
+            <pubDate>Thu, 18 Aug 2022 05:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/12/691322.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아베파 다독이고 비주류 배려… 기시다 인사 '융화' 우선]]></title>
@@ -62,30 +86,6 @@
             <pubDate>Tue, 09 Aug 2022 17:39:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/09/690682.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주일대사 윤덕민 “강제동원 현금화, 일단 동결해야”]]></title>
-            <link>https://n.news.naver.com/article/469/0000690559</link>
-            <guid>https://n.news.naver.com/article/469/0000690559</guid>
-            <pubDate>Tue, 09 Aug 2022 05:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/09/690559.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아이유처럼 '초록병 술' 마실래"... 한국소주 일본 판매 20배 껑충]]></title>
-            <link>https://n.news.naver.com/article/469/0000690475</link>
-            <guid>https://n.news.naver.com/article/469/0000690475</guid>
-            <pubDate>Sun, 14 Aug 2022 17:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/08/690475.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이 3명의 수상한 죽음… 마지막 아이도 구하지 못했다 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000690296</link>
-            <guid>https://n.news.naver.com/article/469/0000690296</guid>
-            <pubDate>Sat, 13 Aug 2022 17:37:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/07/690296.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
