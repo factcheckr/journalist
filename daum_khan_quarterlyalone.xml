@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-08-19T05:46:04.756Z</updated>
+    <updated>2022-08-19T17:47:12.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과시적 먹방 과잉의 시대에 반기 드는 유튜브 채널 '밥맛 없는 언니들']]></title>
+        <id>https://v.daum.net/v/20220819161917787</id>
+        <link href="https://v.daum.net/v/20220819161917787"/>
+        <updated>2022-08-19T17:47:12.052Z</updated>
+        <content type="html"><![CDATA[최근 유튜브 채널 ‘흥마늘 스튜디오’가 &lt;밥맛 없는 언니들&gt;이라는 신개념 ‘먹방’을 시작했다. 연예계에서 대표적인 소식가로 유명한 산다라 박과 박소현이 출연하는 이 프로그램의 설명은 다음과 같다. “먹방계를 뒤집을 소식좌들의 먹방 도전기.” 먹방은 ‘먹는 방송’의 줄임말이고, 소식좌란 적게 먹는 사람을 일컫는 인터넷 용어이다. 작년에 김숙이 자신의 유튜브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영리하고 어리석은" 우영우처럼..'장애 전형성' 한계와 차별성 공존]]></title>
         <id>https://v.daum.net/v/20220722160912652</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220304162350650"/>
         <updated>2022-03-04T17:37:18.497Z</updated>
         <content type="html"><![CDATA[[경향신문] “저는 소년범을 혐오합니다.” 넷플릭스 오리지널 드라마 &lt;소년심판&gt;은 방영 전부터 강렬한 카피로 화제가 되었다. 소년법과 형사미성년자 제도를 주제로 하는 드라마로, 김혜수가 소년범을 혐오하는 판사 심은석 역을 맡았다. 지방법원 소년부에 부임한 우배석(작가가 가상으로 만든 ‘소년형사합의부’에는 총 3명의 판사가 재판에 참여한다. 재판장, 좌배석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놀이로서 통제는 연인 관계의 통제보다 비정상적일까?]]></title>
-        <id>https://v.daum.net/v/20220218160851904</id>
-        <link href="https://v.daum.net/v/20220218160851904"/>
-        <updated>2022-02-18T17:35:53.970Z</updated>
-        <content type="html"><![CDATA[[경향신문] &lt;모럴센스&gt;는 지난 11일 넷플릭스에서 공개된 로맨스 코미디 영화로, 동명의 웹툰이 원작이다. 유능하지만 애교 없고 무섭다는 평가를 듣는 사원 지우(서현)는 비슷한 이름 때문에 회사 동료인 대리 지후(이준영)의 택배를 잘못 수령하고, 그의 비밀을 알게 된다. BDSM 성향자인 지후가 지우에게 주인님이 되어달라고 부탁하면서 두 사람은 3개월짜리]]></content>
     </entry>
 </feed>
