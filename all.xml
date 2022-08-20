@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 17:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 05:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,7 +289,7 @@ AP통신 등에 따르면 스타스 커피의 로고는 스타벅스와 흡사�
             <link>https://n.news.naver.com/article/469/0000692215</link>
             <guid>https://n.news.naver.com/article/469/0000692215</guid>
             <pubDate>Thu, 18 Aug 2022 05:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/18/692215.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +297,7 @@ AP통신 등에 따르면 스타스 커피의 로고는 스타벅스와 흡사�
             <link>https://n.news.naver.com/article/469/0000692147</link>
             <guid>https://n.news.naver.com/article/469/0000692147</guid>
             <pubDate>Thu, 18 Aug 2022 05:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/18/692147.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -769,7 +769,7 @@ AP통신 등에 따르면 스타스 커피의 로고는 스타벅스와 흡사�
             <link>https://n.news.naver.com/article/308/0000031341</link>
             <guid>https://n.news.naver.com/article/308/0000031341</guid>
             <pubDate>Fri, 19 Aug 2022 05:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/19/31341.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1009,7 +1009,7 @@ AP통신 등에 따르면 스타스 커피의 로고는 스타벅스와 흡사�
             <link>https://n.news.naver.com/article/308/0000031305</link>
             <guid>https://n.news.naver.com/article/308/0000031305</guid>
             <pubDate>Fri, 12 Aug 2022 05:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/12/31305.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1245,6 +1245,13 @@ AP통신 등에 따르면 스타스 커피의 로고는 스타벅스와 흡사�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/21/30407.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[부동산 간접광고판 된 '청춘 리얼리티' 촬영 공간 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20220820122011980</link>
+            <guid>https://entertain.v.daum.net/v/20220820122011980</guid>
+            <pubDate>Sat, 20 Aug 2022 05:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[“크다!” “셰어하우스라서, 방은 따로 있고 공간을 같이 쓰는 공용공간이 있는 거로 알고 있거든요?” “재미있겠다!” 가슴에 품은 첫사랑을 다시 만난다는 설렘으로 셰어하우스에 모인 네 쌍의 청춘남녀를 관찰하는 일반인 연애 예능 〈다시, 첫사랑〉(엠비시에브리원·2022) 1화의 한 장면이다. 방송을 촬영하는 동안 청춘남녀가 지낼 공간을 카메라는 꼼꼼하게 비춘]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["난 마음먹은 건 다 해요"..쿠팡플레이의 빗나간 욕망 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
             <link>https://entertain.v.daum.net/v/20220806090502020</link>
             <guid>https://entertain.v.daum.net/v/20220806090502020</guid>
@@ -1376,13 +1383,6 @@ AP통신 등에 따르면 스타스 커피의 로고는 스타벅스와 흡사�
             <guid>https://entertain.v.daum.net/v/20211127110602120</guid>
             <pubDate>Sat, 27 Nov 2021 05:36:52 GMT</pubDate>
             <content:encoded><![CDATA[“전 신원희 대변인이 참 좋더라고요. 자기 일 똑 부러지게 잘하는.” “그렇죠?” 스트리밍 서비스 웨이브가 선보인 본격 정치풍자 코미디 드라마 &lt;이렇게 된 이상 청와대로 간다&gt;를 보고 난 뒤 동료 평론가들과 대화를 나누는 자리에서, 우리 모두의 사랑을 한 몸에 받았던 캐릭터는 역시 ‘문화체육관광부 최연소 대변인’으로 설정된 조연 캐릭터 신원희였다. 이채은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OTT 전성시대 '돈 없어 못보는 미디어 양극화' 커진다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20211112191606121</link>
-            <guid>https://entertain.v.daum.net/v/20211112191606121</guid>
-            <pubDate>Fri, 12 Nov 2021 17:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[국내 스트리밍 서비스(OTT) 시장의 경쟁이 전에 없이 치열했던 한 해였다. 연간 한국에서 벌어들이는 구독료 수입이 한국방송공사(KBS) 수신료 수입을 뛰어넘을 만큼 크게 성장한 ‘넷플릭스’와, 이에 맞선 국내 스트리밍 서비스 ‘티빙’과 ‘웨이브’, ‘왓챠’ 등의 경쟁이 뜨거웠다. 티빙과 웨이브 모두 막대한 예산을 들여 &lt;여고추리반&gt;, &lt;환승연애&gt;, &lt;유]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과시적 먹방 과잉의 시대에 반기 드는 유튜브 채널 '밥맛 없는 언니들' (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>

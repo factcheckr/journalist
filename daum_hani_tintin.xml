@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-08-19T17:47:12.826Z</updated>
+    <updated>2022-08-20T05:38:59.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부동산 간접광고판 된 '청춘 리얼리티' 촬영 공간]]></title>
+        <id>https://entertain.v.daum.net/v/20220820122011980</id>
+        <link href="https://entertain.v.daum.net/v/20220820122011980"/>
+        <updated>2022-08-20T05:38:49.349Z</updated>
+        <content type="html"><![CDATA[“크다!” “셰어하우스라서, 방은 따로 있고 공간을 같이 쓰는 공용공간이 있는 거로 알고 있거든요?” “재미있겠다!” 가슴에 품은 첫사랑을 다시 만난다는 설렘으로 셰어하우스에 모인 네 쌍의 청춘남녀를 관찰하는 일반인 연애 예능 〈다시, 첫사랑〉(엠비시에브리원·2022) 1화의 한 장면이다. 방송을 촬영하는 동안 청춘남녀가 지낼 공간을 카메라는 꼼꼼하게 비춘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["난 마음먹은 건 다 해요"..쿠팡플레이의 빗나간 욕망]]></title>
         <id>https://entertain.v.daum.net/v/20220806090502020</id>
@@ -137,12 +144,5 @@
         <link href="https://entertain.v.daum.net/v/20211127110602120"/>
         <updated>2021-11-27T05:36:52.905Z</updated>
         <content type="html"><![CDATA[“전 신원희 대변인이 참 좋더라고요. 자기 일 똑 부러지게 잘하는.” “그렇죠?” 스트리밍 서비스 웨이브가 선보인 본격 정치풍자 코미디 드라마 &lt;이렇게 된 이상 청와대로 간다&gt;를 보고 난 뒤 동료 평론가들과 대화를 나누는 자리에서, 우리 모두의 사랑을 한 몸에 받았던 캐릭터는 역시 ‘문화체육관광부 최연소 대변인’으로 설정된 조연 캐릭터 신원희였다. 이채은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OTT 전성시대 '돈 없어 못보는 미디어 양극화' 커진다]]></title>
-        <id>https://entertain.v.daum.net/v/20211112191606121</id>
-        <link href="https://entertain.v.daum.net/v/20211112191606121"/>
-        <updated>2021-11-12T17:44:39.459Z</updated>
-        <content type="html"><![CDATA[국내 스트리밍 서비스(OTT) 시장의 경쟁이 전에 없이 치열했던 한 해였다. 연간 한국에서 벌어들이는 구독료 수입이 한국방송공사(KBS) 수신료 수입을 뛰어넘을 만큼 크게 성장한 ‘넷플릭스’와, 이에 맞선 국내 스트리밍 서비스 ‘티빙’과 ‘웨이브’, ‘왓챠’ 등의 경쟁이 뜨거웠다. 티빙과 웨이브 모두 막대한 예산을 들여 &lt;여고추리반&gt;, &lt;환승연애&gt;, &lt;유]]></content>
     </entry>
 </feed>
