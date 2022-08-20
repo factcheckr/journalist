@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 05:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 17:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,19 +301,11 @@ AP통신 등에 따르면 스타스 커피의 로고는 스타벅스와 흡사�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/18/692147.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 언론, "관계 개선" 강조한 윤 대통령 경축사에 '주목' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000691817</link>
-            <guid>https://n.news.naver.com/article/469/0000691817</guid>
-            <pubDate>Tue, 16 Aug 2022 17:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/16/691817.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기시다, A급 전범 합사된 야스쿠니에 공물 봉납…각료는 3년째 참배 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000691652</link>
             <guid>https://n.news.naver.com/article/469/0000691652</guid>
             <pubDate>Mon, 15 Aug 2022 17:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/15/691652.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,15 +313,23 @@ AP통신 등에 따르면 스타스 커피의 로고는 스타벅스와 흡사�
             <link>https://n.news.naver.com/article/469/0000691544</link>
             <guid>https://n.news.naver.com/article/469/0000691544</guid>
             <pubDate>Sun, 14 Aug 2022 17:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/14/691544.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 패전 후 27년 괌 밀림서 생존한 병사 육성 공개 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000691514</link>
+            <guid>https://n.news.naver.com/article/469/0000691514</guid>
+            <pubDate>Sat, 20 Aug 2022 17:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/14/691514.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흔들리는 '애니 왕국' 일본… 제작사 40%가 적자 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000691322</link>
             <guid>https://n.news.naver.com/article/469/0000691322</guid>
             <pubDate>Thu, 18 Aug 2022 05:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/12/691322.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
