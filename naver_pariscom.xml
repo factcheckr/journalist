@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 17:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 05:55:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,15 +12,23 @@
             <link>https://n.news.naver.com/article/469/0000692615</link>
             <guid>https://n.news.naver.com/article/469/0000692615</guid>
             <pubDate>Sun, 21 Aug 2022 17:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/21/692615.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국·일본 7시간 회담... '대만 훈련' 마찰에도 파열음은 안 났다]]></title>
+            <link>https://n.news.naver.com/article/469/0000692295</link>
+            <guid>https://n.news.naver.com/article/469/0000692295</guid>
+            <pubDate>Mon, 22 Aug 2022 05:54:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/18/692295.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日 디자이너 모리 하나에 별세... 아시아 최초 파리 오트쿠튀르 회원]]></title>
             <link>https://n.news.naver.com/article/469/0000692215</link>
             <guid>https://n.news.naver.com/article/469/0000692215</guid>
             <pubDate>Thu, 18 Aug 2022 05:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/18/692215.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000692147</link>
             <guid>https://n.news.naver.com/article/469/0000692147</guid>
             <pubDate>Thu, 18 Aug 2022 05:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/18/692147.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 17:51:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/28/688723.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 사도광산 내년 세계유산 등록 못해 … 유네스코 "자료 부족"]]></title>
-            <link>https://n.news.naver.com/article/469/0000688679</link>
-            <guid>https://n.news.naver.com/article/469/0000688679</guid>
-            <pubDate>Thu, 18 Aug 2022 17:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/28/688679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
