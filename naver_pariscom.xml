@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 06:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 17:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 방위성, ‘반격능력’ 보유 전제 예산 요구…전수방위 원칙 허물기 '시동']]></title>
+            <link>https://n.news.naver.com/article/469/0000693047</link>
+            <guid>https://n.news.naver.com/article/469/0000693047</guid>
+            <pubDate>Tue, 23 Aug 2022 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/23/693047.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 여성 1호 사진기자 사사모토 별세]]></title>
             <link>https://n.news.naver.com/article/469/0000693002</link>
             <guid>https://n.news.naver.com/article/469/0000693002</guid>
             <pubDate>Tue, 23 Aug 2022 06:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/23/693002.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000692295</link>
             <guid>https://n.news.naver.com/article/469/0000692295</guid>
             <pubDate>Mon, 22 Aug 2022 05:54:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/18/692295.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000691652</link>
             <guid>https://n.news.naver.com/article/469/0000691652</guid>
             <pubDate>Mon, 15 Aug 2022 17:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/15/691652.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 17:51:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689113.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘핵무기 폐기 호소’ 재일동포 2세 피폭자 이종근씨 별세]]></title>
-            <link>https://n.news.naver.com/article/469/0000689110</link>
-            <guid>https://n.news.naver.com/article/469/0000689110</guid>
-            <pubDate>Thu, 18 Aug 2022 17:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/07/31/689110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
