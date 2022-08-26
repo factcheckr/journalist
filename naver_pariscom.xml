@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 06:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 17:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한일관계 개선 절호의 기회... 정상회담·셔틀외교 재개를"]]></title>
+            <link>https://n.news.naver.com/article/469/0000693729</link>
+            <guid>https://n.news.naver.com/article/469/0000693729</guid>
+            <pubDate>Fri, 26 Aug 2022 17:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/26/693729.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 경찰청 "아베 피살, 막을 수 있었다"... 장관 사임]]></title>
             <link>https://n.news.naver.com/article/469/0000693501</link>
             <guid>https://n.news.naver.com/article/469/0000693501</guid>
             <pubDate>Thu, 25 Aug 2022 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/25/693501.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000693318</link>
             <guid>https://n.news.naver.com/article/469/0000693318</guid>
             <pubDate>Wed, 24 Aug 2022 17:39:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/24/693318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000693047</link>
             <guid>https://n.news.naver.com/article/469/0000693047</guid>
             <pubDate>Tue, 23 Aug 2022 17:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/23/693047.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000692645</link>
             <guid>https://n.news.naver.com/article/469/0000692645</guid>
             <pubDate>Fri, 26 Aug 2022 06:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/21/692645.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000692295</link>
             <guid>https://n.news.naver.com/article/469/0000692295</guid>
             <pubDate>Mon, 22 Aug 2022 05:54:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/18/692295.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 17:51:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/02/689464.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 지지율도 하락... 통일교 의혹엔 '불통', 민생엔 '무능']]></title>
-            <link>https://n.news.naver.com/article/469/0000689343</link>
-            <guid>https://n.news.naver.com/article/469/0000689343</guid>
-            <pubDate>Thu, 18 Aug 2022 17:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/01/689343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
