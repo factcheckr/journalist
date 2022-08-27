@@ -4,7 +4,7 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 17:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 05:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/308/0000031358</link>
             <guid>https://n.news.naver.com/article/308/0000031358</guid>
             <pubDate>Tue, 23 Aug 2022 06:06:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/23/31358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/308/0000031341</link>
             <guid>https://n.news.naver.com/article/308/0000031341</guid>
             <pubDate>Fri, 19 Aug 2022 05:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/19/31341.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
