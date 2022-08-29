@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 17:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:31:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부 재난 대응, 매뉴얼만 있고 책임은 없다?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031385</link>
+            <guid>https://n.news.naver.com/article/308/0000031385</guid>
+            <pubDate>Mon, 29 Aug 2022 06:31:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/29/31385.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달로 간 다누리 앞에 놓인 6개의 미션]]></title>
             <link>https://n.news.naver.com/article/308/0000031375</link>
             <guid>https://n.news.naver.com/article/308/0000031375</guid>
             <pubDate>Fri, 26 Aug 2022 06:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/26/31375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 17:52:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/23/30420.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또다시 ‘구급차 출산’으로 내몰리는 코로나19 확진 산모들]]></title>
-            <link>https://n.news.naver.com/article/308/0000030408</link>
-            <guid>https://n.news.naver.com/article/308/0000030408</guid>
-            <pubDate>Thu, 18 Aug 2022 17:52:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/21/30408.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
