@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 17:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 06:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자들의 시선] “내가 보이면 울어라.”]]></title>
+            <link>https://n.news.naver.com/article/308/0000031391</link>
+            <guid>https://n.news.naver.com/article/308/0000031391</guid>
+            <pubDate>Tue, 30 Aug 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/30/31391.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡플레이 ‘안나’ 사태가 남긴 것]]></title>
             <link>https://n.news.naver.com/article/308/0000031358</link>
             <guid>https://n.news.naver.com/article/308/0000031358</guid>
             <pubDate>Tue, 23 Aug 2022 06:06:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/23/31358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 17:52:10 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/03/30475.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월9일, 동물들이 투표하러 간다면]]></title>
-            <link>https://n.news.naver.com/article/308/0000030373</link>
-            <guid>https://n.news.naver.com/article/308/0000030373</guid>
-            <pubDate>Thu, 18 Aug 2022 17:52:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/16/30373.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

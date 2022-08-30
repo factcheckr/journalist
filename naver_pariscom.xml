@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 17:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 06:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 야후 '비행기 통근 허용' 효과 좋네... 채용 지원자 60% 증가]]></title>
+            <link>https://n.news.naver.com/article/469/0000694292</link>
+            <guid>https://n.news.naver.com/article/469/0000694292</guid>
+            <pubDate>Tue, 30 Aug 2022 06:37:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694292.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다 총리의 '어색한 재택근무'... 역시 일본은 'IT 후진국'?]]></title>
             <link>https://n.news.naver.com/article/469/0000694116</link>
             <guid>https://n.news.naver.com/article/469/0000694116</guid>
             <pubDate>Mon, 29 Aug 2022 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/29/694116.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000694037</link>
             <guid>https://n.news.naver.com/article/469/0000694037</guid>
             <pubDate>Mon, 29 Aug 2022 06:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/29/694037.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000693002</link>
             <guid>https://n.news.naver.com/article/469/0000693002</guid>
             <pubDate>Tue, 23 Aug 2022 06:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/23/693002.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000692772</link>
             <guid>https://n.news.naver.com/article/469/0000692772</guid>
             <pubDate>Sun, 28 Aug 2022 17:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/22/692772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 17:51:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/05/690063.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긴장한 일본, 중국발 대만 위기에 "중대한 우려" 경고]]></title>
-            <link>https://n.news.naver.com/article/469/0000689942</link>
-            <guid>https://n.news.naver.com/article/469/0000689942</guid>
-            <pubDate>Thu, 18 Aug 2022 17:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/04/689942.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
