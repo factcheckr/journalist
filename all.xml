@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 17:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 06:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,11 +287,19 @@ AP통신 등 외신에 따르면 인도의 수도 뉴델리에서는 지난 27�
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/1215/A0002795399_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유기홍 의원, '간토 대학살' 추도문 발표...한국 정치인 중 처음 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000694417</link>
+            <guid>https://n.news.naver.com/article/469/0000694417</guid>
+            <pubDate>Wed, 31 Aug 2022 06:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/31/694417.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘혐한 증오범죄’ 우토로마을 방화범에 징역 4년 선고 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000694393</link>
             <guid>https://n.news.naver.com/article/469/0000694393</guid>
             <pubDate>Tue, 30 Aug 2022 17:43:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -299,7 +307,7 @@ AP통신 등 외신에 따르면 인도의 수도 뉴델리에서는 지난 27�
             <link>https://n.news.naver.com/article/469/0000694371</link>
             <guid>https://n.news.naver.com/article/469/0000694371</guid>
             <pubDate>Tue, 30 Aug 2022 17:43:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694371.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -315,7 +323,7 @@ AP통신 등 외신에 따르면 인도의 수도 뉴델리에서는 지난 27�
             <link>https://n.news.naver.com/article/469/0000694037</link>
             <guid>https://n.news.naver.com/article/469/0000694037</guid>
             <pubDate>Mon, 29 Aug 2022 06:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/29/694037.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -363,7 +371,7 @@ AP통신 등 외신에 따르면 인도의 수도 뉴델리에서는 지난 27�
             <link>https://n.news.naver.com/article/469/0000693002</link>
             <guid>https://n.news.naver.com/article/469/0000693002</guid>
             <pubDate>Tue, 23 Aug 2022 06:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/23/693002.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -519,19 +527,11 @@ AP통신 등 외신에 따르면 인도의 수도 뉴델리에서는 지난 27�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/07/690296.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기시다, '통일교 스캔들'로 아베파 찌르나... 10일 조기 개각 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000690291</link>
-            <guid>https://n.news.naver.com/article/469/0000690291</guid>
-            <pubDate>Thu, 18 Aug 2022 17:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/07/690291.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 정부 재난 대응, 매뉴얼만 있고 책임은 없다? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031385</link>
             <guid>https://n.news.naver.com/article/308/0000031385</guid>
             <pubDate>Mon, 29 Aug 2022 06:31:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/29/31385.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -539,7 +539,7 @@ AP통신 등 외신에 따르면 인도의 수도 뉴델리에서는 지난 27�
             <link>https://n.news.naver.com/article/308/0000031375</link>
             <guid>https://n.news.naver.com/article/308/0000031375</guid>
             <pubDate>Fri, 26 Aug 2022 06:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/26/31375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -771,7 +771,7 @@ AP통신 등 외신에 따르면 인도의 수도 뉴델리에서는 지난 27�
             <link>https://n.news.naver.com/article/308/0000031391</link>
             <guid>https://n.news.naver.com/article/308/0000031391</guid>
             <pubDate>Tue, 30 Aug 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/30/31391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -779,7 +779,7 @@ AP통신 등 외신에 따르면 인도의 수도 뉴델리에서는 지난 27�
             <link>https://n.news.naver.com/article/308/0000031358</link>
             <guid>https://n.news.naver.com/article/308/0000031358</guid>
             <pubDate>Tue, 23 Aug 2022 06:06:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/23/31358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1011,7 +1011,7 @@ AP통신 등 외신에 따르면 인도의 수도 뉴델리에서는 지난 27�
             <link>https://n.news.naver.com/article/308/0000031363</link>
             <guid>https://n.news.naver.com/article/308/0000031363</guid>
             <pubDate>Wed, 24 Aug 2022 05:58:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/24/31363.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
