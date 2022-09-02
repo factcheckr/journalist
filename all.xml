@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 06:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 17:43:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,35 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/1215/A0002795399_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[갈수록 높아지는 '아베 국장' 반대 여론...기시다 '진땀' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000695034</link>
+            <guid>https://n.news.naver.com/article/469/0000695034</guid>
+            <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/695034.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국방차관 "한일 초계기 갈등 포괄적 해결 의사 있어" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000694991</link>
+            <guid>https://n.news.naver.com/article/469/0000694991</guid>
+            <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694991.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 외무장관 "윤 대통령 한일관계 개선 의지 환영" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000694981</link>
+            <guid>https://n.news.naver.com/article/469/0000694981</guid>
+            <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694981.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엔화가치 24년 만에 최저치로...달러당 150엔도 가시권 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000694966</link>
             <guid>https://n.news.naver.com/article/469/0000694966</guid>
             <pubDate>Fri, 02 Sep 2022 06:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>56분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +320,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694813</link>
             <guid>https://n.news.naver.com/article/469/0000694813</guid>
             <pubDate>Thu, 01 Sep 2022 17:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/01/694813.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +328,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694591</link>
             <guid>https://n.news.naver.com/article/469/0000694591</guid>
             <pubDate>Wed, 31 Aug 2022 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/31/694591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +344,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694393</link>
             <guid>https://n.news.naver.com/article/469/0000694393</guid>
             <pubDate>Tue, 30 Aug 2022 17:43:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +352,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694371</link>
             <guid>https://n.news.naver.com/article/469/0000694371</guid>
             <pubDate>Tue, 30 Aug 2022 17:43:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694371.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +360,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694116</link>
             <guid>https://n.news.naver.com/article/469/0000694116</guid>
             <pubDate>Mon, 29 Aug 2022 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/29/694116.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +376,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000693729</link>
             <guid>https://n.news.naver.com/article/469/0000693729</guid>
             <pubDate>Fri, 26 Aug 2022 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/26/693729.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -360,7 +384,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000693501</link>
             <guid>https://n.news.naver.com/article/469/0000693501</guid>
             <pubDate>Thu, 25 Aug 2022 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/25/693501.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -368,7 +392,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000693475</link>
             <guid>https://n.news.naver.com/article/469/0000693475</guid>
             <pubDate>Wed, 31 Aug 2022 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/25/693475.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -498,30 +522,6 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <pubDate>Thu, 18 Aug 2022 05:49:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/12/691322.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아베파 다독이고 비주류 배려… 기시다 인사 '융화' 우선 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000690962</link>
-            <guid>https://n.news.naver.com/article/469/0000690962</guid>
-            <pubDate>Wed, 10 Aug 2022 17:42:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/10/690962.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디자이너 이세이 미야케 별세... 잡스 터틀넥, 바오바오백 유명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000690749</link>
-            <guid>https://n.news.naver.com/article/469/0000690749</guid>
-            <pubDate>Tue, 09 Aug 2022 17:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/09/690749.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기시다 라이벌 고노·다카이치 입각... 방위장관에 하마다 야스카즈" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000690745</link>
-            <guid>https://n.news.naver.com/article/469/0000690745</guid>
-            <pubDate>Tue, 09 Aug 2022 17:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/09/690745.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부 재난 대응, 매뉴얼만 있고 책임은 없다? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1384,6 +1384,13 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <content:encoded><![CDATA[“전 신원희 대변인이 참 좋더라고요. 자기 일 똑 부러지게 잘하는.” “그렇죠?” 스트리밍 서비스 웨이브가 선보인 본격 정치풍자 코미디 드라마 &lt;이렇게 된 이상 청와대로 간다&gt;를 보고 난 뒤 동료 평론가들과 대화를 나누는 자리에서, 우리 모두의 사랑을 한 몸에 받았던 캐릭터는 역시 ‘문화체육관광부 최연소 대변인’으로 설정된 조연 캐릭터 신원희였다. 이채은]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['행복 대본' 강요하는 세상..불행 '당하는' 사람들 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20220902162116378</link>
+            <guid>https://v.daum.net/v/20220902162116378</guid>
+            <pubDate>Fri, 02 Sep 2022 17:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[“오빠… 최고로 행복하되 가급적 혼자 계셨으면 좋겠어요.” 최근 영화 &lt;헌트&gt;에 출연한 정우성은 팬들의 ‘주접’으로도 유명하다. 행복하되, 혼자 있어달라는 말은 신아영 아나운서가 예능 프로그램 &lt;비디오 스타&gt;에 출연해 정우성에게 남긴 덕담(?)이다. 이 대사는 사랑하는 대상이 행복하길 바라면서도 결혼하지 않기를, 그리하여 모두의 스타로 남아주길 바라는 팬들]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[과시적 먹방 과잉의 시대에 반기 드는 유튜브 채널 '밥맛 없는 언니들' (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
             <link>https://v.daum.net/v/20220819161917787</link>
             <guid>https://v.daum.net/v/20220819161917787</guid>
@@ -1459,13 +1466,6 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <guid>https://v.daum.net/v/20220318160139590</guid>
             <pubDate>Fri, 18 Mar 2022 17:38:29 GMT</pubDate>
             <content:encoded><![CDATA[[경향신문] 제20대 대통령 선거가 끝났다. 반여성적 공약과 젠더 갈라치기 전략을 펼쳤던 당선인은 압승을 예상했으나, 0.7% 표차로 초접전을 벌였다. 차별과 혐오를 저지하려는 절박함, 디지털 성범죄 근절 활동을 펼쳤던 박지현 부위원장에 대한 지지 등 다양한 이유로 2030 여성들이 집결했기 때문이다. 2030 여성들이 소위 ‘전략투표’를 한 후, 미안함]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[범죄를 택한 건 소년이지만 그들을 보호 안 한 사회도 '유죄'다 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20220304162350650</link>
-            <guid>https://v.daum.net/v/20220304162350650</guid>
-            <pubDate>Fri, 04 Mar 2022 17:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] “저는 소년범을 혐오합니다.” 넷플릭스 오리지널 드라마 &lt;소년심판&gt;은 방영 전부터 강렬한 카피로 화제가 되었다. 소년법과 형사미성년자 제도를 주제로 하는 드라마로, 김혜수가 소년범을 혐오하는 판사 심은석 역을 맡았다. 지방법원 소년부에 부임한 우배석(작가가 가상으로 만든 ‘소년형사합의부’에는 총 3명의 판사가 재판에 참여한다. 재판장, 좌배석]]></content:encoded>
         </item>
     </channel>
 </rss>
