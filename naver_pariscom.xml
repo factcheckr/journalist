@@ -4,23 +4,15 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 17:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 05:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[갈수록 높아지는 '아베 국장' 반대 여론...기시다 '진땀']]></title>
-            <link>https://n.news.naver.com/article/469/0000695034</link>
-            <guid>https://n.news.naver.com/article/469/0000695034</guid>
-            <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/695034.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[국방차관 "한일 초계기 갈등 포괄적 해결 의사 있어"]]></title>
             <link>https://n.news.naver.com/article/469/0000694991</link>
             <guid>https://n.news.naver.com/article/469/0000694991</guid>
             <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000694981</link>
             <guid>https://n.news.naver.com/article/469/0000694981</guid>
             <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000694966</link>
             <guid>https://n.news.naver.com/article/469/0000694966</guid>
             <pubDate>Fri, 02 Sep 2022 06:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000694417</link>
             <guid>https://n.news.naver.com/article/469/0000694417</guid>
             <pubDate>Wed, 31 Aug 2022 06:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/31/694417.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,6 +72,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694371.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 야후 '비행기 통근 허용' 효과 좋네... 채용 지원자 60% 증가]]></title>
+            <link>https://n.news.naver.com/article/469/0000694292</link>
+            <guid>https://n.news.naver.com/article/469/0000694292</guid>
+            <pubDate>Sat, 03 Sep 2022 05:47:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694292.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다 총리의 '어색한 재택근무'... 역시 일본은 'IT 후진국'?]]></title>
             <link>https://n.news.naver.com/article/469/0000694116</link>
             <guid>https://n.news.naver.com/article/469/0000694116</guid>
@@ -92,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000694037</link>
             <guid>https://n.news.naver.com/article/469/0000694037</guid>
             <pubDate>Mon, 29 Aug 2022 06:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/29/694037.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
