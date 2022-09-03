@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/series/3306</id>
     <title>다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이</title>
-    <updated>2022-09-03T05:48:33.178Z</updated>
+    <updated>2022-09-03T17:39:17.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쁘띠' 아줌마·'빠지' 오빠의 친구, 김신영표 '전국노래자랑' 어떨까]]></title>
+        <id>https://v.daum.net/v/20220903182502856</id>
+        <link href="https://v.daum.net/v/20220903182502856"/>
+        <updated>2022-09-03T17:39:06.534Z</updated>
+        <content type="html"><![CDATA[김신영이 한국방송(KBS) 〈전국노래자랑〉의 차기 진행자로 발탁되었다는 소식이 들려온 날, 나는 유튜브에서 그가 각종 버라이어티 프로그램에서 선보였던 캐릭터들을 다시 찾아보았다. 머리에 쟁반을 이고 대기실 안으로 들어와 “제일 바쁜 여섯시 반에, 소고기 하나, 불백 하나, 짬뽕, 계란말이 누구야? 하나만 시키란 말이야, 하나만!”이라고 포효하는 전설의 밥집]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부동산 간접광고판 된 '청춘 리얼리티' 촬영 공간]]></title>
         <id>https://v.daum.net/v/20220820122011980</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20211210184610423"/>
         <updated>2022-09-01T06:05:10.124Z</updated>
         <content type="html"><![CDATA[※이 글은 드라마 &lt;호크아이&gt;(2021)의 스포일러를 포함하고 있습니다. 디즈니플러스 드라마 &lt;호크아이&gt;는 평범한 인간의 육체로 초인들이 누비는 전장을 함께해야 했던 ‘호크아이’ 클린트 바튼(제러미 레너)의 몸과 마음에 새겨진 흔적들을 살핀다. 그는 소중했던 동료를 먼저 보내야 했던 트라우마에 시달리고, 히어로로 살기 위해 가족 곁을 비워야 했던 죄책감에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일잘' 여성들이여, 우리 더 늠름해집시다]]></title>
-        <id>https://v.daum.net/v/20211127110602120</id>
-        <link href="https://v.daum.net/v/20211127110602120"/>
-        <updated>2022-09-01T06:05:10.126Z</updated>
-        <content type="html"><![CDATA[“전 신원희 대변인이 참 좋더라고요. 자기 일 똑 부러지게 잘하는.” “그렇죠?” 스트리밍 서비스 웨이브가 선보인 본격 정치풍자 코미디 드라마 &lt;이렇게 된 이상 청와대로 간다&gt;를 보고 난 뒤 동료 평론가들과 대화를 나누는 자리에서, 우리 모두의 사랑을 한 몸에 받았던 캐릭터는 역시 ‘문화체육관광부 최연소 대변인’으로 설정된 조연 캐릭터 신원희였다. 이채은]]></content>
     </entry>
 </feed>

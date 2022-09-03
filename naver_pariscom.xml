@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 05:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 17:39:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000694991</link>
             <guid>https://n.news.naver.com/article/469/0000694991</guid>
             <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000694981</link>
             <guid>https://n.news.naver.com/article/469/0000694981</guid>
             <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000694813</link>
             <guid>https://n.news.naver.com/article/469/0000694813</guid>
             <pubDate>Thu, 01 Sep 2022 17:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/01/694813.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000694591</link>
             <guid>https://n.news.naver.com/article/469/0000694591</guid>
             <pubDate>Wed, 31 Aug 2022 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/31/694591.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000694393</link>
             <guid>https://n.news.naver.com/article/469/0000694393</guid>
             <pubDate>Tue, 30 Aug 2022 17:43:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,23 +68,15 @@
             <link>https://n.news.naver.com/article/469/0000694371</link>
             <guid>https://n.news.naver.com/article/469/0000694371</guid>
             <pubDate>Tue, 30 Aug 2022 17:43:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694371.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 야후 '비행기 통근 허용' 효과 좋네... 채용 지원자 60% 증가]]></title>
-            <link>https://n.news.naver.com/article/469/0000694292</link>
-            <guid>https://n.news.naver.com/article/469/0000694292</guid>
-            <pubDate>Sat, 03 Sep 2022 05:47:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694292.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694371.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 총리의 '어색한 재택근무'... 역시 일본은 'IT 후진국'?]]></title>
             <link>https://n.news.naver.com/article/469/0000694116</link>
             <guid>https://n.news.naver.com/article/469/0000694116</guid>
             <pubDate>Mon, 29 Aug 2022 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/29/694116.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -96,11 +88,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/29/694037.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[욕조에서 숨진 자산가 여성... 범인은 람보르기니 모는 양아들 [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000693913</link>
+            <guid>https://n.news.naver.com/article/469/0000693913</guid>
+            <pubDate>Sat, 03 Sep 2022 17:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/28/693913.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["한일관계 개선 절호의 기회... 정상회담·셔틀외교 재개를"]]></title>
             <link>https://n.news.naver.com/article/469/0000693729</link>
             <guid>https://n.news.naver.com/article/469/0000693729</guid>
             <pubDate>Fri, 26 Aug 2022 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/26/693729.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
