@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 17:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열‧이준석 갈등은 2024 총선 공천권 샅바싸움?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031422</link>
+            <guid>https://n.news.naver.com/article/308/0000031422</guid>
+            <pubDate>Mon, 05 Sep 2022 06:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/05/31422.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미중 사이 갈팡질팡, 윤석열 외교 정책은 어디에]]></title>
             <link>https://n.news.naver.com/article/308/0000031363</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 17:52:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30506.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 검찰 공약 살펴보니 “뼛속까지 검찰주의자”]]></title>
-            <link>https://n.news.naver.com/article/308/0000030454</link>
-            <guid>https://n.news.naver.com/article/308/0000030454</guid>
-            <pubDate>Thu, 18 Aug 2022 17:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/28/30454.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
