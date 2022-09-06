@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 17:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:43:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 규슈도 태풍 피해 …2명 사망, 3만8000가구 정전 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202209061111001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202209061111001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 06 Sep 2022 06:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[태풍 힌남노의 영향으로 일본 규슈에서 2명이 사망하고 3만8000여 가구가 정전을 겪었다.
+지난 5일 밤부터 태풍의 영향권에 든 규슈 지역에는 밤새 강풍이 불었다. 일본 기상청에 따르면 6일 오전 3시36분쯤 나가사키현 쓰시마시에서 44.7m/s의 최대 순간풍속이 관측됐다. 철탑이 휘어지고 달리는 트럭이 옆으로 넘어질 수 있는 수준의 강풍이다. 후쿠오카현 후쿠오카시에서도 오전 5시쯤 40.4m/s의 강풍이 관측됐다. NHK는 규슈 전역에 33m/s 이상의 강풍이 불었다고 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/06/news-p.v1.20220906.349323df6768492bae24694ebfde47ea.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1달러 140엔 시대, 일본 중앙은행 저금리 언제까지 유지할까 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202209051612001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -105,15 +114,6 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <content:encoded><![CDATA[태풍 힌남노의 영향권에 들었던 오키나와 곳곳에서 목조주택이 무너지는 등 피해가 발생했다. 오키나와를 향하다 남서쪽으로 다소 물러난 힌남노는 규모를 키워 3~4일 다시 오키나와현에 접근할 우려가 있다고 일본 기상청이 전했다.
 오키나와 현지 매체 류큐신문은 지난달 30~31일 태풍 힌남노가 가까이 접근하면서 곳곳에서 피해가 발생했다고 1일 전했다. 현내 기타다이토섬의 한 목조주택이 지붕과 벽 일부가 날아가 완전히 파괴됐다. 지역 주산물인 사탕수수밭도 쓰러졌다. 강풍으로 가로수가 쓰러져 통행이 금지된 도로도 있었다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/01/news-p.v1.20220901.c8beb7bb96794fdbbfc2f472d82cebb9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미국, 엔비디아·AMD에 “AI용 반도체 중국 수출 중단” 통보···중국 “기술패권주의” 비판 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202209011932001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202209011932001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 01 Sep 2022 17:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[조 바이든 미국 정부가 인공지능(AI) 분야 대표 반도체 업체인 엔비디아와 AMD에 AI용 주력 반도체의 대중국 수출을 중단하라고 통지했다고 CNBC 등이 지난달 31일(현지시간) 보도했다.
-보도에 따르면 미국 당국은 엔비디아에 기계적 학습을 고속화하는 반도체 A100과 H100을 중국에 반출하지 않도록 했다. 당국은 대상 제품을 중국이 군사적 용도로 쓰거나 다른 군사적 최종 사용자에 전용될 위험에 대응하기 위한 조치라고 설명했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/01/news-p.v1.20220823.7b7b69cc9880416689a76c408ab724b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -285,11 +285,19 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/1215/A0002795399_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[태풍 힌남노에 나가사키서 2명 사망… 최대순간풍속 초속 50m (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000695568</link>
+            <guid>https://n.news.naver.com/article/469/0000695568</guid>
+            <pubDate>Tue, 06 Sep 2022 06:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/06/695568.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["AI 때문에 피 흘리며 배달" 아마존재팬 택배노조 결성 '꿈틀' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000695441</link>
             <guid>https://n.news.naver.com/article/469/0000695441</guid>
             <pubDate>Mon, 05 Sep 2022 17:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/05/695441.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +305,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000695189</link>
             <guid>https://n.news.naver.com/article/469/0000695189</guid>
             <pubDate>Sun, 04 Sep 2022 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/04/695189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +313,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694991</link>
             <guid>https://n.news.naver.com/article/469/0000694991</guid>
             <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -313,7 +321,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694981</link>
             <guid>https://n.news.naver.com/article/469/0000694981</guid>
             <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,7 +329,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694966</link>
             <guid>https://n.news.naver.com/article/469/0000694966</guid>
             <pubDate>Fri, 02 Sep 2022 06:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,7 +353,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694417</link>
             <guid>https://n.news.naver.com/article/469/0000694417</guid>
             <pubDate>Wed, 31 Aug 2022 06:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/31/694417.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -369,7 +377,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694292</link>
             <guid>https://n.news.naver.com/article/469/0000694292</guid>
             <pubDate>Mon, 05 Sep 2022 17:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/30/694292.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -385,7 +393,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/469/0000694037</link>
             <guid>https://n.news.naver.com/article/469/0000694037</guid>
             <pubDate>Mon, 29 Aug 2022 06:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/29/694037.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -517,19 +525,11 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/16/691817.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기시다, A급 전범 합사된 야스쿠니에 공물 봉납…각료는 3년째 참배 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000691652</link>
-            <guid>https://n.news.naver.com/article/469/0000691652</guid>
-            <pubDate>Mon, 15 Aug 2022 17:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/15/691652.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 정부 재난 대응, 매뉴얼만 있고 책임은 없다? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031385</link>
             <guid>https://n.news.naver.com/article/308/0000031385</guid>
             <pubDate>Mon, 29 Aug 2022 06:31:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/29/31385.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -769,7 +769,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/308/0000031391</link>
             <guid>https://n.news.naver.com/article/308/0000031391</guid>
             <pubDate>Tue, 30 Aug 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/30/31391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1009,7 +1009,7 @@ IMF는 1일(현지시간) 스리랑카 정부와 29억달러(약 3조9000억원)
             <link>https://n.news.naver.com/article/308/0000031422</link>
             <guid>https://n.news.naver.com/article/308/0000031422</guid>
             <pubDate>Mon, 05 Sep 2022 06:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/05/31422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
