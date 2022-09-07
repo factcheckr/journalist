@@ -4,9 +4,28 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 17:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 06:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1달러에 144엔대 돌파…거침없이 미끄러지는 엔화]]></title>
+            <link>https://www.khan.co.kr/economy/finance/article/202209071129011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/economy/finance/article/202209071129011/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 07 Sep 2022 06:38:24 GMT</pubDate>
+            <content:encoded><![CDATA[달러·엔 환율이 달러당 144엔대를 기록해 1998년 이후 최고치를 경신했다.
+니혼게이자이신문에 따르면 7일 오전 한때 도쿄 외환시장에서 엔화는 1달러에 144엔대에 거래됐다. 엔·달러 환율이 144엔을 넘어선 것은 1998년 이후 처음이다.
+블룸버그통신은 엔화가치는 올해 19% 이상 하락해1979년 이후 역대 최악의 연간 하락폭을 돌파했다며 미·일 금리차이로 인해 엔화가치가 24년 만에 가장 낮아졌다고 전했다. 미국의 서비스업 경기선행지표 역할을 하는 8월 ISM 비제조업 구매관리자지수(PMI) 지수가 56.9를 기록해 예상치(55.1)를 뛰어넘은 점도 환율 상승에 영향을 미쳤다. 미국의 경기 상황을 낙관해 달러로 돈이 몰린 것이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/07/news-p.v1.20220907.72d5aa877d8643e39bb3b24e09b02705.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본, 오늘부터 가이드 없는 패키지여행도 가능]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202209071020001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202209071020001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 07 Sep 2022 06:38:24 GMT</pubDate>
+            <content:encoded><![CDATA[7일부터 동행 안내원(가이드) 없는 패키지 상품으로도 일본 여행을 할 수 있다. 코로나19 백신을 3회 이상 접종하면 입국 전 코로나19 검사 음성 증명서는 제출하지 않아도 된다.
+일본 정부는 이날부터 하루 입국 허용 인원 상한을 2만명에서 5만명으로 늘리며 관광목적 입국 규제를 완화했다. 일본 정부는 지난 6월10일부터 여행업자를 초청 책임자로 해 가이드가 동반하는 패키지 여행만 허용해왔다. 이날부터는 가이드 없는 패키지 여행도 가능해졌다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/07/news-p.v1.20220907.c99e402fe168433bbd1f2e98520be482.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울이 온다…러·유럽, 잠긴 가스관 둘러싸고 ‘에너지 전쟁’]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202209062144015/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -97,23 +116,6 @@
             <content:encoded><![CDATA[블라디미르 푸틴 러시아 대통령이 미하일 고르바초프 전 소비에트연방(소련) 대통령의 장례식에 참석하지 않기로 했다.
 드미트리 페스코프 크렘린궁 대변인은 1일(현지시간) “(고르바초프 전 소련 대통령의) 장례식이 9월3일 진행될 예정이지만 불행히도 (푸틴) 대통령은 업무 일정상 참석하지 못하게 됐다”고 밝혔다. 그는 푸틴 대통령이 고르바초프 전 대통령이 눈을 감은 병원을 사전에 찾아 마지막 경의를 표했다고 부연했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/02/news-p.v1.20220902.e75af9c41cc34ae0b2c2464e3b0b48ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 ‘중국 반도체 고립’ 압박 강화]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202209012222035/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202209012222035/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 01 Sep 2022 17:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[조 바이든 미국 정부가 인공지능(AI) 분야 대표 반도체 업체인 엔비디아와 AMD에 AI용 주력 반도체의 대중국 수출을 중단하라고 통지했다고 CNBC 등이 지난달 31일(현지시간) 보도했다.
-보도에 따르면 미국 당국은 엔비디아에 기계적 학습을 고속화하는 반도체 A100과 H100을 중국에 반출하지 않도록 했다. 당국은 대상 제품을 중국이 군사적 용도로 쓰거나 다른 군사적 최종 사용자에 전용될 위험에 대응하기 위한 조치라고 설명했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한·일 모두 서로에 대해 ‘호감’ 늘고 ‘비호감’ 줄었다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202209012151001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202209012151001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Thu, 01 Sep 2022 17:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[한국과 일본 모두에서 ‘한·일관계 회복이 필요하다’는 여론이 지난 1년 사이 크게 증가했다. 한·일 양국의 상대국에 대한 호감도는 2019년 반도체 수출규제와 일본 제품 불매운동 이전 수준으로 회복됐다.
-동아시아연구원(EAI)와 일본 비영리기구 겐론 NPO는 1일  ‘한·일 국민 상호의식 조사’ 보고서를 발표했다. 두 기관은 2013년부터 해마다 공동 인식조사를 해 오고 있다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/01/news-p.v1.20220901.64c7602eed7847a194b07a8958fbb7e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
