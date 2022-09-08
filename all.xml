@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 17:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,16 +291,16 @@
             <link>https://n.news.naver.com/article/469/0000695947</link>
             <guid>https://n.news.naver.com/article/469/0000695947</guid>
             <pubDate>Wed, 07 Sep 2022 17:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/07/695947.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["근무환경은 천국이지만 노벨상은 먼일"...삼성 출신 일본 연구원의 충고 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000695891</link>
-            <guid>https://n.news.naver.com/article/469/0000695891</guid>
-            <pubDate>Wed, 07 Sep 2022 17:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/07/695891.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[태풍 힌남노에 나가사키서 2명 사망… 최대순간풍속 초속 50m (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000695568</link>
+            <guid>https://n.news.naver.com/article/469/0000695568</guid>
+            <pubDate>Thu, 08 Sep 2022 06:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/06/695568.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["AI 때문에 피 흘리며 배달" 아마존재팬 택배노조 결성 '꿈틀' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -315,7 +315,7 @@
             <link>https://n.news.naver.com/article/469/0000695344</link>
             <guid>https://n.news.naver.com/article/469/0000695344</guid>
             <pubDate>Wed, 07 Sep 2022 06:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/05/695344.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -339,7 +339,7 @@
             <link>https://n.news.naver.com/article/469/0000694981</link>
             <guid>https://n.news.naver.com/article/469/0000694981</guid>
             <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -347,7 +347,7 @@
             <link>https://n.news.naver.com/article/469/0000694966</link>
             <guid>https://n.news.naver.com/article/469/0000694966</guid>
             <pubDate>Fri, 02 Sep 2022 06:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -379,7 +379,7 @@
             <link>https://n.news.naver.com/article/469/0000694417</link>
             <guid>https://n.news.naver.com/article/469/0000694417</guid>
             <pubDate>Wed, 31 Aug 2022 06:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.08.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/31/694417.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1011,7 +1011,7 @@
             <link>https://n.news.naver.com/article/308/0000031422</link>
             <guid>https://n.news.naver.com/article/308/0000031422</guid>
             <pubDate>Mon, 05 Sep 2022 06:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/05/31422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
