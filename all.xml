@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 06:00:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 17:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,7 +291,7 @@
             <link>https://n.news.naver.com/article/469/0000696085</link>
             <guid>https://n.news.naver.com/article/469/0000696085</guid>
             <pubDate>Thu, 08 Sep 2022 17:48:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/08/696085.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -299,7 +299,7 @@
             <link>https://n.news.naver.com/article/469/0000695947</link>
             <guid>https://n.news.naver.com/article/469/0000695947</guid>
             <pubDate>Wed, 07 Sep 2022 17:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/07/695947.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -307,7 +307,7 @@
             <link>https://n.news.naver.com/article/469/0000695441</link>
             <guid>https://n.news.naver.com/article/469/0000695441</guid>
             <pubDate>Mon, 05 Sep 2022 17:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/05/695441.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +323,7 @@
             <link>https://n.news.naver.com/article/469/0000695189</link>
             <guid>https://n.news.naver.com/article/469/0000695189</guid>
             <pubDate>Sun, 04 Sep 2022 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/04/695189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +331,7 @@
             <link>https://n.news.naver.com/article/469/0000695034</link>
             <guid>https://n.news.naver.com/article/469/0000695034</guid>
             <pubDate>Thu, 08 Sep 2022 17:48:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/695034.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -339,7 +339,7 @@
             <link>https://n.news.naver.com/article/469/0000694991</link>
             <guid>https://n.news.naver.com/article/469/0000694991</guid>
             <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -347,7 +347,7 @@
             <link>https://n.news.naver.com/article/469/0000694981</link>
             <guid>https://n.news.naver.com/article/469/0000694981</guid>
             <pubDate>Fri, 02 Sep 2022 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/02/694981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
