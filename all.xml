@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 17:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 06:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,7 +315,7 @@
             <link>https://n.news.naver.com/article/469/0000695344</link>
             <guid>https://n.news.naver.com/article/469/0000695344</guid>
             <pubDate>Wed, 07 Sep 2022 06:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/05/695344.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +323,7 @@
             <link>https://n.news.naver.com/article/469/0000695189</link>
             <guid>https://n.news.naver.com/article/469/0000695189</guid>
             <pubDate>Sun, 04 Sep 2022 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/04/695189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -771,7 +771,7 @@
             <link>https://n.news.naver.com/article/308/0000031449</link>
             <guid>https://n.news.naver.com/article/308/0000031449</guid>
             <pubDate>Fri, 09 Sep 2022 06:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31449.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -779,7 +779,7 @@
             <link>https://n.news.naver.com/article/308/0000031448</link>
             <guid>https://n.news.naver.com/article/308/0000031448</guid>
             <pubDate>Fri, 09 Sep 2022 06:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31448.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1007,11 +1007,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/21/30576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[신뢰도 조사] 신뢰도 가장 낮은 현직 대통령 윤석열 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031457</link>
+            <guid>https://n.news.naver.com/article/308/0000031457</guid>
+            <pubDate>Mon, 12 Sep 2022 06:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/12/31457.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열‧이준석 갈등은 2024 총선 공천권 샅바싸움? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031422</link>
             <guid>https://n.news.naver.com/article/308/0000031422</guid>
             <pubDate>Mon, 05 Sep 2022 06:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/05/31422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1237,14 +1245,6 @@
             <pubDate>Thu, 18 Aug 2022 17:52:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/16/30560.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘쇼’라 하더라도 주목해야할 정치개혁안 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030506</link>
-            <guid>https://n.news.naver.com/article/308/0000030506</guid>
-            <pubDate>Thu, 18 Aug 2022 17:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30506.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['쁘띠' 아줌마·'빠지' 오빠의 친구, 김신영표 '전국노래자랑' 어떨까 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
