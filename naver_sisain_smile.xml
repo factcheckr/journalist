@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 17:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:39:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신뢰도 조사] 가장 신뢰하는 정치인은 이재명]]></title>
+            <link>https://n.news.naver.com/article/308/0000031461</link>
+            <guid>https://n.news.naver.com/article/308/0000031461</guid>
+            <pubDate>Tue, 13 Sep 2022 06:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/13/31461.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신뢰도 조사] 신뢰도 가장 낮은 현직 대통령 윤석열]]></title>
             <link>https://n.news.naver.com/article/308/0000031457</link>
             <guid>https://n.news.naver.com/article/308/0000031457</guid>
             <pubDate>Mon, 12 Sep 2022 06:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/12/31457.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000031422</link>
             <guid>https://n.news.naver.com/article/308/0000031422</guid>
             <pubDate>Mon, 05 Sep 2022 06:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/05/31422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 17:52:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/24/30593.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘0.73’ 차기 대통령이 새겨야 할 숫자]]></title>
-            <link>https://n.news.naver.com/article/308/0000030560</link>
-            <guid>https://n.news.naver.com/article/308/0000030560</guid>
-            <pubDate>Thu, 18 Aug 2022 17:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/16/30560.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
