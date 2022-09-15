@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 17:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령, 유엔총회 계기 한미·한일 정상회담 갖는다]]></title>
+            <link>https://n.news.naver.com/article/469/0000697052</link>
+            <guid>https://n.news.naver.com/article/469/0000697052</guid>
+            <pubDate>Thu, 15 Sep 2022 17:48:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/15/697052.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["지켜준다"던 아베 떠나자... 도쿄올림픽 뇌물 기업인 줄줄이 체포]]></title>
+            <link>https://n.news.naver.com/article/469/0000697051</link>
+            <guid>https://n.news.naver.com/article/469/0000697051</guid>
+            <pubDate>Thu, 15 Sep 2022 17:48:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/15/697051.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조선 도자기에 매료, 야나기 무네요시 소장품 도쿄 전시회]]></title>
             <link>https://n.news.naver.com/article/469/0000696850</link>
             <guid>https://n.news.naver.com/article/469/0000696850</guid>
             <pubDate>Wed, 14 Sep 2022 17:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/14/696850.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -24,11 +40,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/14/696766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['가장 오래된 일본 문자'라더니… 유성펜 자국이었다]]></title>
+            <link>https://n.news.naver.com/article/469/0000696629</link>
+            <guid>https://n.news.naver.com/article/469/0000696629</guid>
+            <pubDate>Thu, 15 Sep 2022 17:48:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/13/696629.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본, 프리랜서 보호망 넓힌다..."계약서 안 쓰면 조사"]]></title>
             <link>https://n.news.naver.com/article/469/0000696621</link>
             <guid>https://n.news.naver.com/article/469/0000696621</guid>
             <pubDate>Tue, 13 Sep 2022 17:49:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/13/696621.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000696484</link>
             <guid>https://n.news.naver.com/article/469/0000696484</guid>
             <pubDate>Wed, 14 Sep 2022 17:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/12/696484.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000696085</link>
             <guid>https://n.news.naver.com/article/469/0000696085</guid>
             <pubDate>Thu, 08 Sep 2022 17:48:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/08/696085.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000695947</link>
             <guid>https://n.news.naver.com/article/469/0000695947</guid>
             <pubDate>Tue, 13 Sep 2022 17:49:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/07/695947.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000695891</link>
             <guid>https://n.news.naver.com/article/469/0000695891</guid>
             <pubDate>Tue, 13 Sep 2022 17:49:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/07/695891.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 26 Aug 2022 17:40:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/26/693729.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 경찰청 "아베 피살, 막을 수 있었다"... 장관 사임]]></title>
-            <link>https://n.news.naver.com/article/469/0000693501</link>
-            <guid>https://n.news.naver.com/article/469/0000693501</guid>
-            <pubDate>Thu, 25 Aug 2022 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/25/693501.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["반격은 공격받은 후에 가능"...일본 방위력 강화 놓고 여당 내 딴 목소리]]></title>
-            <link>https://n.news.naver.com/article/469/0000693475</link>
-            <guid>https://n.news.naver.com/article/469/0000693475</guid>
-            <pubDate>Wed, 31 Aug 2022 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/25/693475.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 “차세대 원전 검토” 지시…후쿠시마 트라우마 극복?]]></title>
-            <link>https://n.news.naver.com/article/469/0000693318</link>
-            <guid>https://n.news.naver.com/article/469/0000693318</guid>
-            <pubDate>Wed, 24 Aug 2022 17:39:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/24/693318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
