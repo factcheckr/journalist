@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 05:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 17:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,7 +291,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/469/0000697265</link>
             <guid>https://n.news.naver.com/article/469/0000697265</guid>
             <pubDate>Fri, 16 Sep 2022 17:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/16/697265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -299,7 +299,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/469/0000697052</link>
             <guid>https://n.news.naver.com/article/469/0000697052</guid>
             <pubDate>Thu, 15 Sep 2022 17:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/15/697052.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -307,7 +307,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/469/0000697051</link>
             <guid>https://n.news.naver.com/article/469/0000697051</guid>
             <pubDate>Thu, 15 Sep 2022 17:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/15/697051.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -315,7 +315,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/469/0000696850</link>
             <guid>https://n.news.naver.com/article/469/0000696850</guid>
             <pubDate>Wed, 14 Sep 2022 17:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/14/696850.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +331,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/469/0000696629</link>
             <guid>https://n.news.naver.com/article/469/0000696629</guid>
             <pubDate>Thu, 15 Sep 2022 17:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/13/696629.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -339,7 +339,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/469/0000696621</link>
             <guid>https://n.news.naver.com/article/469/0000696621</guid>
             <pubDate>Tue, 13 Sep 2022 17:49:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/13/696621.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -347,7 +347,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/469/0000696484</link>
             <guid>https://n.news.naver.com/article/469/0000696484</guid>
             <pubDate>Wed, 14 Sep 2022 17:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/12/696484.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1247,6 +1247,13 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/24/30593.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[동문서답 '고요 속의 외침'에 터졌나요, 누군가에겐 일상인데 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://v.daum.net/v/20220917173002257</link>
+            <guid>https://v.daum.net/v/20220917173002257</guid>
+            <pubDate>Sat, 17 Sep 2022 17:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[2018 러시아 월드컵 조별리그 때 이야기다. 멕시코 국민들의 시선은 연장전에 돌입한 한국 대 독일전에 쏠렸다. 같은 시간 열린 멕시코 대 스웨덴전에서 스웨덴에 패배한 탓에, 멕시코로서는 한국이 독일을 꺾는 이변을 일으키지 않는 이상 16강 진출이 불가능했기 때문이었다. 그 시각 한국 대 독일전은 한국의 김영권 선수가 연장 3분쯤 선제골을 기록한 상태, 멕]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['쁘띠' 아줌마·'빠지' 오빠의 친구, 김신영표 '전국노래자랑' 어떨까 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
             <link>https://v.daum.net/v/20220903182502856</link>
             <guid>https://v.daum.net/v/20220903182502856</guid>
@@ -1378,13 +1385,6 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <guid>https://v.daum.net/v/20211225102618494</guid>
             <pubDate>Thu, 01 Sep 2022 06:05:10 GMT</pubDate>
             <content:encoded><![CDATA[“어, 이건 뭐예요? 축구화 사셨네?” 일을 논의하러 방문한 여자 동료의 집 현관에는 새로 산 축구화와 축구공이 가지런히 놓여 있었다. 동료가 말했다. “아니, &lt;골 때리는 그녀들&gt; 보다가 나도 공이 너무 차고 싶어서요. 그런 이야기를 했더니 아는 언니가 여자들끼리 축구 하는 모임이 있다고 날 데려가더라고. 그래서 그날 처음으로 볼을 차봤는데 너무 좋은 거]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[청각장애 히어로물 '호크아이'.."비장애가 우월 아냐" (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://v.daum.net/v/20211210184610423</link>
-            <guid>https://v.daum.net/v/20211210184610423</guid>
-            <pubDate>Thu, 01 Sep 2022 06:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[※이 글은 드라마 &lt;호크아이&gt;(2021)의 스포일러를 포함하고 있습니다. 디즈니플러스 드라마 &lt;호크아이&gt;는 평범한 인간의 육체로 초인들이 누비는 전장을 함께해야 했던 ‘호크아이’ 클린트 바튼(제러미 레너)의 몸과 마음에 새겨진 흔적들을 살핀다. 그는 소중했던 동료를 먼저 보내야 했던 트라우마에 시달리고, 히어로로 살기 위해 가족 곁을 비워야 했던 죄책감에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['행복 대본' 강요하는 세상..불행 '당하는' 사람들 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
