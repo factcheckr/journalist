@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 17:45:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 05:55:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,11 +40,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/14/696850.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본, '우크라서 맹활약'한 공격형 무인기 도입..."대만 유사 사태 대비"]]></title>
+            <link>https://n.news.naver.com/article/469/0000696773</link>
+            <guid>https://n.news.naver.com/article/469/0000696773</guid>
+            <pubDate>Sun, 18 Sep 2022 05:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/14/696773.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤덕민 주일본 대사, 일왕에 신임장 제출 "한일관계 조속 개선"]]></title>
             <link>https://n.news.naver.com/article/469/0000696766</link>
             <guid>https://n.news.naver.com/article/469/0000696766</guid>
             <pubDate>Wed, 14 Sep 2022 06:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/14/696766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,6 +78,14 @@
             <pubDate>Wed, 14 Sep 2022 17:48:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/12/696484.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["이쪽이 '진짜 국장'" 英 여왕 서거 후 일본서 퍼지고 있는 표현]]></title>
+            <link>https://n.news.naver.com/article/469/0000696464</link>
+            <guid>https://n.news.naver.com/article/469/0000696464</guid>
+            <pubDate>Sun, 18 Sep 2022 05:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/12/696464.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["북한 7차 핵실험하면 확실히 다른 대응"... 한미일 약속]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 29 Aug 2022 17:41:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/29/694116.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 언론, 이재명 민주당 당대표 당선에 "대일강경파" 우려]]></title>
-            <link>https://n.news.naver.com/article/469/0000694037</link>
-            <guid>https://n.news.naver.com/article/469/0000694037</guid>
-            <pubDate>Mon, 29 Aug 2022 06:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/29/694037.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[욕조에서 숨진 자산가 여성... 범인은 람보르기니 모는 양아들 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000693913</link>
-            <guid>https://n.news.naver.com/article/469/0000693913</guid>
-            <pubDate>Sat, 03 Sep 2022 17:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/28/693913.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
