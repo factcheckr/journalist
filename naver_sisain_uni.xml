@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 17:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 06:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자들의 시선] 국산 1호 코로나19 백신 접종]]></title>
+            <link>https://n.news.naver.com/article/308/0000031478</link>
+            <guid>https://n.news.naver.com/article/308/0000031478</guid>
+            <pubDate>Mon, 19 Sep 2022 06:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31478.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부 재난 대응, 매뉴얼만 있고 책임은 없다?]]></title>
             <link>https://n.news.naver.com/article/308/0000031385</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 17:52:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/23/30421.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외신 한 컷] 기후위기, 가축에게도 예외는 없다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030420</link>
-            <guid>https://n.news.naver.com/article/308/0000030420</guid>
-            <pubDate>Thu, 18 Aug 2022 17:52:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/23/30420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
