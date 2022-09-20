@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 17:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,11 +287,19 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0127/A0002805908_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기시다 "한일 정상회담, 아무것도 정해지지 않았다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000697821</link>
+            <guid>https://n.news.naver.com/article/469/0000697821</guid>
+            <pubDate>Tue, 20 Sep 2022 06:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/20/697821.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["교토 아파트 30% 올랐다"...'엔저'에 일본 부동산 싹쓸이하는 외국인 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000697684</link>
             <guid>https://n.news.naver.com/article/469/0000697684</guid>
             <pubDate>Mon, 19 Sep 2022 17:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/19/697684.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -299,7 +307,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/469/0000697681</link>
             <guid>https://n.news.naver.com/article/469/0000697681</guid>
             <pubDate>Mon, 19 Sep 2022 17:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/19/697681.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -363,7 +371,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/469/0000696773</link>
             <guid>https://n.news.naver.com/article/469/0000696773</guid>
             <pubDate>Sun, 18 Sep 2022 05:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/14/696773.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -371,7 +379,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/469/0000696766</link>
             <guid>https://n.news.naver.com/article/469/0000696766</guid>
             <pubDate>Wed, 14 Sep 2022 06:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/14/696766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -519,19 +527,11 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/31/694601.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이제야 '플로피디스크' 없애는 일본... '디지털 후진국' 오명 벗나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000694591</link>
-            <guid>https://n.news.naver.com/article/469/0000694591</guid>
-            <pubDate>Wed, 31 Aug 2022 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/31/694591.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[기자들의 시선] 국산 1호 코로나19 백신 접종 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031478</link>
             <guid>https://n.news.naver.com/article/308/0000031478</guid>
             <pubDate>Mon, 19 Sep 2022 06:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31478.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -771,7 +771,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/308/0000031479</link>
             <guid>https://n.news.naver.com/article/308/0000031479</guid>
             <pubDate>Mon, 19 Sep 2022 06:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31479.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -779,7 +779,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/308/0000031466</link>
             <guid>https://n.news.naver.com/article/308/0000031466</guid>
             <pubDate>Thu, 15 Sep 2022 06:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/15/31466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1011,7 +1011,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/308/0000031461</link>
             <guid>https://n.news.naver.com/article/308/0000031461</guid>
             <pubDate>Tue, 13 Sep 2022 06:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/13/31461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1019,7 +1019,7 @@ BBC, 가디언에 따르면 웨스트민스터 홀에서는 이날 5시(현지�
             <link>https://n.news.naver.com/article/308/0000031457</link>
             <guid>https://n.news.naver.com/article/308/0000031457</guid>
             <pubDate>Mon, 12 Sep 2022 06:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/12/31457.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
