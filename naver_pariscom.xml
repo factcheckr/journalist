@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 17:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000697821</link>
             <guid>https://n.news.naver.com/article/469/0000697821</guid>
             <pubDate>Tue, 20 Sep 2022 06:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/20/697821.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000697684</link>
             <guid>https://n.news.naver.com/article/469/0000697684</guid>
             <pubDate>Mon, 19 Sep 2022 17:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/19/697684.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000697681</link>
             <guid>https://n.news.naver.com/article/469/0000697681</guid>
             <pubDate>Mon, 19 Sep 2022 17:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/19/697681.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000697511</link>
             <guid>https://n.news.naver.com/article/469/0000697511</guid>
             <pubDate>Sun, 18 Sep 2022 17:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000697473</link>
             <guid>https://n.news.naver.com/article/469/0000697473</guid>
             <pubDate>Sun, 18 Sep 2022 17:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697473.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000697462</link>
             <guid>https://n.news.naver.com/article/469/0000697462</guid>
             <pubDate>Sun, 18 Sep 2022 17:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,15 +60,23 @@
             <link>https://n.news.naver.com/article/469/0000697265</link>
             <guid>https://n.news.naver.com/article/469/0000697265</guid>
             <pubDate>Fri, 16 Sep 2022 17:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/16/697265.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['尹·기시다 정상회담 합의' 발표에 일본은 "결정 안 돼"]]></title>
+            <link>https://n.news.naver.com/article/469/0000697071</link>
+            <guid>https://n.news.naver.com/article/469/0000697071</guid>
+            <pubDate>Tue, 20 Sep 2022 17:48:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/15/697071.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤 대통령, 유엔총회 계기 한미·한일 정상회담 갖는다]]></title>
             <link>https://n.news.naver.com/article/469/0000697052</link>
             <guid>https://n.news.naver.com/article/469/0000697052</guid>
             <pubDate>Thu, 15 Sep 2022 17:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/15/697052.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000697051</link>
             <guid>https://n.news.naver.com/article/469/0000697051</guid>
             <pubDate>Thu, 15 Sep 2022 17:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/15/697051.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000696850</link>
             <guid>https://n.news.naver.com/article/469/0000696850</guid>
             <pubDate>Wed, 14 Sep 2022 17:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/14/696850.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000696629</link>
             <guid>https://n.news.naver.com/article/469/0000696629</guid>
             <pubDate>Thu, 15 Sep 2022 17:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/13/696629.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +124,7 @@
             <link>https://n.news.naver.com/article/469/0000696621</link>
             <guid>https://n.news.naver.com/article/469/0000696621</guid>
             <pubDate>Tue, 13 Sep 2022 17:49:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/13/696621.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +132,7 @@
             <link>https://n.news.naver.com/article/469/0000696484</link>
             <guid>https://n.news.naver.com/article/469/0000696484</guid>
             <pubDate>Wed, 14 Sep 2022 17:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/12/696484.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +140,7 @@
             <link>https://n.news.naver.com/article/469/0000696464</link>
             <guid>https://n.news.naver.com/article/469/0000696464</guid>
             <pubDate>Sun, 18 Sep 2022 05:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/12/696464.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Sep 2022 17:43:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/01/694813.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 ‘가이드 없는 패키지여행’ 허용 방침… ‘에어텔’도 되나?]]></title>
-            <link>https://n.news.naver.com/article/469/0000694601</link>
-            <guid>https://n.news.naver.com/article/469/0000694601</guid>
-            <pubDate>Tue, 06 Sep 2022 17:45:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/08/31/694601.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
