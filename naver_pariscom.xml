@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Sep 2022 06:00:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 17:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000698357</link>
             <guid>https://n.news.naver.com/article/469/0000698357</guid>
             <pubDate>Thu, 22 Sep 2022 17:49:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698357.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000698352</link>
             <guid>https://n.news.naver.com/article/469/0000698352</guid>
             <pubDate>Thu, 22 Sep 2022 17:49:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698352.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Thu, 22 Sep 2022 06:32:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698263.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한일 정상 만남, 일본은 ‘간담’이라 표현… 한국은 ‘약식 회담’]]></title>
-            <link>https://n.news.naver.com/article/469/0000698208</link>
-            <guid>https://n.news.naver.com/article/469/0000698208</guid>
-            <pubDate>Thu, 22 Sep 2022 06:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698208.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[日 기시다 "납북자 문제 해결 위해 김정은과 조건 없이 만나겠다"]]></title>
@@ -92,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000697684</link>
             <guid>https://n.news.naver.com/article/469/0000697684</guid>
             <pubDate>Wed, 21 Sep 2022 17:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/19/697684.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000697681</link>
             <guid>https://n.news.naver.com/article/469/0000697681</guid>
             <pubDate>Wed, 21 Sep 2022 17:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/19/697681.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000697511</link>
             <guid>https://n.news.naver.com/article/469/0000697511</guid>
             <pubDate>Wed, 21 Sep 2022 17:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000697473</link>
             <guid>https://n.news.naver.com/article/469/0000697473</guid>
             <pubDate>Wed, 21 Sep 2022 17:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697473.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000697462</link>
             <guid>https://n.news.naver.com/article/469/0000697462</guid>
             <pubDate>Wed, 21 Sep 2022 17:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -136,11 +128,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697430.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 "전례 없는 위험한 태풍" 난마돌에 특별경보 발령]]></title>
+            <link>https://n.news.naver.com/article/469/0000697407</link>
+            <guid>https://n.news.naver.com/article/469/0000697407</guid>
+            <pubDate>Sat, 24 Sep 2022 17:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697407.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본의 '군사적 반격 능력' 확보 야심에 미국 "강한 지지"]]></title>
             <link>https://n.news.naver.com/article/469/0000697265</link>
             <guid>https://n.news.naver.com/article/469/0000697265</guid>
             <pubDate>Wed, 21 Sep 2022 17:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/16/697265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
