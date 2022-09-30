@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://media.naver.com/journalist/469/12963</id>
-    <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
-    <updated>2022-09-29T17:55:33.810Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://media.naver.com/journalist/469/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 30 Sep 2022 06:38:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 방위성 “북한 미사일 이틀 연속 발사는 처음… 300㎞ 비행”]]></title>
+            <link>https://n.news.naver.com/article/469/0000699671</link>
+            <guid>https://n.news.naver.com/article/469/0000699671</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699671.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 방위성, 전 자위대원 성폭력 피해 인정... 피해자에 "깊은 사과"]]></title>
+            <link>https://n.news.naver.com/article/469/0000699620</link>
+            <guid>https://n.news.naver.com/article/469/0000699620</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699620.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국·일본 국교정상화 50년... '신냉전' 기류로 냉랭]]></title>
+            <link>https://n.news.naver.com/article/469/0000699612</link>
+            <guid>https://n.news.naver.com/article/469/0000699612</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699612.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 일본 총리, 보수파 눈치 보기는 이제 그만 [특파원의 시선]]]></title>
+            <link>https://n.news.naver.com/article/469/0000699429</link>
+            <guid>https://n.news.naver.com/article/469/0000699429</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699429.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 방위성 "北 미사일 300∼350㎞ 비행… 변칙궤도 가능성"]]></title>
+            <link>https://n.news.naver.com/article/469/0000699408</link>
+            <guid>https://n.news.naver.com/article/469/0000699408</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/28/699408.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 총리, 일본 기시다 총리와 회담····"여러 분야서 협력할 게 많다" 공감대]]></title>
+            <link>https://n.news.naver.com/article/469/0000699378</link>
+            <guid>https://n.news.naver.com/article/469/0000699378</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/28/699378.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝까지 논쟁적인 인물, 아베... '국론 분열' 속에 치러진 국장]]></title>
+            <link>https://n.news.naver.com/article/469/0000699135</link>
+            <guid>https://n.news.naver.com/article/469/0000699135</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/27/699135.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아, 일본 영사 간첩 혐의로 체포·추방]]></title>
+            <link>https://n.news.naver.com/article/469/0000698996</link>
+            <guid>https://n.news.naver.com/article/469/0000698996</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/27/698996.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 측 "尹, 안 만나도 되는 데 만나줘... 한국이 빚졌다"]]></title>
+            <link>https://n.news.naver.com/article/469/0000698441</link>
+            <guid>https://n.news.naver.com/article/469/0000698441</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/23/698441.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 언론, 한일 정상 만남에 의미 부여… 일본 측에 적극적 자세 주문]]></title>
+            <link>https://n.news.naver.com/article/469/0000698435</link>
+            <guid>https://n.news.naver.com/article/469/0000698435</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/23/698435.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 “10월 11일부터 해외 관광객 무비자·자유여행 재개”]]></title>
+            <link>https://n.news.naver.com/article/469/0000698398</link>
+            <guid>https://n.news.naver.com/article/469/0000698398</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/23/698398.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3년 만에 열린 일본 최대 관광박람회, '한국관'이 가장 뜨겁다]]></title>
+            <link>https://n.news.naver.com/article/469/0000698357</link>
+            <guid>https://n.news.naver.com/article/469/0000698357</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698357.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본은행, 24년 만에 '엔 매수' 직접 개입... "기대 효과는 한정적"]]></title>
+            <link>https://n.news.naver.com/article/469/0000698352</link>
+            <guid>https://n.news.naver.com/article/469/0000698352</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698352.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본, 사도광산 세계문화유산 등록 재도전... 다음주 신청]]></title>
+            <link>https://n.news.naver.com/article/469/0000698263</link>
+            <guid>https://n.news.naver.com/article/469/0000698263</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698263.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한일 정상 만남, 일본은 ‘간담’이라 표현… 한국은 ‘약식 회담’]]></title>
+            <link>https://n.news.naver.com/article/469/0000698208</link>
+            <guid>https://n.news.naver.com/article/469/0000698208</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698208.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 기시다 "납북자 문제 해결 위해 김정은과 조건 없이 만나겠다"]]></title>
+            <link>https://n.news.naver.com/article/469/0000698063</link>
+            <guid>https://n.news.naver.com/article/469/0000698063</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/21/698063.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄 총리관저 인근서 남성 분신… “아베 국장 반대” 문서 발견]]></title>
+            <link>https://n.news.naver.com/article/469/0000698002</link>
+            <guid>https://n.news.naver.com/article/469/0000698002</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/21/698002.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“기시다, 정상회담 일방적 발표한 한국에 강한 불쾌감”]]></title>
+            <link>https://n.news.naver.com/article/469/0000697997</link>
+            <guid>https://n.news.naver.com/article/469/0000697997</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/21/697997.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 남성의 캐디 '막장 성추행' 영상에 태국인들 격분]]></title>
+            <link>https://n.news.naver.com/article/469/0000697878</link>
+            <guid>https://n.news.naver.com/article/469/0000697878</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.20.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/20/697878.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 "한일 정상회담, 아무것도 정해지지 않았다"]]></title>
+            <link>https://n.news.naver.com/article/469/0000697821</link>
+            <guid>https://n.news.naver.com/article/469/0000697821</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.20.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/20/697821.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["교토 아파트 30% 올랐다"...'엔저'에 일본 부동산 싹쓸이하는 외국인]]></title>
+            <link>https://n.news.naver.com/article/469/0000697684</link>
+            <guid>https://n.news.naver.com/article/469/0000697684</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.19.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/19/697684.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["가건물이 50m 날아가"... 태풍 '난마돌'에 일본서 3명 사망·실종]]></title>
+            <link>https://n.news.naver.com/article/469/0000697681</link>
+            <guid>https://n.news.naver.com/article/469/0000697681</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.19.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/19/697681.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘베라’ ‘낸시’급 초강력 태풍 ‘난마돌’ 일본 상륙… 734만명에 대피 권고]]></title>
+            <link>https://n.news.naver.com/article/469/0000697511</link>
+            <guid>https://n.news.naver.com/article/469/0000697511</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697511.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["가로수 뽑힐 강풍 동반"...난마돌 접근에 일본 '비상']]></title>
+            <link>https://n.news.naver.com/article/469/0000697473</link>
+            <guid>https://n.news.naver.com/article/469/0000697473</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697473.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[르포] "2시간 기다려도 괜찮아요"...3년 만에 열린 '도쿄 게임쇼'에 구름 관중]]></title>
+            <link>https://n.news.naver.com/article/469/0000697462</link>
+            <guid>https://n.news.naver.com/article/469/0000697462</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697462.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[17세에 대학 간 ‘과학 천재’가 화물차 모는 이유[특파원24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000697430</link>
+            <guid>https://n.news.naver.com/article/469/0000697430</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697430.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 "전례 없는 위험한 태풍" 난마돌에 특별경보 발령]]></title>
+            <link>https://n.news.naver.com/article/469/0000697407</link>
+            <guid>https://n.news.naver.com/article/469/0000697407</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/18/697407.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본의 '군사적 반격 능력' 확보 야심에 미국 "강한 지지"]]></title>
+            <link>https://n.news.naver.com/article/469/0000697265</link>
+            <guid>https://n.news.naver.com/article/469/0000697265</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.16.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/16/697265.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['尹·기시다 정상회담 합의' 발표에 일본은 "결정 안 돼"]]></title>
+            <link>https://n.news.naver.com/article/469/0000697071</link>
+            <guid>https://n.news.naver.com/article/469/0000697071</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.15.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/15/697071.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령, 유엔총회 계기 한미·한일 정상회담 갖는다]]></title>
+            <link>https://n.news.naver.com/article/469/0000697052</link>
+            <guid>https://n.news.naver.com/article/469/0000697052</guid>
+            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.15.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/15/697052.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
