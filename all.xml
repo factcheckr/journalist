@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 17:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 06:00:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000700010</link>
             <guid>https://n.news.naver.com/article/469/0000700010</guid>
             <pubDate>Sun, 02 Oct 2022 17:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/02/700010.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000699429</link>
             <guid>https://n.news.naver.com/article/469/0000699429</guid>
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000698996</link>
             <guid>https://n.news.naver.com/article/469/0000698996</guid>
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/27/698996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -492,7 +492,7 @@
             <link>https://n.news.naver.com/article/308/0000031518</link>
             <guid>https://n.news.naver.com/article/308/0000031518</guid>
             <pubDate>Thu, 29 Sep 2022 06:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/29/31518.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -728,6 +728,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기자들의 시선] “내가 마흐사 아미니다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031539</link>
+            <guid>https://n.news.naver.com/article/308/0000031539</guid>
+            <pubDate>Mon, 03 Oct 2022 05:59:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/03/31539.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[신뢰도 조사] 가장 신뢰하는 정치인은 이재명 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031461</link>
             <guid>https://n.news.naver.com/article/308/0000031461</guid>
@@ -958,14 +966,6 @@
             <pubDate>Fri, 23 Sep 2022 06:26:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30648.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열심히 투표한 당신 왜 찍고 왜 안 찍었나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030593</link>
-            <guid>https://n.news.naver.com/article/308/0000030593</guid>
-            <pubDate>Fri, 23 Sep 2022 06:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/24/30593.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

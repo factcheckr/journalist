@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 17:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 06:00:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자들의 시선] “내가 마흐사 아미니다”]]></title>
+            <link>https://n.news.naver.com/article/308/0000031539</link>
+            <guid>https://n.news.naver.com/article/308/0000031539</guid>
+            <pubDate>Mon, 03 Oct 2022 05:59:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/03/31539.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신뢰도 조사] 가장 신뢰하는 정치인은 이재명]]></title>
             <link>https://n.news.naver.com/article/308/0000031461</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Sep 2022 06:26:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30648.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열심히 투표한 당신 왜 찍고 왜 안 찍었나]]></title>
-            <link>https://n.news.naver.com/article/308/0000030593</link>
-            <guid>https://n.news.naver.com/article/308/0000030593</guid>
-            <pubDate>Fri, 23 Sep 2022 06:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/24/30593.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
