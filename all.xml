@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 17:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 06:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000700249</link>
             <guid>https://n.news.naver.com/article/469/0000700249</guid>
             <pubDate>Tue, 04 Oct 2022 06:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/04/700249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000700218</link>
             <guid>https://n.news.naver.com/article/469/0000700218</guid>
             <pubDate>Tue, 04 Oct 2022 06:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/04/700218.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000700212</link>
             <guid>https://n.news.naver.com/article/469/0000700212</guid>
             <pubDate>Tue, 04 Oct 2022 06:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/04/700212.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000699429</link>
             <guid>https://n.news.naver.com/article/469/0000699429</guid>
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://n.news.naver.com/article/469/0000698996</link>
             <guid>https://n.news.naver.com/article/469/0000698996</guid>
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/27/698996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -248,11 +248,251 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/20/697821.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기자들의 시선] 국산 1호 코로나19 백신 접종 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031478</link>
+            <guid>https://n.news.naver.com/article/308/0000031478</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.19.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31478.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부 재난 대응, 매뉴얼만 있고 책임은 없다? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031385</link>
+            <guid>https://n.news.naver.com/article/308/0000031385</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.29.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/29/31385.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달로 간 다누리 앞에 놓인 6개의 미션 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031375</link>
+            <guid>https://n.news.naver.com/article/308/0000031375</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.26.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/26/31375.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작고 여린 몸을 따라 움직이는 의사 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031266</link>
+            <guid>https://n.news.naver.com/article/308/0000031266</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.04.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/04/31266.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제임스 웹 우주망원경이 건넨 선물 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031248</link>
+            <guid>https://n.news.naver.com/article/308/0000031248</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.01.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/01/31248.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝날 것 같았던 코로나 파도 얼마나 거세질까 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031211</link>
+            <guid>https://n.news.naver.com/article/308/0000031211</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/25/31211.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[외신 한 컷] 우크라이나 크레멘추크, 18명 사망, 36명 실종 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031162</link>
+            <guid>https://n.news.naver.com/article/308/0000031162</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.15.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/15/31162.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 러브버그의 습격, 출몰의 배경은? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031141</link>
+            <guid>https://n.news.naver.com/article/308/0000031141</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.11.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/11/31141.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그의 낙선 인사, 왜 이렇게 명랑하지? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031075</link>
+            <guid>https://n.news.naver.com/article/308/0000031075</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.27.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/27/31075.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프리 스타일] '성공'의 K방역과 남겨진 재난의 흔적 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031054</link>
+            <guid>https://n.news.naver.com/article/308/0000031054</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.23.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/23/31054.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 리추얼이 사라진 시대의 우리 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031043</link>
+            <guid>https://n.news.naver.com/article/308/0000031043</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.20.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/20/31043.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘제로 코로나’와 ‘위드 코로나’ 사이, 중국의 진퇴양난 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030853</link>
+            <guid>https://n.news.naver.com/article/308/0000030853</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.14.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/14/30853.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[취재 뒷담화] 가로세로연구소 콘서트, 직접 다녀왔습니다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030815</link>
+            <guid>https://n.news.naver.com/article/308/0000030815</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/06/30815.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 사랑하니까, 달리 보이더라 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030811</link>
+            <guid>https://n.news.naver.com/article/308/0000030811</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30811.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[외신 한 컷] 스리랑카 시민들은 왜 거리로 나왔나 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030808</link>
+            <guid>https://n.news.naver.com/article/308/0000030808</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30808.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[길 위의 저 냉장고, 어쩐 일로 여기에? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030805</link>
+            <guid>https://n.news.naver.com/article/308/0000030805</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.04.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/04/30805.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프리스타일] 오미크론의 정점, 요양시설에 가보니 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030799</link>
+            <guid>https://n.news.naver.com/article/308/0000030799</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.03.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/03/30799.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 일론 머스크, 트위터까지 손에 넣을까 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030761</link>
+            <guid>https://n.news.naver.com/article/308/0000030761</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.26.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/26/30761.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 중국 상하이 봉쇄, SF 아닌 현실 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030724</link>
+            <guid>https://n.news.naver.com/article/308/0000030724</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.19.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/19/30724.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[요양시설 르포] 어르신, 의사가 왔어요 팬데믹 3년 만에요 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030718</link>
+            <guid>https://n.news.naver.com/article/308/0000030718</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/18/30718.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대학기자상] “모두가 떠나면 아무것도 바뀌지 않는다” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030643</link>
+            <guid>https://n.news.naver.com/article/308/0000030643</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.03.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/03/30643.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대학기자상] 청소노동자의 파업, 이후 7년 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030635</link>
+            <guid>https://n.news.naver.com/article/308/0000030635</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.02.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/02/30635.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대학기자상] 학생들은 여전히 ‘비싼’ 기숙사비를 낸다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030628</link>
+            <guid>https://n.news.naver.com/article/308/0000030628</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.01.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/01/30628.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대학기자상] 죽음 이후에도 ‘차별’은 이어진다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030626</link>
+            <guid>https://n.news.naver.com/article/308/0000030626</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.03.31.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/31/30626.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대학기자상] 판결문 424개로 들여다 본 음주운전 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030617</link>
+            <guid>https://n.news.naver.com/article/308/0000030617</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.03.30.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/30/30617.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대학기자상] 학교가 사라졌다, 동네가 무너졌다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030614</link>
+            <guid>https://n.news.naver.com/article/308/0000030614</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.03.29.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/29/30614.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명•윤석열 모두 외친 소상공인 50조원, 발언만 화끈해? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030505</link>
+            <guid>https://n.news.naver.com/article/308/0000030505</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.03.07.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30505.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 팬데믹의 끝, 최선의 결말은 무엇일까 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030436</link>
+            <guid>https://n.news.naver.com/article/308/0000030436</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/25/30436.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프리스타일] ‘여섯 글자’ 공약 뒤에는 어떤 삶이 있다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030427</link>
+            <guid>https://n.news.naver.com/article/308/0000030427</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/24/30427.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[취재 뒷담화] ‘방구석 정치토크’에 여러분, 초대합니다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030421</link>
+            <guid>https://n.news.naver.com/article/308/0000030421</guid>
+            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.23.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/23/30421.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[10년 만에 돌아온 ‘사랑의 시인’ (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031518</link>
             <guid>https://n.news.naver.com/article/308/0000031518</guid>
             <pubDate>Thu, 29 Sep 2022 06:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/29/31518.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -492,7 +732,7 @@
             <link>https://n.news.naver.com/article/308/0000031539</link>
             <guid>https://n.news.naver.com/article/308/0000031539</guid>
             <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/03/31539.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
