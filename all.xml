@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 05:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 17:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한일 정상 25분 전화 통화… “북한 미사일 발사 대응에 긴밀히 협력” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000700846</link>
+            <guid>https://n.news.naver.com/article/469/0000700846</guid>
+            <pubDate>Thu, 06 Oct 2022 17:52:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700846.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 언론 “한일 정상 통화 의제는 북한...강제 동원은 뺄 듯” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000700712</link>
             <guid>https://n.news.naver.com/article/469/0000700712</guid>
             <pubDate>Thu, 06 Oct 2022 05:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700712.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000700669</link>
             <guid>https://n.news.naver.com/article/469/0000700669</guid>
             <pubDate>Thu, 06 Oct 2022 05:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700669.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000700571</link>
             <guid>https://n.news.naver.com/article/469/0000700571</guid>
             <pubDate>Wed, 05 Oct 2022 18:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/05/700571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000700140</link>
             <guid>https://n.news.naver.com/article/469/0000700140</guid>
             <pubDate>Mon, 03 Oct 2022 17:59:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/03/700140.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000700010</link>
             <guid>https://n.news.naver.com/article/469/0000700010</guid>
             <pubDate>Sun, 02 Oct 2022 17:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/02/700010.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000699835</link>
             <guid>https://n.news.naver.com/article/469/0000699835</guid>
             <pubDate>Fri, 30 Sep 2022 17:54:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/30/699835.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000699817</link>
             <guid>https://n.news.naver.com/article/469/0000699817</guid>
             <pubDate>Sun, 02 Oct 2022 17:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/30/699817.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000699671</link>
             <guid>https://n.news.naver.com/article/469/0000699671</guid>
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699671.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000699620</link>
             <guid>https://n.news.naver.com/article/469/0000699620</guid>
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +124,7 @@
             <link>https://n.news.naver.com/article/469/0000699612</link>
             <guid>https://n.news.naver.com/article/469/0000699612</guid>
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699612.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +132,7 @@
             <link>https://n.news.naver.com/article/469/0000699558</link>
             <guid>https://n.news.naver.com/article/469/0000699558</guid>
             <pubDate>Tue, 04 Oct 2022 17:59:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +148,7 @@
             <link>https://n.news.naver.com/article/469/0000699408</link>
             <guid>https://n.news.naver.com/article/469/0000699408</guid>
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/28/699408.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +156,7 @@
             <link>https://n.news.naver.com/article/469/0000699378</link>
             <guid>https://n.news.naver.com/article/469/0000699378</guid>
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.09.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/28/699378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698208.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 기시다 "납북자 문제 해결 위해 김정은과 조건 없이 만나겠다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000698063</link>
-            <guid>https://n.news.naver.com/article/469/0000698063</guid>
-            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/21/698063.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] 국산 1호 코로나19 백신 접종 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -492,7 +492,7 @@
             <link>https://n.news.naver.com/article/308/0000031554</link>
             <guid>https://n.news.naver.com/article/308/0000031554</guid>
             <pubDate>Thu, 06 Oct 2022 05:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/06/31554.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
