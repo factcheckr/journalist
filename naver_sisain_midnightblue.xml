@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 18:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 05:59:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 출생통보제 왜 필요할까요?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031554</link>
+            <guid>https://n.news.naver.com/article/308/0000031554</guid>
+            <pubDate>Thu, 06 Oct 2022 05:59:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/06/31554.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10년 만에 돌아온 ‘사랑의 시인’]]></title>
             <link>https://n.news.naver.com/article/308/0000031518</link>
             <guid>https://n.news.naver.com/article/308/0000031518</guid>
             <pubDate>Thu, 29 Sep 2022 06:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/29/31518.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 29 Sep 2022 06:41:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30655.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재 뒷담화] 도심 기자회견장부터 전국의 오지까지]]></title>
-            <link>https://n.news.naver.com/article/308/0000030651</link>
-            <guid>https://n.news.naver.com/article/308/0000030651</guid>
-            <pubDate>Thu, 29 Sep 2022 06:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
