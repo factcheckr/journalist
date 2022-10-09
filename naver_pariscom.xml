@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Oct 2022 05:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 17:48:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤덕민 "한일 정상 뉴욕 약식회담, 저자세 외교 아니다"]]></title>
+            <link>https://n.news.naver.com/article/469/0000701180</link>
+            <guid>https://n.news.naver.com/article/469/0000701180</guid>
+            <pubDate>Sun, 09 Oct 2022 17:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701180.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쌀 치즈, 쌀 맥주에 쌀 고기까지... 쌀 식품 개발 활발한 일본]]></title>
+            <link>https://n.news.naver.com/article/469/0000701173</link>
+            <guid>https://n.news.naver.com/article/469/0000701173</guid>
+            <pubDate>Sun, 09 Oct 2022 17:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701173.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한일 정상 25분 전화 통화… “북한 미사일 발사 대응에 긴밀히 협력”]]></title>
             <link>https://n.news.naver.com/article/469/0000700846</link>
             <guid>https://n.news.naver.com/article/469/0000700846</guid>
             <pubDate>Thu, 06 Oct 2022 17:52:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700846.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000700140</link>
             <guid>https://n.news.naver.com/article/469/0000700140</guid>
             <pubDate>Sun, 09 Oct 2022 05:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/03/700140.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000700010</link>
             <guid>https://n.news.naver.com/article/469/0000700010</guid>
             <pubDate>Sat, 08 Oct 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/02/700010.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000699997</link>
             <guid>https://n.news.naver.com/article/469/0000699997</guid>
             <pubDate>Sat, 08 Oct 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/02/699997.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698357.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본은행, 24년 만에 '엔 매수' 직접 개입... "기대 효과는 한정적"]]></title>
-            <link>https://n.news.naver.com/article/469/0000698352</link>
-            <guid>https://n.news.naver.com/article/469/0000698352</guid>
-            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698352.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 사도광산 세계문화유산 등록 재도전... 다음주 신청]]></title>
-            <link>https://n.news.naver.com/article/469/0000698263</link>
-            <guid>https://n.news.naver.com/article/469/0000698263</guid>
-            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698263.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
