@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Oct 2022 06:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 18:00:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000701180</link>
             <guid>https://n.news.naver.com/article/469/0000701180</guid>
             <pubDate>Sun, 09 Oct 2022 17:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000701173</link>
             <guid>https://n.news.naver.com/article/469/0000701173</guid>
             <pubDate>Sun, 09 Oct 2022 17:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701173.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000700846</link>
             <guid>https://n.news.naver.com/article/469/0000700846</guid>
             <pubDate>Thu, 06 Oct 2022 17:52:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700846.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700712.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 "北 미사일 두 발, 각각  350㎞,  800㎞ 비행 가능성" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000700669</link>
-            <guid>https://n.news.naver.com/article/469/0000700669</guid>
-            <pubDate>Thu, 06 Oct 2022 05:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700669.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘간토대지진 조선인 학살 추모’ 일본서 애쓰는 청년들 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000700507</link>
             <guid>https://n.news.naver.com/article/469/0000700507</guid>
             <pubDate>Wed, 05 Oct 2022 18:01:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/05/700507.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 미사일 영공 통과에 열도 발칵…'신칸센 멈추고 임시 휴교까지' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000700352</link>
+            <guid>https://n.news.naver.com/article/469/0000700352</guid>
+            <pubDate>Mon, 10 Oct 2022 17:59:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/04/700352.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북한 미사일 상공 통과에 일본 '충격'...대피령 등 비상대응도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000700140</link>
             <guid>https://n.news.naver.com/article/469/0000700140</guid>
             <pubDate>Sun, 09 Oct 2022 05:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/03/700140.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000700010</link>
             <guid>https://n.news.naver.com/article/469/0000700010</guid>
             <pubDate>Sat, 08 Oct 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/02/700010.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -726,246 +726,6 @@
             <pubDate>Thu, 29 Sep 2022 06:41:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30655.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] “내가 마흐사 아미니다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031539</link>
-            <guid>https://n.news.naver.com/article/308/0000031539</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/03/31539.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신뢰도 조사] 가장 신뢰하는 정치인은 이재명 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031461</link>
-            <guid>https://n.news.naver.com/article/308/0000031461</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/13/31461.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신뢰도 조사] 신뢰도 가장 낮은 현직 대통령 윤석열 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031457</link>
-            <guid>https://n.news.naver.com/article/308/0000031457</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/12/31457.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열‧이준석 갈등은 2024 총선 공천권 샅바싸움? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031422</link>
-            <guid>https://n.news.naver.com/article/308/0000031422</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/05/31422.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미중 사이 갈팡질팡, 윤석열 외교 정책은 어디에 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031363</link>
-            <guid>https://n.news.naver.com/article/308/0000031363</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/24/31363.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열vs이준석의 3차전 엔드게임, 퇴로가 없다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031305</link>
-            <guid>https://n.news.naver.com/article/308/0000031305</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/12/31305.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은퇴를 생각할 나이, ‘다시 시작’ 버튼을 눌렀다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031292</link>
-            <guid>https://n.news.naver.com/article/308/0000031292</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/10/31292.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 해외 순방 체면 구긴 바이든 대통령 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031219</link>
-            <guid>https://n.news.naver.com/article/308/0000031219</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/26/31219.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 미국 엘리트의  솔직한 심경 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031196</link>
-            <guid>https://n.news.naver.com/article/308/0000031196</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행보마다 사고, 사라지지 않는 김건희 리스크 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031118</link>
-            <guid>https://n.news.naver.com/article/308/0000031118</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31118.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리스타일] 검사가 아니었어도 이렇게 끝났을까 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031110</link>
-            <guid>https://n.news.naver.com/article/308/0000031110</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/05/31110.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 성동구에 꽂힌 유일한 파란 깃발, 그는 어떻게 승리했나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031086</link>
-            <guid>https://n.news.naver.com/article/308/0000031086</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/29/31086.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[51명의 검사 징계 내역을 공개합니다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031047</link>
-            <guid>https://n.news.naver.com/article/308/0000031047</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31047.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부 5년의 ‘검찰개혁’을 묻다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031046</link>
-            <guid>https://n.news.naver.com/article/308/0000031046</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31046.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 김건희 여사의 잇따른 행보, ‘제2부속실 폐지’ 괜찮나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031045</link>
-            <guid>https://n.news.naver.com/article/308/0000031045</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31045.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 비대위가 주목해야 할 세 가지 숫자 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031010</link>
-            <guid>https://n.news.naver.com/article/308/0000031010</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/13/31010.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불꽃'같은 낯선 존재, 박지현의 80일 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030980</link>
-            <guid>https://n.news.naver.com/article/308/0000030980</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/06/30980.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송영길의 ‘견제론’vs 오세훈의 ‘준비된 미래’ (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030924</link>
-            <guid>https://n.news.naver.com/article/308/0000030924</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시원 검사는 진짜 ‘간첩 조작’ 몰랐을까 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030912</link>
-            <guid>https://n.news.naver.com/article/308/0000030912</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이해충돌 논란, 윤석열 정부 공직자의 자격을 묻다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030865</link>
-            <guid>https://n.news.naver.com/article/308/0000030865</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/17/30865.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인주의자를 위한 국내 최초 ‘북한학 전문’ 동네책방 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030852</link>
-            <guid>https://n.news.naver.com/article/308/0000030852</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/14/30852.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 아무도 잊히지 말자, 우리가 끝낼 때까지 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030840</link>
-            <guid>https://n.news.naver.com/article/308/0000030840</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/12/30840.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재 뒷담화] 박진 검증 위해, 캐나다 등 전세계 사이트 검색 중 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030836</link>
-            <guid>https://n.news.naver.com/article/308/0000030836</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/11/30836.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 윤석열 정부 국정과제, 공약서 빠진 내용은? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030834</link>
-            <guid>https://n.news.naver.com/article/308/0000030834</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리스타일] 어느 날, 유우성씨에게 연락이 왔다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030831</link>
-            <guid>https://n.news.naver.com/article/308/0000030831</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이들을 보라, 이들이 메시지다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030791</link>
-            <guid>https://n.news.naver.com/article/308/0000030791</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] ‘부모 찬스’ 쓴 미성년자 논문, 공식 확인됐다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030789</link>
-            <guid>https://n.news.naver.com/article/308/0000030789</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“페미니즘 정치와 계급 정치 연계시킬 토양 탄탄하게 존재한다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030737</link>
-            <guid>https://n.news.naver.com/article/308/0000030737</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030688</link>
-            <guid>https://n.news.naver.com/article/308/0000030688</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20대 남녀 투표, 이 지점에서 극명히 갈렸다 [대선 표심 분석] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030648</link>
-            <guid>https://n.news.naver.com/article/308/0000030648</guid>
-            <pubDate>Tue, 04 Oct 2022 17:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30648.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Oct 2022 06:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 18:00:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000701180</link>
             <guid>https://n.news.naver.com/article/469/0000701180</guid>
             <pubDate>Sun, 09 Oct 2022 17:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000701173</link>
             <guid>https://n.news.naver.com/article/469/0000701173</guid>
             <pubDate>Sun, 09 Oct 2022 17:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701173.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000700846</link>
             <guid>https://n.news.naver.com/article/469/0000700846</guid>
             <pubDate>Thu, 06 Oct 2022 17:52:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700846.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700712.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 "北 미사일 두 발, 각각  350㎞,  800㎞ 비행 가능성"]]></title>
-            <link>https://n.news.naver.com/article/469/0000700669</link>
-            <guid>https://n.news.naver.com/article/469/0000700669</guid>
-            <pubDate>Thu, 06 Oct 2022 05:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700669.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘간토대지진 조선인 학살 추모’ 일본서 애쓰는 청년들]]></title>
             <link>https://n.news.naver.com/article/469/0000700507</link>
             <guid>https://n.news.naver.com/article/469/0000700507</guid>
             <pubDate>Wed, 05 Oct 2022 18:01:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/05/700507.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 미사일 영공 통과에 열도 발칵…'신칸센 멈추고 임시 휴교까지']]></title>
+            <link>https://n.news.naver.com/article/469/0000700352</link>
+            <guid>https://n.news.naver.com/article/469/0000700352</guid>
+            <pubDate>Mon, 10 Oct 2022 17:59:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/04/700352.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북한 미사일 상공 통과에 일본 '충격'...대피령 등 비상대응도]]></title>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000700140</link>
             <guid>https://n.news.naver.com/article/469/0000700140</guid>
             <pubDate>Sun, 09 Oct 2022 05:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/03/700140.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000700010</link>
             <guid>https://n.news.naver.com/article/469/0000700010</guid>
             <pubDate>Sat, 08 Oct 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/02/700010.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
