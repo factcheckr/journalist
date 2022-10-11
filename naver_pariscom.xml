@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Oct 2022 18:00:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 06:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["도쿄대가 '메타버스 공학 수업'을 개방한 이유요? '다양성'이죠!"]]></title>
+            <link>https://n.news.naver.com/article/469/0000701435</link>
+            <guid>https://n.news.naver.com/article/469/0000701435</guid>
+            <pubDate>Tue, 11 Oct 2022 06:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/11/701435.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤덕민 "한일 정상 뉴욕 약식회담, 저자세 외교 아니다"]]></title>
             <link>https://n.news.naver.com/article/469/0000701180</link>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000700712</link>
             <guid>https://n.news.naver.com/article/469/0000700712</guid>
             <pubDate>Thu, 06 Oct 2022 05:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700712.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000700507</link>
             <guid>https://n.news.naver.com/article/469/0000700507</guid>
             <pubDate>Wed, 05 Oct 2022 18:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/05/700507.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000700249</link>
             <guid>https://n.news.naver.com/article/469/0000700249</guid>
             <pubDate>Tue, 04 Oct 2022 06:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/04/700249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000700218</link>
             <guid>https://n.news.naver.com/article/469/0000700218</guid>
             <pubDate>Tue, 04 Oct 2022 06:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/04/700218.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000700212</link>
             <guid>https://n.news.naver.com/article/469/0000700212</guid>
             <pubDate>Tue, 04 Oct 2022 06:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/04/700212.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/23/698398.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 열린 일본 최대 관광박람회, '한국관'이 가장 뜨겁다]]></title>
-            <link>https://n.news.naver.com/article/469/0000698357</link>
-            <guid>https://n.news.naver.com/article/469/0000698357</guid>
-            <pubDate>Fri, 30 Sep 2022 06:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/22/698357.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
