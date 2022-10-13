@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 06:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 18:02:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,23 +12,23 @@
             <link>https://n.news.naver.com/article/469/0000701865</link>
             <guid>https://n.news.naver.com/article/469/0000701865</guid>
             <pubDate>Thu, 13 Oct 2022 06:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>35분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/13/701865.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["일본 방위비 5년 후 2배로...5년간 총 421조 쓴다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000701691</link>
-            <guid>https://n.news.naver.com/article/469/0000701691</guid>
-            <pubDate>Thu, 13 Oct 2022 06:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/12/701691.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA["문어방에 갇혀 중노동, 영양실조로 사망도"... 조선인 강제노역의 실상 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000701628</link>
+            <guid>https://n.news.naver.com/article/469/0000701628</guid>
+            <pubDate>Thu, 13 Oct 2022 18:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/12/701628.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["여행 가면 10만 원 드려요!"...일본, 관광업계 살리기 총력 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000701503</link>
             <guid>https://n.news.naver.com/article/469/0000701503</guid>
             <pubDate>Wed, 12 Oct 2022 18:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/11/701503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000701180</link>
             <guid>https://n.news.naver.com/article/469/0000701180</guid>
             <pubDate>Sun, 09 Oct 2022 17:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000701173</link>
             <guid>https://n.news.naver.com/article/469/0000701173</guid>
             <pubDate>Sun, 09 Oct 2022 17:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701173.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000700846</link>
             <guid>https://n.news.naver.com/article/469/0000700846</guid>
             <pubDate>Thu, 06 Oct 2022 17:52:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/06/700846.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000700571</link>
             <guid>https://n.news.naver.com/article/469/0000700571</guid>
             <pubDate>Tue, 11 Oct 2022 17:52:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/05/700571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
