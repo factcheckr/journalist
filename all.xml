@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 06:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 17:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/13/701865.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["일본 방위비 5년 후 2배로...5년간 총 421조 쓴다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000701691</link>
-            <guid>https://n.news.naver.com/article/469/0000701691</guid>
-            <pubDate>Sat, 15 Oct 2022 06:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/12/701691.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["문어방에 갇혀 중노동, 영양실조로 사망도"... 조선인 강제노역의 실상 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000701628</link>
             <guid>https://n.news.naver.com/article/469/0000701628</guid>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000701503</link>
             <guid>https://n.news.naver.com/article/469/0000701503</guid>
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/11/701503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000701180</link>
             <guid>https://n.news.naver.com/article/469/0000701180</guid>
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,8 +60,16 @@
             <link>https://n.news.naver.com/article/469/0000701173</link>
             <guid>https://n.news.naver.com/article/469/0000701173</guid>
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701173.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 “북한 탄도미사일 350km 비행… SLBM 가능성” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000701136</link>
+            <guid>https://n.news.naver.com/article/469/0000701136</guid>
+            <pubDate>Sat, 15 Oct 2022 17:48:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701136.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한일 정상 25분 전화 통화… “북한 미사일 발사 대응에 긴밀히 협력” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -486,6 +486,246 @@
             <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/25/30436.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 출생통보제 왜 필요할까요? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031554</link>
+            <guid>https://n.news.naver.com/article/308/0000031554</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.10.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/06/31554.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10년 만에 돌아온 ‘사랑의 시인’ (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031518</link>
+            <guid>https://n.news.naver.com/article/308/0000031518</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.29.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/29/31518.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걸그룹 초강세 ‘여덕’이 이끈다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031492</link>
+            <guid>https://n.news.naver.com/article/308/0000031492</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/22/31492.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생략한 이야기 오래 남는 기사 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031479</link>
+            <guid>https://n.news.naver.com/article/308/0000031479</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.19.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31479.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘헤결’ 정서경 작가, “‘작은 아씨들’에 굵으면서도 섬세한 이야길 담고 싶다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031466</link>
+            <guid>https://n.news.naver.com/article/308/0000031466</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.15.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/15/31466.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[큰 개는 다 위험해? 편견이 낳은 입마개 논란 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031449</link>
+            <guid>https://n.news.naver.com/article/308/0000031449</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.09.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31449.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도시의 빈틈 살피러 반려견 순찰대가 간다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031448</link>
+            <guid>https://n.news.naver.com/article/308/0000031448</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.09.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31448.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] “내가 보이면 울어라.” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031391</link>
+            <guid>https://n.news.naver.com/article/308/0000031391</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.30.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/30/31391.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡플레이 ‘안나’ 사태가 남긴 것 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031358</link>
+            <guid>https://n.news.naver.com/article/308/0000031358</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.23.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/23/31358.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신도 ‘돈 안쓰기’ 챌린지에 빠지셨나요? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031341</link>
+            <guid>https://n.news.naver.com/article/308/0000031341</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.19.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/19/31341.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘가상 인간’ 세계,  우리는 가짜가 아니다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031199</link>
+            <guid>https://n.news.naver.com/article/308/0000031199</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31199.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘퀴어적 시선’으로 사회적 참사를 들여다본다는 것 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031165</link>
+            <guid>https://n.news.naver.com/article/308/0000031165</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.15.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/15/31165.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겸손하게, 그리고 압도적으로, ‘소수적 감성’을 짚다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031149</link>
+            <guid>https://n.news.naver.com/article/308/0000031149</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.13.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/13/31149.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원격근무제, 누구에겐 뉴노멀 누구에겐 ‘그림의 떡’ (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031116</link>
+            <guid>https://n.news.naver.com/article/308/0000031116</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31116.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 당신의 마법이 지구를 구할 것이다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031115</link>
+            <guid>https://n.news.naver.com/article/308/0000031115</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31115.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언론이 '김건희 패션 보도'에서 놓치고 있는 것 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031079</link>
+            <guid>https://n.news.naver.com/article/308/0000031079</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.28.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/28/31079.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 이준석·배현진의 ‘살벌한’ 인사 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031072</link>
+            <guid>https://n.news.naver.com/article/308/0000031072</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.27.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/27/31072.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발달장애인 딸의 죽음 그 뒤에 ‘등급 조사’ 있다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031020</link>
+            <guid>https://n.news.naver.com/article/308/0000031020</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.15.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/15/31020.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디시인사이드 우울증갤러리 수사는 왜 중단됐나 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030987</link>
+            <guid>https://n.news.naver.com/article/308/0000030987</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.08.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/08/30987.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘자가’와 ‘세입자’로 산불 이재민 지원금도 차별? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030944</link>
+            <guid>https://n.news.naver.com/article/308/0000030944</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.31.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/31/30944.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기후위기 시대, ‘고기를 먹느냐 마느냐’에서 ‘얼마나 먹느냐’로 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030915</link>
+            <guid>https://n.news.naver.com/article/308/0000030915</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30915.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기후위기 시대, 축산업계의 딜레마 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030905</link>
+            <guid>https://n.news.naver.com/article/308/0000030905</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/24/30905.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘육식=기후악당?’ 근거가 왜 이렇게 다른가 봤더니 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030900</link>
+            <guid>https://n.news.naver.com/article/308/0000030900</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.23.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/23/30900.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[을지OB베어, 끝내 사라진 을지로의 빛나는 순간 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030870</link>
+            <guid>https://n.news.naver.com/article/308/0000030870</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/18/30870.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 가족은 왜 청와대 앞에서 삭발을 했을까 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030807</link>
+            <guid>https://n.news.naver.com/article/308/0000030807</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30807.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명의 ‘개딸’들이 민주당에 미치는 영향 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030766</link>
+            <guid>https://n.news.naver.com/article/308/0000030766</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.27.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/27/30766.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박근혜에게 가세연은 아낌없이 주는 나무? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030727</link>
+            <guid>https://n.news.naver.com/article/308/0000030727</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.19.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/19/30727.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 어서 와, 이런 언니는 처음이지? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030667</link>
+            <guid>https://n.news.naver.com/article/308/0000030667</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.08.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/08/30667.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“정치인 아니라 동료에게 보내는 글을 씁니다.” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030657</link>
+            <guid>https://n.news.naver.com/article/308/0000030657</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/06/30657.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 일본 교과서에 ‘종군 위안부’ 표현 빠진다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030655</link>
+            <guid>https://n.news.naver.com/article/308/0000030655</guid>
+            <pubDate>Sat, 15 Oct 2022 17:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] “내가 마흐사 아미니다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>

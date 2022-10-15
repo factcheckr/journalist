@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 06:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 17:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/13/701865.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["일본 방위비 5년 후 2배로...5년간 총 421조 쓴다"]]></title>
-            <link>https://n.news.naver.com/article/469/0000701691</link>
-            <guid>https://n.news.naver.com/article/469/0000701691</guid>
-            <pubDate>Sat, 15 Oct 2022 06:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/12/701691.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["문어방에 갇혀 중노동, 영양실조로 사망도"... 조선인 강제노역의 실상]]></title>
             <link>https://n.news.naver.com/article/469/0000701628</link>
             <guid>https://n.news.naver.com/article/469/0000701628</guid>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000701503</link>
             <guid>https://n.news.naver.com/article/469/0000701503</guid>
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/11/701503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000701180</link>
             <guid>https://n.news.naver.com/article/469/0000701180</guid>
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,8 +60,16 @@
             <link>https://n.news.naver.com/article/469/0000701173</link>
             <guid>https://n.news.naver.com/article/469/0000701173</guid>
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701173.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 “북한 탄도미사일 350km 비행… SLBM 가능성”]]></title>
+            <link>https://n.news.naver.com/article/469/0000701136</link>
+            <guid>https://n.news.naver.com/article/469/0000701136</guid>
+            <pubDate>Sat, 15 Oct 2022 17:48:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701136.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한일 정상 25분 전화 통화… “북한 미사일 발사 대응에 긴밀히 협력”]]></title>
