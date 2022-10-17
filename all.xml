@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 06:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 18:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[집 지을 때 태양광 패널 의무화... 도쿄에선 성공한 이유는 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <title><![CDATA[기시다, '아베 사망 책임' 통일교 조사권 첫 발동... 해산 명령할 수도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000702514</link>
+            <guid>https://n.news.naver.com/article/469/0000702514</guid>
+            <pubDate>Mon, 17 Oct 2022 18:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/17/702514.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집 지을 때 태양광 패널 의무화, 도쿄 시민은 찬성하는 이유 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000702500</link>
             <guid>https://n.news.naver.com/article/469/0000702500</guid>
             <pubDate>Mon, 17 Oct 2022 06:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/17/702500.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000702422</link>
             <guid>https://n.news.naver.com/article/469/0000702422</guid>
             <pubDate>Mon, 17 Oct 2022 06:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/17/702422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000701691</link>
             <guid>https://n.news.naver.com/article/469/0000701691</guid>
             <pubDate>Sun, 16 Oct 2022 17:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/12/701691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000701503</link>
             <guid>https://n.news.naver.com/article/469/0000701503</guid>
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/11/701503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000701180</link>
             <guid>https://n.news.naver.com/article/469/0000701180</guid>
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000701173</link>
             <guid>https://n.news.naver.com/article/469/0000701173</guid>
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701173.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699612.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뻔한 말한 기시다, 심금 울린 스가…아베 추도사 엇갈린 '희비' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000699558</link>
-            <guid>https://n.news.naver.com/article/469/0000699558</guid>
-            <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코로나 대응, 현장을 가다] 팀 의료로 지역사회 돌봄 정착 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -732,7 +732,7 @@
             <link>https://n.news.naver.com/article/308/0000031608</link>
             <guid>https://n.news.naver.com/article/308/0000031608</guid>
             <pubDate>Mon, 17 Oct 2022 06:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/17/31608.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
