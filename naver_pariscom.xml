@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 06:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 18:01:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["노년층 부담 더 확대"...초고령 사회 일본, 연금·보험 개혁 시동]]></title>
+            <link>https://n.news.naver.com/article/469/0000702774</link>
+            <guid>https://n.news.naver.com/article/469/0000702774</guid>
+            <pubDate>Tue, 18 Oct 2022 18:00:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/18/702774.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본, 북한 핵·미사일 관여 5개 단체 자산동결]]></title>
             <link>https://n.news.naver.com/article/469/0000702683</link>
             <guid>https://n.news.naver.com/article/469/0000702683</guid>
             <pubDate>Tue, 18 Oct 2022 06:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/18/702683.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000702514</link>
             <guid>https://n.news.naver.com/article/469/0000702514</guid>
             <pubDate>Mon, 17 Oct 2022 18:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/17/702514.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -30,14 +38,6 @@
             <pubDate>Mon, 17 Oct 2022 06:37:41 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/17/702422.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아베 국장 끝나도 회복 안 되네"...기시다 내각, 또 20%대 '위험 수역' 지지율]]></title>
-            <link>https://n.news.naver.com/article/469/0000702104</link>
-            <guid>https://n.news.naver.com/article/469/0000702104</guid>
-            <pubDate>Tue, 18 Oct 2022 06:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/14/702104.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[32년 만에 최저로 떨어진 엔화 가치...일본은행 "그래도 긴축 안 해"]]></title>
@@ -56,11 +56,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/13/701865.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 로켓 불패 신화 깨졌다... '입실론 6호기' 발사 실패]]></title>
+            <link>https://n.news.naver.com/article/469/0000701692</link>
+            <guid>https://n.news.naver.com/article/469/0000701692</guid>
+            <pubDate>Tue, 18 Oct 2022 18:00:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/12/701692.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["일본 방위비 5년 후 2배로...5년간 총 421조 쓴다"]]></title>
             <link>https://n.news.naver.com/article/469/0000701691</link>
             <guid>https://n.news.naver.com/article/469/0000701691</guid>
             <pubDate>Sun, 16 Oct 2022 17:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/12/701691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000701503</link>
             <guid>https://n.news.naver.com/article/469/0000701503</guid>
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/11/701503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699671.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 방위성, 전 자위대원 성폭력 피해 인정... 피해자에 "깊은 사과"]]></title>
-            <link>https://n.news.naver.com/article/469/0000699620</link>
-            <guid>https://n.news.naver.com/article/469/0000699620</guid>
-            <pubDate>Fri, 14 Oct 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/09/29/699620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
