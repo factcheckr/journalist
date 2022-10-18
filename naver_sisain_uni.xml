@@ -4,25 +4,9 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 18:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 06:40:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[코로나 대응, 현장을 가다] 팀 의료로 지역사회 돌봄 정착]]></title>
-            <link>https://n.news.naver.com/article/308/0000031585</link>
-            <guid>https://n.news.naver.com/article/308/0000031585</guid>
-            <pubDate>Wed, 12 Oct 2022 06:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/12/31585.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코로나 대응, 현장을 가다] 이웃을 구하고 싶었던 일본의 노력과 성찰]]></title>
-            <link>https://n.news.naver.com/article/308/0000031583</link>
-            <guid>https://n.news.naver.com/article/308/0000031583</guid>
-            <pubDate>Wed, 12 Oct 2022 06:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/12/31583.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[기자들의 시선] 국산 1호 코로나19 백신 접종]]></title>
             <link>https://n.news.naver.com/article/308/0000031478</link>
@@ -246,6 +230,22 @@
             <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/25/30436.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프리스타일] ‘여섯 글자’ 공약 뒤에는 어떤 삶이 있다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030427</link>
+            <guid>https://n.news.naver.com/article/308/0000030427</guid>
+            <pubDate>Tue, 18 Oct 2022 06:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/24/30427.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[취재 뒷담화] ‘방구석 정치토크’에 여러분, 초대합니다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030421</link>
+            <guid>https://n.news.naver.com/article/308/0000030421</guid>
+            <pubDate>Tue, 18 Oct 2022 06:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.23.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/23/30421.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
