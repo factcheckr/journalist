@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 06:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 18:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보호아동이 ‘어른’ 되려면 시설부터 바뀌어야 한다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031623</link>
+            <guid>https://n.news.naver.com/article/308/0000031623</guid>
+            <pubDate>Wed, 19 Oct 2022 18:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/19/31623.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자의 추천 책] 출생통보제 왜 필요할까요?]]></title>
             <link>https://n.news.naver.com/article/308/0000031554</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Oct 2022 06:43:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/06/30657.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 일본 교과서에 ‘종군 위안부’ 표현 빠진다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030655</link>
-            <guid>https://n.news.naver.com/article/308/0000030655</guid>
-            <pubDate>Wed, 19 Oct 2022 06:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
