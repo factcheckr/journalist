@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Oct 2022 05:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 17:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000703163</link>
             <guid>https://n.news.naver.com/article/469/0000703163</guid>
             <pubDate>Thu, 20 Oct 2022 18:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/20/703163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,23 +28,15 @@
             <link>https://n.news.naver.com/article/469/0000703132</link>
             <guid>https://n.news.naver.com/article/469/0000703132</guid>
             <pubDate>Thu, 20 Oct 2022 18:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/20/703132.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 언론 "미국, 중국 견제위해 대만과 공동 무기 생산 추진"]]></title>
-            <link>https://n.news.naver.com/article/469/0000703012</link>
-            <guid>https://n.news.naver.com/article/469/0000703012</guid>
-            <pubDate>Sat, 22 Oct 2022 05:58:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/19/703012.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/20/703132.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[32년 만의 논스톱 엔저… 일본은행 총재 "경제에 마이너스"]]></title>
             <link>https://n.news.naver.com/article/469/0000702942</link>
             <guid>https://n.news.naver.com/article/469/0000702942</guid>
             <pubDate>Wed, 19 Oct 2022 18:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/19/702942.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000702924</link>
             <guid>https://n.news.naver.com/article/469/0000702924</guid>
             <pubDate>Wed, 19 Oct 2022 18:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/19/702924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000702774</link>
             <guid>https://n.news.naver.com/article/469/0000702774</guid>
             <pubDate>Tue, 18 Oct 2022 18:00:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/18/702774.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000702514</link>
             <guid>https://n.news.naver.com/article/469/0000702514</guid>
             <pubDate>Mon, 17 Oct 2022 18:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/17/702514.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000702500</link>
             <guid>https://n.news.naver.com/article/469/0000702500</guid>
             <pubDate>Fri, 21 Oct 2022 17:54:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/17/702500.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -96,11 +88,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/17/702422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과자 팔아 연명하는 일본 지역 노선... '철도 150주년'의 비애]]></title>
+            <link>https://n.news.naver.com/article/469/0000702329</link>
+            <guid>https://n.news.naver.com/article/469/0000702329</guid>
+            <pubDate>Sat, 22 Oct 2022 17:49:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/16/702329.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["아베 국장 끝나도 회복 안 되네"...기시다 내각, 또 20%대 '위험 수역' 지지율]]></title>
             <link>https://n.news.naver.com/article/469/0000702104</link>
             <guid>https://n.news.naver.com/article/469/0000702104</guid>
             <pubDate>Thu, 20 Oct 2022 05:57:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/14/702104.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
