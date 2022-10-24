@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Oct 2022 17:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 06:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자들의 시선] 카카오 복구 상황을 왜 정부에서?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031642</link>
+            <guid>https://n.news.naver.com/article/308/0000031642</guid>
+            <pubDate>Mon, 24 Oct 2022 06:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/24/31642.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[코로나 대응, 현장을 가다] “팬데믹이 세대 간 복지 계약을 시험했다”]]></title>
             <link>https://n.news.naver.com/article/308/0000031630</link>
             <guid>https://n.news.naver.com/article/308/0000031630</guid>
             <pubDate>Fri, 21 Oct 2022 06:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/21/31630.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000031620</link>
             <guid>https://n.news.naver.com/article/308/0000031620</guid>
             <pubDate>Thu, 20 Oct 2022 05:58:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/19/31620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/30/30617.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학기자상] 학교가 사라졌다, 동네가 무너졌다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030614</link>
-            <guid>https://n.news.naver.com/article/308/0000030614</guid>
-            <pubDate>Wed, 05 Oct 2022 06:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.03.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/29/30614.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
