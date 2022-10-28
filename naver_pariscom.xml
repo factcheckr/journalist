@@ -4,23 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 17:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 05:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['야심 없는' 아베 부인 아키에, 아베 지역구 '1회용 출마' 카드로 거론]]></title>
-            <link>https://n.news.naver.com/article/469/0000704415</link>
-            <guid>https://n.news.naver.com/article/469/0000704415</guid>
-            <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/27/704415.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[일본, '한반도 사정권' 토마호크 미사일 도입 추진]]></title>
+            <link>https://n.news.naver.com/article/469/0000704540</link>
+            <guid>https://n.news.naver.com/article/469/0000704540</guid>
+            <pubDate>Fri, 28 Oct 2022 05:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/28/704540.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본, 물가 잡으려 전기요금 20%, 가스요금 10% 낮춘다]]></title>
             <link>https://n.news.naver.com/article/469/0000704378</link>
             <guid>https://n.news.naver.com/article/469/0000704378</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/27/704378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/26/704187.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 반도체 업계 "바이든의 중국 겨냥 수출 규제, 우리도 영향권"]]></title>
+            <link>https://n.news.naver.com/article/469/0000703728</link>
+            <guid>https://n.news.naver.com/article/469/0000703728</guid>
+            <pubDate>Fri, 28 Oct 2022 05:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/24/703728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“한일, 일본 기업 강제동원 배상금 한국 재단이 대납 본격 논의”]]></title>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000703273</link>
             <guid>https://n.news.naver.com/article/469/0000703273</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/21/703273.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701173.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 “북한 탄도미사일 350km 비행… SLBM 가능성”]]></title>
-            <link>https://n.news.naver.com/article/469/0000701136</link>
-            <guid>https://n.news.naver.com/article/469/0000701136</guid>
-            <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701136.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
