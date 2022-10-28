@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Oct 2022 05:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 17:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 초·중학생 등교 거부 25% 급증… "친구 없어서"]]></title>
+            <link>https://n.news.naver.com/article/469/0000704594</link>
+            <guid>https://n.news.naver.com/article/469/0000704594</guid>
+            <pubDate>Fri, 28 Oct 2022 17:43:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/28/704594.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본, '한반도 사정권' 토마호크 미사일 도입 추진]]></title>
             <link>https://n.news.naver.com/article/469/0000704540</link>
             <guid>https://n.news.naver.com/article/469/0000704540</guid>
             <pubDate>Fri, 28 Oct 2022 05:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/28/704540.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000704378</link>
             <guid>https://n.news.naver.com/article/469/0000704378</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/27/704378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,23 +36,15 @@
             <link>https://n.news.naver.com/article/469/0000704187</link>
             <guid>https://n.news.naver.com/article/469/0000704187</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/26/704187.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 반도체 업계 "바이든의 중국 겨냥 수출 규제, 우리도 영향권"]]></title>
-            <link>https://n.news.naver.com/article/469/0000703728</link>
-            <guid>https://n.news.naver.com/article/469/0000703728</guid>
-            <pubDate>Fri, 28 Oct 2022 05:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/24/703728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“한일, 일본 기업 강제동원 배상금 한국 재단이 대납 본격 논의”]]></title>
             <link>https://n.news.naver.com/article/469/0000703585</link>
             <guid>https://n.news.naver.com/article/469/0000703585</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703585.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000703549</link>
             <guid>https://n.news.naver.com/article/469/0000703549</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,15 +60,23 @@
             <link>https://n.news.naver.com/article/469/0000703518</link>
             <guid>https://n.news.naver.com/article/469/0000703518</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703518.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔·달러 환율 2시간 만에 151→144엔… 일본 당국 대규모 개입]]></title>
+            <link>https://n.news.naver.com/article/469/0000703437</link>
+            <guid>https://n.news.naver.com/article/469/0000703437</guid>
+            <pubDate>Fri, 28 Oct 2022 17:43:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/22/703437.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['버블 붕괴 수준의 엔저'에도 일본서 곡소리 안 나는 이유는?]]></title>
             <link>https://n.news.naver.com/article/469/0000703349</link>
             <guid>https://n.news.naver.com/article/469/0000703349</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/21/703349.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000703163</link>
             <guid>https://n.news.naver.com/article/469/0000703163</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/20/703163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000703132</link>
             <guid>https://n.news.naver.com/article/469/0000703132</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/20/703132.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701180.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쌀 치즈, 쌀 맥주에 쌀 고기까지... 쌀 식품 개발 활발한 일본]]></title>
-            <link>https://n.news.naver.com/article/469/0000701173</link>
-            <guid>https://n.news.naver.com/article/469/0000701173</guid>
-            <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701173.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
