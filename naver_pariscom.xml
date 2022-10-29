@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Oct 2022 05:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 17:42:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000704378</link>
             <guid>https://n.news.naver.com/article/469/0000704378</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/27/704378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,23 +28,15 @@
             <link>https://n.news.naver.com/article/469/0000704187</link>
             <guid>https://n.news.naver.com/article/469/0000704187</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/26/704187.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 반도체 업계 "바이든의 중국 겨냥 수출 규제, 우리도 영향권"]]></title>
-            <link>https://n.news.naver.com/article/469/0000703728</link>
-            <guid>https://n.news.naver.com/article/469/0000703728</guid>
-            <pubDate>Sat, 29 Oct 2022 05:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/24/703728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“한일, 일본 기업 강제동원 배상금 한국 재단이 대납 본격 논의”]]></title>
             <link>https://n.news.naver.com/article/469/0000703585</link>
             <guid>https://n.news.naver.com/article/469/0000703585</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703585.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000703549</link>
             <guid>https://n.news.naver.com/article/469/0000703549</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,8 +52,16 @@
             <link>https://n.news.naver.com/article/469/0000703518</link>
             <guid>https://n.news.naver.com/article/469/0000703518</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703518.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄 랜드마크에서 100명이 난투극...‘차이니스 드래건’의 정체는?[특파원24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000703515</link>
+            <guid>https://n.news.naver.com/article/469/0000703515</guid>
+            <pubDate>Sat, 29 Oct 2022 17:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703515.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔·달러 환율 2시간 만에 151→144엔… 일본 당국 대규모 개입]]></title>
@@ -76,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000703349</link>
             <guid>https://n.news.naver.com/article/469/0000703349</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/21/703349.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
