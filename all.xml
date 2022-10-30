@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Oct 2022 17:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 05:45:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000704540</link>
             <guid>https://n.news.naver.com/article/469/0000704540</guid>
             <pubDate>Fri, 28 Oct 2022 05:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/28/704540.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/26/704187.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 반도체 업계 "바이든의 중국 겨냥 수출 규제, 우리도 영향권" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000703728</link>
+            <guid>https://n.news.naver.com/article/469/0000703728</guid>
+            <pubDate>Sun, 30 Oct 2022 05:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/24/703728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“한일, 일본 기업 강제동원 배상금 한국 재단이 대납 본격 논의” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000703437</link>
             <guid>https://n.news.naver.com/article/469/0000703437</guid>
             <pubDate>Fri, 28 Oct 2022 17:43:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/22/703437.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -240,19 +248,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/11/701435.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤덕민 "한일 정상 뉴욕 약식회담, 저자세 외교 아니다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000701180</link>
-            <guid>https://n.news.naver.com/article/469/0000701180</guid>
-            <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/09/701180.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[기자들의 시선] 카카오 복구 상황을 왜 정부에서? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031642</link>
             <guid>https://n.news.naver.com/article/308/0000031642</guid>
             <pubDate>Sat, 29 Oct 2022 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/24/31642.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
