@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Oct 2022 05:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 17:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/28/704540.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['야심 없는' 아베 부인 아키에, 아베 지역구 '1회용 출마' 카드로 거론 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000704415</link>
+            <guid>https://n.news.naver.com/article/469/0000704415</guid>
+            <pubDate>Sun, 30 Oct 2022 17:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/27/704415.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본, 물가 잡으려 전기요금 20%, 가스요금 10% 낮춘다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000704378</link>
             <guid>https://n.news.naver.com/article/469/0000704378</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/27/704378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000704187</link>
             <guid>https://n.news.naver.com/article/469/0000704187</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/26/704187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000703728</link>
             <guid>https://n.news.naver.com/article/469/0000703728</guid>
             <pubDate>Sun, 30 Oct 2022 05:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/24/703728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000703585</link>
             <guid>https://n.news.naver.com/article/469/0000703585</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703585.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000703549</link>
             <guid>https://n.news.naver.com/article/469/0000703549</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000703518</link>
             <guid>https://n.news.naver.com/article/469/0000703518</guid>
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703518.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000703515</link>
             <guid>https://n.news.naver.com/article/469/0000703515</guid>
             <pubDate>Sat, 29 Oct 2022 17:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703515.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/11/701503.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["도쿄대가 '메타버스 공학 수업'을 개방한 이유요? '다양성'이죠!" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000701435</link>
-            <guid>https://n.news.naver.com/article/469/0000701435</guid>
-            <pubDate>Thu, 27 Oct 2022 17:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/11/701435.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] 카카오 복구 상황을 왜 정부에서? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
