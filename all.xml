@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Nov 2022 06:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 17:48:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 언론 "아소 다로, 2일 윤 대통령과 면담 조율" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000705267</link>
+            <guid>https://n.news.naver.com/article/469/0000705267</guid>
+            <pubDate>Tue, 01 Nov 2022 17:48:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705267.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아 제재하는 일본, 푸틴의 원유 사업엔 출자..."모순" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000705224</link>
+            <guid>https://n.news.naver.com/article/469/0000705224</guid>
+            <pubDate>Tue, 01 Nov 2022 17:48:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705224.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 시부야 핼러윈은 사고 없었다... 'DJ폴리스' 맹활약 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000705176</link>
             <guid>https://n.news.naver.com/article/469/0000705176</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705176.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000705027</link>
             <guid>https://n.news.naver.com/article/469/0000705027</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/31/705027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000705014</link>
             <guid>https://n.news.naver.com/article/469/0000705014</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/31/705014.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000704415</link>
             <guid>https://n.news.naver.com/article/469/0000704415</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/27/704415.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000704378</link>
             <guid>https://n.news.naver.com/article/469/0000704378</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/27/704378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000704187</link>
             <guid>https://n.news.naver.com/article/469/0000704187</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/26/704187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000703728</link>
             <guid>https://n.news.naver.com/article/469/0000703728</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/24/703728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -232,27 +248,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/14/702104.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[32년 만에 최저로 떨어진 엔화 가치...일본은행 "그래도 긴축 안 해" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000702094</link>
-            <guid>https://n.news.naver.com/article/469/0000702094</guid>
-            <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/14/702094.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19조원 들여 전기요금 내린다... 일본 정부 결단 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000701865</link>
-            <guid>https://n.news.naver.com/article/469/0000701865</guid>
-            <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/13/701865.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[팬데믹 3년 차인 올해 3만7000명 더 숨졌다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031684</link>
             <guid>https://n.news.naver.com/article/308/0000031684</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/01/31684.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -732,7 +732,7 @@
             <link>https://n.news.naver.com/article/308/0000031682</link>
             <guid>https://n.news.naver.com/article/308/0000031682</guid>
             <pubDate>Mon, 31 Oct 2022 17:56:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/31/31682.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
