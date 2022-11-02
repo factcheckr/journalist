@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Nov 2022 17:48:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 05:58:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본, 북한 탄도미사일 발사에 "결코 용인 못해"]]></title>
+            <link>https://n.news.naver.com/article/469/0000705371</link>
+            <guid>https://n.news.naver.com/article/469/0000705371</guid>
+            <pubDate>Wed, 02 Nov 2022 05:57:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/02/705371.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 언론 "아소 다로, 2일 윤 대통령과 면담 조율"]]></title>
             <link>https://n.news.naver.com/article/469/0000705267</link>
             <guid>https://n.news.naver.com/article/469/0000705267</guid>
             <pubDate>Tue, 01 Nov 2022 17:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705267.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000705224</link>
             <guid>https://n.news.naver.com/article/469/0000705224</guid>
             <pubDate>Tue, 01 Nov 2022 17:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705224.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000705176</link>
             <guid>https://n.news.naver.com/article/469/0000705176</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705176.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000704946</link>
             <guid>https://n.news.naver.com/article/469/0000704946</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/31/704946.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000704540</link>
             <guid>https://n.news.naver.com/article/469/0000704540</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/28/704540.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/16/702329.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아베 국장 끝나도 회복 안 되네"...기시다 내각, 또 20%대 '위험 수역' 지지율]]></title>
-            <link>https://n.news.naver.com/article/469/0000702104</link>
-            <guid>https://n.news.naver.com/article/469/0000702104</guid>
-            <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/14/702104.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
