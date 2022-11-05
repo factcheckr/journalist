@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://media.naver.com/journalist/308/76101</id>
-    <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
-    <updated>2022-11-04T17:41:15.538Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://media.naver.com/journalist/308/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 05 Nov 2022 05:35:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['변화의 전략 vs 집토끼 다지기', 북한 방송 개방하자는 정부·여당 속내는?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031693</link>
+            <guid>https://n.news.naver.com/article/308/0000031693</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/02/31693.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프리스타일] ‘라임 사건’ 김봉현은 어떻게 무죄를 받았나]]></title>
+            <link>https://n.news.naver.com/article/308/0000031612</link>
+            <guid>https://n.news.naver.com/article/308/0000031612</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.10.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/18/31612.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“진보·보수 이분법 더 이상 쓰지 말라”]]></title>
+            <link>https://n.news.naver.com/article/308/0000031608</link>
+            <guid>https://n.news.naver.com/article/308/0000031608</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.10.17.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/17/31608.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] “내가 마흐사 아미니다”]]></title>
+            <link>https://n.news.naver.com/article/308/0000031539</link>
+            <guid>https://n.news.naver.com/article/308/0000031539</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.10.03.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/03/31539.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신뢰도 조사] 가장 신뢰하는 정치인은 이재명]]></title>
+            <link>https://n.news.naver.com/article/308/0000031461</link>
+            <guid>https://n.news.naver.com/article/308/0000031461</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.13.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/13/31461.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신뢰도 조사] 신뢰도 가장 낮은 현직 대통령 윤석열]]></title>
+            <link>https://n.news.naver.com/article/308/0000031457</link>
+            <guid>https://n.news.naver.com/article/308/0000031457</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.12.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/12/31457.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열‧이준석 갈등은 2024 총선 공천권 샅바싸움?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031422</link>
+            <guid>https://n.news.naver.com/article/308/0000031422</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/05/31422.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미중 사이 갈팡질팡, 윤석열 외교 정책은 어디에]]></title>
+            <link>https://n.news.naver.com/article/308/0000031363</link>
+            <guid>https://n.news.naver.com/article/308/0000031363</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/24/31363.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열vs이준석의 3차전 엔드게임, 퇴로가 없다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031305</link>
+            <guid>https://n.news.naver.com/article/308/0000031305</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.12.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/12/31305.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은퇴를 생각할 나이, ‘다시 시작’ 버튼을 눌렀다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031292</link>
+            <guid>https://n.news.naver.com/article/308/0000031292</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.10.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/10/31292.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 해외 순방 체면 구긴 바이든 대통령]]></title>
+            <link>https://n.news.naver.com/article/308/0000031219</link>
+            <guid>https://n.news.naver.com/article/308/0000031219</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.26.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/26/31219.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 미국 엘리트의  솔직한 심경]]></title>
+            <link>https://n.news.naver.com/article/308/0000031196</link>
+            <guid>https://n.news.naver.com/article/308/0000031196</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행보마다 사고, 사라지지 않는 김건희 리스크]]></title>
+            <link>https://n.news.naver.com/article/308/0000031118</link>
+            <guid>https://n.news.naver.com/article/308/0000031118</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31118.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프리스타일] 검사가 아니었어도 이렇게 끝났을까]]></title>
+            <link>https://n.news.naver.com/article/308/0000031110</link>
+            <guid>https://n.news.naver.com/article/308/0000031110</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/05/31110.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 성동구에 꽂힌 유일한 파란 깃발, 그는 어떻게 승리했나]]></title>
+            <link>https://n.news.naver.com/article/308/0000031086</link>
+            <guid>https://n.news.naver.com/article/308/0000031086</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.29.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/29/31086.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[51명의 검사 징계 내역을 공개합니다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031047</link>
+            <guid>https://n.news.naver.com/article/308/0000031047</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31047.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문재인 정부 5년의 ‘검찰개혁’을 묻다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031046</link>
+            <guid>https://n.news.naver.com/article/308/0000031046</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31046.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 김건희 여사의 잇따른 행보, ‘제2부속실 폐지’ 괜찮나]]></title>
+            <link>https://n.news.naver.com/article/308/0000031045</link>
+            <guid>https://n.news.naver.com/article/308/0000031045</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31045.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당 비대위가 주목해야 할 세 가지 숫자]]></title>
+            <link>https://n.news.naver.com/article/308/0000031010</link>
+            <guid>https://n.news.naver.com/article/308/0000031010</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.13.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/13/31010.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불꽃'같은 낯선 존재, 박지현의 80일]]></title>
+            <link>https://n.news.naver.com/article/308/0000030980</link>
+            <guid>https://n.news.naver.com/article/308/0000030980</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/06/30980.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송영길의 ‘견제론’vs 오세훈의 ‘준비된 미래’]]></title>
+            <link>https://n.news.naver.com/article/308/0000030924</link>
+            <guid>https://n.news.naver.com/article/308/0000030924</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.27.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이시원 검사는 진짜 ‘간첩 조작’ 몰랐을까]]></title>
+            <link>https://n.news.naver.com/article/308/0000030912</link>
+            <guid>https://n.news.naver.com/article/308/0000030912</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이해충돌 논란, 윤석열 정부 공직자의 자격을 묻다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030865</link>
+            <guid>https://n.news.naver.com/article/308/0000030865</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.17.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/17/30865.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인주의자를 위한 국내 최초 ‘북한학 전문’ 동네책방]]></title>
+            <link>https://n.news.naver.com/article/308/0000030852</link>
+            <guid>https://n.news.naver.com/article/308/0000030852</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.14.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/14/30852.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 아무도 잊히지 말자, 우리가 끝낼 때까지]]></title>
+            <link>https://n.news.naver.com/article/308/0000030840</link>
+            <guid>https://n.news.naver.com/article/308/0000030840</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.12.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/12/30840.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[취재 뒷담화] 박진 검증 위해, 캐나다 등 전세계 사이트 검색 중]]></title>
+            <link>https://n.news.naver.com/article/308/0000030836</link>
+            <guid>https://n.news.naver.com/article/308/0000030836</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.11.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/11/30836.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 윤석열 정부 국정과제, 공약서 빠진 내용은?]]></title>
+            <link>https://n.news.naver.com/article/308/0000030834</link>
+            <guid>https://n.news.naver.com/article/308/0000030834</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프리스타일] 어느 날, 유우성씨에게 연락이 왔다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030831</link>
+            <guid>https://n.news.naver.com/article/308/0000030831</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이들을 보라, 이들이 메시지다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030791</link>
+            <guid>https://n.news.naver.com/article/308/0000030791</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] ‘부모 찬스’ 쓴 미성년자 논문, 공식 확인됐다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030789</link>
+            <guid>https://n.news.naver.com/article/308/0000030789</guid>
+            <pubDate>Sat, 05 Nov 2022 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
