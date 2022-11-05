@@ -1,8 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.khan.co.kr/reporter_article.html?id=120</id>
-    <title>경향신문 ─ 박은하 기자</title>
-    <updated>2022-11-05T05:35:46.815Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.khan.co.kr/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>경향신문 ─ 박은하 기자</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 05 Nov 2022 17:37:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘철의 노동자’가 걸어온 길, 새로운 연대 만들어갈 길]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202211042135005/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202211042135005/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[분절된 노동, 변형된 계급유형근 지음산지니 | 512쪽 | 3만5000원
+울산은 한국 최대의 중화학 공업도시이며 노동운동의 중심지이다. 책은 울산 대공장 노동자가 중심이 된 ‘노동계급’이 무엇을 하고 어디로 향하는 것인지 이들의 생애와 의식, 집단적 실천을 통해 살펴본다.
+울산은 국가의 중화학 공업 육성책과 현대그룹의 투자로 만들어진 도시이다. 1970년대 울산에 처음 온 노동자들은 당시 공장을 “이북의 강제수용소보다 더한 곳”, 동네 분위기를 “아수라장”이라고 기억했다. “큰 배 한 척을 만들면 스무 명은 죽는다”는 말이 공공연했다. 위험하고 열악한 작업환경과 비인간적 대우라는 ‘동질적 조건’이 1980년대 이들을 뭉치고 폭발하게 했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/04/2022110501000208100019051.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 이란, 러시아 …세계 동시다발적 핵 긴장 고조]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202211041654001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202211041654001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[북한, 이란, 러시아가 동시다발적으로 핵 카드를 꺼내 들면서 세계의 핵 긴장이 높아지고 있다. 북한의 7차 핵 실험이 임박했다는 분석이 나오는 가운데 이란이 핵 개발 프로그램을 재가동할 가능성도 높아졌다. 러시아는 우크라이나 전쟁에서 전술 핵무기 사용 카드를 만지작거리고 있다.
+러시아 국방부는 3일 최신형 핵잠수함에서 잠수함발사탄도미사일(SLBM) 시험발사에 성공했다고 밝혔다. 타스통신 등에 따르면 보레이-A급 신형 핵잠수함 ‘제네랄리시무스 수보로프’는 이날 신형 SLBM ‘불라바’를 시험 발사했다. 러시아 북부 바렌츠해 유역인 백해에서 발사된 미사일은 목표 지점인 극동 캄차카반도의 쿠라 사격 훈련장에 명중했다. 불라바는 핵탄두를 10개까지 탑재할 수 있는 미사일로 최대 사거리는 1만km에 이른다. 적의 미사일방어(MD)망을 효율적으로 회피하는 기능도 갖췄다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/04/news-p.v1.20221104.a7d6ca62643d4b19a5f73bff87daabf1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘제로 코로나’가 막은 병원행…아이가 또 죽었다]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202211032129025/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/china/article/202211032129025/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘제로 코로나’ 정책에 따라 몇 달 동안 봉쇄 상태인 중국 북서부 도시에서 일산화탄소 중독사고를 당한 3세 아이가 제때 병원에 도착하지 못해 숨졌다.
+로이터통신과 BBC에 따르면 중국 간쑤(甘肅)성 란저우(蘭州)시 치리허(七里河)구에 사는 투오스레이(拓石磊·32)의 부인은 지난 1일 점심 무렵 집에서 LPG용 가스레인지로 요리를 하다 일산화탄소에 중독돼 쓰러졌다. 그는 심폐소생술로 아내를 호전시킨 뒤 자고 있던 아들 원쉬엔도 일산화탄소에 중독됐다는 사실을 알았다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/03/2022110401000186700015441.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘제로 코로나’ 때문에…중국에서 일산화탄소 중독 3살 아기 병원 제때 못가 숨져]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202211031606001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/china/article/202211031606001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘제로 코로나’ 정책에 따라 몇 달 동안 봉쇄 상태인 중국 북서부 도시에서 일산화탄소 중독사고를 당한 3세 아이가 제때 병원에 도착하지 못해 숨졌다.
+로이터통신과 BBC에 따르면 중국 간쑤(甘肃)성 란저우시(兰州)시 치리허(七里河)구에 사는 투오스레이(拓石磊·32)의 아내는 지난 1일 점심 무렵 집에서 LPG용 가스레인지로 요리를 하다 일산화탄소에 중독돼 쓰러졌다. 그는 심폐소생술로 아내를 호전시킨 뒤 자고 있던 아들 원쉬엔(文轩)도 일산화탄소에 중독됐다는 사실을 알았다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/03/news-p.v1.20221103.82e3ed09b8464f1cba2a1832b391065d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘양안 관계 나빠도 판다는 살리자’…중국, 대만에 수의사 파견]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202211031039001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/china/article/202211031039001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[대만 타이베이동물원의 병든 판다가 극도로 긴장 상태에 놓인 대만과 중국 간의 보기 드문 접촉 기회를 만들어내고 있다. 판다의 치료를 위해 동물원 측이 요청한 중국 전문가들이 지난 1일 대만에 도착해 대만 수의사들과 함께 판다를 돌보고 있다.
+대만신문망은 2일 타이베이동물원의 수컷 판다 퇀퇀(團團)의 치료를 위해 전날 입국한 중국 자이언트판다 보호연구센터의 전문가 2명이 이날 아침 일찍 동물원을 방문했다고 보도했다.  이 전문가들은 타이베이동물원의 수의사들과 함께 악성 뇌종양이 의심되는 퇀퇀의 상태를 살펴보고 치료법 등을 논의했다. 중국 전문가들은 퇀퇀의 상태가 예상보다 나쁘지 않다고 말한 것으로 전해졌다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/03/news-p.v1.20221103.bbcf4b8584144a4e8c500b10b285eded.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아사히 “일본 정부, 이달 중순 3년 만의 한·일 정상회담 검토”]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202211022041001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202211022041001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[일본 정부가 이달 중순 기시다 후미오 총리와 윤석열 대통령이 정상회담을 하는 방안을 검토하고 있다고 아사히신문이 2일 보도했다. 이달 중순 이후 해외에서 연쇄적으로 열리는 국제회의를 계기로 양국 정상이 정식으로 회담을 하는 방안이 검토되고 있다는 것이다.
+아사히신문은 일본 정부가 한·일 간 가장 큰 현안인 일제 강제징용 문제는 해결되지 않았지만 북한 핵및 미사일 공동 대응 필요성 등에 따라 양국 관계를 더욱 개선할 필요가 있다고 판단했다고 복수의 정부 관계자를 인용해 보도했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/02/news-p.v1.20221102.eed37a7ecdba4d0896cfa21c1c29fddc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본, 매독 환자 급증…1999년 이후 처음으로 1만명 넘어]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202211021153001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202211021153001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[일본에서 올해 매독 환자가 1만명을 넘어섰다고 보건당국이 발표했다.
+NHK에 따르면 일본 국립감염증연구소는 올해 1월1일부터 지난달 23일까지 매독 감염자 수가 1만141명으로 집계돼 통계 작성을 시작한 1999년 이후 처음으로 1만명을 넘어섰다고 발표했다. 감염증연구소는 지난해 같은 시점보다 감염자 수가 1.7배 많다며 환자가 빠른 속도로 증가하고 있다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/02/news-p.v1.20221102.c9ee8bced5654390aa87ccb2eeb1cc78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 콜린스 출판사의 올해의 단어 “영구적 위기”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202211021044001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202211021044001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[영국의 사전 출판사인 콜린스가 올해의 단어로 ‘영구적 위기(permacrisis)’를 선정했다.
+BBC방송과 워싱턴포스트 등에 따르면 콜린스 편집자들은 1일(현지시간) 보도자료를 내고 “우리는 브렉시트, 펜데믹, 혹독한 날씨, 우크라이나 전쟁, 정치적 불안정, 에너지 압박과 생활비 상승 등으로 인한 대격변의 시대를 살고 있다”며 “(선정된 단어는) 2022년이 많은 사람에게 얼마나 끔찍했는지 아주 간결하게 요약한다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/02/news-p.v1.20221102.6980ba742e5a43c3bf782f6359b05a88.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[소수인종 배려, 그때는 맞고 지금은 틀리다?]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202211012155005/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/america/article/202211012155005/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[“백인·아시아인 역차별” “다양성 존중” 과거부터 잦은 패소보수 대법관 늘어 위헌 결정 가능성…여론 63%가 “금지 찬성”
+미국 연방대법원이 지난달 31일(현지시간) 흑인 등 소수인종을 배려하는 대학 입학 제도인 ‘어퍼머티브 액션(Affirmative Action)’의 합헌 여부에 대한 심리를 개시했다. 현재 연방대법원에는 소수인종 배려입학에 부정적인 보수 성향 대법관이 다수여서 위헌 결정을 내릴 가능성이 높다고 미국 언론들은 분석했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/01/2022110201000053300004281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 핼러윈 참사 사망 미국인 1명은 미 하원의원 조카]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202211011017001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/america/article/202211011017001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사로 숨진 외국인 사망자 유가족들의 비통한 심경 토로가 이어졌다. 이 가운데 미국인 사망자 앤 마리 기스케는 미 연방하원의원의 조카인 것으로 확인됐다.
+오하이오가 지역구인 브래드 웬스트럽 공화당 하원의원은 31일(현지시간) 성명을 내고 “우리 가족은 조카딸인 앤 마리 기스케의 사망을 슬퍼하고 있다”며 “그는 신이 우리 가족에게 준 선물이었고, 우린 그를 무척 사랑했다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/01/news-p.v1.20221101.0cf8fa90c2014f3e8082699d4254a2d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공정이란 무엇인가?…미 대법원 ‘소수인종 배려입학제’ 심리 개시]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202211010857001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/america/article/202211010857001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[미국 연방대법원이 지난달 31일(현지시간) 흑인 등 소수인종을 배려하는 대학 입학 제도인 ‘어퍼머티브 액션(Affirmative Action)’의 합헌 여부에 대한 심리를 개시했다. 현재 연방대법원에는 소수 인종 배려입학에 부정적인 보수 성향 대법관이 다수여서 위헌 결정을 내릴 가능성이 높다고 미국 언론들은 분석했다.
+소수인종 배려입학이란
+헌법소원은 ‘공정한 입학을 위한 학생들’(SFA)이라는 단체가 소수인종 배려입학 제도로 백인과 아시아계 지원자를 차별했다며 노스캐롤라이나대와 하버드대를 상대로 각각 제기했다. SFA는 하버드대가 아시아계 미국인 지원자를 차별해 연방 재정 지원을 받는 프로그램이나 활동에서 인종이나 피부색, 출신 국가에 따른 차별을 금지한 1964년 민권법을 위반했다고 주장하고 있다. 노스캐롤라이나대에 대해서는 백인과 아시아계 지원자를 차별해 법의 보호를 동등하게 받을 권리를 규정한 헌법 14조를 위반했다고 주장했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/01/news-p.v1.20221101.ac81cb7ca288484fb77972f0f1d8d711.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘중간선거 D-7’ 바이든 “석유 기업에 횡재세 검토”]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202211010800001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/world/america/article/202211010800001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%EB%B0%95%EC%9D%80%ED%95%98_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Sat, 05 Nov 2022 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[조 바이든 미국 대통령이 고유가로 천문학적인 이익을 얻고 있는 석유 기업들에 ‘횡재세’를 물리는 방안을 검토하겠다고 밝혔다.
+바이든 대통령은 지난달 31일(현지시간) 백악관 연설에서 “석유 기업들이 주유소 가격을 낮추지 않으면 초과 이익에 대해 더 많은 세금을 내야 한다”고 밝혔다. 그는 석유 기업들이 거둔 이익을 생산과 유가 인하를 위해 투자하라고 촉구하면서 만약 그렇게 하지 않으면 가산세를 내고 기타 제한 사항에 직면하게 만들도록 의회에 촉구할 것이라고 경고했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/01/news-p.v1.20221101.5ca471b9bf714a0fa278fd11605c17a2.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
