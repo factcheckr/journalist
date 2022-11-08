@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Nov 2022 05:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 17:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소니, 플라스틱 포장재 없앤다...일본 전자업체 중 '처음']]></title>
+            <link>https://n.news.naver.com/article/469/0000706459</link>
+            <guid>https://n.news.naver.com/article/469/0000706459</guid>
+            <pubDate>Tue, 08 Nov 2022 17:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/08/706459.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 언론 "북 핵실험하면, 미국 항공모함 동해 파견"]]></title>
             <link>https://n.news.naver.com/article/469/0000706398</link>
             <guid>https://n.news.naver.com/article/469/0000706398</guid>
             <pubDate>Tue, 08 Nov 2022 05:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>24분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/08/706398.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 04 Nov 2022 05:41:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/04/705787.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]"스스로 살아 나올 길은 없다...이태원 참사, 경비 실패가 원인"]]></title>
-            <link>https://n.news.naver.com/article/469/0000705661</link>
-            <guid>https://n.news.naver.com/article/469/0000705661</guid>
-            <pubDate>Thu, 03 Nov 2022 17:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/03/705661.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북한 미사일에 일본서 피난 경보 발령... 방위성, “열도 통과 안 해”]]></title>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000705490</link>
             <guid>https://n.news.naver.com/article/469/0000705490</guid>
             <pubDate>Wed, 02 Nov 2022 17:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/02/705490.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,15 +60,23 @@
             <link>https://n.news.naver.com/article/469/0000705484</link>
             <guid>https://n.news.naver.com/article/469/0000705484</guid>
             <pubDate>Wed, 02 Nov 2022 17:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/02/705484.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 방위성 “북한, 탄도미사일 가능성 비행체 추가 발사”]]></title>
+            <link>https://n.news.naver.com/article/469/0000705476</link>
+            <guid>https://n.news.naver.com/article/469/0000705476</guid>
+            <pubDate>Tue, 08 Nov 2022 17:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/02/705476.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아사히 "화해치유재단 잔금, 강제동원 배상에 쓰는 방안 검토"]]></title>
             <link>https://n.news.naver.com/article/469/0000705441</link>
             <guid>https://n.news.naver.com/article/469/0000705441</guid>
             <pubDate>Wed, 02 Nov 2022 17:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/02/705441.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000705267</link>
             <guid>https://n.news.naver.com/article/469/0000705267</guid>
             <pubDate>Tue, 01 Nov 2022 17:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705267.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000705224</link>
             <guid>https://n.news.naver.com/article/469/0000705224</guid>
             <pubDate>Tue, 01 Nov 2022 17:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705224.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000705027</link>
             <guid>https://n.news.naver.com/article/469/0000705027</guid>
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/31/705027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +124,7 @@
             <link>https://n.news.naver.com/article/469/0000705014</link>
             <guid>https://n.news.naver.com/article/469/0000705014</guid>
             <pubDate>Sun, 06 Nov 2022 17:36:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.10.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/31/705014.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/21/703349.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 소비자물가, 31년 만에 최대폭 3.0% 상승]]></title>
-            <link>https://n.news.naver.com/article/469/0000703273</link>
-            <guid>https://n.news.naver.com/article/469/0000703273</guid>
-            <pubDate>Tue, 01 Nov 2022 06:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/21/703273.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
