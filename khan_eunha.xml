@@ -1,8 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.khan.co.kr/reporter_article.html?id=120</id>
-    <title>경향신문 ─ 박은하 기자</title>
-    <updated>2022-11-08T17:44:32.993Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.khan.co.kr/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>경향신문 ─ 박은하 기자</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 09 Nov 2022 05:46:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[30년 뒤면…북극 해빙, 완전히 사라진다]]></title>
+            <link>https://www.khan.co.kr/environment/climate/article/202211082118015</link>
+            <guid>https://www.khan.co.kr/environment/climate/article/202211082118015</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[기후변화 때문에 30년 후에는 여름철 북극 바다를 떠다니는 해빙을 볼 수 없을 것이라는 전망이 나왔다. 국제 지구빙하권 기후 이니셔티브(ICCI)는 7일(현지시간) 이집트에서 열린 제27차 유엔기후변화협약 당사국총회(COP27)에서 극지 상태를 분석한 최신 보고서 ‘빙하권 상태 2022’를 발표했다. 보고서는 북극 해빙이 2050년까지 확실히 사라질 것이라고 시한부 선고를 내렸다. 보고서 공동저자이자 영국 유니버시티 칼리지 런던(UCL)에서 해빙을 연구하는 로비 말렛은 “더는 (지구 평균 온도 상승 제한을) 1.5도 아래로 유지할 수 없듯 (북극해에) 얼음이 없는 여름을 피할 길이 없다”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/08/2022110901000418600034061.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선진국, 기후지원책 내놨지만…개도국 “대출 아닌 보상 원해”]]></title>
+            <link>https://www.khan.co.kr/environment/climate/article/202211082117015</link>
+            <guid>https://www.khan.co.kr/environment/climate/article/202211082117015</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[제27차 유엔기후변화협약 당사국총회(COP27) 정상회의에서 선진국들이 개발도상국과 취약국을 위한 기후피해 보상과 지원 방안을 속속 내놓고 있다. 하지만 개도국은 대출 형태일 가능성이 큰 지원에 거부감을 드러내며, ‘돕겠다’가 아니라 ‘보상 의무에 따라 책임진다’는 자세를 요구하고 있다.
+로이터통신 등 외신에 따르면 영국, 미국, 프랑스, 독일, 유럽연합(EU) 등은 7일(현지시간) 남아프리카공화국에 85억달러(약 11조8000억원)를 지원하는 ‘공정한 에너지 전환’ 계획을 발표했다. 남아공이 석탄발전을 중단하고 친환경 에너지로 전환하도록 지원하는 프로그램이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/08/2022110901000417600034011.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북극 해빙, 30년 후 완전히 사라진다]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202211081722001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202211081722001</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[기후변화 때문에 30년 후에는 여름철 북극 바다를 떠다니는 해빙을 볼 수 없을 것이라는 전망이 나왔다.
+국제 지구빙하권 기후 이니셔티브(ICCI)는 7일(현지시간) 이집트에서 열린 제27차 유엔기후변화협약 당사국회의(COP27)에서 극지 상태를 분석한 최신 보고서 ‘빙하권 상태 2022’를 발표했다. 보고서는 북극 해빙이 2050년까지 확실히 사라질 것이라고 시한부 선고를 내렸다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/08/news-p.v1.20221108.0a17c8041d154fe29051897914876c58.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선진국 기후지원책 발표에 개도국 “부채 말고 보상”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202211081656001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202211081656001</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[제27차 유엔기후변화협약 당사국총회(COP27) 정상회의에서 선진국들이 개발도상국과 취약국을 위한 기후피해 보상과 지원 방안을 속속 내놓고 있다. 하지만 개도국은 대출 형태일 가능성 큰 지원에 거부감을 드러내며, ‘돕겠다’는 자세가 아니라 ‘보상 의무에 따라 책임진다’는 자세를 요구하고 있다.
+‘공정한 에너지 전환’, ‘글로벌 보호’ 발표]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/08/news-p.v1.20221108.e32016f61d9b4e8fa701c30a82619e7a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘머스크 리스크’ 들끓는 트위터]]></title>
+            <link>https://www.khan.co.kr/it/it-general/article/202211072148015</link>
+            <guid>https://www.khan.co.kr/it/it-general/article/202211072148015</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라 최고경영자(CEO) 일론 머스크(사진)가 트위터 인수 뒤 직원 절반을 단숨에 해고하고 비용 절감을 앞세운 비상경영에 나서자 직원들이 익명 게시판에서 분통을 쏟아내고 있다. 착오로 잘못 해고한 직원에게 다시 돌아와달라고 요청하는 촌극도 벌어졌다.
+경제 매체 인사이더는 6일(현지시간) 직장인 익명 리뷰 애플리케이션인 블라인드에 올라온 트위터 직원들의 반응을 소개했다. 한 트위터 직원은 “잔인한 의사결정권자가 (트위터라는) 배의 키를 잡았다”며 “스릴을 좋아하는 사람들에게 이런 비상 근무는 신이 난다”고 비꼬는 글을 올렸다. 다른 직원은 “인정이 있고 사람을 우선으로 하는 직장문화가 완벽하고 빠르게 파괴됐다”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/07/2022110801000337600028781.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“기금 내놓겠다” 영국·덴마크의 기후 솔선수범]]></title>
+            <link>https://www.khan.co.kr/environment/climate/article/202211072114005</link>
+            <guid>https://www.khan.co.kr/environment/climate/article/202211072114005</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[제27차 유엔기후변화협약 당사국총회(COP27)의 핵심이슈는 ‘돈’이다. 기후변화 피해를 본 저개발국에 대한 선진국의 책임과 보상 문제가 의제로 예고됐다. 책임을 인정하고 돈을 내겠다는 나라도 나오고 있다.
+영국 정부는 7일(현지시간) “(COP26이 열린) 글래스고에서 한 약속을 지키겠다”며 케냐와 이집트의 청정 에너지 개발에 6550만파운드(약 1048억원), 콩고 열대우림 보존에 9000만파운드(약 1440억원)를 내겠다고 밝혔다. 영국 정부는 기후 적응을 위한 자금을 2019년 5억파운드에서 2025년 15억파운드로 3배 늘리기로 약속했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[콩고 분지의 열대우림, 지킬 의무는 선진국에도 있다]]></title>
+            <link>https://www.khan.co.kr/environment/climate/article/202211072113015</link>
+            <guid>https://www.khan.co.kr/environment/climate/article/202211072113015</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[개발 앞둔 아프리카의 습지“자원 착취와 생존의 딜레마”‘자연 부채’ 개념으로 풀어야 
+열대우림 보유국, 동맹 결성국제사회 책임 물을 가능성
+아프리카 대륙 중앙 콩고 분지의 열대우림은 브라질 아마존에 이어 세계에서 두 번째로 큰 열대우림이다. 아마존이 무분별한 벌채로 흡수하는 온실가스 양보다 배출량이 더 많아진 것과 달리 콩고 분지의 열대우림은 여전히 탄소를 흡수하는 온전한 열대우림으로 남아 있다. 아프리카 대륙에서 열리는 제27차 유엔기후변화협약 당사국총회(COP27)를 계기로 콩고민주공화국(민주콩고)의 열대우림 보전 문제는 기후정의의 핵심 이슈로 떠오를 것으로 전망된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/07/2022110801000358900029641.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국, 덴마크 등 기후위기 기금 내겠다는 국가들]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202211071834001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202211071834001</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[제27차 유엔기후변화협약 당사국총회(COP27)의 핵심 이슈는 ‘돈’이다. 파키스탄 등 기후변화 피해를 입은 개발도상국과 저개발국에 대한 선진국의 책임과 보상 문제가 주요 의제로 예고됐다. 먼저 책임을 인정하고 돈을 내겠다는 국가들도 나오고 있다.
+영국 정부는 7일(현지시간) 성명을 통해 “(COP26이 열린) 글래스고에서 한 약속을 지키겠다”며 케냐와 이집트의 청정 에너지 개발에 6550만파운드(1048억원), 콩고 열대우림 보존에 9000만파운드(1440억원)를 내겠다고 밝혔다. 영국 정부는 기후 적응을 위한 자금을 2019년 5억파운드에서 2025년 15억파운드로 3배 늘리기로 약속했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/07/news-p.v1.20221107.be3c5aa193534d359fc9eba0c9206612_P3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콩고 열대우림은 ‘기후 불의’를 넘어서 보존될 수 있을까]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202211071651001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202211071651001</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[아프리카 대륙 중앙 콩고 분지의 열대우림은 브라질 아마존에 이어 세계에서 두 번째로 큰 열대우림이다. 아마존이 무분별한 벌채로 흡수하는 온실가스 양보다 배출량이 더 많아진 것과 달리 콩고 분지의 열대우림은 탄소를 흡수하는 온전한 열대우림으로 남아 있다. 아프리카 대륙에서 열리는 제27차 유엔기후변화협약 당사국총회(COP27)를 계기로 콩고민주공화국(민주콩고)의 열대우림 보존 문제는 기후정의의 핵심 이슈로 떠오를 전망이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/07/news-p.v1.20221107.b1f167e9c7b44057b8b7aaf070443d20.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“직원 로봇 취급” 절반 해고된 트위터 생존자들 부글부글···“다시 돌아와달라” 촌극도]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202211070937001</link>
+            <guid>https://www.khan.co.kr/world/america/article/202211070937001</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라 최고경영자(CEO) 일론 머스크가 트위터 인수 뒤 직원 절반을 단숨에 해고하고 비용 절감을 앞세운 비상 경영에 나서자 직원들이 익명 게시판에서 분통을 쏟아내고 있다. 착오로 해고한 직원에게 다시 돌아와달라고 요청하는 촌극도 벌어졌다.
+경제 매체 인사이더는 6일(현지시간) 직장인 익명 리뷰 애플리케이션인 블라인드에 올라온 트위터 직원들의 반응을 소개했다. 한 트위터 직원은 “잔인한 의사결정권자가 (트위터라는) 배의 키를 잡았다”며 “스릴을 좋아하는 사람들에게 이런 비상 근무는 신이 난다”고 글을 올렸다. 다른 직원은 “인정이 있고 사람을 우선으로 하는 직장 문화가 완벽하고 빠르게 파괴됐다”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/07/news-p.v1.20221107.5708844a997a4bd59ef4a91158f70bab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 내각 지지율 또 대폭 하락…요미우리 조사 36%]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202211070923001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202211070923001</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[기시다 후미오 일본 총리가 이끄는 내각 지지율이 또다시 큰 폭으로 떨어졌다. 일본이 적 기지 공격능력(반격능력)을 확보해야 한다는 여론은 높아졌다.
+요미우리신문은 지난 4∼6일 실시한 여론조사 결과 기시다 내각 지지율이 지난해 10월 출범 이후 최저인 36％로 나타났다고 7일 보도했다. 지난달 1∼2일 조사보다 9％포인트 떨어진 수치로, 요미우리 조사에서 최대 하락 폭을 기록했다. ‘기시다 내각을 지지하지 않는다’ 는 응답자 비율은 전달보다 4％포인트 높은 50％였다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/07/news-p.v1.20221107.2cf9329b339149b68b615596e926d50d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젤렌스키 “러시아, 동부 전선에서 대패했다”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202211070857001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202211070857001</guid>
+            <pubDate>Wed, 09 Nov 2022 05:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[러시아군이 우크라이나 동부 격전지인 도네츠크주 전선에서 대패했다고 볼로디미르 젤렌스키 우크라이나 대통령이 6일(현지시간) 주장했다.
+로이터통신에 따르면 젤렌스키 대통령은 이날 화상연설을 통해 “도네츠크 지역에서 러시아군의 격렬한 공격이 계속되고 있다”며 “적은 그곳에서의 심각한 패배로 고통받고 있다”고 밝혔다. 그는 “(러시아가) 우리 기반시설에 대한 대규모 공격을 반복해야 할 가능성에 대비해 병력과 수단을 집중하고 있다”며 “첫 번째 목표물은 에너지일 것”이라고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/07/news-p.v1.20221107.888d83766ea64512993f3de4d8b93e6e.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
