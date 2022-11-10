@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 05:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 17:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Tue, 08 Nov 2022 05:43:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/08/31730.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박은정 검사는 왜 검찰 조사를 받나]]></title>
+            <link>https://n.news.naver.com/article/308/0000031729</link>
+            <guid>https://n.news.naver.com/article/308/0000031729</guid>
+            <pubDate>Thu, 10 Nov 2022 17:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/07/31729.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 사흘 만에 사과한 장관 엿새 만에 사과한 대통령]]></title>
+            <link>https://n.news.naver.com/article/308/0000031712</link>
+            <guid>https://n.news.naver.com/article/308/0000031712</guid>
+            <pubDate>Thu, 10 Nov 2022 17:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/05/31712.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자가 추천하는 책] 대통령에게 권하는 리더십 전략서]]></title>
+            <link>https://n.news.naver.com/article/308/0000031708</link>
+            <guid>https://n.news.naver.com/article/308/0000031708</guid>
+            <pubDate>Thu, 10 Nov 2022 17:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/04/31708.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['변화의 전략 vs 집토끼 다지기', 북한 방송 개방하자는 정부·여당 속내는?]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/12/30840.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취재 뒷담화] 박진 검증 위해, 캐나다 등 전세계 사이트 검색 중]]></title>
-            <link>https://n.news.naver.com/article/308/0000030836</link>
-            <guid>https://n.news.naver.com/article/308/0000030836</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/11/30836.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 윤석열 정부 국정과제, 공약서 빠진 내용은?]]></title>
-            <link>https://n.news.naver.com/article/308/0000030834</link>
-            <guid>https://n.news.naver.com/article/308/0000030834</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리스타일] 어느 날, 유우성씨에게 연락이 왔다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030831</link>
-            <guid>https://n.news.naver.com/article/308/0000030831</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
