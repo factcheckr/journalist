@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 17:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 05:43:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특파원의 시선] ‘내 탓이오’ 할 사람 누구 없소]]></title>
+            <link>https://n.news.naver.com/article/469/0000706772</link>
+            <guid>https://n.news.naver.com/article/469/0000706772</guid>
+            <pubDate>Thu, 10 Nov 2022 05:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706772.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지지율 급락에 '쇼크' 받은 기시다..."통일교 문제부터 해결"]]></title>
             <link>https://n.news.naver.com/article/469/0000706669</link>
             <guid>https://n.news.naver.com/article/469/0000706669</guid>
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/09/706669.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000706656</link>
             <guid>https://n.news.naver.com/article/469/0000706656</guid>
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/09/706656.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000706398</link>
             <guid>https://n.news.naver.com/article/469/0000706398</guid>
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/08/706398.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000705557</link>
             <guid>https://n.news.naver.com/article/469/0000705557</guid>
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/03/705557.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000705550</link>
             <guid>https://n.news.naver.com/article/469/0000705550</guid>
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/03/705550.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000705371</link>
             <guid>https://n.news.naver.com/article/469/0000705371</guid>
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/02/705371.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703518.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄 랜드마크에서 100명이 난투극...‘차이니스 드래건’의 정체는?[특파원24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000703515</link>
-            <guid>https://n.news.naver.com/article/469/0000703515</guid>
-            <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/23/703515.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
