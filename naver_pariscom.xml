@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Nov 2022 17:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2022 05:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,11 +24,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707120.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['엔저로 힘들다더니'...일본기업 환차익으로 오히려 이익 증가]]></title>
+            <link>https://n.news.naver.com/article/469/0000706941</link>
+            <guid>https://n.news.naver.com/article/469/0000706941</guid>
+            <pubDate>Sun, 13 Nov 2022 05:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706941.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[특파원의 시선] ‘내 탓이오’ 할 사람 누구 없소]]></title>
             <link>https://n.news.naver.com/article/469/0000706772</link>
             <guid>https://n.news.naver.com/article/469/0000706772</guid>
             <pubDate>Thu, 10 Nov 2022 05:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000706398</link>
             <guid>https://n.news.naver.com/article/469/0000706398</guid>
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/08/706398.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/27/704415.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 물가 잡으려 전기요금 20%, 가스요금 10% 낮춘다]]></title>
-            <link>https://n.news.naver.com/article/469/0000704378</link>
-            <guid>https://n.news.naver.com/article/469/0000704378</guid>
-            <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/27/704378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
