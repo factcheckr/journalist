@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://star.ohmynews.com/NWS_Web/Mobile/i_Room/articles/news_list.aspx?MEM_CD=00701855</id>
-    <title>오마이뉴스 ─ 신필규 시민기자</title>
-    <updated>2022-11-16T05:42:46.048Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://star.ohmynews.com/NWS_Web/Mobile/i_Room/articles/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오마이뉴스 ─ 신필규 시민기자</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:55:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부가 또 무슨 짓 할지... 정신 똑바로 차리자]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002878108</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002878108</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/1104/A0002878108_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['축복'을 이유로 목회자 처벌, 부끄러운 한국 교회]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002874097</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002874097</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/1021/A0002874097_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후회하는 엄마에게... "아니야, 그때 날 살린 거야"]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002870539</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002870539</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/1007/A0002870539_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지방 총각들', 결혼이 유일한 답은 아니다]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002867098</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002867098</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0923/A0002867098_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명절 끝나고 부쩍 자존감이 낮아진 사람들에게]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002864238</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002864238</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0912/A0002864238_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이혼이 '불가능한' 커플... 고통의 평등을 허하라]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002860407</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002860407</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0826/A0002860407_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강남 폭우 피해 둘러싼 SNS 논쟁... 나는 몸으로 겪었다]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002857033</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002857033</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0812/A0002857033_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중산층의 고급 취미생활? 나는 택시 안에서 펑펑 울었다]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002853870</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002853870</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0729/A0002853870_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['헤어질 결심'의 부진, 이 영화에 없는 것]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002850673</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002850673</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0715/A0002850673_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["대법관 탄핵" 118만명이 동의, 미국 뒤흔든 일대 사건]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002848132</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002848132</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0706/A0002848132_T.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

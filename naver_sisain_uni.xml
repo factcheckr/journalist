@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 05:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 17:55:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프리스타일] 팬데믹의 끝, 이제 진짜 우리가 할 일이 남았다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031778</link>
+            <guid>https://n.news.naver.com/article/308/0000031778</guid>
+            <pubDate>Wed, 16 Nov 2022 17:54:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/16/31778.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬데믹 3년 차인 올해 3만7000명 더 숨졌다]]></title>
             <link>https://n.news.naver.com/article/308/0000031684</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/18/30718.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학기자상] “모두가 떠나면 아무것도 바뀌지 않는다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000030643</link>
-            <guid>https://n.news.naver.com/article/308/0000030643</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/03/30643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
