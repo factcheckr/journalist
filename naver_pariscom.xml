@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 17:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 05:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['무비자에 엔저까지'...10월 방일 외국인 수 2배 증가]]></title>
+            <link>https://n.news.naver.com/article/469/0000708060</link>
+            <guid>https://n.news.naver.com/article/469/0000708060</guid>
+            <pubDate>Thu, 17 Nov 2022 05:35:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708060.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["기시다에 죽음 당하네"... 일본 민심, 방위비 증대 위한 증세에 '폭발']]></title>
             <link>https://n.news.naver.com/article/469/0000707926</link>
             <guid>https://n.news.naver.com/article/469/0000707926</guid>
             <pubDate>Wed, 16 Nov 2022 17:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/16/707926.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000706772</link>
             <guid>https://n.news.naver.com/article/469/0000706772</guid>
             <pubDate>Thu, 10 Nov 2022 05:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/31/705014.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["숨진 딸 전화 경찰이 받아"...일본 20대 여성도 이태원서 희생]]></title>
-            <link>https://n.news.naver.com/article/469/0000704946</link>
-            <guid>https://n.news.naver.com/article/469/0000704946</guid>
-            <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/31/704946.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
