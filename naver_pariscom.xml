@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 05:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 17:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시진핑·기시다 첫 회담… “안보 포함 의사소통 강화 일치”]]></title>
+            <link>https://n.news.naver.com/article/469/0000708187</link>
+            <guid>https://n.news.naver.com/article/469/0000708187</guid>
+            <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708187.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑·기시다, 첫 회담에서 협력 강조 “양국 관계 매우 중요”]]></title>
+            <link>https://n.news.naver.com/article/469/0000708180</link>
+            <guid>https://n.news.naver.com/article/469/0000708180</guid>
+            <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708180.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['무비자에 엔저까지'...10월 방일 외국인 수 2배 증가]]></title>
             <link>https://n.news.naver.com/article/469/0000708060</link>
             <guid>https://n.news.naver.com/article/469/0000708060</guid>
             <pubDate>Thu, 17 Nov 2022 05:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708060.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000707926</link>
             <guid>https://n.news.naver.com/article/469/0000707926</guid>
             <pubDate>Wed, 16 Nov 2022 17:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/16/707926.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,23 +44,15 @@
             <link>https://n.news.naver.com/article/469/0000707472</link>
             <guid>https://n.news.naver.com/article/469/0000707472</guid>
             <pubDate>Mon, 14 Nov 2022 17:51:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/14/707472.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한일 정상, '대북 공조'에 한목소리... '과거사 해법' 간극 여전]]></title>
-            <link>https://n.news.naver.com/article/469/0000707338</link>
-            <guid>https://n.news.naver.com/article/469/0000707338</guid>
-            <pubDate>Sun, 13 Nov 2022 17:38:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/13/707338.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/14/707472.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 "윤 대통령과 '징용 문제 조기 해결 추진' 일치"]]></title>
             <link>https://n.news.naver.com/article/469/0000707335</link>
             <guid>https://n.news.naver.com/article/469/0000707335</guid>
             <pubDate>Sun, 13 Nov 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/13/707335.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000707144</link>
             <guid>https://n.news.naver.com/article/469/0000707144</guid>
             <pubDate>Fri, 11 Nov 2022 17:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707144.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,15 +68,23 @@
             <link>https://n.news.naver.com/article/469/0000707120</link>
             <guid>https://n.news.naver.com/article/469/0000707120</guid>
             <pubDate>Fri, 11 Nov 2022 17:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707120.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["2나노 이하 반도체 5년 내 직접 생산"...도요타·소니 등 일본 기업 뭉쳤다]]></title>
+            <link>https://n.news.naver.com/article/469/0000707100</link>
+            <guid>https://n.news.naver.com/article/469/0000707100</guid>
+            <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707100.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['엔저로 힘들다더니'...일본기업 환차익으로 오히려 이익 증가]]></title>
             <link>https://n.news.naver.com/article/469/0000706941</link>
             <guid>https://n.news.naver.com/article/469/0000706941</guid>
             <pubDate>Sun, 13 Nov 2022 05:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706941.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000706912</link>
             <guid>https://n.news.naver.com/article/469/0000706912</guid>
             <pubDate>Wed, 16 Nov 2022 17:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706912.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000706669</link>
             <guid>https://n.news.naver.com/article/469/0000706669</guid>
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/09/706669.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000706656</link>
             <guid>https://n.news.naver.com/article/469/0000706656</guid>
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/09/706656.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705176.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄 '동성 파트너십' 내일부터 시행... 일본서 3400쌍 인정]]></title>
-            <link>https://n.news.naver.com/article/469/0000705027</link>
-            <guid>https://n.news.naver.com/article/469/0000705027</guid>
-            <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/31/705027.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["희토류 중국 의존 그만"... 일본, 심해에서 직접 캔다]]></title>
-            <link>https://n.news.naver.com/article/469/0000705014</link>
-            <guid>https://n.news.naver.com/article/469/0000705014</guid>
-            <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/10/31/705014.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
