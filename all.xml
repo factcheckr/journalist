@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 17:38:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -67,7 +67,7 @@
             <guid>https://www.khan.co.kr/world/world-general/article/202211171623001</guid>
             <pubDate>Thu, 17 Nov 2022 17:37:40 GMT</pubDate>
             <content:encoded><![CDATA[흑인 어린이들이 소 여물통처럼 생긴 빈 그릇에 팔을 집어넣어 무언가를 긁어내고 있다. 앙상한 팔다리와 부풀어 오른 배, 갈비뼈가 드러나 있다. 표정은 넋이 나가 있거나 울기 직전이다.
-영국의 자선단체인 ‘재난비상위원회’가 1980년대 초 에티오피아 대기근 구호 자금을 모금하기 위해 사용한 이미지이다. 광고가 사람들의 마음을 움직였을지도 모른다. 이 단체는 1980~1984년 동안 2300만달러를 모았다. 다른 구호 단체들도 앞다퉈 비슷한 이미지를 내걸었다. 서유럽과 미국 등 선진국에서 아프리카 기근에 대한 관심이 급증했다. 관심은 1985년 마이클 잭슨 등 유명 가수들이 자선 기금 마련을 목적으로 참여해 ‘위 아더 월드’를 합창한 ‘라이브 에이드 콘서트’로도 이어졌다.]]></content:encoded>
+영국의 자선단체인 ‘재난비상위원회’가 1980년대 초 에티오피아 대기근 구호 자금을 모금하기 위해 사용한 이미지이다. 광고가 사람들의 마음을 움직였을지도 모른다. 이 단체는 1980~1984년 동안 2300만달러를 모았다. 다른 구호 단체들도 앞다퉈 비슷한 이미지를 내걸었다. 서유럽과 미국 등 선진국에서 아프리카 기근에 대한 관심이 급증했다. 이는 1985년 마이클 잭슨 등 유명 가수들의 ‘위 아 더 월드’ 뮤직비디오 제작이나 자선 콘서트 ‘라이브 에이드’ 참여로도 이어졌다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/17/news-p.v1.20221117.448dbd16113f4b77a309116f7c7f81bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -283,19 +283,19 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0706/A0002848132_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 방위장관, "北 ICBM급 미사일, 사정거리 1만5000㎞ 넘어" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000708264</link>
-            <guid>https://n.news.naver.com/article/469/0000708264</guid>
-            <pubDate>Fri, 18 Nov 2022 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708264.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[북한 ICBM, 일본 EEZ에 낙하… 기시다 "가장 강한 말로 비난" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000708310</link>
+            <guid>https://n.news.naver.com/article/469/0000708310</guid>
+            <pubDate>Fri, 18 Nov 2022 17:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708310.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 “북한 ICBM, 일본 홋카이도 서쪽 EEZ 내 낙하 가능성” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000708249</link>
             <guid>https://n.news.naver.com/article/469/0000708249</guid>
             <pubDate>Fri, 18 Nov 2022 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,7 +303,7 @@
             <link>https://n.news.naver.com/article/469/0000708187</link>
             <guid>https://n.news.naver.com/article/469/0000708187</guid>
             <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -311,15 +311,23 @@
             <link>https://n.news.naver.com/article/469/0000708180</link>
             <guid>https://n.news.naver.com/article/469/0000708180</guid>
             <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708180.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['무비자에 엔저까지'...10월 방일 외국인 수 2배 증가 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000708060</link>
+            <guid>https://n.news.naver.com/article/469/0000708060</guid>
+            <pubDate>Fri, 18 Nov 2022 17:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708060.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["기시다에 죽음 당하네"... 일본 민심, 방위비 증대 위한 증세에 '폭발' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000707926</link>
             <guid>https://n.news.naver.com/article/469/0000707926</guid>
             <pubDate>Wed, 16 Nov 2022 17:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/16/707926.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -327,7 +335,7 @@
             <link>https://n.news.naver.com/article/469/0000707472</link>
             <guid>https://n.news.naver.com/article/469/0000707472</guid>
             <pubDate>Mon, 14 Nov 2022 17:51:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/14/707472.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -335,7 +343,7 @@
             <link>https://n.news.naver.com/article/469/0000707338</link>
             <guid>https://n.news.naver.com/article/469/0000707338</guid>
             <pubDate>Fri, 18 Nov 2022 05:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/13/707338.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,7 +351,7 @@
             <link>https://n.news.naver.com/article/469/0000707335</link>
             <guid>https://n.news.naver.com/article/469/0000707335</guid>
             <pubDate>Sun, 13 Nov 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/13/707335.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -351,7 +359,7 @@
             <link>https://n.news.naver.com/article/469/0000707144</link>
             <guid>https://n.news.naver.com/article/469/0000707144</guid>
             <pubDate>Fri, 11 Nov 2022 17:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707144.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -359,7 +367,7 @@
             <link>https://n.news.naver.com/article/469/0000707120</link>
             <guid>https://n.news.naver.com/article/469/0000707120</guid>
             <pubDate>Fri, 11 Nov 2022 17:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707120.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -367,7 +375,7 @@
             <link>https://n.news.naver.com/article/469/0000707100</link>
             <guid>https://n.news.naver.com/article/469/0000707100</guid>
             <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707100.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,7 +383,7 @@
             <link>https://n.news.naver.com/article/469/0000706941</link>
             <guid>https://n.news.naver.com/article/469/0000706941</guid>
             <pubDate>Sun, 13 Nov 2022 05:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706941.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -383,7 +391,7 @@
             <link>https://n.news.naver.com/article/469/0000706912</link>
             <guid>https://n.news.naver.com/article/469/0000706912</guid>
             <pubDate>Wed, 16 Nov 2022 17:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706912.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -515,14 +523,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/02/705371.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 언론 "아소 다로, 2일 윤 대통령과 면담 조율" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000705267</link>
-            <guid>https://n.news.naver.com/article/469/0000705267</guid>
-            <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705267.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“지금이 공공병원에 주어진 마지막 기회일지도 모르겠다” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031780</link>
             <guid>https://n.news.naver.com/article/308/0000031780</guid>
@@ -543,7 +543,7 @@
             <link>https://n.news.naver.com/article/308/0000031778</link>
             <guid>https://n.news.naver.com/article/308/0000031778</guid>
             <pubDate>Wed, 16 Nov 2022 17:54:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/16/31778.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1243,6 +1243,13 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/12/30840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘낭만적 사랑’의 환상이 깨진 시대의 ‘연애 리얼리티쇼’ (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20221118160638236</link>
+            <guid>https://v.daum.net/v/20221118160638236</guid>
+            <pubDate>Fri, 18 Nov 2022 17:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;환승연애2&gt;가 끝났다. OTT 플랫폼 티빙(TIVING)에서 매주 방영된 연애 리얼리티쇼인 &lt;환승연애&gt;는 헤어진 연인들이 다시 만나 한집에서 함께 생활하며, 재결합 혹은 새로운 인연을 찾는다는 포맷으로 시즌1 공개 전부터 화제였다. 연애에서의 ‘환승’이란 대개 1 대 1 독점 관계에서 기존의 연애 관계가 끝나기 전에 새로운 상대에게 호감을 느껴, 말 그대]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[금발의 바비인형을 ‘연기’하는…(여자)아이들의 ‘Nxde’ (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
             <link>https://v.daum.net/v/20221104160646822</link>
             <guid>https://v.daum.net/v/20221104160646822</guid>
@@ -1318,13 +1325,6 @@
             <guid>https://v.daum.net/v/20220527160943856</guid>
             <pubDate>Wed, 16 Nov 2022 17:55:24 GMT</pubDate>
             <content:encoded><![CDATA[언니에게, 최근 다녀온 카페를 공유하며 함께 가자고 했다. 언니가 바로 되물었다. “노키즈존 아니야?” 언니는 작년에 아기를 낳은 후, 출산 전 다니던 많은 공간으로부터 출입을 금지당했다. 순간 등골이 서늘해졌다. 아동거부업소임을 표기하지 않은 업장도 많으니까. 황급히 찾아보니 다행히 아니었다. 한숨을 쉬며 가슴을 쓸어내렸다. 관광지에서 방문했던 베이커리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["느그 아버지 뭐하시노?" 묻던 '미친개'..왜 시대마다 존재할까 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20220513162120051</link>
-            <guid>https://v.daum.net/v/20220513162120051</guid>
-            <pubDate>Wed, 16 Nov 2022 17:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] 곧 스승의날이다. 스승의날 하면, 한 편의 부조리극 같은 장면이 떠오른다. 초등학교 3학년 때 담임교사는 아이들을 엎드려뻗쳐시켜놓고 제일 앞의 어린이를 걷어찬 뒤 도미노처럼 연이어 쓰러지게 하는 체벌을 즐겼다. 나는 모랫바닥에 엎드린 채, 쓰러진 친구의 몸이 언제 나를 칠지 초조해하다 내 차례가 오면 적당히 무너졌다. 그러다가도 우리를 걷어찬]]></content:encoded>
         </item>
     </channel>
 </rss>
