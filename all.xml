@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 17:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,11 +283,27 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0706/A0002848132_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 방위장관, "北 ICBM급 미사일, 사정거리 1만5000㎞ 넘어" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000708264</link>
+            <guid>https://n.news.naver.com/article/469/0000708264</guid>
+            <pubDate>Fri, 18 Nov 2022 05:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708264.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 “북한 ICBM, 일본 홋카이도 서쪽 EEZ 내 낙하 가능성” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000708249</link>
+            <guid>https://n.news.naver.com/article/469/0000708249</guid>
+            <pubDate>Fri, 18 Nov 2022 05:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708249.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시진핑·기시다 첫 회담… “안보 포함 의사소통 강화 일치” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000708187</link>
             <guid>https://n.news.naver.com/article/469/0000708187</guid>
             <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,16 +311,8 @@
             <link>https://n.news.naver.com/article/469/0000708180</link>
             <guid>https://n.news.naver.com/article/469/0000708180</guid>
             <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708180.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무비자에 엔저까지'...10월 방일 외국인 수 2배 증가 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000708060</link>
-            <guid>https://n.news.naver.com/article/469/0000708060</guid>
-            <pubDate>Thu, 17 Nov 2022 05:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708060.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["기시다에 죽음 당하네"... 일본 민심, 방위비 증대 위한 증세에 '폭발' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -321,6 +329,14 @@
             <pubDate>Mon, 14 Nov 2022 17:51:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/14/707472.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한일 정상, '대북 공조'에 한목소리... '과거사 해법' 간극 여전 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000707338</link>
+            <guid>https://n.news.naver.com/article/469/0000707338</guid>
+            <pubDate>Fri, 18 Nov 2022 05:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/13/707338.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 "윤 대통령과 '징용 문제 조기 해결 추진' 일치" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -375,7 +391,7 @@
             <link>https://n.news.naver.com/article/469/0000706772</link>
             <guid>https://n.news.naver.com/article/469/0000706772</guid>
             <pubDate>Thu, 10 Nov 2022 05:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -507,27 +523,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705267.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아 제재하는 일본, 푸틴의 원유 사업엔 출자..."모순" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000705224</link>
-            <guid>https://n.news.naver.com/article/469/0000705224</guid>
-            <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705224.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 시부야 핼러윈은 사고 없었다... 'DJ폴리스' 맹활약 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000705176</link>
-            <guid>https://n.news.naver.com/article/469/0000705176</guid>
-            <pubDate>Wed, 09 Nov 2022 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/01/705176.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“지금이 공공병원에 주어진 마지막 기회일지도 모르겠다” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031780</link>
             <guid>https://n.news.naver.com/article/308/0000031780</guid>
             <pubDate>Thu, 17 Nov 2022 05:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/17/31780.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -535,7 +535,7 @@
             <link>https://n.news.naver.com/article/308/0000031779</link>
             <guid>https://n.news.naver.com/article/308/0000031779</guid>
             <pubDate>Thu, 17 Nov 2022 05:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/17/31779.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -767,7 +767,7 @@
             <link>https://n.news.naver.com/article/308/0000031767</link>
             <guid>https://n.news.naver.com/article/308/0000031767</guid>
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/15/31767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -775,7 +775,7 @@
             <link>https://n.news.naver.com/article/308/0000031761</link>
             <guid>https://n.news.naver.com/article/308/0000031761</guid>
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/14/31761.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -783,7 +783,7 @@
             <link>https://n.news.naver.com/article/308/0000031744</link>
             <guid>https://n.news.naver.com/article/308/0000031744</guid>
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/10/31744.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
