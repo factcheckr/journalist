@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 17:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 05:37:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,16 +12,8 @@
             <link>https://n.news.naver.com/article/469/0000708549</link>
             <guid>https://n.news.naver.com/article/469/0000708549</guid>
             <pubDate>Sun, 20 Nov 2022 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/20/708549.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성범죄자 갱생 돕겠다더니'...출소 4년 만에 성범죄로 또 10년형[특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000708511</link>
-            <guid>https://n.news.naver.com/article/469/0000708511</guid>
-            <pubDate>Sun, 20 Nov 2022 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/20/708511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북한 ICBM, 일본 EEZ에 낙하… 기시다 "가장 강한 말로 비난"]]></title>
@@ -32,11 +24,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708310.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 방위장관, "北 ICBM급 미사일, 사정거리 1만5000㎞ 넘어"]]></title>
+            <link>https://n.news.naver.com/article/469/0000708264</link>
+            <guid>https://n.news.naver.com/article/469/0000708264</guid>
+            <pubDate>Mon, 21 Nov 2022 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708264.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다 “북한 ICBM, 일본 홋카이도 서쪽 EEZ 내 낙하 가능성”]]></title>
             <link>https://n.news.naver.com/article/469/0000708249</link>
             <guid>https://n.news.naver.com/article/469/0000708249</guid>
             <pubDate>Fri, 18 Nov 2022 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000708060</link>
             <guid>https://n.news.naver.com/article/469/0000708060</guid>
             <pubDate>Sun, 20 Nov 2022 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708060.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000707255</link>
             <guid>https://n.news.naver.com/article/469/0000707255</guid>
             <pubDate>Sat, 19 Nov 2022 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/13/707255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

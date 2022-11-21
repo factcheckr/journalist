@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 17:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 05:37:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,16 +288,8 @@
             <link>https://n.news.naver.com/article/469/0000708549</link>
             <guid>https://n.news.naver.com/article/469/0000708549</guid>
             <pubDate>Sun, 20 Nov 2022 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/20/708549.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성범죄자 갱생 돕겠다더니'...출소 4년 만에 성범죄로 또 10년형[특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000708511</link>
-            <guid>https://n.news.naver.com/article/469/0000708511</guid>
-            <pubDate>Sun, 20 Nov 2022 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/20/708511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북한 ICBM, 일본 EEZ에 낙하… 기시다 "가장 강한 말로 비난" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -308,11 +300,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708310.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 방위장관, "北 ICBM급 미사일, 사정거리 1만5000㎞ 넘어" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000708264</link>
+            <guid>https://n.news.naver.com/article/469/0000708264</guid>
+            <pubDate>Mon, 21 Nov 2022 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708264.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다 “북한 ICBM, 일본 홋카이도 서쪽 EEZ 내 낙하 가능성” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000708249</link>
             <guid>https://n.news.naver.com/article/469/0000708249</guid>
             <pubDate>Fri, 18 Nov 2022 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +336,7 @@
             <link>https://n.news.naver.com/article/469/0000708060</link>
             <guid>https://n.news.naver.com/article/469/0000708060</guid>
             <pubDate>Sun, 20 Nov 2022 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708060.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -376,7 +376,7 @@
             <link>https://n.news.naver.com/article/469/0000707255</link>
             <guid>https://n.news.naver.com/article/469/0000707255</guid>
             <pubDate>Sat, 19 Nov 2022 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/13/707255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +528,7 @@
             <link>https://n.news.naver.com/article/308/0000031780</link>
             <guid>https://n.news.naver.com/article/308/0000031780</guid>
             <pubDate>Thu, 17 Nov 2022 05:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/17/31780.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -536,7 +536,7 @@
             <link>https://n.news.naver.com/article/308/0000031779</link>
             <guid>https://n.news.naver.com/article/308/0000031779</guid>
             <pubDate>Thu, 17 Nov 2022 05:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/17/31779.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,11 +764,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/26/30761.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이 한 장의 사진 이후 기후위기 보도가 바뀌다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031799</link>
+            <guid>https://n.news.naver.com/article/308/0000031799</guid>
+            <pubDate>Mon, 21 Nov 2022 05:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/21/31799.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지금도 무대에 오르는 88세 명인의 꿈, 여성국극 맥 잇기 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031767</link>
             <guid>https://n.news.naver.com/article/308/0000031767</guid>
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/15/31767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -776,7 +784,7 @@
             <link>https://n.news.naver.com/article/308/0000031761</link>
             <guid>https://n.news.naver.com/article/308/0000031761</guid>
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/14/31761.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -994,14 +1002,6 @@
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/23/30900.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[을지OB베어, 끝내 사라진 을지로의 빛나는 순간 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030870</link>
-            <guid>https://n.news.naver.com/article/308/0000030870</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/18/30870.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] ‘파랑새’ 잡은 일론 머스크, 트위터 앞날은? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
