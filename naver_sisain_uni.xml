@@ -4,15 +4,39 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 05:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 17:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 걸렸던 사람 백신 또 맞아야 하나?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031807</link>
+            <guid>https://n.news.naver.com/article/308/0000031807</guid>
+            <pubDate>Wed, 23 Nov 2022 17:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/22/31807.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“지금이 공공병원에 주어진 마지막 기회일지도 모르겠다”]]></title>
+            <link>https://n.news.naver.com/article/308/0000031780</link>
+            <guid>https://n.news.naver.com/article/308/0000031780</guid>
+            <pubDate>Wed, 23 Nov 2022 17:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/17/31780.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬데믹에 헌신했지만 돌아온 것은 심각한 적자, 공공병원의 위기]]></title>
+            <link>https://n.news.naver.com/article/308/0000031779</link>
+            <guid>https://n.news.naver.com/article/308/0000031779</guid>
+            <pubDate>Wed, 23 Nov 2022 17:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/17/31779.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프리스타일] 팬데믹의 끝, 이제 진짜 우리가 할 일이 남았다]]></title>
             <link>https://n.news.naver.com/article/308/0000031778</link>
             <guid>https://n.news.naver.com/article/308/0000031778</guid>
             <pubDate>Wed, 16 Nov 2022 17:54:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/16/31778.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/03/30799.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 일론 머스크, 트위터까지 손에 넣을까]]></title>
-            <link>https://n.news.naver.com/article/308/0000030761</link>
-            <guid>https://n.news.naver.com/article/308/0000030761</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/26/30761.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 중국 상하이 봉쇄, SF 아닌 현실]]></title>
-            <link>https://n.news.naver.com/article/308/0000030724</link>
-            <guid>https://n.news.naver.com/article/308/0000030724</guid>
-            <pubDate>Tue, 22 Nov 2022 05:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/19/30724.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요양시설 르포] 어르신, 의사가 왔어요 팬데믹 3년 만에요]]></title>
-            <link>https://n.news.naver.com/article/308/0000030718</link>
-            <guid>https://n.news.naver.com/article/308/0000030718</guid>
-            <pubDate>Tue, 22 Nov 2022 05:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/18/30718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
