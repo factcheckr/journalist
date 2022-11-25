@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 17:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 05:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그의 국제 뉴스엔 ‘한국 최초’가 붙었다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031824</link>
+            <guid>https://n.news.naver.com/article/308/0000031824</guid>
+            <pubDate>Fri, 25 Nov 2022 05:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/25/31824.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자들의 시선] ‘파랑새’ 잡은 일론 머스크, 트위터 앞날은?]]></title>
             <link>https://n.news.naver.com/article/308/0000031730</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/14/30852.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 아무도 잊히지 말자, 우리가 끝낼 때까지]]></title>
-            <link>https://n.news.naver.com/article/308/0000030840</link>
-            <guid>https://n.news.naver.com/article/308/0000030840</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/12/30840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

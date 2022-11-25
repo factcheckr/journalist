@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 17:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 05:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,7 +289,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000709425</link>
             <guid>https://n.news.naver.com/article/469/0000709425</guid>
             <pubDate>Thu, 24 Nov 2022 17:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/24/709425.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -313,7 +313,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000708852</link>
             <guid>https://n.news.naver.com/article/469/0000708852</guid>
             <pubDate>Tue, 22 Nov 2022 05:36:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/22/708852.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +353,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000708264</link>
             <guid>https://n.news.naver.com/article/469/0000708264</guid>
             <pubDate>Thu, 24 Nov 2022 05:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708264.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +361,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000708249</link>
             <guid>https://n.news.naver.com/article/469/0000708249</guid>
             <pubDate>Fri, 18 Nov 2022 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -385,7 +385,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000708060</link>
             <guid>https://n.news.naver.com/article/469/0000708060</guid>
             <pubDate>Sun, 20 Nov 2022 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708060.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -529,7 +529,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/308/0000031807</link>
             <guid>https://n.news.naver.com/article/308/0000031807</guid>
             <pubDate>Wed, 23 Nov 2022 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/22/31807.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -537,7 +537,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/308/0000031780</link>
             <guid>https://n.news.naver.com/article/308/0000031780</guid>
             <pubDate>Wed, 23 Nov 2022 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/17/31780.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -545,7 +545,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/308/0000031779</link>
             <guid>https://n.news.naver.com/article/308/0000031779</guid>
             <pubDate>Wed, 23 Nov 2022 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/17/31779.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1005,6 +1005,14 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/18/30870.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그의 국제 뉴스엔 ‘한국 최초’가 붙었다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031824</link>
+            <guid>https://n.news.naver.com/article/308/0000031824</guid>
+            <pubDate>Fri, 25 Nov 2022 05:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/25/31824.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기자들의 시선] ‘파랑새’ 잡은 일론 머스크, 트위터 앞날은? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031730</link>
             <guid>https://n.news.naver.com/article/308/0000031730</guid>
@@ -1235,14 +1243,6 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/14/30852.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 아무도 잊히지 말자, 우리가 끝낼 때까지 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030840</link>
-            <guid>https://n.news.naver.com/article/308/0000030840</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/12/30840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘낭만적 사랑’의 환상이 깨진 시대의 ‘연애 리얼리티쇼’ (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
