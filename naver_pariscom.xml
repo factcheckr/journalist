@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 05:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 17:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000709425</link>
             <guid>https://n.news.naver.com/article/469/0000709425</guid>
             <pubDate>Thu, 24 Nov 2022 17:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/24/709425.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,16 +20,8 @@
             <link>https://n.news.naver.com/article/469/0000709182</link>
             <guid>https://n.news.naver.com/article/469/0000709182</guid>
             <pubDate>Wed, 23 Nov 2022 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/23/709182.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['내 사람' 무리하게 장관 발탁했다 흔들리는 기시다, 조기 개각 검토]]></title>
-            <link>https://n.news.naver.com/article/469/0000708939</link>
-            <guid>https://n.news.naver.com/article/469/0000708939</guid>
-            <pubDate>Tue, 22 Nov 2022 17:37:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/22/708939.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/23/709182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 달 착륙 일단 실패… 초소형 '오모테나시' 탐사선 통신 끊겨]]></title>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000708710</link>
             <guid>https://n.news.naver.com/article/469/0000708710</guid>
             <pubDate>Mon, 21 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/21/708710.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000708699</link>
             <guid>https://n.news.naver.com/article/469/0000708699</guid>
             <pubDate>Mon, 21 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/21/708699.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,15 +52,23 @@
             <link>https://n.news.naver.com/article/469/0000708549</link>
             <guid>https://n.news.naver.com/article/469/0000708549</guid>
             <pubDate>Sun, 20 Nov 2022 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/20/708549.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["너무 커서 공격받기 쉬워"...일본, '신 이지스함' 크기 줄인다]]></title>
+            <link>https://n.news.naver.com/article/469/0000708523</link>
+            <guid>https://n.news.naver.com/article/469/0000708523</guid>
+            <pubDate>Sat, 26 Nov 2022 17:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/20/708523.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['성범죄자 갱생 돕겠다더니'...출소 4년 만에 성범죄로 또 10년형[특파원 24시]]]></title>
             <link>https://n.news.naver.com/article/469/0000708511</link>
             <guid>https://n.news.naver.com/article/469/0000708511</guid>
             <pubDate>Fri, 25 Nov 2022 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/20/708511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000708310</link>
             <guid>https://n.news.naver.com/article/469/0000708310</guid>
             <pubDate>Fri, 18 Nov 2022 17:37:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708310.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
