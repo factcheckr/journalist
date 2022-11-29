@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 05:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 17:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“교수형은 잔혹하다” 일 사형수, 국가 상대로 소송 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202211291505021</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202211291505021</guid>
+            <pubDate>Tue, 29 Nov 2022 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[일본 사형수 3명이 교수형으로 사형을 집행하는 일은 잔혹한 행위로 헌법에 위반된다고 주장하며 집행정지 소송을 냈다.
+요미우리신문은 오사카 구치소에 수감 중인 사형수 3명이 29일 국가를 상대로 집행정지 또는 3300만엔(약 3억1600만엔)의 손해배상을 요구하는 소송을 냈다고 보도했다. 원고 3명은 2000년대 이후 형이 확정됐으며 이중 2명은 재심청구를 하고 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/29/news-p.v1.20221129.221e7c1f89ab4583ab5c773549edbb4a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유로폴 “슈퍼 마약 밀매조직 공조수사로 소탕” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202211290600011</link>
@@ -103,15 +112,6 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <content:encoded><![CDATA[러시아의 공습으로 기간 시설이 파괴된 우크라이나에서 병원도 전력난에 시달리고 있다. 의사들이 손전등에 의존해 수술하는 등 환자들의 안전이 극도로 위협받고 있다.
 AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공격을 한 지난 22일(현지시간) 현지 주민 아르투르 보블리코프(13)가 병원에 실려 왔다. 그는 좁은 계단을 통해 수술실로 옮겨졌고 왼팔 절단 수술을 받았다. 전력이 부족해 환자 이송용 엘리베이터도 사용할 수 없었다. 수술이 진행되는 동안 어머니 나탈리야는 캄캄한 복도에서 두 손을 모아쥐고 기도했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/24/news-p.v1.20221124.bba52becd90e4d35b1c40fd6cc1528dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 국민 43% “기시다, 총리직에서 빨리 물러나길 바란다” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202211211637011</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202211211637011</guid>
-            <pubDate>Mon, 21 Nov 2022 17:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[일본 국민의 43%가 기시다 후미오 총리가 남은 임기와 무관하게 빨리 물러났으면 좋겠다고 생각하는 것으로 나타났다.
-마이니치신문은  지난 19~20일 전국 유권자를 대상으로 여론조사를 한 결과 기시다 총리가 총리직을 ‘빨리 그만두기를 바란다’는 응답이 43%였다고 21일 보도했다. ‘2024년 9월 자민당 총재 임기까지 업무 수행’은 31%였으며 ‘가능한 한 길게 계속해달라’는 14%에 그쳤다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/21/news-p.v1.20221121.d35ff993ce064c60b79d7e8d18075371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -283,11 +283,19 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0715/A0002850673_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['후쿠시마 참사 잊었나?'...일본, 원전 수명 연장하고 원전 또 개발 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000710186</link>
+            <guid>https://n.news.naver.com/article/469/0000710186</guid>
+            <pubDate>Tue, 29 Nov 2022 17:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/29/710186.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['반격 능력'으로는 부족해...일본, 위성으로 적 군사 정보 수집 추진 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000710035</link>
             <guid>https://n.news.naver.com/article/469/0000710035</guid>
             <pubDate>Mon, 28 Nov 2022 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/710035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,7 +303,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000709981</link>
             <guid>https://n.news.naver.com/article/469/0000709981</guid>
             <pubDate>Mon, 28 Nov 2022 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -319,7 +327,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000709745</link>
             <guid>https://n.news.naver.com/article/469/0000709745</guid>
             <pubDate>Sun, 27 Nov 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/27/709745.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -327,7 +335,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000709425</link>
             <guid>https://n.news.naver.com/article/469/0000709425</guid>
             <pubDate>Thu, 24 Nov 2022 17:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/24/709425.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -335,7 +343,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000709182</link>
             <guid>https://n.news.naver.com/article/469/0000709182</guid>
             <pubDate>Wed, 23 Nov 2022 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/23/709182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,7 +351,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000708939</link>
             <guid>https://n.news.naver.com/article/469/0000708939</guid>
             <pubDate>Mon, 28 Nov 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/22/708939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -359,7 +367,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000708710</link>
             <guid>https://n.news.naver.com/article/469/0000708710</guid>
             <pubDate>Mon, 21 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/21/708710.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -367,7 +375,7 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <link>https://n.news.naver.com/article/469/0000708699</link>
             <guid>https://n.news.naver.com/article/469/0000708699</guid>
             <pubDate>Mon, 21 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/21/708699.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -513,14 +521,6 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707100.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엔저로 힘들다더니'...일본기업 환차익으로 오히려 이익 증가 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000706941</link>
-            <guid>https://n.news.naver.com/article/469/0000706941</guid>
-            <pubDate>Sun, 13 Nov 2022 05:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706941.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 걸렸던 사람 백신 또 맞아야 하나? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -763,6 +763,30 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/03/30799.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“좋은 기후위기 기사 응원해줘야 한다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031843</link>
+            <guid>https://n.news.naver.com/article/308/0000031843</guid>
+            <pubDate>Tue, 29 Nov 2022 17:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/29/31843.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“지구의 유한함이 기후위기 풀 열쇠 될 수 있다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031835</link>
+            <guid>https://n.news.naver.com/article/308/0000031835</guid>
+            <pubDate>Tue, 29 Nov 2022 17:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/28/31835.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지구를 구하고 싶은 ‘그레타 툰베리들’을 위한 잡지가 있다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031811</link>
+            <guid>https://n.news.naver.com/article/308/0000031811</guid>
+            <pubDate>Tue, 29 Nov 2022 17:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/23/31811.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기후위기 통해 생태 민주주의까지, 신생언론 ‘스플란!’의 실험 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031806</link>
             <guid>https://n.news.naver.com/article/308/0000031806</guid>
@@ -977,30 +1001,6 @@ AP통신에 따르면 러시아군이 우크라이나 헤르손에 미사일 공
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/08/30987.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘자가’와 ‘세입자’로 산불 이재민 지원금도 차별? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030944</link>
-            <guid>https://n.news.naver.com/article/308/0000030944</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/31/30944.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후위기 시대, ‘고기를 먹느냐 마느냐’에서 ‘얼마나 먹느냐’로 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030915</link>
-            <guid>https://n.news.naver.com/article/308/0000030915</guid>
-            <pubDate>Tue, 29 Nov 2022 05:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30915.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후위기 시대, 축산업계의 딜레마 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030905</link>
-            <guid>https://n.news.naver.com/article/308/0000030905</guid>
-            <pubDate>Tue, 29 Nov 2022 05:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/24/30905.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지휘 책임 없다는 이상민 장관, 고생 많았다는 윤석열 대통령 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>

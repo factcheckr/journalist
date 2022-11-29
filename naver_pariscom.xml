@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 05:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 17:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['후쿠시마 참사 잊었나?'...일본, 원전 수명 연장하고 원전 또 개발]]></title>
+            <link>https://n.news.naver.com/article/469/0000710186</link>
+            <guid>https://n.news.naver.com/article/469/0000710186</guid>
+            <pubDate>Tue, 29 Nov 2022 17:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/29/710186.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['반격 능력'으로는 부족해...일본, 위성으로 적 군사 정보 수집 추진]]></title>
             <link>https://n.news.naver.com/article/469/0000710035</link>
             <guid>https://n.news.naver.com/article/469/0000710035</guid>
             <pubDate>Mon, 28 Nov 2022 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/710035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000709981</link>
             <guid>https://n.news.naver.com/article/469/0000709981</guid>
             <pubDate>Mon, 28 Nov 2022 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000709745</link>
             <guid>https://n.news.naver.com/article/469/0000709745</guid>
             <pubDate>Sun, 27 Nov 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/27/709745.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000709425</link>
             <guid>https://n.news.naver.com/article/469/0000709425</guid>
             <pubDate>Thu, 24 Nov 2022 17:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/24/709425.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000709182</link>
             <guid>https://n.news.naver.com/article/469/0000709182</guid>
             <pubDate>Wed, 23 Nov 2022 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/23/709182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000708939</link>
             <guid>https://n.news.naver.com/article/469/0000708939</guid>
             <pubDate>Mon, 28 Nov 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/22/708939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000708710</link>
             <guid>https://n.news.naver.com/article/469/0000708710</guid>
             <pubDate>Mon, 21 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/21/708710.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000708699</link>
             <guid>https://n.news.naver.com/article/469/0000708699</guid>
             <pubDate>Mon, 21 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/21/708699.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707100.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엔저로 힘들다더니'...일본기업 환차익으로 오히려 이익 증가]]></title>
-            <link>https://n.news.naver.com/article/469/0000706941</link>
-            <guid>https://n.news.naver.com/article/469/0000706941</guid>
-            <pubDate>Sun, 13 Nov 2022 05:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/10/706941.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
