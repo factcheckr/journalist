@@ -4,31 +4,15 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 17:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 05:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[“지구의 유한함이 기후위기 풀 열쇠 될 수 있다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000031835</link>
-            <guid>https://n.news.naver.com/article/308/0000031835</guid>
-            <pubDate>Mon, 28 Nov 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/28/31835.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구를 구하고 싶은 ‘그레타 툰베리들’을 위한 잡지가 있다]]></title>
-            <link>https://n.news.naver.com/article/308/0000031811</link>
-            <guid>https://n.news.naver.com/article/308/0000031811</guid>
-            <pubDate>Mon, 28 Nov 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/23/31811.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[기후위기 통해 생태 민주주의까지, 신생언론 ‘스플란!’의 실험]]></title>
             <link>https://n.news.naver.com/article/308/0000031806</link>
             <guid>https://n.news.naver.com/article/308/0000031806</guid>
             <pubDate>Mon, 28 Nov 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/22/31806.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +20,7 @@
             <link>https://n.news.naver.com/article/308/0000031799</link>
             <guid>https://n.news.naver.com/article/308/0000031799</guid>
             <pubDate>Sun, 27 Nov 2022 17:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/21/31799.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -246,6 +230,22 @@
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/31/30944.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기후위기 시대, ‘고기를 먹느냐 마느냐’에서 ‘얼마나 먹느냐’로]]></title>
+            <link>https://n.news.naver.com/article/308/0000030915</link>
+            <guid>https://n.news.naver.com/article/308/0000030915</guid>
+            <pubDate>Tue, 29 Nov 2022 05:34:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30915.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기후위기 시대, 축산업계의 딜레마]]></title>
+            <link>https://n.news.naver.com/article/308/0000030905</link>
+            <guid>https://n.news.naver.com/article/308/0000030905</guid>
+            <pubDate>Tue, 29 Nov 2022 05:34:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/24/30905.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
