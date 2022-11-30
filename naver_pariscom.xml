@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 17:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["고물가라 힘들지? 보너스 줄게"...일본 '인플레 수당' 확산]]></title>
+            <link>https://n.news.naver.com/article/469/0000710450</link>
+            <guid>https://n.news.naver.com/article/469/0000710450</guid>
+            <pubDate>Wed, 30 Nov 2022 17:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/30/710450.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['후쿠시마 참사 잊었나?'...일본, 원전 수명 연장하고 원전 또 개발]]></title>
             <link>https://n.news.naver.com/article/469/0000710186</link>
             <guid>https://n.news.naver.com/article/469/0000710186</guid>
             <pubDate>Tue, 29 Nov 2022 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/29/710186.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000710035</link>
             <guid>https://n.news.naver.com/article/469/0000710035</guid>
             <pubDate>Mon, 28 Nov 2022 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/710035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000709981</link>
             <guid>https://n.news.naver.com/article/469/0000709981</guid>
             <pubDate>Mon, 28 Nov 2022 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,27 +56,27 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709874.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["일본이 독일 꺾어서 유감"이란 30대 일본 정치인, 왜? [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000709745</link>
-            <guid>https://n.news.naver.com/article/469/0000709745</guid>
-            <pubDate>Sun, 27 Nov 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/27/709745.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["연내 강제동원 배상 해결 어려울 듯" 한일 외교국장 도쿄 협의]]></title>
             <link>https://n.news.naver.com/article/469/0000709425</link>
             <guid>https://n.news.naver.com/article/469/0000709425</guid>
             <pubDate>Thu, 24 Nov 2022 17:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/24/709425.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독일에 역전승한 일본 열도 '들썩'..."도하의 비극이 ‘기적’ 됐다!"]]></title>
+            <link>https://n.news.naver.com/article/469/0000709301</link>
+            <guid>https://n.news.naver.com/article/469/0000709301</guid>
+            <pubDate>Wed, 30 Nov 2022 17:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/24/709301.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["경증 환자도 먹는 코로나 치료제 나왔다"...일본, '조코바' 사용 승인]]></title>
             <link>https://n.news.naver.com/article/469/0000709182</link>
             <guid>https://n.news.naver.com/article/469/0000709182</guid>
             <pubDate>Wed, 23 Nov 2022 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/23/709182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000708939</link>
             <guid>https://n.news.naver.com/article/469/0000708939</guid>
             <pubDate>Mon, 28 Nov 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/22/708939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Nov 2022 17:40:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707120.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["2나노 이하 반도체 5년 내 직접 생산"...도요타·소니 등 일본 기업 뭉쳤다]]></title>
-            <link>https://n.news.naver.com/article/469/0000707100</link>
-            <guid>https://n.news.naver.com/article/469/0000707100</guid>
-            <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707100.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

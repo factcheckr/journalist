@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 17:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물가상승 고통에 세계 곳곳 노동자 파업 이어져···미국 철도 파업 가능성에 의회 개입 선언 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202211301822001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202211301822001</guid>
+            <pubDate>Wed, 30 Nov 2022 17:34:49 GMT</pubDate>
+            <content:encoded><![CDATA[급격한 물가상승의 직격탄을 맞은 세계 각국의 노동자들이 임금인상과 노동조건 개선을 요구하며 파업에 나서고 있다. 코로나19 팬데믹에 이은 우크라이나 전쟁 등의 여파로 경제 상황이 불안해지면서 세계 곳곳의 연말연시가 뒤숭숭한 모습이다.
+로이터통신 등 외신에 따르면 영국에서는 간호사 노조가 다음 달 15(현지시간)일과 20일 잉글랜드와 웨일스, 북아일랜드 지역에서 파업을 벌일 계획이다. 간호사 노조의 전국 규모 파업을 106년 노조 역사상 처음이다. 노조는 물가 상승으로 인해 간호사들의 실질 임금이 2010년보다도 낮은 수준이라고 주장한다. 하지만 정부는 이들의 요구를 들어주려면 19.2%의 임금 인상이 필요하다며 난색을 보이고 있다. 의사와 구급요원, 구급차 기사들도 파업 여부를 묻는 투표가 진행 중이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/30/news-p.v1.20221130.799b1769396346468ac324b9e728a16f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나 축구협회장 횡령 혐의 체포…2030년 월드컵 개최국 선정 영향 받나 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202211301144001</link>
@@ -105,15 +114,6 @@ G7 법무부 장관들은 이날 베를린에서 28일부터 이틀간 G7 첫 �
             <content:encoded><![CDATA[시민들 거리 나와 반정부 구호검열 항의 명언으로 처벌 회피홍콩·대만 등서도 연대 시위시진핑 3기 한 달여 최대 위기강경 진압 땐 공안정국 우려도
 중국에서 신장(新疆)위구르자치구 우루무치(烏魯木齊) 화재 참사 희생자들을 추모하고 당국의 검열과 코로나19 통제 조치에 항의하는 ‘백지 시위’가 들불처럼 번지고 있다. 상하이에 이어 수도 베이징 도심에서도 수백명의 시민들이 모여 집단 시위를 벌였고 홍콩과 대만 등 각지에서도 연대 시위가 펼쳐졌다. 시진핑(習近平) 국가주석 집권 3기를 시작한 지 한 달여 만에 최대 위기를 맞은 중국 공산당과 정부가 어떤 대응책을 내놓을지에 관심이 모아진다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/28/2022112901001430400116081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱가포르 빅테크 기업들 플랫폼 노동자 CPF 분담금 내기로 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/asia-australia/article/202211281816001</link>
-            <guid>https://www.khan.co.kr/world/asia-australia/article/202211281816001</guid>
-            <pubDate>Mon, 28 Nov 2022 17:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[싱가포르에서 그랩, 고젝 등 기술 대기업이 플랫폼 노동자의 사회안전망을 강화하는 조치를 2024년부터 시행하기로 정부와 합의했다.
-싱가포르 언론 스트레이츠타임스(ST)에 따르면 그랩, 고젝 등 싱가포르에서 영업하는 빅테크 기업들은  최근 정부 자문기구인 ‘플랫폼 노동자 보호를 위한 자문위원회’의 12개 항으로 이뤄진 권고안을 따르기로 했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/28/news-p.v1.20221128.0958748a3fa749b0814c29a1f5a949ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -285,11 +285,19 @@ G7 법무부 장관들은 이날 베를린에서 28일부터 이틀간 G7 첫 �
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0715/A0002850673_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["고물가라 힘들지? 보너스 줄게"...일본 '인플레 수당' 확산 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000710450</link>
+            <guid>https://n.news.naver.com/article/469/0000710450</guid>
+            <pubDate>Wed, 30 Nov 2022 17:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/30/710450.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['후쿠시마 참사 잊었나?'...일본, 원전 수명 연장하고 원전 또 개발 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000710186</link>
             <guid>https://n.news.naver.com/article/469/0000710186</guid>
             <pubDate>Tue, 29 Nov 2022 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/29/710186.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +305,7 @@ G7 법무부 장관들은 이날 베를린에서 28일부터 이틀간 G7 첫 �
             <link>https://n.news.naver.com/article/469/0000710035</link>
             <guid>https://n.news.naver.com/article/469/0000710035</guid>
             <pubDate>Mon, 28 Nov 2022 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/710035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +313,7 @@ G7 법무부 장관들은 이날 베를린에서 28일부터 이틀간 G7 첫 �
             <link>https://n.news.naver.com/article/469/0000709981</link>
             <guid>https://n.news.naver.com/article/469/0000709981</guid>
             <pubDate>Mon, 28 Nov 2022 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -325,27 +333,27 @@ G7 법무부 장관들은 이날 베를린에서 28일부터 이틀간 G7 첫 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709874.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["일본이 독일 꺾어서 유감"이란 30대 일본 정치인, 왜? [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000709745</link>
-            <guid>https://n.news.naver.com/article/469/0000709745</guid>
-            <pubDate>Sun, 27 Nov 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/27/709745.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["연내 강제동원 배상 해결 어려울 듯" 한일 외교국장 도쿄 협의 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000709425</link>
             <guid>https://n.news.naver.com/article/469/0000709425</guid>
             <pubDate>Thu, 24 Nov 2022 17:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/24/709425.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독일에 역전승한 일본 열도 '들썩'..."도하의 비극이 ‘기적’ 됐다!" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000709301</link>
+            <guid>https://n.news.naver.com/article/469/0000709301</guid>
+            <pubDate>Wed, 30 Nov 2022 17:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/24/709301.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["경증 환자도 먹는 코로나 치료제 나왔다"...일본, '조코바' 사용 승인 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000709182</link>
             <guid>https://n.news.naver.com/article/469/0000709182</guid>
             <pubDate>Wed, 23 Nov 2022 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/23/709182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +361,7 @@ G7 법무부 장관들은 이날 베를린에서 28일부터 이틀간 G7 첫 �
             <link>https://n.news.naver.com/article/469/0000708939</link>
             <guid>https://n.news.naver.com/article/469/0000708939</guid>
             <pubDate>Mon, 28 Nov 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/22/708939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -515,14 +523,6 @@ G7 법무부 장관들은 이날 베를린에서 28일부터 이틀간 G7 첫 �
             <pubDate>Fri, 11 Nov 2022 17:40:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707120.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["2나노 이하 반도체 5년 내 직접 생산"...도요타·소니 등 일본 기업 뭉쳤다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000707100</link>
-            <guid>https://n.news.naver.com/article/469/0000707100</guid>
-            <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/11/707100.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 걸렸던 사람 백신 또 맞아야 하나? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
