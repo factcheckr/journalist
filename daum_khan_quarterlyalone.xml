@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-12-02T05:33:09.296Z</updated>
+    <updated>2022-12-02T17:33:05.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연예인의 ‘봉인 해제’된 모습 보여주는 ‘술방’]]></title>
+        <id>https://v.daum.net/v/20221202161526740</id>
+        <link href="https://v.daum.net/v/20221202161526740"/>
+        <updated>2022-12-02T17:33:04.563Z</updated>
+        <content type="html"><![CDATA[2022라는 숫자가 어색하다고 야단법석을 떨었는데, 어느덧 연말이다. 2년간 팬데믹으로 각종 모임이 축소되거나 없어졌다가, 최근 들어 조금씩 재개되는 추세이니 올해는 모처럼 흥겨운 연말 분위기가 날지도 모르겠다. 법적 성인들의 연말 모임에는 으레 술이 함께하기 마련이다. 참고로 나는 ‘알코올 쓰레기’라는 뜻의 ‘알쓰’인데 이 말은 술을 거의 마시지 못하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘낭만적 사랑’의 환상이 깨진 시대의 ‘연애 리얼리티쇼’]]></title>
         <id>https://v.daum.net/v/20221118160638236</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220610160444957"/>
         <updated>2022-11-16T17:55:24.613Z</updated>
         <content type="html"><![CDATA[지난해 전 세계적인 돌풍을 일으킨 넷플릭스 드라마 &lt;오징어 게임&gt;(2021)의 주인공 성기훈(이정재)은 도박 빚 때문에 목숨을 건 게임에 뛰어든다. &lt;오징어 게임&gt;을 본 한 친구는 진저리를 쳤다. “나는 저렇게 도박 중독자가 ‘그래도 본성은 선량한’ 인물로 그려지는 게 싫어. 중독은 그런 게 아니야. 최소한의 인간성이나 판단력까지 앗아간다고.” 친구는 어렸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의 첫 심부름'으로 살펴보는 어린이의 성장 과정]]></title>
-        <id>https://v.daum.net/v/20220527160943856</id>
-        <link href="https://v.daum.net/v/20220527160943856"/>
-        <updated>2022-11-16T17:55:24.617Z</updated>
-        <content type="html"><![CDATA[언니에게, 최근 다녀온 카페를 공유하며 함께 가자고 했다. 언니가 바로 되물었다. “노키즈존 아니야?” 언니는 작년에 아기를 낳은 후, 출산 전 다니던 많은 공간으로부터 출입을 금지당했다. 순간 등골이 서늘해졌다. 아동거부업소임을 표기하지 않은 업장도 많으니까. 황급히 찾아보니 다행히 아니었다. 한숨을 쉬며 가슴을 쓸어내렸다. 관광지에서 방문했던 베이커리]]></content>
     </entry>
 </feed>
