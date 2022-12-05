@@ -4,9 +4,55 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 17:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 05:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NASA “러시아, 우크라이나 밀 1조원어치 쓸어갔다” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202212051010001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202212051010001</guid>
+            <pubDate>Mon, 05 Dec 2022 05:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[러시아가 우크라이나 점령지에서 적어도 10억달러(약 1조3000억원)어치의 밀을 쓸어간 것으로 보인다고 미국 항공우주국(NASA) 산하 식량안보·농업 프로그램인 NASA 하베스트가 밝혔다.
+블룸버그통신은 3일(현지시간) NASA 하베스트가 인공위성 사진을 토대로 분석한 결과 러시아군의 우크라이나 점령지 밀밭에서 600만t 가까운 밀이 수확된 것으로 확인됐다고 전했다. 이는 10억달러 상당으로 추정된다. NASA 하베스트는 가을밀이 파종된 러시아군 점령지 밀밭의 88%에서 수확이 이뤄졌으며 나머지 미수확 밀밭은 대부분 전선 인근에 있는 밭들이라고 설명했다. 러시아군이 점령한 밀 재배지역은 우크라이나 전체 밀밭의 4분의 1 정도에 달한다고 NASA 하베스트는 부연했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/05/news-p.v1.20221205.4babd33adee4494aaad297287f3a5f7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장쩌민 국장 열리는 6일, 중국 금융·증권시장 일시 정지 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/economy/finance/article/202212050954001</link>
+            <guid>https://www.khan.co.kr/economy/finance/article/202212050954001</guid>
+            <pubDate>Mon, 05 Dec 2022 05:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[중국 금융시장이 고 장쩌민 전 국가주석의 국장 격인 추도대회가 열리는 6일 오전에 3분간 일시 정지된다고 중국 인민은행과 증권감독관리위원회가 5일 밝혔다.
+일시 정지되는 시간대는 아직 공개되지 않았다. 추도대회가 시작되는 오전 10시(현지시간)부터 3분간이 될 가능성이 크다. 이 시간대에 증권·선물·은행 간 채권·외환·어음·금 거래가 멈춘다. 중국 인민은행과 증권감독관리위원회는 장 전 주석에 대한 비할 데 없는 존경과 깊은 애도를 표명하기 위한 조처라면서 이같이 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/05/news-p.v1.20221205.ad4d331abf3344adbd13f2d6ad4121d0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[축구는 풋볼? 사커?…바이든 “사커”, 네덜란드 총리 “풋볼 이겨 미안” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202212050919001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202212050919001</guid>
+            <pubDate>Mon, 05 Dec 2022 05:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[축구의 영어 표현은 ‘풋볼’인가 ‘사커‘인가. 조 바이든 미국 대통령과 마르크 뤼터 네덜란드 총리가 자국의 월드컵 16강전 경기를 전후로 축구 용어를 놓고 농담 섞인 기 싸움을 벌였다.
+바이든 대통령은 2022 카타르 월드컵에서 미국과 네덜란드의 16강전을 앞둔 3일(현지시간) 트위터에 “힘내라 미국대표팀”(Let’s go USMNT)”이라는 글을 올렸다. 그는 글과 함께 올린 영상에서 축구공을 들고서 “그것은 사커(soccer)라고 불린다. 여러분은 할 수 있다. 가자 USA”라고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/05/news-p.v1.20221205.752d15568dde4977901cca9e78eae9b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산유국 일 200만베럴 감산 유지…러 “가격상한제 국가에 안 팔겠다” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202212050816001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202212050816001</guid>
+            <pubDate>Mon, 05 Dec 2022 05:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[석유수출국기구(OPEC)와 러시아 등 주요 산유국들의 협의체인 OPEC 플러스(OPEC+)가 하루 200만 배럴 감산 방침을 계속 유지하기로 했다. 러시아는 자국산 원유에 가격상한제를 적용한 서방 국가들에게는 석유를 팔지 않겠다는 입장을 밝혔다.
+OPEC+는 4일(현지시간) 정례 장관급 회의 후 낸 성명에서 지난 회의에서 합의한 감산 정책을 유지한다고 발표했다. OPEC+는 성명에서 “향후 원유 시장을 관찰하면서 수급 균형과 가격 안정을 위해 필요한 경우 즉각적으로 대응할 것”이라고 설명했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/05/news-p.v1.20221205.4339187de5634505827a39c229001687.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인도네시아 세메루산 분화···주민 2000명 대피 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/asia-australia/article/202212050803001</link>
+            <guid>https://www.khan.co.kr/world/asia-australia/article/202212050803001</guid>
+            <pubDate>Mon, 05 Dec 2022 05:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[인도네시아 자바섬 동쪽의 활화산인 세메루산이 분화해 인근 주민 2000명이 대피했다.
+세메루산은 4일(현지시간) 새벽 대규모 분화를 시작했다고 로이터통신 등이 보도했다. 보도에 따르면 화산에서 뿜어져 나온 화산재 연기가 1.5km 이상 상공까지 치솟았으며 가스, 용암 등이 분출다.
+인근 주민에 대한 대피령이 내려졌다. 인도네시아 재난평가센터(BNPB)는 이날 화산에서 반경 5km 내에서 활동을 금지했으며 5일에는 경계 구역을 반경 8km로 넓혔다. 또 용암 피해를 대비해 강에서 500m 떨어진 곳에 있으라고 명령했다. 이에 2000명 가까운 사람들이 대피했다. 사상자는 아직 보고되지 않았다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/05/news-p.v1.20221205.39679b9863b24df48dbd9ab39f00f530.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라 재외공관에 편지 폭발 이어 동물 눈 소포 배달 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202212022315001</link>
@@ -69,51 +115,6 @@ AFP통신에 따르면 국제사법재판소(ICJ)는 1일(현지시간) 칠레�
             <content:encoded><![CDATA[미국 뉴저지주 저지시티에 사는 위야오씨(37)는 남편 황민혁씨(41)와 함께 지난달 29일(현지시간) 주뉴욕 중국 총영사관 앞을 찾았다. 재미 중국인들의 제로 코로나 반대 집회에 참석하기 위해서였다.
 중국에서 태어나 열 살 때 가족과 함께 미국에 이민 온 위씨가 시위에 참여한 것은 이번이 처음이다. 위씨는 “중국과 전 세계에서 열린 저항 움직임에 깊이 감명받았다”며 “중국에 있는 사람들이 경찰에 체포되거나 구타당할 위험을 무릅쓰고 목소리를 낼 수 있다면, 우리는 침묵에 대체 무슨 변명을 할 수 있겠는가”라고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/01/2022120201000085700004771.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“언젠가 모두 목소리 낼 수 있을 것”…재미 중국인 연대시위 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202212011647021</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202212011647021</guid>
-            <pubDate>Fri, 02 Dec 2022 05:31:48 GMT</pubDate>
-            <content:encoded><![CDATA[미국 뉴저지주 저지시티에 사는 위야오씨(37)는 남편 황민혁씨(41)와 함께 지난달 29일(현지시간) 주뉴욕 중국 총영사관 앞을 찾았다. 재미 중국인들의 제로 코로나 반대 집회에 참석하기 위해서였다.
-중국에서 태어나 10살 때 가족과 함께 미국에 이민 온 위씨가 시위에 참여한 것은 이번이 처음이다. 위씨는 “중국과 전 세계에서 열린 저항 움직임에 깊이 감명받았다”며 “중국에 있는 사람들이 경찰에 체포되거나 구타당할 위험을 무릅쓰고 목소리를 낼 수 있다면 우리는 침묵에 대체 무슨 변명을 할 수 있겠냐”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/01/news-p.v1.20221201.7ded5dfedfb640e7b67963f0a05146fd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[물가상승 고통에 세계 곳곳 노동자 파업 이어져···미국 철도 파업 가능성에 의회 개입 선언 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202211301822001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202211301822001</guid>
-            <pubDate>Wed, 30 Nov 2022 17:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[급격한 물가상승의 직격탄을 맞은 세계 각국의 노동자들이 임금인상과 노동조건 개선을 요구하며 파업에 나서고 있다. 코로나19 팬데믹에 이은 우크라이나 전쟁 등의 여파로 경제 상황이 불안해지면서 세계 곳곳의 연말연시가 뒤숭숭한 모습이다.
-로이터통신 등 외신에 따르면 영국에서는 간호사 노조가 다음 달 15(현지시간)일과 20일 잉글랜드와 웨일스, 북아일랜드 지역에서 파업을 벌일 계획이다. 간호사 노조의 전국 규모 파업을 106년 노조 역사상 처음이다. 노조는 물가 상승으로 인해 간호사들의 실질 임금이 2010년보다도 낮은 수준이라고 주장한다. 하지만 정부는 이들의 요구를 들어주려면 19.2%의 임금 인상이 필요하다며 난색을 보이고 있다. 의사와 구급요원, 구급차 기사들도 파업 여부를 묻는 투표가 진행 중이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/30/news-p.v1.20221130.799b1769396346468ac324b9e728a16f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 축구협회장 횡령 혐의 체포…2030년 월드컵 개최국 선정 영향 받나 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202211301144001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202211301144001</guid>
-            <pubDate>Wed, 30 Nov 2022 05:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 축구협회의 안드리 파벨코 회장 등 간부 2명이 돈세탁과 사기 등 혐의로 체포됐다고 가디언이 29일(현지시간) 보도했다.
-파벨코 회장 등 2명은 2650만 흐리우냐(약 9억5000만원)에 달하는 자금을 횡령한 혐의를 받고 있다. 우크라이나 검찰은 우크라이나 축구협회가 인조잔디 생산공장 건설을 위해 협력해온 아랍에미리트(UAE) 업체 SDT에 돈을 초과 지불했다는 논란과 관련해 4년간 수사를 벌인 끝에 이들을 체포한 것으로 전해졌다. 법원은 추가조사를 위해 이들을 내년 1월 22일까지 구속할 것을 명령했으며, 수도 키이우를 벗어나거나 증인과 접촉하지 않는 조건으로 3억원 상당의 보석금을 책정했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/30/news-p.v1.20221130.b3e3f72b1f624cb8b9cc41cbfa73ff94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“마윈, 도쿄에서 6개월째 체류 중…미술품 수집가 돼” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202211301117001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202211301117001</guid>
-            <pubDate>Wed, 30 Nov 2022 05:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[중국 거대 기술기업 알리바바를 창업한 마윈이 약 6개월 전부터 가족과 함께 일본에 머물고 있다고 파이낸셜타임스(FT)가 29일(현지시간) 보도했다.
-FT는 ‘마윈의 행적을 직접 아는 사람들’을 인용해 마윈이 도쿄 중심부에 머물고 있으며 도쿄 외곽의 온천, 스키장 등에서 가족들과 시간을 보내고 있다고 전했다. 보도에 따르면 마윈은 도쿄에서 눈에 띄는 활동은 자제하고 있으며 긴자와 마루노우치의 회원제 클럽에서 사교 활동을 하고 있다. 일본에 정착했거나 정기적으로 드나드는 부유한 중국들이 모인 클럽이다. 일본 체류 중 미국과 이스라엘도 주기적으로 방문했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/30/news-p.v1.20221130.e9bb9ecc30b749e5a17b90f184dee2f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 기독교 인구, 절반 이하로 떨어졌다 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202211301015001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202211301015001</guid>
-            <pubDate>Wed, 30 Nov 2022 05:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[영국 잉글랜드와 웨일스에서 기독교 신자 비율이 처음으로 전체 인구의 절반 아래로 하락한 것으로 나타났다.
-영국 통계청이 29일(현지시간) 발표한 잉글랜드·웨일스 2021 인구 센서스 조사 결과 자신의 종교를 기독교라고 밝힌 응답자는 2750만명으로 전체의 46%에 그쳤다. 이는 직전 센서스 조사 결과(59%·2011년)보다 13%포인트 하락한 수치다. 응답자 수로는 550만명 감소한 것이라고 가디언은 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/30/news-p.v1.20221130.192cdcbb367540f4b4128fbd46bf29a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -289,7 +290,7 @@ FT는 ‘마윈의 행적을 직접 아는 사람들’을 인용해 마윈이 �
             <link>https://n.news.naver.com/article/469/0000711090</link>
             <guid>https://n.news.naver.com/article/469/0000711090</guid>
             <pubDate>Sun, 04 Dec 2022 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/04/711090.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +362,7 @@ FT는 ‘마윈의 행적을 직접 아는 사람들’을 인용해 마윈이 �
             <link>https://n.news.naver.com/article/469/0000709909</link>
             <guid>https://n.news.naver.com/article/469/0000709909</guid>
             <pubDate>Mon, 28 Nov 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709909.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -369,7 +370,7 @@ FT는 ‘마윈의 행적을 직접 아는 사람들’을 인용해 마윈이 �
             <link>https://n.news.naver.com/article/469/0000709874</link>
             <guid>https://n.news.naver.com/article/469/0000709874</guid>
             <pubDate>Mon, 28 Nov 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709874.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -377,7 +378,7 @@ FT는 ‘마윈의 행적을 직접 아는 사람들’을 인용해 마윈이 �
             <link>https://n.news.naver.com/article/469/0000709835</link>
             <guid>https://n.news.naver.com/article/469/0000709835</guid>
             <pubDate>Sun, 04 Dec 2022 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709835.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -769,7 +770,7 @@ FT는 ‘마윈의 행적을 직접 아는 사람들’을 인용해 마윈이 �
             <link>https://n.news.naver.com/article/308/0000031843</link>
             <guid>https://n.news.naver.com/article/308/0000031843</guid>
             <pubDate>Tue, 29 Nov 2022 17:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/29/31843.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -777,7 +778,7 @@ FT는 ‘마윈의 행적을 직접 아는 사람들’을 인용해 마윈이 �
             <link>https://n.news.naver.com/article/308/0000031835</link>
             <guid>https://n.news.naver.com/article/308/0000031835</guid>
             <pubDate>Tue, 29 Nov 2022 17:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/28/31835.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1005,11 +1006,19 @@ FT는 ‘마윈의 행적을 직접 아는 사람들’을 인용해 마윈이 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/08/30987.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기자들의 시선] ‘유우성 보복 기소’ 사건 전현직 검사들 무혐의 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031872</link>
+            <guid>https://n.news.naver.com/article/308/0000031872</guid>
+            <pubDate>Mon, 05 Dec 2022 05:32:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/05/31872.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기자의 추천 책] 산책과 허무의 상관관계에 대하여 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031861</link>
             <guid>https://n.news.naver.com/article/308/0000031861</guid>
             <pubDate>Fri, 02 Dec 2022 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/02/31861.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1017,7 +1026,7 @@ FT는 ‘마윈의 행적을 직접 아는 사람들’을 인용해 마윈이 �
             <link>https://n.news.naver.com/article/308/0000031839</link>
             <guid>https://n.news.naver.com/article/308/0000031839</guid>
             <pubDate>Mon, 28 Nov 2022 05:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/28/31839.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1235,14 +1244,6 @@ FT는 ‘마윈의 행적을 직접 아는 사람들’을 인용해 마윈이 �
             <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시원 검사는 진짜 ‘간첩 조작’ 몰랐을까 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030912</link>
-            <guid>https://n.news.naver.com/article/308/0000030912</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연예인의 ‘봉인 해제’된 모습 보여주는 ‘술방’ (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
