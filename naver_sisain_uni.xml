@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 17:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 05:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19가 바꿔놓은 한국 어린이들의 기쁨과 슬픔]]></title>
+            <link>https://n.news.naver.com/article/308/0000031880</link>
+            <guid>https://n.news.naver.com/article/308/0000031880</guid>
+            <pubDate>Tue, 06 Dec 2022 05:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/06/31880.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 걸렸던 사람 백신 또 맞아야 하나?]]></title>
             <link>https://n.news.naver.com/article/308/0000031807</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/04/30805.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리스타일] 오미크론의 정점, 요양시설에 가보니]]></title>
-            <link>https://n.news.naver.com/article/308/0000030799</link>
-            <guid>https://n.news.naver.com/article/308/0000030799</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/03/30799.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

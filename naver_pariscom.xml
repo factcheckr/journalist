@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 17:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 05:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 월드컵 8강 또 좌절되자 울먹..."끝까지 잘 싸웠다"]]></title>
+            <link>https://n.news.naver.com/article/469/0000711409</link>
+            <guid>https://n.news.naver.com/article/469/0000711409</guid>
+            <pubDate>Tue, 06 Dec 2022 05:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/06/711409.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['시급 8000원' 로봇 셰프가 파스타를 3분 만에 만드는 일본 식당]]></title>
             <link>https://n.news.naver.com/article/469/0000711282</link>
             <guid>https://n.news.naver.com/article/469/0000711282</guid>
             <pubDate>Mon, 05 Dec 2022 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/05/711282.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000709909</link>
             <guid>https://n.news.naver.com/article/469/0000709909</guid>
             <pubDate>Mon, 28 Nov 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709909.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000709874</link>
             <guid>https://n.news.naver.com/article/469/0000709874</guid>
             <pubDate>Mon, 28 Nov 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709874.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000709835</link>
             <guid>https://n.news.naver.com/article/469/0000709835</guid>
             <pubDate>Sun, 04 Dec 2022 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/28/709835.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708187.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시진핑·기시다, 첫 회담에서 협력 강조 “양국 관계 매우 중요”]]></title>
-            <link>https://n.news.naver.com/article/469/0000708180</link>
-            <guid>https://n.news.naver.com/article/469/0000708180</guid>
-            <pubDate>Thu, 17 Nov 2022 17:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/17/708180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
