@@ -4,9 +4,35 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 17:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 깊어졌다, 최빈국 빚 수렁 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202212072155005</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202212072155005</guid>
+            <pubDate>Wed, 07 Dec 2022 17:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계를 덮친 고물가·고금리·고환율의 여파로 세계 최빈국들의 대외 채무상환액이 2022년 1년 사이 35% 증가할 것으로 예상됐다.
+세계은행은 6일(현지시간) 발표한 국제부채보고서에서 세계 최빈국에 해당하는 국제개발협회(IDA) 회원국이 올해 갚아야 하는 장기공채 및 공적 보증 외채 원금과 이자가 총 620억달러(약 81조7000억원)를 넘어설 것이라고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/07/2022120801000344700027361.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제15차 생물다양성 협약 총회 개막…‘멸종의 시대’ 한국 정부는 어디에 설까 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202212071644001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202212071644001</guid>
+            <pubDate>Wed, 07 Dec 2022 17:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[영국 런던동물학회와 중국사회과학원은 지난 8월 열대 바다에 주로 서식하며 인어 전설의 모티브가 된 동물 듀공이 사실상 멸종했다고 선언했다. 세계자연보전연맹은 지난 9월 수마트라코뿔소의 개체 수가 50마리 아래로 떨어져 멸종이 임박했다고 밝혔다. 호주 정부는 2019년~2020년 산불로 개체 수가 급감한 코알라를, 미국 정부는 남극 해빙 붕괴로 서식지를 잃은 황제펭귄을 최근 멸종 위기종에 등재했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/07/news-p.v1.20221207.e400b39b2f974439a068583418082b11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선진국에 빚 갚느라 허덕이는 최빈국…채무상환액 1년 만에 35% 늘었다 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202212071442001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202212071442001</guid>
+            <pubDate>Wed, 07 Dec 2022 17:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계를 덮친 고물가·고금리·고환율의 여파로 세계 최빈국들의 대외 채무상환액이 2022년 1년 사이 35% 증가할 것으로 예상됐다.
+세계은행은 6일(현지시간) 발표한 국제부채보고서에서 세계 최빈국에 해당하는 국제개발협회(IDA) 회원국이 올해 갚아야 하는 장기공채 및 공적 보증 외채 원금과 이자가 총 620억달러(약81조7000억원)를 넘어설 것이라고 밝혔다. IDA 회원국의 대외 채무상환액은 지난해 말 기준 462억달러(60조9000억원)였는데 1년 사이 35% 증가했다. IDA 회원국은 1인당 국민총소득(GNI)이 940달러(124만원) 이하인 75개 국가들로 대다수가 사하라 이남 아프리카 대륙에 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/07/rcv.YNA.20220905.PAF20220905083901009.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방위비 1.5배로 늘린다는 일본…재원 조달할 방안은 ‘오리무중’ (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202212062136005</link>
@@ -88,33 +114,6 @@ OPEC+는 4일(현지시간) 정례 장관급 회의 후 낸 성명에서 지난 
             <content:encoded><![CDATA[우크라이나 재외공관에서 이틀 전 편지 폭발 사건에 이어 이번에는 동물 눈을 담은 소포가 배달되는 일이 벌어졌다고 로이터 통신이 2일(현지시간) 보도했다.
 올레그 니콜렌코 우크라이나 외무부 대변인은 이날 우크라이나 재외 공관 8곳에 동물 눈을 독특한 색과 향을 가진 액체에 담가 등봉한 소포가 배달됐다고 페이스북에서 전했다. 헝가리, 네덜란드, 폴란드, 크로아티아, 이탈리아 주재 대사관, 그리고 이탈리아 나폴리와 폴란드 크라코프 총영사관, 체코 브루노 영사관이 해당한다. 그는 “이 메시지의 의미를 파악 중”이라며 드미트로 쿨레바 외무장관이 모든 재외공관에 대해 보안 강화를 지시했다고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/02/news-p.v1.20221202.e160407ac65d40d6bc8343d7b4d632d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 “서방이 우크라 내 러 영토 인정하면 대화” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202212022243001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202212022243001</guid>
-            <pubDate>Fri, 02 Dec 2022 17:31:50 GMT</pubDate>
-            <content:encoded><![CDATA[미국, 독일 등 서방 지도자들과 러시아 지도자들이 우크라이나 전쟁 중단을 위한 대화 가능성을 언급했으나 서로 받아들이기 힘든 조건을 내걸고 있다. 러시아는 대화 조건으로 우크라이나 내 점령지 인정과 우크라이나 지원 중단을 요구했다.
-타스, 로이터 통신은 2일(현지시간)  드미트리 페스코프 크렘린궁 대변인은 기자들과 전화회의에서 “미국은 여전히 러시아의 새로운 영토를 인정하지 않고 있다”며 “이것이 논의를 위한 공통의 토대를 찾는 문제를 매우 복잡하게 하고 있다”고 말했다고 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/02/news-p.v1.20221202.110f24169899443f84bd6633f8e418ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 계정 복구된 카녜이 웨스트, 유대인 혐오 상징물 올렸다 또 퇴출 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202212022148001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202212022148001</guid>
-            <pubDate>Fri, 02 Dec 2022 17:31:50 GMT</pubDate>
-            <content:encoded><![CDATA[미국 힙합 가수 카녜이 웨스트(예)가 유대인 혐오 상징물을 게시했다가 트위터에서 또 퇴출당했다.
-AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사랑한다”는 글과 함께 나치 상징인 ‘스와스티카’와 유대교와 유대인을 상징하는 ‘다윗의 별’을 합성한 이미지를 올렸다. 이 게시물은 곧 삭제됐다. 예는 이 외에도 의미를 알 수 없는 글을 여러 건 올렸다. 마지막에는 “항상 이걸 내 마지막 트윗으로 기억하자”란 문구와 함께 일론 머스크 트위터 최고경영자(CEO)가 예전에 그리스 휴양지에서 수영복 차림으로 휴가를 보내는 모습의 사진을 올렸다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/02/news-p.v1.20221202.918f6618ce6246a69761ea85c1faa97c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 여권, 적 미사일 기지 ‘반격능력’ 보유 합의 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202212021723001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202212021723001</guid>
-            <pubDate>Fri, 02 Dec 2022 17:31:50 GMT</pubDate>
-            <content:encoded><![CDATA[일본의 집권 자민당과 연립 여당인 공명당이 2일 실무자 협의에서 적 미사일 기지 등을 공격할 수 있는 ‘반격 능력’ 보유에 합의했다고 NHK와 교도통신이 보도했다.
-보도에 따르면 자민당과 공명당은 북한과 중국이 개발 중인 극초음속 및 변칙궤도 미사일을 염두에 두고 현재 미사일 방어 시스템으로는 이를 저지하기 어렵다는 인식에 일치했다. 이에 따라 미사일 공격을 단념시키기 위해 반격 능력 보유에 의한 억지력 향상을 도모할 필요가 있다고 판단했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/02/news-p.v1.20221202.df297b31f7ac45b68cc9112d08fdba29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -286,19 +285,19 @@ AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사�
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0729/A0002853870_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['승부차기 패배' 일본, 선수들이 즉석에서 순번 정했다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000711620</link>
-            <guid>https://n.news.naver.com/article/469/0000711620</guid>
-            <pubDate>Wed, 07 Dec 2022 05:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711620.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[일본 제1야당 “일본 공격 받아야, 반격 가능" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000711709</link>
+            <guid>https://n.news.naver.com/article/469/0000711709</guid>
+            <pubDate>Wed, 07 Dec 2022 17:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['반격 능력' 위해 412조 필요...기시다 "현재보다 방위비 50% 더 늘려라" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000711477</link>
             <guid>https://n.news.naver.com/article/469/0000711477</guid>
             <pubDate>Tue, 06 Dec 2022 17:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/06/711477.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +305,7 @@ AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사�
             <link>https://n.news.naver.com/article/469/0000711282</link>
             <guid>https://n.news.naver.com/article/469/0000711282</guid>
             <pubDate>Mon, 05 Dec 2022 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/05/711282.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +313,7 @@ AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사�
             <link>https://n.news.naver.com/article/469/0000711107</link>
             <guid>https://n.news.naver.com/article/469/0000711107</guid>
             <pubDate>Tue, 06 Dec 2022 17:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/04/711107.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +321,7 @@ AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사�
             <link>https://n.news.naver.com/article/469/0000711090</link>
             <guid>https://n.news.naver.com/article/469/0000711090</guid>
             <pubDate>Sun, 04 Dec 2022 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/04/711090.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,7 +329,7 @@ AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사�
             <link>https://n.news.naver.com/article/469/0000710920</link>
             <guid>https://n.news.naver.com/article/469/0000710920</guid>
             <pubDate>Fri, 02 Dec 2022 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710920.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +337,7 @@ AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사�
             <link>https://n.news.naver.com/article/469/0000710895</link>
             <guid>https://n.news.naver.com/article/469/0000710895</guid>
             <pubDate>Fri, 02 Dec 2022 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710895.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,15 +345,23 @@ AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사�
             <link>https://n.news.naver.com/article/469/0000710881</link>
             <guid>https://n.news.naver.com/article/469/0000710881</guid>
             <pubDate>Fri, 02 Dec 2022 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710881.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페인전 승리에 일본도 놀랐다… 비디오 판독엔 "VAR사마 감사합니다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000710797</link>
+            <guid>https://n.news.naver.com/article/469/0000710797</guid>
+            <pubDate>Wed, 07 Dec 2022 17:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710797.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["공격 대상과 시점 모호하게"...일본의 애매한 '반격 능력' 논란 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000710717</link>
             <guid>https://n.news.naver.com/article/469/0000710717</guid>
             <pubDate>Sun, 04 Dec 2022 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/01/710717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -362,7 +369,7 @@ AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사�
             <link>https://n.news.naver.com/article/469/0000710450</link>
             <guid>https://n.news.naver.com/article/469/0000710450</guid>
             <pubDate>Wed, 30 Nov 2022 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/30/710450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -370,7 +377,7 @@ AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사�
             <link>https://n.news.naver.com/article/469/0000710186</link>
             <guid>https://n.news.naver.com/article/469/0000710186</guid>
             <pubDate>Tue, 29 Nov 2022 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.11.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/29/710186.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -516,14 +523,6 @@ AFP통신 등에 따르면 예는 1일(현지시간) “예24는 모두를 사�
             <pubDate>Fri, 18 Nov 2022 17:37:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708310.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 방위장관, "北 ICBM급 미사일, 사정거리 1만5000㎞ 넘어" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000708264</link>
-            <guid>https://n.news.naver.com/article/469/0000708264</guid>
-            <pubDate>Thu, 24 Nov 2022 05:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/18/708264.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19가 바꿔놓은 한국 어린이들의 기쁨과 슬픔 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
