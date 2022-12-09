@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 17:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남성이 쌓은 ‘젠더적 교만’의 성…백래시 시대의 여성들이 맞서는 방법 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202212092040005</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202212092040005</guid>
+            <pubDate>Fri, 09 Dec 2022 17:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[교만의 요새마사 너스바움 지음·박선아 옮김민음사 | 440쪽 | 2만4000원
+책은 “우리 시대는 미국의 여성과 남성 모두에게 혁명적인 시기다”라는 문장으로 시작한다. ‘여성이 당당하고 분명하게 정의를 요구하는 시대’이면서, 특권 상실에 분노한 일부 남성들이 ‘페미니즘을 악마화하는 시대’이며, 또 ‘평등과 존중을 요구하는 데서 그치지 않고 보복에서 희열을 찾는 일부 여성들이 있는 것처럼 보이는 시대’라고 말한다. 미투 운동의 빛과 그림자, 트럼프주의라는 백래시(반동)가 교차하는 상황에 대한 요약이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/09/2022121001000402300036051.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 실수 되풀이하지 않게…WHO 국제협약 만든다 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202212082337001</link>
@@ -100,15 +109,6 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <content:encoded><![CDATA[일본 정부가 내년부터 향후 5년 동안 방위비 총액을 43조엔(약 410조4000억원)으로 늘리기로 했지만 재원 조달 방안은 여전히 불투명하다. 증세를 둘러싼 논쟁과 함께 연내에 안정적 재원을 마련하지 못할 수 있다는 비판이 나오고 있다.
 일본 연립 여당인 자민당과 공명당은 7일 증액된 방위비 조달 방안을 두고 고위급 협의를 열기로 했다고 교도통신이 6일 보도했다. 야마구치 나쓰오 공명당 대표는 이날 기자회견을 열고 “연내에 재원 마련 방안을 명확하게 보여줘야 한다”고 말했다. 방위비 재원 마련 없이 예산부터 책정될 수 있다는 우려를 의식한 발언이다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/06/2022120701000305200021821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 5년간 방위비 43조엔…재원 마련 방안 두고 논란 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202212061659001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202212061659001</guid>
-            <pubDate>Tue, 06 Dec 2022 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[일본 정부가 내년부터 향후 5년 동안 방위비 총액을 현재의 43조엔(약410조4000억원)으로 늘리기로 했지만 재원 조달 방안은 여전히 불투명하다. 증세를 둘러싼 논쟁과 함께 연내에 안정적 재원을 마련하지 못할 수 있다는 비판이 나오고 있다.
-일본 연립 여당인 자민당과 공명당이 7일 증액된 방위비 조달 방안을 두고 고위급 협의를 열기로 했다고 교도통신이 6일 보도했다. 야마구치 나쓰오 공명당 대표는 이날 기자회견을 열고 “재원 마련 방안에 대해서는 연내 명확하게 보여줘야 한다”고 말했다.  방위비 재원 마련 없이 예산부터 책정될 수 있다는 우려를 의식한 발언이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/06/news-p.v1.20221206.4071e518de954b7cadf80418ecc796a8_P2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -280,11 +280,27 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0729/A0002853870_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본·영국·이탈리아, 차세대전투기 공동 개발 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000712152</link>
+            <guid>https://n.news.naver.com/article/469/0000712152</guid>
+            <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712152.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["소득세 못 하면 법인세라도"...일본, 방위비 확보 위해 증세 검토 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000712093</link>
+            <guid>https://n.news.naver.com/article/469/0000712093</guid>
+            <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712093.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["중국은 최대 도전, 북한은 임박한 위협"...일본, 새 안보전략 논의 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000711882</link>
             <guid>https://n.news.naver.com/article/469/0000711882</guid>
             <pubDate>Thu, 08 Dec 2022 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/08/711882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +308,7 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <link>https://n.news.naver.com/article/469/0000711709</link>
             <guid>https://n.news.naver.com/article/469/0000711709</guid>
             <pubDate>Wed, 07 Dec 2022 17:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +316,7 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <link>https://n.news.naver.com/article/469/0000711477</link>
             <guid>https://n.news.naver.com/article/469/0000711477</guid>
             <pubDate>Tue, 06 Dec 2022 17:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/06/711477.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +324,7 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <link>https://n.news.naver.com/article/469/0000711282</link>
             <guid>https://n.news.naver.com/article/469/0000711282</guid>
             <pubDate>Mon, 05 Dec 2022 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/05/711282.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +332,7 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <link>https://n.news.naver.com/article/469/0000711107</link>
             <guid>https://n.news.naver.com/article/469/0000711107</guid>
             <pubDate>Tue, 06 Dec 2022 17:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/04/711107.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +340,7 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <link>https://n.news.naver.com/article/469/0000711090</link>
             <guid>https://n.news.naver.com/article/469/0000711090</guid>
             <pubDate>Sun, 04 Dec 2022 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/04/711090.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +348,7 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <link>https://n.news.naver.com/article/469/0000711077</link>
             <guid>https://n.news.naver.com/article/469/0000711077</guid>
             <pubDate>Thu, 08 Dec 2022 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/04/711077.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +356,7 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <link>https://n.news.naver.com/article/469/0000710920</link>
             <guid>https://n.news.naver.com/article/469/0000710920</guid>
             <pubDate>Fri, 02 Dec 2022 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710920.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +364,7 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <link>https://n.news.naver.com/article/469/0000710895</link>
             <guid>https://n.news.naver.com/article/469/0000710895</guid>
             <pubDate>Fri, 02 Dec 2022 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710895.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,7 +372,7 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <link>https://n.news.naver.com/article/469/0000710881</link>
             <guid>https://n.news.naver.com/article/469/0000710881</guid>
             <pubDate>Fri, 02 Dec 2022 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710881.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -372,7 +388,7 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <link>https://n.news.naver.com/article/469/0000710717</link>
             <guid>https://n.news.naver.com/article/469/0000710717</guid>
             <pubDate>Sun, 04 Dec 2022 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/01/710717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -502,22 +518,6 @@ WHO는 8일(현지시간) 보도자료를 내고 194개 회원국의 동의를 �
             <pubDate>Mon, 21 Nov 2022 17:39:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/21/708699.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["어떻게 사람을 뽑은 거야?" 각료 3명 퇴진에 기시다 사과 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000708549</link>
-            <guid>https://n.news.naver.com/article/469/0000708549</guid>
-            <pubDate>Sun, 20 Nov 2022 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/20/708549.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["너무 커서 공격받기 쉬워"...일본, '신 이지스함' 크기 줄인다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000708523</link>
-            <guid>https://n.news.naver.com/article/469/0000708523</guid>
-            <pubDate>Sat, 26 Nov 2022 17:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/20/708523.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19가 바꿔놓은 한국 어린이들의 기쁨과 슬픔 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
