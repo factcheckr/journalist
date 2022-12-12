@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 17:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 05:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자들의 시선]  트럼프의 우울한 연말을 만든 이 사람]]></title>
+            <link>https://n.news.naver.com/article/308/0000031910</link>
+            <guid>https://n.news.naver.com/article/308/0000031910</guid>
+            <pubDate>Mon, 12 Dec 2022 05:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/12/31910.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“좋은 기후위기 기사 응원해줘야 한다”]]></title>
             <link>https://n.news.naver.com/article/308/0000031843</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/15/31020.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디시인사이드 우울증갤러리 수사는 왜 중단됐나]]></title>
-            <link>https://n.news.naver.com/article/308/0000030987</link>
-            <guid>https://n.news.naver.com/article/308/0000030987</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/08/30987.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
