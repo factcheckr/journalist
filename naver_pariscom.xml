@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 05:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 17:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,23 +12,15 @@
             <link>https://n.news.naver.com/article/469/0000712505</link>
             <guid>https://n.news.naver.com/article/469/0000712505</guid>
             <pubDate>Mon, 12 Dec 2022 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/12/712505.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["바보! 기시다"...증세 방침에 격해지는 자민당 반발]]></title>
-            <link>https://n.news.naver.com/article/469/0000712503</link>
-            <guid>https://n.news.naver.com/article/469/0000712503</guid>
-            <pubDate>Mon, 12 Dec 2022 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/12/712503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본·영국·이탈리아, 차세대전투기 공동 개발]]></title>
             <link>https://n.news.naver.com/article/469/0000712152</link>
             <guid>https://n.news.naver.com/article/469/0000712152</guid>
             <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000712093</link>
             <guid>https://n.news.naver.com/article/469/0000712093</guid>
             <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712093.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000711882</link>
             <guid>https://n.news.naver.com/article/469/0000711882</guid>
             <pubDate>Thu, 08 Dec 2022 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/08/711882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,15 +44,23 @@
             <link>https://n.news.naver.com/article/469/0000711709</link>
             <guid>https://n.news.naver.com/article/469/0000711709</guid>
             <pubDate>Wed, 07 Dec 2022 17:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711709.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['승부차기 패배' 일본, 선수들이 즉석에서 순번 정했다]]></title>
+            <link>https://n.news.naver.com/article/469/0000711620</link>
+            <guid>https://n.news.naver.com/article/469/0000711620</guid>
+            <pubDate>Tue, 13 Dec 2022 17:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['반격 능력' 위해 412조 필요...기시다 "현재보다 방위비 50% 더 늘려라"]]></title>
             <link>https://n.news.naver.com/article/469/0000711477</link>
             <guid>https://n.news.naver.com/article/469/0000711477</guid>
             <pubDate>Tue, 06 Dec 2022 17:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/06/711477.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000711282</link>
             <guid>https://n.news.naver.com/article/469/0000711282</guid>
             <pubDate>Mon, 05 Dec 2022 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/05/711282.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
