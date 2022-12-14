@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 05:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 17:35:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000712505</link>
             <guid>https://n.news.naver.com/article/469/0000712505</guid>
             <pubDate>Mon, 12 Dec 2022 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/12/712505.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000712152</link>
             <guid>https://n.news.naver.com/article/469/0000712152</guid>
             <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,15 +28,23 @@
             <link>https://n.news.naver.com/article/469/0000712093</link>
             <guid>https://n.news.naver.com/article/469/0000712093</guid>
             <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712093.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['갤폴드4' 뜯어본 일본 '충격'..."갤럭시가 아이폰 보다 돈 더 잘버네"]]></title>
+            <link>https://n.news.naver.com/article/469/0000711925</link>
+            <guid>https://n.news.naver.com/article/469/0000711925</guid>
+            <pubDate>Wed, 14 Dec 2022 17:34:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/08/711925.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["중국은 최대 도전, 북한은 임박한 위협"...일본, 새 안보전략 논의]]></title>
             <link>https://n.news.naver.com/article/469/0000711882</link>
             <guid>https://n.news.naver.com/article/469/0000711882</guid>
             <pubDate>Thu, 08 Dec 2022 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/08/711882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000711709</link>
             <guid>https://n.news.naver.com/article/469/0000711709</guid>
             <pubDate>Wed, 07 Dec 2022 17:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000711477</link>
             <guid>https://n.news.naver.com/article/469/0000711477</guid>
             <pubDate>Tue, 06 Dec 2022 17:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/06/711477.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 17:32:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/23/709182.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['내 사람' 무리하게 장관 발탁했다 흔들리는 기시다, 조기 개각 검토]]></title>
-            <link>https://n.news.naver.com/article/469/0000708939</link>
-            <guid>https://n.news.naver.com/article/469/0000708939</guid>
-            <pubDate>Mon, 28 Nov 2022 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/22/708939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
