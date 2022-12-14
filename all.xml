@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 17:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 05:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“난방 하루 1시간만” …영국, 12년 만의 한파에 에너지 위기 본격 시작 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202212141049001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202212141049001</guid>
+            <pubDate>Wed, 14 Dec 2022 05:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[영국을 비롯한 유럽에 올겨울 첫 한파가 찾아오면서 ‘난방 빈곤층’에 대한 우려도 커지고 있다.
+영국 기상청은 13일(현지시간)  “2010년 12월 이후 영국에서 가장 추운 날이 될 것”이라며 스코틀랜드 북부와 잉글랜드 북동부에 이날 자정부터 14일까지 황색 기상경보를 발령했다고 BBC가 보도했다. 영국 기상청은 경보가 내려진 지역에 폭설과 결빙 위험이 있다고 밝혔다. 이날 스코틀랜드 에버딘셔 브레이마 기온은 영하 9.5도를 기록했다. 영국 12월 평년 기온은 영상 3~5도이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/14/news-p.v1.20221214.d5cbe8797c4c4783ad62e34abdee9b60.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘김씨네 편의점’ 윤진희씨, 주캐나다 홍보대사 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/people/people-general/article/202212132207015</link>
@@ -109,15 +118,6 @@ G7 정상들은 “러시아의 우크라이나 침공 전쟁은 끝나야 하�
 2022년 노벨 평화상 수상자들이 10일(현지시간) 열린 시상식에서 블라디미르 푸틴 러시아 대통령을 한목소리로 규탄했다.
 AP통신 등에 따르면 이날 노르웨이 오슬로에서 올해 노벨 평화상 수상자인 벨라루스 활동가 알레스 비알리아츠키(60), 우크라이나 시민자유센터(CCL), 러시아 인권단체 메모리알에 대한 시상식이 진행됐다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/11/2022121201000518500039541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장쩌민 유해 상하이 창장 앞바다에 뿌려 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202212112118001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202212112118001</guid>
-            <pubDate>Sun, 11 Dec 2022 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[장쩌민(江澤民) 전 중국 국가 주석의 유해가 11일 낮 상하이 창장(長江) 입구 바다에 뿌려졌다.
-중국 관영 신화통신에 따르면 장 전 주석 장례위원회는 자신을 창장과 바다에 뿌려달라는 유언에 따라 이날 오전 항공편으로 장 전 주석의 유해를 베이징에서 상하이로 옮겼다. 앞서 장 전 주석의 유해는 베이징 바바오산 혁명묘지에서 화장됐다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/11/news-p.v1.20221211.3dc7cdd34bcc435f9ca2b41d14063ccc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -333,7 +333,7 @@ AP통신 등에 따르면 이날 노르웨이 오슬로에서 올해 노벨 평�
             <link>https://n.news.naver.com/article/469/0000711620</link>
             <guid>https://n.news.naver.com/article/469/0000711620</guid>
             <pubDate>Tue, 13 Dec 2022 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -349,7 +349,7 @@ AP통신 등에 따르면 이날 노르웨이 오슬로에서 올해 노벨 평�
             <link>https://n.news.naver.com/article/469/0000711409</link>
             <guid>https://n.news.naver.com/article/469/0000711409</guid>
             <pubDate>Mon, 12 Dec 2022 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/06/711409.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -533,7 +533,7 @@ AP통신 등에 따르면 이날 노르웨이 오슬로에서 올해 노벨 평�
             <link>https://n.news.naver.com/article/308/0000031880</link>
             <guid>https://n.news.naver.com/article/308/0000031880</guid>
             <pubDate>Tue, 06 Dec 2022 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/06/31880.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -773,7 +773,7 @@ AP통신 등에 따르면 이날 노르웨이 오슬로에서 올해 노벨 평�
             <link>https://n.news.naver.com/article/308/0000031910</link>
             <guid>https://n.news.naver.com/article/308/0000031910</guid>
             <pubDate>Mon, 12 Dec 2022 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/12/31910.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
