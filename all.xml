@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 05:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 17:33:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,11 +288,27 @@ G7 정상들은 “러시아의 우크라이나 침공 전쟁은 끝나야 하�
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0729/A0002853870_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도쿄에선 2025년부터 집 지을 때 태양광 패널 꼭 설치해야 한다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000713077</link>
+            <guid>https://n.news.naver.com/article/469/0000713077</guid>
+            <pubDate>Thu, 15 Dec 2022 17:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/15/713077.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 "IBM과 2나노 칩 개발"...실현 가능성은 "글쎄" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000712860</link>
+            <guid>https://n.news.naver.com/article/469/0000712860</guid>
+            <pubDate>Thu, 15 Dec 2022 17:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/14/712860.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 '이지메' 피해 학부모들은 사립탐정에게 달려간다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000712505</link>
             <guid>https://n.news.naver.com/article/469/0000712505</guid>
             <pubDate>Mon, 12 Dec 2022 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/12/712505.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +316,7 @@ G7 정상들은 “러시아의 우크라이나 침공 전쟁은 끝나야 하�
             <link>https://n.news.naver.com/article/469/0000712152</link>
             <guid>https://n.news.naver.com/article/469/0000712152</guid>
             <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +324,7 @@ G7 정상들은 “러시아의 우크라이나 침공 전쟁은 끝나야 하�
             <link>https://n.news.naver.com/article/469/0000712093</link>
             <guid>https://n.news.naver.com/article/469/0000712093</guid>
             <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712093.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +332,7 @@ G7 정상들은 “러시아의 우크라이나 침공 전쟁은 끝나야 하�
             <link>https://n.news.naver.com/article/469/0000711925</link>
             <guid>https://n.news.naver.com/article/469/0000711925</guid>
             <pubDate>Wed, 14 Dec 2022 17:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/08/711925.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +340,7 @@ G7 정상들은 “러시아의 우크라이나 침공 전쟁은 끝나야 하�
             <link>https://n.news.naver.com/article/469/0000711882</link>
             <guid>https://n.news.naver.com/article/469/0000711882</guid>
             <pubDate>Thu, 08 Dec 2022 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/08/711882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +348,7 @@ G7 정상들은 “러시아의 우크라이나 침공 전쟁은 끝나야 하�
             <link>https://n.news.naver.com/article/469/0000711709</link>
             <guid>https://n.news.naver.com/article/469/0000711709</guid>
             <pubDate>Wed, 07 Dec 2022 17:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711709.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -510,22 +526,6 @@ G7 정상들은 “러시아의 우크라이나 침공 전쟁은 끝나야 하�
             <pubDate>Thu, 24 Nov 2022 17:33:51 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/24/709425.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독일에 역전승한 일본 열도 '들썩'..."도하의 비극이 ‘기적’ 됐다!" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000709301</link>
-            <guid>https://n.news.naver.com/article/469/0000709301</guid>
-            <pubDate>Wed, 30 Nov 2022 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/24/709301.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["경증 환자도 먹는 코로나 치료제 나왔다"...일본, '조코바' 사용 승인 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000709182</link>
-            <guid>https://n.news.naver.com/article/469/0000709182</guid>
-            <pubDate>Wed, 23 Nov 2022 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/11/23/709182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19가 바꿔놓은 한국 어린이들의 기쁨과 슬픔 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
