@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 17:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 05:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -340,7 +340,7 @@ G7 정상들은 “러시아의 우크라이나 침공 전쟁은 끝나야 하�
             <link>https://n.news.naver.com/article/469/0000711620</link>
             <guid>https://n.news.naver.com/article/469/0000711620</guid>
             <pubDate>Tue, 13 Dec 2022 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -772,7 +772,7 @@ G7 정상들은 “러시아의 우크라이나 침공 전쟁은 끝나야 하�
             <link>https://n.news.naver.com/article/308/0000031910</link>
             <guid>https://n.news.naver.com/article/308/0000031910</guid>
             <pubDate>Mon, 12 Dec 2022 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/12/31910.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
