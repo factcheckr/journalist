@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-12-16T05:33:15.746Z</updated>
+    <updated>2022-12-16T17:33:36.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전설의 귀환…소녀시대·카라의 데뷔 15주년 컴백]]></title>
+        <id>https://v.daum.net/v/20221216162826673</id>
+        <link href="https://v.daum.net/v/20221216162826673"/>
+        <updated>2022-12-16T17:33:35.817Z</updated>
+        <content type="html"><![CDATA[2009년 전후의 K팝 전성기를 추억하십니까? 알록달록한 컬러 스키니진을 옷장에 들인 적 있으십니까? 멜빵 바지만 보면 냅다 엉덩이를 흔들고 싶으십니까? ‘다시 만난 세계’의 전주를 들으면 눈물이 고이십니까? 일이 잘 안 될 때마다, “괜히 그랬겠어? 그랬겠어?!” 하고 발을 구르고 싶어지십니까? 그렇다면 2022년이 그 어느 때보다 특별하게 여겨질 것이다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연예인의 ‘봉인 해제’된 모습 보여주는 ‘술방’]]></title>
         <id>https://v.daum.net/v/20221202161526740</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220624163846306"/>
         <updated>2022-11-16T17:55:24.612Z</updated>
         <content type="html"><![CDATA[지난 14일, 방탄소년단(BTS)은 공식 유튜브 채널에 올린 영상을 통해 활동의 기조 변화를 예고했다. 요약하자면 지금까지 그룹 활동에 집중해왔다면 이제부터는 멤버 각자가 솔로 활동을 시작하며 휴식과 재충전의 시간이 필요하다는 내용이다. 영상이 공개된 직후 ‘해체’, ‘활동 중단’ 같은 자극적인 타이틀로 떠들썩했지만, 영상에서 명시하듯 해체가 아니라 활동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[승리한 성기훈보다 유혹 못 이긴 해롱이가 '중독의 본모습']]></title>
-        <id>https://v.daum.net/v/20220610160444957</id>
-        <link href="https://v.daum.net/v/20220610160444957"/>
-        <updated>2022-11-16T17:55:24.613Z</updated>
-        <content type="html"><![CDATA[지난해 전 세계적인 돌풍을 일으킨 넷플릭스 드라마 &lt;오징어 게임&gt;(2021)의 주인공 성기훈(이정재)은 도박 빚 때문에 목숨을 건 게임에 뛰어든다. &lt;오징어 게임&gt;을 본 한 친구는 진저리를 쳤다. “나는 저렇게 도박 중독자가 ‘그래도 본성은 선량한’ 인물로 그려지는 게 싫어. 중독은 그런 게 아니야. 최소한의 인간성이나 판단력까지 앗아간다고.” 친구는 어렸]]></content>
     </entry>
 </feed>
