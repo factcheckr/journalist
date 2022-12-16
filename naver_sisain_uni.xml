@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 17:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 05:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“우리는 ‘닥터 파우치’를 믿습니다”]]></title>
+            <link>https://n.news.naver.com/article/308/0000031931</link>
+            <guid>https://n.news.naver.com/article/308/0000031931</guid>
+            <pubDate>Fri, 16 Dec 2022 05:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/16/31931.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19가 바꿔놓은 한국 어린이들의 기쁨과 슬픔]]></title>
             <link>https://n.news.naver.com/article/308/0000031880</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30808.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길 위의 저 냉장고, 어쩐 일로 여기에?]]></title>
-            <link>https://n.news.naver.com/article/308/0000030805</link>
-            <guid>https://n.news.naver.com/article/308/0000030805</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/04/30805.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
