@@ -4,23 +4,15 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 05:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 17:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[일본, 독도는 “일본의 고유영토” 억지 주장... 국가안보전략 개정]]></title>
-            <link>https://n.news.naver.com/article/469/0000713294</link>
-            <guid>https://n.news.naver.com/article/469/0000713294</guid>
-            <pubDate>Sat, 17 Dec 2022 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/16/713294.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[도쿄에선 2025년부터 집 지을 때 태양광 패널 꼭 설치해야 한다]]></title>
             <link>https://n.news.naver.com/article/469/0000713077</link>
             <guid>https://n.news.naver.com/article/469/0000713077</guid>
             <pubDate>Thu, 15 Dec 2022 17:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/15/713077.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000712860</link>
             <guid>https://n.news.naver.com/article/469/0000712860</guid>
             <pubDate>Thu, 15 Dec 2022 17:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/14/712860.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000712505</link>
             <guid>https://n.news.naver.com/article/469/0000712505</guid>
             <pubDate>Mon, 12 Dec 2022 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/12/712505.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,15 +36,23 @@
             <link>https://n.news.naver.com/article/469/0000712503</link>
             <guid>https://n.news.naver.com/article/469/0000712503</guid>
             <pubDate>Fri, 16 Dec 2022 17:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/12/712503.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“내가 제일 유명한 문제아야!” 야쿠자까지 끼어든 중학생 싸움 [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000712291</link>
+            <guid>https://n.news.naver.com/article/469/0000712291</guid>
+            <pubDate>Sat, 17 Dec 2022 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/11/712291.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본·영국·이탈리아, 차세대전투기 공동 개발]]></title>
             <link>https://n.news.naver.com/article/469/0000712152</link>
             <guid>https://n.news.naver.com/article/469/0000712152</guid>
             <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000712093</link>
             <guid>https://n.news.naver.com/article/469/0000712093</guid>
             <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712093.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
