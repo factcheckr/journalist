@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 17:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 05:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부 시대, 이 땅에는 큰 충격이 필요하다]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002888647</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002888647</guid>
+            <pubDate>Mon, 19 Dec 2022 05:32:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/1216/A0002888647_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령이라면 그랬을 수도... 이상한 소문 안 사라지는 이유]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002885443</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0812/A0002857033_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중산층의 고급 취미생활? 나는 택시 안에서 펑펑 울었다]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002853870</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002853870</guid>
-            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0729/A0002853870_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
