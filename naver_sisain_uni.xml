@@ -4,15 +4,31 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 17:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 05:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프리스타일] 코로나의 내리막길에서 떠오르는 얼굴들]]></title>
+            <link>https://n.news.naver.com/article/308/0000031950</link>
+            <guid>https://n.news.naver.com/article/308/0000031950</guid>
+            <pubDate>Tue, 20 Dec 2022 05:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/20/31950.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[희생 피하기 어려운 ‘위드 코로나’ 다리 앞에 선 중국]]></title>
+            <link>https://n.news.naver.com/article/308/0000031949</link>
+            <guid>https://n.news.naver.com/article/308/0000031949</guid>
+            <pubDate>Tue, 20 Dec 2022 05:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/20/31949.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“우리는 ‘닥터 파우치’를 믿습니다”]]></title>
             <link>https://n.news.naver.com/article/308/0000031931</link>
             <guid>https://n.news.naver.com/article/308/0000031931</guid>
             <pubDate>Fri, 16 Dec 2022 05:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/16/31931.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/06/30815.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 사랑하니까, 달리 보이더라]]></title>
-            <link>https://n.news.naver.com/article/308/0000030811</link>
-            <guid>https://n.news.naver.com/article/308/0000030811</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30811.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외신 한 컷] 스리랑카 시민들은 왜 거리로 나왔나]]></title>
-            <link>https://n.news.naver.com/article/308/0000030808</link>
-            <guid>https://n.news.naver.com/article/308/0000030808</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30808.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
