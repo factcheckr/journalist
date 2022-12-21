@@ -4,23 +4,15 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 05:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 17:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한국 "협의해라"vs 일본"자체판단"...한반도 유사시 일본 '반격 능력' 행사 논란]]></title>
-            <link>https://n.news.naver.com/article/469/0000713498</link>
-            <guid>https://n.news.naver.com/article/469/0000713498</guid>
-            <pubDate>Sun, 18 Dec 2022 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/18/713498.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[기시다, 바이든에 '방위력 강화' 직접 설명...미·일 역할 변화도 논의]]></title>
             <link>https://n.news.naver.com/article/469/0000713466</link>
             <guid>https://n.news.naver.com/article/469/0000713466</guid>
             <pubDate>Sun, 18 Dec 2022 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/18/713466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,15 +36,23 @@
             <link>https://n.news.naver.com/article/469/0000713077</link>
             <guid>https://n.news.naver.com/article/469/0000713077</guid>
             <pubDate>Thu, 15 Dec 2022 17:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/15/713077.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한국 1인당 GDP, 내년 일본 추월… 2035년까지 못 따라잡아"]]></title>
+            <link>https://n.news.naver.com/article/469/0000713044</link>
+            <guid>https://n.news.naver.com/article/469/0000713044</guid>
+            <pubDate>Wed, 21 Dec 2022 17:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/15/713044.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 "IBM과 2나노 칩 개발"...실현 가능성은 "글쎄"]]></title>
             <link>https://n.news.naver.com/article/469/0000712860</link>
             <guid>https://n.news.naver.com/article/469/0000712860</guid>
             <pubDate>Thu, 15 Dec 2022 17:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/14/712860.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
