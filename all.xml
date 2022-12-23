@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 17:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 05:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,7 +289,7 @@ AP통신에 따르면 파울라 아카나 이올라니 궁전 전무이사와 �
             <link>https://n.news.naver.com/article/469/0000714163</link>
             <guid>https://n.news.naver.com/article/469/0000714163</guid>
             <pubDate>Thu, 22 Dec 2022 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/22/714163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -529,7 +529,7 @@ AP통신에 따르면 파울라 아카나 이올라니 궁전 전무이사와 �
             <link>https://n.news.naver.com/article/308/0000031950</link>
             <guid>https://n.news.naver.com/article/308/0000031950</guid>
             <pubDate>Tue, 20 Dec 2022 05:32:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/20/31950.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -537,7 +537,7 @@ AP통신에 따르면 파울라 아카나 이올라니 궁전 전무이사와 �
             <link>https://n.news.naver.com/article/308/0000031949</link>
             <guid>https://n.news.naver.com/article/308/0000031949</guid>
             <pubDate>Tue, 20 Dec 2022 05:32:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/20/31949.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -545,7 +545,7 @@ AP통신에 따르면 파울라 아카나 이올라니 궁전 전무이사와 �
             <link>https://n.news.naver.com/article/308/0000031931</link>
             <guid>https://n.news.naver.com/article/308/0000031931</guid>
             <pubDate>Fri, 16 Dec 2022 05:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/16/31931.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -765,11 +765,19 @@ AP통신에 따르면 파울라 아카나 이올라니 궁전 전무이사와 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/06/30815.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘닻 없이 표류하는’ 해외 입양인들의 삶, 하나로 만난 이야기 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031966</link>
+            <guid>https://n.news.naver.com/article/308/0000031966</guid>
+            <pubDate>Fri, 23 Dec 2022 05:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/23/31966.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배출은 200개국 중 17위 대응은 60개국 중 57위 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000031933</link>
             <guid>https://n.news.naver.com/article/308/0000031933</guid>
             <pubDate>Fri, 16 Dec 2022 05:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/16/31933.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -995,14 +1003,6 @@ AP통신에 따르면 파울라 아카나 이올라니 궁전 전무이사와 �
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/28/31079.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 이준석·배현진의 ‘살벌한’ 인사 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031072</link>
-            <guid>https://n.news.naver.com/article/308/0000031072</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/27/31072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기자들의 시선] ‘유우성 보복 기소’ 사건 전현직 검사들 무혐의 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
