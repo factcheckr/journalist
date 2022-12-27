@@ -4,9 +4,33 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 17:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 기시다, 2개월 만에 장관 4명 경질… "스스로는 성과에 흡족"]]></title>
+            <link>https://n.news.naver.com/article/469/0000715229</link>
+            <guid>https://n.news.naver.com/article/469/0000715229</guid>
+            <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/27/715229.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["부모의 종교 강요도 아동 학대"...일본 정부 나섰다]]></title>
+            <link>https://n.news.naver.com/article/469/0000714981</link>
+            <guid>https://n.news.naver.com/article/469/0000714981</guid>
+            <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/26/714981.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해 넘기는 강제동원 배상 문제… 피해자도 일본도 설득 못했다]]></title>
+            <link>https://n.news.naver.com/article/469/0000714979</link>
+            <guid>https://n.news.naver.com/article/469/0000714979</guid>
+            <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/26/714979.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특파원의 시선] 전쟁의 나비효과]]></title>
             <link>https://n.news.naver.com/article/469/0000714163</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 02 Dec 2022 17:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710895.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 데뷔하는 임윤찬, “우리나라는 음악을 잘하는 민족”]]></title>
-            <link>https://n.news.naver.com/article/469/0000710881</link>
-            <guid>https://n.news.naver.com/article/469/0000710881</guid>
-            <pubDate>Fri, 02 Dec 2022 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710881.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스페인전 승리에 일본도 놀랐다… 비디오 판독엔 "VAR사마 감사합니다"]]></title>
-            <link>https://n.news.naver.com/article/469/0000710797</link>
-            <guid>https://n.news.naver.com/article/469/0000710797</guid>
-            <pubDate>Wed, 07 Dec 2022 17:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710797.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["공격 대상과 시점 모호하게"...일본의 애매한 '반격 능력' 논란]]></title>
-            <link>https://n.news.naver.com/article/469/0000710717</link>
-            <guid>https://n.news.naver.com/article/469/0000710717</guid>
-            <pubDate>Mon, 26 Dec 2022 17:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/01/710717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
