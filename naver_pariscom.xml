@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 17:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 05:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“일본, 우크라이나에 살상 무기 제공 검토”]]></title>
+            <link>https://n.news.naver.com/article/469/0000715561</link>
+            <guid>https://n.news.naver.com/article/469/0000715561</guid>
+            <pubDate>Thu, 29 Dec 2022 05:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/29/715561.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 '아베파' 대만 방문 러시... "내가 후계자니까 아베파 접수"]]></title>
             <link>https://n.news.naver.com/article/469/0000715436</link>
             <guid>https://n.news.naver.com/article/469/0000715436</guid>
             <pubDate>Wed, 28 Dec 2022 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/28/715436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000714163</link>
             <guid>https://n.news.naver.com/article/469/0000714163</guid>
             <pubDate>Thu, 22 Dec 2022 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/22/714163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Dec 2022 17:33:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/04/711077.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유네스코 '강한 유감'에도 일본 '조선인 강제노역' 부인 취지 보고서 제출]]></title>
-            <link>https://n.news.naver.com/article/469/0000710920</link>
-            <guid>https://n.news.naver.com/article/469/0000710920</guid>
-            <pubDate>Fri, 02 Dec 2022 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/02/710920.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 17:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 05:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다정한 광기로 만드는 책다운 책 [2022 행복한 책꽂이]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032018</link>
+            <guid>https://n.news.naver.com/article/308/0000032018</guid>
+            <pubDate>Thu, 29 Dec 2022 05:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/29/32018.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘닻 없이 표류하는’ 해외 입양인들의 삶, 하나로 만난 이야기]]></title>
             <link>https://n.news.naver.com/article/308/0000031966</link>
             <guid>https://n.news.naver.com/article/308/0000031966</guid>
             <pubDate>Fri, 23 Dec 2022 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/23/31966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31115.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언론이 '김건희 패션 보도'에서 놓치고 있는 것]]></title>
-            <link>https://n.news.naver.com/article/308/0000031079</link>
-            <guid>https://n.news.naver.com/article/308/0000031079</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/28/31079.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
