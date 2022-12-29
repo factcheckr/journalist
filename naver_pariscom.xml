@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 05:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 17:34:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['돈 먹는 하마' 된 도쿄올림픽 주경기장...팔아도 연 200억 국가 부담]]></title>
+            <link>https://n.news.naver.com/article/469/0000715630</link>
+            <guid>https://n.news.naver.com/article/469/0000715630</guid>
+            <pubDate>Thu, 29 Dec 2022 17:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/29/715630.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“일본, 우크라이나에 살상 무기 제공 검토”]]></title>
             <link>https://n.news.naver.com/article/469/0000715561</link>
             <guid>https://n.news.naver.com/article/469/0000715561</guid>
             <pubDate>Thu, 29 Dec 2022 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/29/715561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000715436</link>
             <guid>https://n.news.naver.com/article/469/0000715436</guid>
             <pubDate>Wed, 28 Dec 2022 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/28/715436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000715229</link>
             <guid>https://n.news.naver.com/article/469/0000715229</guid>
             <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/27/715229.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000714981</link>
             <guid>https://n.news.naver.com/article/469/0000714981</guid>
             <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/26/714981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000714979</link>
             <guid>https://n.news.naver.com/article/469/0000714979</guid>
             <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/26/714979.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 04 Dec 2022 17:32:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/04/711090.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아내 살해범 빨리 잡아 달라"던 일본 정치인의 반전 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000711077</link>
-            <guid>https://n.news.naver.com/article/469/0000711077</guid>
-            <pubDate>Thu, 08 Dec 2022 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/04/711077.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
