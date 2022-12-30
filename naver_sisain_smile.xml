@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 17:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 05:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022. 5.10~2027. 5.9 [2022 올해의 사진]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032023</link>
+            <guid>https://n.news.naver.com/article/308/0000032023</guid>
+            <pubDate>Fri, 30 Dec 2022 05:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/30/32023.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[격화된 미·중 대립 속 한·일 관계 전략은? [2022 한국인의 대일본 인식 ③]]]></title>
             <link>https://n.news.naver.com/article/308/0000031955</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31046.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 김건희 여사의 잇따른 행보, ‘제2부속실 폐지’ 괜찮나]]></title>
-            <link>https://n.news.naver.com/article/308/0000031045</link>
-            <guid>https://n.news.naver.com/article/308/0000031045</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31045.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
