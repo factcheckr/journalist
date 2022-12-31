@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 17:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 05:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,7 +298,7 @@ BBC에 따르면, 영국 기상청은 13일(현지시간)  “2010년 12월 이�
             <link>https://n.news.naver.com/article/469/0000715561</link>
             <guid>https://n.news.naver.com/article/469/0000715561</guid>
             <pubDate>Thu, 29 Dec 2022 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/29/715561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -770,7 +770,7 @@ BBC에 따르면, 영국 기상청은 13일(현지시간)  “2010년 12월 이�
             <link>https://n.news.naver.com/article/308/0000032018</link>
             <guid>https://n.news.naver.com/article/308/0000032018</guid>
             <pubDate>Thu, 29 Dec 2022 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/29/32018.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -778,7 +778,7 @@ BBC에 따르면, 영국 기상청은 13일(현지시간)  “2010년 12월 이�
             <link>https://n.news.naver.com/article/308/0000031966</link>
             <guid>https://n.news.naver.com/article/308/0000031966</guid>
             <pubDate>Fri, 23 Dec 2022 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/23/31966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1010,7 +1010,7 @@ BBC에 따르면, 영국 기상청은 13일(현지시간)  “2010년 12월 이�
             <link>https://n.news.naver.com/article/308/0000032023</link>
             <guid>https://n.news.naver.com/article/308/0000032023</guid>
             <pubDate>Fri, 30 Dec 2022 05:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/30/32023.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
