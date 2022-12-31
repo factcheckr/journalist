@@ -4,17 +4,9 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 05:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 17:34:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['돈 먹는 하마' 된 도쿄올림픽 주경기장...팔아도 연 200억 국가 부담]]></title>
-            <link>https://n.news.naver.com/article/469/0000715630</link>
-            <guid>https://n.news.naver.com/article/469/0000715630</guid>
-            <pubDate>Thu, 29 Dec 2022 17:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/29/715630.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[“일본, 우크라이나에 살상 무기 제공 검토”]]></title>
             <link>https://n.news.naver.com/article/469/0000715561</link>
@@ -28,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000715436</link>
             <guid>https://n.news.naver.com/article/469/0000715436</guid>
             <pubDate>Wed, 28 Dec 2022 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/28/715436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000715229</link>
             <guid>https://n.news.naver.com/article/469/0000715229</guid>
             <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/27/715229.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000714981</link>
             <guid>https://n.news.naver.com/article/469/0000714981</guid>
             <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/26/714981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,8 +44,16 @@
             <link>https://n.news.naver.com/article/469/0000714979</link>
             <guid>https://n.news.naver.com/article/469/0000714979</guid>
             <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/26/714979.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["일본 경제대국 탈락" 진해지는 전망... 고령화·정부부채 탓]]></title>
+            <link>https://n.news.naver.com/article/469/0000714751</link>
+            <guid>https://n.news.naver.com/article/469/0000714751</guid>
+            <pubDate>Sat, 31 Dec 2022 17:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/25/714751.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특파원의 시선] 전쟁의 나비효과]]></title>
