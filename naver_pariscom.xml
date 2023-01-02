@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 05:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 17:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["벚꽃처럼 지느냐, 다시 사느냐"... 일본 기시다 운명, 4월에 갈린다]]></title>
+            <link>https://n.news.naver.com/article/469/0000716266</link>
+            <guid>https://n.news.naver.com/article/469/0000716266</guid>
+            <pubDate>Mon, 02 Jan 2023 17:33:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/02/716266.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["일본 떠난 피폭자에게도 보상금" 판결 이끈 곽귀훈씨 별세]]></title>
+            <link>https://n.news.naver.com/article/469/0000716180</link>
+            <guid>https://n.news.naver.com/article/469/0000716180</guid>
+            <pubDate>Mon, 02 Jan 2023 17:33:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/02/716180.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다, 신년사서 '방위력 강화' 강조… 개헌 언급은 안 해]]></title>
             <link>https://n.news.naver.com/article/469/0000716045</link>
             <guid>https://n.news.naver.com/article/469/0000716045</guid>
             <pubDate>Sun, 01 Jan 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/01/716045.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000716026</link>
             <guid>https://n.news.naver.com/article/469/0000716026</guid>
             <pubDate>Sun, 01 Jan 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/01/716026.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,47 +44,47 @@
             <link>https://n.news.naver.com/article/469/0000716019</link>
             <guid>https://n.news.naver.com/article/469/0000716019</guid>
             <pubDate>Sun, 01 Jan 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/01/716019.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['돈 먹는 하마' 된 도쿄올림픽 주경기장...팔아도 연 200억 국가 부담]]></title>
-            <link>https://n.news.naver.com/article/469/0000715630</link>
-            <guid>https://n.news.naver.com/article/469/0000715630</guid>
-            <pubDate>Sun, 01 Jan 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/29/715630.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“일본, 우크라이나에 살상 무기 제공 검토”]]></title>
-            <link>https://n.news.naver.com/article/469/0000715561</link>
-            <guid>https://n.news.naver.com/article/469/0000715561</guid>
-            <pubDate>Thu, 29 Dec 2022 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/29/715561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 '아베파' 대만 방문 러시... "내가 후계자니까 아베파 접수"]]></title>
             <link>https://n.news.naver.com/article/469/0000715436</link>
             <guid>https://n.news.naver.com/article/469/0000715436</guid>
             <pubDate>Wed, 28 Dec 2022 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/28/715436.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['국경 개방' 중국 관광객 쏟아져 나온다... '환호'와 '공포' 엇갈린 세계]]></title>
+            <link>https://n.news.naver.com/article/469/0000715235</link>
+            <guid>https://n.news.naver.com/article/469/0000715235</guid>
+            <pubDate>Mon, 02 Jan 2023 17:33:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/27/715235.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 기시다, 2개월 만에 장관 4명 경질… "스스로는 성과에 흡족"]]></title>
             <link>https://n.news.naver.com/article/469/0000715229</link>
             <guid>https://n.news.naver.com/article/469/0000715229</guid>
             <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/27/715229.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한국이 친밀하다"는 일본인 더 늘었다... 러시아 친밀도 꼴찌]]></title>
+            <link>https://n.news.naver.com/article/469/0000715158</link>
+            <guid>https://n.news.naver.com/article/469/0000715158</guid>
+            <pubDate>Mon, 02 Jan 2023 17:33:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/27/715158.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["부모의 종교 강요도 아동 학대"...일본 정부 나섰다]]></title>
             <link>https://n.news.naver.com/article/469/0000714981</link>
             <guid>https://n.news.naver.com/article/469/0000714981</guid>
             <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/26/714981.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000714979</link>
             <guid>https://n.news.naver.com/article/469/0000714979</guid>
             <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/26/714979.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000714751</link>
             <guid>https://n.news.naver.com/article/469/0000714751</guid>
             <pubDate>Sat, 31 Dec 2022 17:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2022.12.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/25/714751.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 17:33:26 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711709.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['승부차기 패배' 일본, 선수들이 즉석에서 순번 정했다]]></title>
-            <link>https://n.news.naver.com/article/469/0000711620</link>
-            <guid>https://n.news.naver.com/article/469/0000711620</guid>
-            <pubDate>Tue, 13 Dec 2022 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/07/711620.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['반격 능력' 위해 412조 필요...기시다 "현재보다 방위비 50% 더 늘려라"]]></title>
-            <link>https://n.news.naver.com/article/469/0000711477</link>
-            <guid>https://n.news.naver.com/article/469/0000711477</guid>
-            <pubDate>Tue, 06 Dec 2022 17:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/06/711477.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
