@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 17:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 05:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 한 살 먹었다, 이 나이에 이렇게 살아도 되나]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002891805</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002891805</guid>
+            <pubDate>Mon, 02 Jan 2023 05:32:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/1230/A0002891805_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부 시대, 이 땅에는 큰 충격이 필요하다]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002888647</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0826/A0002860407_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강남 폭우 피해 둘러싼 SNS 논쟁... 나는 몸으로 겪었다]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002857033</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002857033</guid>
-            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0812/A0002857033_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
