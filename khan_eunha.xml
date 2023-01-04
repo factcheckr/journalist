@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 17:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 05:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치솟는 에너지 가격에···프랑스 빵집·식품 공장 문 닫아]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202301040906001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202301040906001</guid>
+            <pubDate>Wed, 04 Jan 2023 05:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스 휴가를 마치고 일터로 복귀하는 사람들이 나오면서 3일(현지시간) 도심 곳곳이 붐볐지만 파리 중심지에서 동쪽으로 약 34km 떨어진 센에마른 생티볼데비뉴의 윌리엄 소린 통조림 공장은 달랐다.
+녹색 철망으로 된 공장 정문은 열려 있었지만 경비원 한 명이 지키고 있었을 뿐 드나드는 이는 거의 없었다. 건물 불은 꺼졌고 야적장도 텅 비어 있었다. 평소 200명이 일하던 곳이다. 공장 맞은편 간이 피자가게도 문을 닫았다. 이 공장은 프랑스 식품기업 코피제우 그룹이 당분간 문을 닫기로 한 공장 가운데 한 곳이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/04/news-p.v1.20230104.a7283201c48b4878b56e608d5a92daf4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“한·일 모두 ‘안미경중’…공통 이해 기반해 ‘비대국’ 목소리 키워야”]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202301032144005</link>
@@ -104,15 +113,6 @@
             <content:encoded><![CDATA[안보 관련 3대 문서(국가안전보장전략, 국가방위전략, 방위력정비계획)의 개정으로 전후 70년 넘게 이어졌던 일본의 방위정책은 대전환을 맞았다.
 적을 공격하는 능력은 미국에 맡기면서 ‘방패’ 역할에만 주력해 온 일본은 유사시 중국과 북한 등을 겨냥한 ‘창’의 역할을 분담하게 된다. 헌법을 개정한 것은 아니지만 공격을 받을 경우에만 방위력을 행사한다는 전수방위 원칙을 사실상 허물고 동북아 군비경쟁을 부추긴다는 비판이 나온다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/16/news-p.v1.20221216.caa047649389425cacab193af8c06515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 안보 관련 3대 문서 개정…‘반격 능력 보유’ 명시]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202212161706001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202212161706001</guid>
-            <pubDate>Fri, 16 Dec 2022 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[일본 정부가 16일 적 미사일 기지 등에 대한 공격 능력을 의미하는 ‘반격 능력’을 보유하고 장거리 미사일 전력을 향상한다는 내용을 담아 안보 관련 3대 문서(국가안전보장전략, 국가방위전략, 방위력정비계획)를 개정했다.
-일본 정부는 이날 오후 열린 각의(국무회의)에서 국가안전보장전략 개정안을 의결했다. 국가안전보장전략은 외교·안보 정책의 근본 방향을 담은 지침서다. 2013년 아베 신조 정권에서 책정됐으며 개정은 이번이 처음이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/16/news-p.v1.20221216.3684c2c9b3a04dd28420ab2cd3d664b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
