@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 17:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 05:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['중국 견제' 합심한 미국·일본... "인권 침해하면 공급망서 배제"]]></title>
+            <link>https://n.news.naver.com/article/469/0000716778</link>
+            <guid>https://n.news.naver.com/article/469/0000716778</guid>
+            <pubDate>Thu, 05 Jan 2023 05:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>33분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/05/716778.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금융완화 '출구' 모색하는 일본은행...구로다 후임은 누구?]]></title>
             <link>https://n.news.naver.com/article/469/0000716454</link>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000715561</link>
             <guid>https://n.news.naver.com/article/469/0000715561</guid>
             <pubDate>Wed, 04 Jan 2023 17:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/29/715561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Dec 2022 17:34:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/09/712093.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갤폴드4' 뜯어본 일본 '충격'..."갤럭시가 아이폰 보다 돈 더 잘버네"]]></title>
-            <link>https://n.news.naver.com/article/469/0000711925</link>
-            <guid>https://n.news.naver.com/article/469/0000711925</guid>
-            <pubDate>Wed, 14 Dec 2022 17:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/08/711925.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
