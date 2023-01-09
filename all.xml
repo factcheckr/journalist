@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 05:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 17:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,27 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0912/A0002864238_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['저출생 대책' 올인한 기시다... 비정규직·자영업자에도 육아지원금 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000717466</link>
+            <guid>https://n.news.naver.com/article/469/0000717466</guid>
+            <pubDate>Mon, 09 Jan 2023 17:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/09/717466.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["미국, 일본의 우주 공간도 지킨다"...방위 의무 범위 확대 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000717385</link>
+            <guid>https://n.news.naver.com/article/469/0000717385</guid>
+            <pubDate>Mon, 09 Jan 2023 17:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/09/717385.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[만화 시청 방해한다고 치매 부모 살해...일본 ‘은둔형 외톨이’의 비극 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000717229</link>
             <guid>https://n.news.naver.com/article/469/0000717229</guid>
             <pubDate>Sun, 08 Jan 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/08/717229.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +321,7 @@
             <link>https://n.news.naver.com/article/469/0000717025</link>
             <guid>https://n.news.naver.com/article/469/0000717025</guid>
             <pubDate>Fri, 06 Jan 2023 17:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/06/717025.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,7 +345,7 @@
             <link>https://n.news.naver.com/article/469/0000716454</link>
             <guid>https://n.news.naver.com/article/469/0000716454</guid>
             <pubDate>Tue, 03 Jan 2023 17:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/03/716454.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +353,7 @@
             <link>https://n.news.naver.com/article/469/0000716266</link>
             <guid>https://n.news.naver.com/article/469/0000716266</guid>
             <pubDate>Thu, 05 Jan 2023 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/02/716266.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,7 +361,7 @@
             <link>https://n.news.naver.com/article/469/0000716180</link>
             <guid>https://n.news.naver.com/article/469/0000716180</guid>
             <pubDate>Mon, 02 Jan 2023 17:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/02/716180.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +369,7 @@
             <link>https://n.news.naver.com/article/469/0000716045</link>
             <guid>https://n.news.naver.com/article/469/0000716045</guid>
             <pubDate>Sun, 01 Jan 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/01/716045.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +377,7 @@
             <link>https://n.news.naver.com/article/469/0000716026</link>
             <guid>https://n.news.naver.com/article/469/0000716026</guid>
             <pubDate>Sun, 01 Jan 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/01/716026.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -369,7 +385,7 @@
             <link>https://n.news.naver.com/article/469/0000716019</link>
             <guid>https://n.news.naver.com/article/469/0000716019</guid>
             <pubDate>Sun, 01 Jan 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/01/716019.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -377,7 +393,7 @@
             <link>https://n.news.naver.com/article/469/0000716000</link>
             <guid>https://n.news.naver.com/article/469/0000716000</guid>
             <pubDate>Sat, 07 Jan 2023 17:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/01/716000.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -507,22 +523,6 @@
             <pubDate>Thu, 22 Dec 2022 17:32:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/16/713280.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄에선 2025년부터 집 지을 때 태양광 패널 꼭 설치해야 한다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000713077</link>
-            <guid>https://n.news.naver.com/article/469/0000713077</guid>
-            <pubDate>Thu, 15 Dec 2022 17:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/15/713077.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국 1인당 GDP, 내년 일본 추월… 2035년까지 못 따라잡아" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000713044</link>
-            <guid>https://n.news.naver.com/article/469/0000713044</guid>
-            <pubDate>Wed, 21 Dec 2022 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/15/713044.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다누리, 드디어 달에 도착했다 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
