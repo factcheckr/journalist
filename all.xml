@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 17:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 05:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스에서 바게트가 사라진다? (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202301090830011</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202301090830011</guid>
+            <pubDate>Mon, 09 Jan 2023 05:31:46 GMT</pubDate>
+            <content:encoded><![CDATA[[주간경향] 프랑스의 빵 문화가 생존의 기로에 놓였다. 올겨울 들어 우크라이나 전쟁 이후 가파르게 치솟은 에너지와 재료 가격을 감당할 수 없게 된 빵집들의 폐업과 파산이 속출하고 있어서다. 빵집의 위기와 제빵사들의 분노가 프랑스 정치권의 가장 폭발력 있는 뇌관으로 떠올랐다.
+프랑스 북부 도시 릴 인근에서 27년 동안 빵집 ‘라 부르겔루아즈’를 운영 중인 베로니크 카필리에즈는 올해부터 주말에만 빵집 문을 열기로 했다. 견습생과 영업사원도 해고했다. “마을 유일의 빵집이 문을 닫는 것은 마을의 죽음이나 다름없다”며 아쉬워하는 고객도 있었지만 어쩔 수 없었다. 카필리에즈는 “지난해 1월 1900유로(약 256만원)이던 전기요금이 이번 달 6700유로(약 900만원)가 될 것”이라며 “정부 도움 없이는 주말조차 문을 닫게 될지 모른다”고 공영 라디오 채널 프랑스3에서 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/09/news-p.v1.20230106.147a88bf4aa9458b885b91ef12e2926a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유럽의 오븐이 식는다…서민 식탁 덮친 에너지 위기 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202301042145005</link>
@@ -105,14 +114,6 @@
             <pubDate>Fri, 16 Dec 2022 17:32:11 GMT</pubDate>
             <content:encoded><![CDATA[안보 관련 3대 문서(국가안전보장전략, 국가방위전략, 방위력정비계획)의 개정으로 전후 70년 넘게 이어졌던 일본의 방위정책은 대전환을 맞았다. 적 공격 능력은 미국에 맡기면서 ‘방패’ 역할에만 주력해 온 일본은 유사시 중국과 북한 등을 겨냥한 ‘창’의 역할을 분담하게 된다. 헌법을 개정한 것은 아니지만 공격을 받을 경우에만 방위력을 행사한다는 전수방위 원칙을 사실상 허물고 동북아 군비경쟁을 부추긴다는 비판이 나온다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/16/2022121701000803200062111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 3대 안보 문서에 ‘반격 능력’ 명시…전쟁 가능 국가로 ‘한발 더’ (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202212162119015</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202212162119015</guid>
-            <pubDate>Fri, 16 Dec 2022 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[일본 정부가 16일 적 미사일 기지 등에 대한 공격 능력을 의미하는 ‘반격 능력’을 보유하고 장거리 미사일 전력을 향상한다는 내용을 담아 안보 관련 3대 문서(국가안전보장전략, 국가방위전략, 방위력정비계획)를 개정했다.
-일본 정부는 이날 각의(국무회의)에서 외교·안보 정책의 근본 지침서인 국가안전보장전략에 “우리는 전후 가장 엄격하고 복잡한 안보 환경에 직면해 있다”며 “방위력의 근본적 강화”로 국익과 평화, 안전을 지켜나가겠다고 밝혔다. 이어 “필요로 할 때 최소한의 자위 조처로서 상대 영역에 반격하는 능력을 보유한다”고 명시했다. ‘반격 능력’은 “스탠드오프(적의 사정권 밖에서 공격) 방위기능을 활용하는 자위대의 능력”이라고 규정했다. 그러면서 “헌법과 국제법 범위 내 전수방위(공격받을 경우에만 최소한의 자위력 행사 가능)의 사고방식을 변경하는 것은 아니다”라며 “선제공격은 허용되지 않는다”고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -288,7 +289,7 @@
             <link>https://n.news.naver.com/article/469/0000717229</link>
             <guid>https://n.news.naver.com/article/469/0000717229</guid>
             <pubDate>Sun, 08 Jan 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/08/717229.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +297,7 @@
             <link>https://n.news.naver.com/article/469/0000717110</link>
             <guid>https://n.news.naver.com/article/469/0000717110</guid>
             <pubDate>Sat, 07 Jan 2023 05:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/07/717110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,7 +313,7 @@
             <link>https://n.news.naver.com/article/469/0000716778</link>
             <guid>https://n.news.naver.com/article/469/0000716778</guid>
             <pubDate>Thu, 05 Jan 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/05/716778.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +321,7 @@
             <link>https://n.news.naver.com/article/469/0000716526</link>
             <guid>https://n.news.naver.com/article/469/0000716526</guid>
             <pubDate>Fri, 06 Jan 2023 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/04/716526.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +529,7 @@
             <link>https://n.news.naver.com/article/308/0000032044</link>
             <guid>https://n.news.naver.com/article/308/0000032044</guid>
             <pubDate>Mon, 02 Jan 2023 05:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/02/32044.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -768,7 +769,7 @@
             <link>https://n.news.naver.com/article/308/0000032054</link>
             <guid>https://n.news.naver.com/article/308/0000032054</guid>
             <pubDate>Wed, 04 Jan 2023 05:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/04/32054.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -776,7 +777,7 @@
             <link>https://n.news.naver.com/article/308/0000032035</link>
             <guid>https://n.news.naver.com/article/308/0000032035</guid>
             <pubDate>Sun, 01 Jan 2023 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/01/32035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
