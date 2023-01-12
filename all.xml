@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 05:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 17:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,27 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0912/A0002864238_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 정부, 한국 강제동원 해법에 "긴밀히 의사소통하겠다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000718045</link>
+            <guid>https://n.news.naver.com/article/469/0000718045</guid>
+            <pubDate>Thu, 12 Jan 2023 17:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/12/718045.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘중국 파워 견제’에 한마음... 일본, 유럽과 '안보협력' 강화 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000718041</link>
+            <guid>https://n.news.naver.com/article/469/0000718041</guid>
+            <pubDate>Thu, 12 Jan 2023 17:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/12/718041.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“강제동원 배상금, 한국·일본 기업 쌍방 기부로 조성하는 게 한국 정부 방침" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000717888</link>
             <guid>https://n.news.naver.com/article/469/0000717888</guid>
             <pubDate>Wed, 11 Jan 2023 17:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717888.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -301,19 +317,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717724.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주일 미국대사 "한국도 대중국 반도체 수출통제 동참해야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000717617</link>
-            <guid>https://n.news.naver.com/article/469/0000717617</guid>
-            <pubDate>Tue, 10 Jan 2023 17:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/10/717617.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['저출생 대책' 올인한 기시다... 비정규직·자영업자에도 육아지원금 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000717466</link>
             <guid>https://n.news.naver.com/article/469/0000717466</guid>
             <pubDate>Mon, 09 Jan 2023 17:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/09/717466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,16 +329,8 @@
             <link>https://n.news.naver.com/article/469/0000717385</link>
             <guid>https://n.news.naver.com/article/469/0000717385</guid>
             <pubDate>Mon, 09 Jan 2023 17:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/09/717385.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만화 시청 방해한다고 치매 부모 살해...일본 ‘은둔형 외톨이’의 비극 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000717229</link>
-            <guid>https://n.news.naver.com/article/469/0000717229</guid>
-            <pubDate>Thu, 12 Jan 2023 05:33:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/08/717229.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/09/717385.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[142명 탑승 일본 국내선 항공기, '폭파 위협'에 긴급 착륙 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -341,19 +341,35 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/07/717110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['이제 인도에도 밀리네'...쪼그라드는 일본 자동차 시장 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000717051</link>
+            <guid>https://n.news.naver.com/article/469/0000717051</guid>
+            <pubDate>Thu, 12 Jan 2023 17:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/06/717051.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다 압박에...재계도 “물가 넘는 임금 인상” 합창 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000717025</link>
             <guid>https://n.news.naver.com/article/469/0000717025</guid>
             <pubDate>Fri, 06 Jan 2023 17:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/06/717025.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['전장연 시위는 유난하고 이기적?' 국제사회 답은 "아니오!" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000716949</link>
+            <guid>https://n.news.naver.com/article/469/0000716949</guid>
+            <pubDate>Thu, 12 Jan 2023 17:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/06/716949.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["팔고 싶어 판 게 아니다"...나치 피해자 후손, 일본 보험사에 "고흐 '해바라기' 내놔라" 소송 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000716851</link>
             <guid>https://n.news.naver.com/article/469/0000716851</guid>
             <pubDate>Wed, 11 Jan 2023 17:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/05/716851.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -507,22 +523,6 @@
             <pubDate>Thu, 22 Dec 2022 05:32:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/22/714163.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 "협의해라"vs 일본"자체판단"...한반도 유사시 일본 '반격 능력' 행사 논란 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000713498</link>
-            <guid>https://n.news.naver.com/article/469/0000713498</guid>
-            <pubDate>Sat, 24 Dec 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/18/713498.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다, 바이든에 '방위력 강화' 직접 설명...미·일 역할 변화도 논의 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000713466</link>
-            <guid>https://n.news.naver.com/article/469/0000713466</guid>
-            <pubDate>Sun, 18 Dec 2022 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/18/713466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건강보험 개혁하겠다는 윤석열 정부, 무엇을 놓치고 있나 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1009,7 +1009,7 @@
             <link>https://n.news.naver.com/article/308/0000032090</link>
             <guid>https://n.news.naver.com/article/308/0000032090</guid>
             <pubDate>Thu, 12 Jan 2023 05:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/12/32090.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1025,7 +1025,7 @@
             <link>https://n.news.naver.com/article/308/0000032080</link>
             <guid>https://n.news.naver.com/article/308/0000032080</guid>
             <pubDate>Tue, 10 Jan 2023 17:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/10/32080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
