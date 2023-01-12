@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 17:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 05:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000717888</link>
             <guid>https://n.news.naver.com/article/469/0000717888</guid>
             <pubDate>Wed, 11 Jan 2023 17:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717888.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000717724</link>
             <guid>https://n.news.naver.com/article/469/0000717724</guid>
             <pubDate>Wed, 11 Jan 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717724.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,11 +48,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/09/717385.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[만화 시청 방해한다고 치매 부모 살해...일본 ‘은둔형 외톨이’의 비극 [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000717229</link>
+            <guid>https://n.news.naver.com/article/469/0000717229</guid>
+            <pubDate>Thu, 12 Jan 2023 05:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/08/717229.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[142명 탑승 일본 국내선 항공기, '폭파 위협'에 긴급 착륙]]></title>
             <link>https://n.news.naver.com/article/469/0000717110</link>
             <guid>https://n.news.naver.com/article/469/0000717110</guid>
             <pubDate>Sat, 07 Jan 2023 05:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/07/717110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000716778</link>
             <guid>https://n.news.naver.com/article/469/0000716778</guid>
             <pubDate>Thu, 05 Jan 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/05/716778.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000716526</link>
             <guid>https://n.news.naver.com/article/469/0000716526</guid>
             <pubDate>Fri, 06 Jan 2023 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/04/716526.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 18 Dec 2022 17:32:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/18/713466.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“중세 마녀 재판이다!”...‘노 마스크 아저씨’에 징역형 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000713442</link>
-            <guid>https://n.news.naver.com/article/469/0000713442</guid>
-            <pubDate>Sat, 24 Dec 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/18/713442.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

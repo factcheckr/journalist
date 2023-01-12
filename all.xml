@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 17:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 05:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,7 +289,7 @@
             <link>https://n.news.naver.com/article/469/0000717888</link>
             <guid>https://n.news.naver.com/article/469/0000717888</guid>
             <pubDate>Wed, 11 Jan 2023 17:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717888.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +297,7 @@
             <link>https://n.news.naver.com/article/469/0000717724</link>
             <guid>https://n.news.naver.com/article/469/0000717724</guid>
             <pubDate>Wed, 11 Jan 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717724.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -325,11 +325,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/09/717385.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[만화 시청 방해한다고 치매 부모 살해...일본 ‘은둔형 외톨이’의 비극 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000717229</link>
+            <guid>https://n.news.naver.com/article/469/0000717229</guid>
+            <pubDate>Thu, 12 Jan 2023 05:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/08/717229.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[142명 탑승 일본 국내선 항공기, '폭파 위협'에 긴급 착륙 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000717110</link>
             <guid>https://n.news.naver.com/article/469/0000717110</guid>
             <pubDate>Sat, 07 Jan 2023 05:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/07/717110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +361,7 @@
             <link>https://n.news.naver.com/article/469/0000716778</link>
             <guid>https://n.news.naver.com/article/469/0000716778</guid>
             <pubDate>Thu, 05 Jan 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/05/716778.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +369,7 @@
             <link>https://n.news.naver.com/article/469/0000716526</link>
             <guid>https://n.news.naver.com/article/469/0000716526</guid>
             <pubDate>Fri, 06 Jan 2023 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/04/716526.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -517,19 +525,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/18/713466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“중세 마녀 재판이다!”...‘노 마스크 아저씨’에 징역형 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000713442</link>
-            <guid>https://n.news.naver.com/article/469/0000713442</guid>
-            <pubDate>Sat, 24 Dec 2022 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/18/713442.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[건강보험 개혁하겠다는 윤석열 정부, 무엇을 놓치고 있나 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032079</link>
             <guid>https://n.news.naver.com/article/308/0000032079</guid>
             <pubDate>Tue, 10 Jan 2023 05:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/10/32079.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -769,7 +769,7 @@
             <link>https://n.news.naver.com/article/308/0000032054</link>
             <guid>https://n.news.naver.com/article/308/0000032054</guid>
             <pubDate>Wed, 04 Jan 2023 05:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/04/32054.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1005,11 +1005,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/13/31149.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[강제동원 배상 판결, 정부의 해법에 일본은 빠져있다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032090</link>
+            <guid>https://n.news.naver.com/article/308/0000032090</guid>
+            <pubDate>Thu, 12 Jan 2023 05:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/12/32090.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“그런 태도로는 민주주의 못한다” 윤여준의 쓴소리 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032083</link>
             <guid>https://n.news.naver.com/article/308/0000032083</guid>
             <pubDate>Wed, 11 Jan 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/11/32083.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1235,14 +1243,6 @@
             <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/05/31110.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 성동구에 꽂힌 유일한 파란 깃발, 그는 어떻게 승리했나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031086</link>
-            <guid>https://n.news.naver.com/article/308/0000031086</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/29/31086.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[입양 보낸 강아지 만나러 가는 ‘캐나다 체크인’, 그 뒷 이야기 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>

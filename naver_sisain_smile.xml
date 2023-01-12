@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 17:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 05:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강제동원 배상 판결, 정부의 해법에 일본은 빠져있다]]></title>
+            <link>https://n.news.naver.com/article/308/0000032090</link>
+            <guid>https://n.news.naver.com/article/308/0000032090</guid>
+            <pubDate>Thu, 12 Jan 2023 05:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/12/32090.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“그런 태도로는 민주주의 못한다” 윤여준의 쓴소리]]></title>
             <link>https://n.news.naver.com/article/308/0000032083</link>
             <guid>https://n.news.naver.com/article/308/0000032083</guid>
             <pubDate>Wed, 11 Jan 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/11/32083.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/05/31110.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 성동구에 꽂힌 유일한 파란 깃발, 그는 어떻게 승리했나]]></title>
-            <link>https://n.news.naver.com/article/308/0000031086</link>
-            <guid>https://n.news.naver.com/article/308/0000031086</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/29/31086.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
