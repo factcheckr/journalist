@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 17:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 05:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이든, 일본 방위력 강화 상찬… “동맹 전에 없이 공고해져”]]></title>
+            <link>https://n.news.naver.com/article/469/0000718316</link>
+            <guid>https://n.news.naver.com/article/469/0000718316</guid>
+            <pubDate>Sat, 14 Jan 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/14/718316.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본, 유네스코에 또 '억지' 주장..."군함도 조선인 학대 없었다"]]></title>
             <link>https://n.news.naver.com/article/469/0000718213</link>
             <guid>https://n.news.naver.com/article/469/0000718213</guid>
             <pubDate>Fri, 13 Jan 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/13/718213.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,8 +52,16 @@
             <link>https://n.news.naver.com/article/469/0000717724</link>
             <guid>https://n.news.naver.com/article/469/0000717724</guid>
             <pubDate>Wed, 11 Jan 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717724.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주일 미국대사 "한국도 대중국 반도체 수출통제 동참해야"]]></title>
+            <link>https://n.news.naver.com/article/469/0000717617</link>
+            <guid>https://n.news.naver.com/article/469/0000717617</guid>
+            <pubDate>Sat, 14 Jan 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/10/717617.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['저출생 대책' 올인한 기시다... 비정규직·자영업자에도 육아지원금]]></title>
@@ -68,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000717110</link>
             <guid>https://n.news.naver.com/article/469/0000717110</guid>
             <pubDate>Sat, 07 Jan 2023 05:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/07/717110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000716949</link>
             <guid>https://n.news.naver.com/article/469/0000716949</guid>
             <pubDate>Thu, 12 Jan 2023 17:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/06/716949.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/26/714981.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해 넘기는 강제동원 배상 문제… 피해자도 일본도 설득 못했다]]></title>
-            <link>https://n.news.naver.com/article/469/0000714979</link>
-            <guid>https://n.news.naver.com/article/469/0000714979</guid>
-            <pubDate>Tue, 27 Dec 2022 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/26/714979.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["일본 경제대국 탈락" 진해지는 전망... 고령화·정부부채 탓]]></title>
-            <link>https://n.news.naver.com/article/469/0000714751</link>
-            <guid>https://n.news.naver.com/article/469/0000714751</guid>
-            <pubDate>Sat, 31 Dec 2022 17:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2022/12/25/714751.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
