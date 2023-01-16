@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 17:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 05:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,7 +22,7 @@
             <guid>https://www.khan.co.kr/world/world-general/article/202301152017001</guid>
             <pubDate>Sun, 15 Jan 2023 17:31:55 GMT</pubDate>
             <content:encoded><![CDATA[독일 노르트라인베스트팔렌(NRW)주 에어켈렌츠시 카이엔베르크 마을은 14일(현지시간) 오전까지는 꼭 운영을 중단한 테마파크 같았다. 첨탑이 우뚝 선 중세풍 교회 건물과 붉은 벽돌로 지은 수십 채의 집들 대부분 빈 집이었다. 독일 정부가 마을에서 2km 떨어진 가르츠바일러2 노천 석탄광산의 확장을 결정해 정책적으로 주민들을 이주시키고 있기 때문이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/15/news-p.v1.20230116.7e28f45bfa5c420a9e21870bc2864488.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/15/news-p.v1.20230116.bf3d12bd92854bdda067056d394e9cbd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흰눈 아닌 초록…우리가 알던 알프스가 사라졌다 (경향신문 ─ 박은하 기자)]]></title>
@@ -287,23 +287,15 @@
             <link>https://n.news.naver.com/article/469/0000718475</link>
             <guid>https://n.news.naver.com/article/469/0000718475</guid>
             <pubDate>Sun, 15 Jan 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718475.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 “후한 대접”받았다지만, 바이든은 기자회견 생략...왜? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000718420</link>
-            <guid>https://n.news.naver.com/article/469/0000718420</guid>
-            <pubDate>Sun, 15 Jan 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 “윤 대통령과는 얘기 가능”…'강제 징용' 해결에 기대감 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000718413</link>
             <guid>https://n.news.naver.com/article/469/0000718413</guid>
             <pubDate>Sun, 15 Jan 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718413.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -311,7 +303,7 @@
             <link>https://n.news.naver.com/article/469/0000718398</link>
             <guid>https://n.news.naver.com/article/469/0000718398</guid>
             <pubDate>Sun, 15 Jan 2023 05:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718398.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -319,7 +311,7 @@
             <link>https://n.news.naver.com/article/469/0000718316</link>
             <guid>https://n.news.naver.com/article/469/0000718316</guid>
             <pubDate>Sat, 14 Jan 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/14/718316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -359,8 +351,16 @@
             <link>https://n.news.naver.com/article/469/0000717724</link>
             <guid>https://n.news.naver.com/article/469/0000717724</guid>
             <pubDate>Wed, 11 Jan 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717724.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주일 미국대사 "한국도 대중국 반도체 수출통제 동참해야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000717617</link>
+            <guid>https://n.news.naver.com/article/469/0000717617</guid>
+            <pubDate>Mon, 16 Jan 2023 05:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/10/717617.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['저출생 대책' 올인한 기시다... 비정규직·자영업자에도 육아지원금 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -527,7 +527,7 @@
             <link>https://n.news.naver.com/article/308/0000032079</link>
             <guid>https://n.news.naver.com/article/308/0000032079</guid>
             <pubDate>Tue, 10 Jan 2023 05:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/10/32079.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1007,7 +1007,7 @@
             <link>https://n.news.naver.com/article/308/0000032090</link>
             <guid>https://n.news.naver.com/article/308/0000032090</guid>
             <pubDate>Thu, 12 Jan 2023 05:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/12/32090.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1015,7 +1015,7 @@
             <link>https://n.news.naver.com/article/308/0000032083</link>
             <guid>https://n.news.naver.com/article/308/0000032083</guid>
             <pubDate>Wed, 11 Jan 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/11/32083.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

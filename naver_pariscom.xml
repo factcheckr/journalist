@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 17:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 05:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,23 +12,15 @@
             <link>https://n.news.naver.com/article/469/0000718475</link>
             <guid>https://n.news.naver.com/article/469/0000718475</guid>
             <pubDate>Sun, 15 Jan 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718475.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 “후한 대접”받았다지만, 바이든은 기자회견 생략...왜?]]></title>
-            <link>https://n.news.naver.com/article/469/0000718420</link>
-            <guid>https://n.news.naver.com/article/469/0000718420</guid>
-            <pubDate>Sun, 15 Jan 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 “윤 대통령과는 얘기 가능”…'강제 징용' 해결에 기대감]]></title>
             <link>https://n.news.naver.com/article/469/0000718413</link>
             <guid>https://n.news.naver.com/article/469/0000718413</guid>
             <pubDate>Sun, 15 Jan 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718413.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000718398</link>
             <guid>https://n.news.naver.com/article/469/0000718398</guid>
             <pubDate>Sun, 15 Jan 2023 05:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718398.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000718316</link>
             <guid>https://n.news.naver.com/article/469/0000718316</guid>
             <pubDate>Sat, 14 Jan 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/14/718316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,8 +76,16 @@
             <link>https://n.news.naver.com/article/469/0000717724</link>
             <guid>https://n.news.naver.com/article/469/0000717724</guid>
             <pubDate>Wed, 11 Jan 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717724.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주일 미국대사 "한국도 대중국 반도체 수출통제 동참해야"]]></title>
+            <link>https://n.news.naver.com/article/469/0000717617</link>
+            <guid>https://n.news.naver.com/article/469/0000717617</guid>
+            <pubDate>Mon, 16 Jan 2023 05:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/10/717617.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['저출생 대책' 올인한 기시다... 비정규직·자영업자에도 육아지원금]]></title>
