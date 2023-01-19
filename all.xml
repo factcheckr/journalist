@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 17:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 05:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,7 +287,7 @@
             <link>https://n.news.naver.com/article/469/0000719114</link>
             <guid>https://n.news.naver.com/article/469/0000719114</guid>
             <pubDate>Wed, 18 Jan 2023 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/18/719114.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -319,7 +319,7 @@
             <link>https://n.news.naver.com/article/469/0000718398</link>
             <guid>https://n.news.naver.com/article/469/0000718398</guid>
             <pubDate>Sun, 15 Jan 2023 05:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718398.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -327,7 +327,7 @@
             <link>https://n.news.naver.com/article/469/0000718316</link>
             <guid>https://n.news.naver.com/article/469/0000718316</guid>
             <pubDate>Sat, 14 Jan 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/14/718316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -359,7 +359,7 @@
             <link>https://n.news.naver.com/article/469/0000717915</link>
             <guid>https://n.news.naver.com/article/469/0000717915</guid>
             <pubDate>Wed, 18 Jan 2023 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/12/717915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,7 +375,7 @@
             <link>https://n.news.naver.com/article/469/0000717724</link>
             <guid>https://n.news.naver.com/article/469/0000717724</guid>
             <pubDate>Wed, 11 Jan 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717724.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -521,6 +521,14 @@
             <pubDate>Sat, 07 Jan 2023 17:34:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/01/716000.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤하늘에 보이는 달, 그곳에 다누리가 있다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032122</link>
+            <guid>https://n.news.naver.com/article/308/0000032122</guid>
+            <pubDate>Thu, 19 Jan 2023 05:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/19/32122.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건강보험 개혁하겠다는 윤석열 정부, 무엇을 놓치고 있나 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -755,19 +763,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/23/31054.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[기자의 추천 책] 리추얼이 사라진 시대의 우리 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031043</link>
-            <guid>https://n.news.naver.com/article/308/0000031043</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/20/31043.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“우리 대통령이 나서지 않는데 어떻게 일본 사죄를 받겠나” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032114</link>
             <guid>https://n.news.naver.com/article/308/0000032114</guid>
             <pubDate>Tue, 17 Jan 2023 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/17/32114.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1007,7 +1007,7 @@
             <link>https://n.news.naver.com/article/308/0000032090</link>
             <guid>https://n.news.naver.com/article/308/0000032090</guid>
             <pubDate>Thu, 12 Jan 2023 05:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/12/32090.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1015,7 +1015,7 @@
             <link>https://n.news.naver.com/article/308/0000032083</link>
             <guid>https://n.news.naver.com/article/308/0000032083</guid>
             <pubDate>Wed, 11 Jan 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/11/32083.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
