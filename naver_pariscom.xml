@@ -4,23 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 17:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 05:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 지난달 소비자물가 4% 올라... 41년 만에 최고]]></title>
+            <link>https://n.news.naver.com/article/469/0000719426</link>
+            <guid>https://n.news.naver.com/article/469/0000719426</guid>
+            <pubDate>Fri, 20 Jan 2023 05:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/20/719426.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['윤동주 연구'에 헌신한 일본 학자 오무라 마스오 별세]]></title>
             <link>https://n.news.naver.com/article/469/0000719298</link>
             <guid>https://n.news.naver.com/article/469/0000719298</guid>
-            <pubDate>Thu, 19 Jan 2023 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <pubDate>Fri, 20 Jan 2023 05:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/19/719298.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 지난해 무역적자 192조 '사상 최대'...엔저가 발목]]></title>
             <link>https://n.news.naver.com/article/469/0000719269</link>
             <guid>https://n.news.naver.com/article/469/0000719269</guid>
-            <pubDate>Thu, 19 Jan 2023 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <pubDate>Fri, 20 Jan 2023 05:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/19/719269.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000718398</link>
             <guid>https://n.news.naver.com/article/469/0000718398</guid>
             <pubDate>Sun, 15 Jan 2023 05:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718398.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000718316</link>
             <guid>https://n.news.naver.com/article/469/0000718316</guid>
             <pubDate>Sat, 14 Jan 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/14/718316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000717915</link>
             <guid>https://n.news.naver.com/article/469/0000717915</guid>
             <pubDate>Wed, 18 Jan 2023 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/12/717915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 01 Jan 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/01/716045.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산케이 “한국 정부, 이르면 이달 중 징용 해결책 발표”]]></title>
-            <link>https://n.news.naver.com/article/469/0000716026</link>
-            <guid>https://n.news.naver.com/article/469/0000716026</guid>
-            <pubDate>Sun, 01 Jan 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/01/716026.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
