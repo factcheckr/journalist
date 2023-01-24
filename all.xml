@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 17:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 05:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -282,6 +282,14 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0923/A0002867098_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본, 코로나19 '독감'처럼 취급...실내 마스크 규정도 완화 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000719490</link>
+            <guid>https://n.news.naver.com/article/469/0000719490</guid>
+            <pubDate>Tue, 24 Jan 2023 05:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/20/719490.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본, 사도광산 세계문화유산 추천서 다시 제출 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000719468</link>
             <guid>https://n.news.naver.com/article/469/0000719468</guid>
@@ -294,7 +302,7 @@
             <link>https://n.news.naver.com/article/469/0000719426</link>
             <guid>https://n.news.naver.com/article/469/0000719426</guid>
             <pubDate>Fri, 20 Jan 2023 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/20/719426.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -514,19 +522,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/04/716526.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[금융완화 '출구' 모색하는 일본은행...구로다 후임은 누구? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000716454</link>
-            <guid>https://n.news.naver.com/article/469/0000716454</guid>
-            <pubDate>Tue, 03 Jan 2023 17:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/03/716454.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[밤하늘에 보이는 달, 그곳에 다누리가 있다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032122</link>
             <guid>https://n.news.naver.com/article/308/0000032122</guid>
             <pubDate>Thu, 19 Jan 2023 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/19/32122.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -766,7 +766,7 @@
             <link>https://n.news.naver.com/article/308/0000032132</link>
             <guid>https://n.news.naver.com/article/308/0000032132</guid>
             <pubDate>Mon, 23 Jan 2023 05:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/23/32132.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -774,7 +774,7 @@
             <link>https://n.news.naver.com/article/308/0000032114</link>
             <guid>https://n.news.naver.com/article/308/0000032114</guid>
             <pubDate>Tue, 17 Jan 2023 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/17/32114.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

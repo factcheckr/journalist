@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 17:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 05:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본, 코로나19 '독감'처럼 취급...실내 마스크 규정도 완화]]></title>
+            <link>https://n.news.naver.com/article/469/0000719490</link>
+            <guid>https://n.news.naver.com/article/469/0000719490</guid>
+            <pubDate>Tue, 24 Jan 2023 05:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/20/719490.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본, 사도광산 세계문화유산 추천서 다시 제출]]></title>
             <link>https://n.news.naver.com/article/469/0000719468</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000719426</link>
             <guid>https://n.news.naver.com/article/469/0000719426</guid>
             <pubDate>Fri, 20 Jan 2023 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/20/719426.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Jan 2023 05:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/04/716526.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융완화 '출구' 모색하는 일본은행...구로다 후임은 누구?]]></title>
-            <link>https://n.news.naver.com/article/469/0000716454</link>
-            <guid>https://n.news.naver.com/article/469/0000716454</guid>
-            <pubDate>Tue, 03 Jan 2023 17:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/03/716454.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
