@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 17:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 05:34:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“좀 더 짚어줬으면, 사례가 뒷받침됐으면” [시사IN 독자위원회]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032137</link>
+            <guid>https://n.news.naver.com/article/308/0000032137</guid>
+            <pubDate>Wed, 25 Jan 2023 05:34:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/25/32137.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리는 좀 더 게을러질 필요가 있다 [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000032132</link>
             <guid>https://n.news.naver.com/article/308/0000032132</guid>
             <pubDate>Mon, 23 Jan 2023 05:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/23/32132.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000032114</link>
             <guid>https://n.news.naver.com/article/308/0000032114</guid>
             <pubDate>Tue, 17 Jan 2023 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/17/32114.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/19/31341.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가상 인간’ 세계,  우리는 가짜가 아니다]]></title>
-            <link>https://n.news.naver.com/article/308/0000031199</link>
-            <guid>https://n.news.naver.com/article/308/0000031199</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
