@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 17:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 05:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신기루가 된 옛 영광의 부활…‘브렉시트의 상징’ 그림즈비를 가다]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202301310600091</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202301310600091</guid>
+            <pubDate>Tue, 31 Jan 2023 05:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[기차에서 내리자 ‘끼루룩’ 소리가 들렸다. 빅토리아 여왕 때 지어진 호텔인 고풍스러운 붉은 벽돌 건물 위에서 갈매기들이 호선을 그렸다. 한때 세계 최대 어항으로 꼽혔던 이 도시의 옛 위용을 보여주는 듯 했다.
+그러나 쇠락해 가는 도시의 흔적은 곳곳에서 발견됐다. 싱싱한 생선을 팔고 가공했던 건물들은 더 이상 쓰임새를 찾지 못해 방치된 채 외벽의 칠이 다 벗겨져 있었다. 항구도시임에도 불구하고 재료가 떨어졌다며 생선이 들어간 메뉴 주문을 받지 않는 펍도 있었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/31/news-p.v1.20230130.9e53cc771af2464ab5652323b742f6ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스, 부르키나파소 정부 요구로 군대 철수]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202301261108001</link>
@@ -105,15 +114,6 @@
             <pubDate>Wed, 11 Jan 2023 17:37:20 GMT</pubDate>
             <content:encoded><![CDATA[프랑스 정부가 재정 건전성을 위해 연금을 수령할 수 있는 최소 연령을 현행 62세에서 2030년까지 64세로 올린다. 또 연금을 100% 받기 위해 납입하는 기간을 42년에서 43년으로 1년 늘리기로 한 시점을 2035년에서 2027년으로 앞당기기로 했다. 인플레이션으로 민심이 흉흉한 상황에서 ‘더 내고 덜 받는’ 연금개혁안이 발표되자 프랑스 노조는 대규모 파업과 시위를 예고했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/11/khan_QmXWRm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 연금개혁안 발표…고령사회 필수 과제일까, 경제부담 떠넘기는 정책일까]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202301111608031</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202301111608031</guid>
-            <pubDate>Wed, 11 Jan 2023 17:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 정부가 재정 건전성을 위해 연금을 수령할 수 있는 최소 연령을 현행 62세에서 2030년까지 64세로 상향한다. 아울러 연금을 100% 받기 위해 납입해야 하는 기간을 42년에서 43년으로 1년 늘리기로 약속한 시점을 2035년에서 2027년으로 앞당기기로 했다.
-가뜩이나 인플레이션으로 민심이 흉흉한 상황에서 ‘더 내고 덜 받는’ 연금개혁안이 발표되자 프랑스 노조는 대규모 파업과 시위를 예고했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/11/news-p.v1.20230111.47356c16b9ec4d99a79199d159514ec9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
