@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 17:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 05:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,6 +286,14 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/1007/A0002870539_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[특파원의 시선] 일본 총리가 노총과 함께 임금인상 부르짖는 이유 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000721271</link>
+            <guid>https://n.news.naver.com/article/469/0000721271</guid>
+            <pubDate>Thu, 02 Feb 2023 05:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/02/721271.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본, '전범기업 배상 참여'에 여전히 부정적...강제동원 협상 막판 진통 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000721039</link>
             <guid>https://n.news.naver.com/article/469/0000721039</guid>
@@ -518,12 +526,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/11/717724.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주일 미국대사 "한국도 대중국 반도체 수출통제 동참해야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000717617</link>
-            <guid>https://n.news.naver.com/article/469/0000717617</guid>
-            <pubDate>Mon, 16 Jan 2023 05:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/10/717617.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[“정치가의 말이 실패할 때, 민주주의는 실패한다” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032164</link>
+            <guid>https://n.news.naver.com/article/308/0000032164</guid>
+            <pubDate>Thu, 02 Feb 2023 05:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/02/32164.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밤하늘에 보이는 달, 그곳에 다누리가 있다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -758,19 +766,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/27/31075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[프리 스타일] '성공'의 K방역과 남겨진 재난의 흔적 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031054</link>
-            <guid>https://n.news.naver.com/article/308/0000031054</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/23/31054.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“좀 더 짚어줬으면, 사례가 뒷받침됐으면” [시사IN 독자위원회] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032137</link>
             <guid>https://n.news.naver.com/article/308/0000032137</guid>
             <pubDate>Wed, 25 Jan 2023 05:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/25/32137.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1010,7 +1010,7 @@
             <link>https://n.news.naver.com/article/308/0000032162</link>
             <guid>https://n.news.naver.com/article/308/0000032162</guid>
             <pubDate>Wed, 01 Feb 2023 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/01/32162.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
