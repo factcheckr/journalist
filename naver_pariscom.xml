@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 05:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 17:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000721424</link>
             <guid>https://n.news.naver.com/article/469/0000721424</guid>
             <pubDate>Thu, 02 Feb 2023 17:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/02/721424.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000721390</link>
             <guid>https://n.news.naver.com/article/469/0000721390</guid>
             <pubDate>Thu, 02 Feb 2023 17:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/02/721390.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,15 +36,23 @@
             <link>https://n.news.naver.com/article/469/0000721039</link>
             <guid>https://n.news.naver.com/article/469/0000721039</guid>
             <pubDate>Tue, 31 Jan 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/31/721039.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오키나와에서 워케이션'은 옛말...원격 근무 해제된 노동자들, 다시 도쿄로]]></title>
+            <link>https://n.news.naver.com/article/469/0000720976</link>
+            <guid>https://n.news.naver.com/article/469/0000720976</guid>
+            <pubDate>Fri, 03 Feb 2023 17:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/31/720976.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 자민당, 아동수당 선별복지→보편복지로 방향 전환]]></title>
             <link>https://n.news.naver.com/article/469/0000720778</link>
             <guid>https://n.news.naver.com/article/469/0000720778</guid>
             <pubDate>Mon, 30 Jan 2023 17:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/30/720778.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000720729</link>
             <guid>https://n.news.naver.com/article/469/0000720729</guid>
             <pubDate>Mon, 30 Jan 2023 17:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/30/720729.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000720390</link>
             <guid>https://n.news.naver.com/article/469/0000720390</guid>
             <pubDate>Wed, 01 Feb 2023 17:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/27/720390.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000720202</link>
             <guid>https://n.news.naver.com/article/469/0000720202</guid>
             <pubDate>Fri, 27 Jan 2023 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/26/720202.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000720186</link>
             <guid>https://n.news.naver.com/article/469/0000720186</guid>
             <pubDate>Thu, 26 Jan 2023 17:33:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/26/720186.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 12 Jan 2023 17:43:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/12/718041.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국·일본만 골라 때리는 중국, 왜?... '2차 보복'으로 비자 발급 추가 중단]]></title>
-            <link>https://n.news.naver.com/article/469/0000717915</link>
-            <guid>https://n.news.naver.com/article/469/0000717915</guid>
-            <pubDate>Wed, 18 Jan 2023 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/12/717915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
