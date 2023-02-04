@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 05:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 17:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,19 +286,11 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/1007/A0002870539_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 임금 인상, 비정규직에도 확산... 유통 대기업 이온, 파트타임 시급 7% ↑ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000721424</link>
-            <guid>https://n.news.naver.com/article/469/0000721424</guid>
-            <pubDate>Thu, 02 Feb 2023 17:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/02/721424.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["성차별 싫어 대도시로" 인구 감소 일본 지자체, '여성 중점' 예산 발표 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000721390</link>
             <guid>https://n.news.naver.com/article/469/0000721390</guid>
             <pubDate>Thu, 02 Feb 2023 17:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/02/721390.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +306,7 @@
             <link>https://n.news.naver.com/article/469/0000721039</link>
             <guid>https://n.news.naver.com/article/469/0000721039</guid>
             <pubDate>Tue, 31 Jan 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/31/721039.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +314,7 @@
             <link>https://n.news.naver.com/article/469/0000720976</link>
             <guid>https://n.news.naver.com/article/469/0000720976</guid>
             <pubDate>Fri, 03 Feb 2023 17:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/31/720976.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,7 +322,7 @@
             <link>https://n.news.naver.com/article/469/0000720778</link>
             <guid>https://n.news.naver.com/article/469/0000720778</guid>
             <pubDate>Mon, 30 Jan 2023 17:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/30/720778.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,15 +330,23 @@
             <link>https://n.news.naver.com/article/469/0000720729</link>
             <guid>https://n.news.naver.com/article/469/0000720729</guid>
             <pubDate>Mon, 30 Jan 2023 17:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/30/720729.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 순방 중 비서 아들은 '관광'…“업무 일환” 해명에 비판 가중 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000720538</link>
+            <guid>https://n.news.naver.com/article/469/0000720538</guid>
+            <pubDate>Sat, 04 Feb 2023 17:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/29/720538.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["건당 1000만원 강도 알바" 텔레그램으로 지시…일본 신종 범죄 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000720390</link>
             <guid>https://n.news.naver.com/article/469/0000720390</guid>
             <pubDate>Wed, 01 Feb 2023 17:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.01.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/27/720390.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
