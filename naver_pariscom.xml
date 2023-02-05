@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 17:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 05:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“30년간 일본 노천 온천서 1만 명 불법촬영” 의사·공무원도 한패 [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000721764</link>
+            <guid>https://n.news.naver.com/article/469/0000721764</guid>
+            <pubDate>Sun, 05 Feb 2023 05:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/05/721764.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["성차별 싫어 대도시로" 인구 감소 일본 지자체, '여성 중점' 예산 발표]]></title>
             <link>https://n.news.naver.com/article/469/0000721390</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000721271</link>
             <guid>https://n.news.naver.com/article/469/0000721271</guid>
             <pubDate>Thu, 02 Feb 2023 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/02/721271.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 12 Jan 2023 17:43:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/12/718045.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘중국 파워 견제’에 한마음... 일본, 유럽과 '안보협력' 강화]]></title>
-            <link>https://n.news.naver.com/article/469/0000718041</link>
-            <guid>https://n.news.naver.com/article/469/0000718041</guid>
-            <pubDate>Thu, 12 Jan 2023 17:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/12/718041.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
