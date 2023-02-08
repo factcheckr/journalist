@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 17:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 05:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,7 +38,7 @@
             <link>https://www.khan.co.kr/world/europe-russia/article/202302011742001</link>
             <guid>https://www.khan.co.kr/world/europe-russia/article/202302011742001</guid>
             <pubDate>Wed, 01 Feb 2023 17:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[‘퇴직개혁 반대’, ‘더 늦게 퇴직하는 것은 더 일찍 죽는 것’
+            <content:encoded><![CDATA[“퇴직개혁 반대”, “더 늦게 퇴직하는 것은 더 일찍 죽는 것”
 프랑스 정부의 연금개혁에 반대해 주요 노조가 2차 총파업 시위를 선언한 지난달 31일(현지시간) 파리 시내 거리에 피켓을 든 시민들이 쏟아져나오기 시작했다.  교사, 일반 공무원, 엔지니어, 간호사, 판매원 등 참여한 시민들의 직업과 인종도 다양했다. 학생, 청소년으로 보이는 앳된 얼굴도 많았다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/01/news-p.v1.20230201.4e886c93e0b84c7aa196e4ec85e485c1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -290,7 +290,7 @@
             <link>https://n.news.naver.com/article/469/0000722248</link>
             <guid>https://n.news.naver.com/article/469/0000722248</guid>
             <pubDate>Tue, 07 Feb 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/07/722248.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +322,7 @@
             <link>https://n.news.naver.com/article/469/0000721271</link>
             <guid>https://n.news.naver.com/article/469/0000721271</guid>
             <pubDate>Thu, 02 Feb 2023 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/02/721271.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -530,7 +530,7 @@
             <link>https://n.news.naver.com/article/308/0000032182</link>
             <guid>https://n.news.naver.com/article/308/0000032182</guid>
             <pubDate>Tue, 07 Feb 2023 05:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/07/32182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -538,7 +538,7 @@
             <link>https://n.news.naver.com/article/308/0000032164</link>
             <guid>https://n.news.naver.com/article/308/0000032164</guid>
             <pubDate>Thu, 02 Feb 2023 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/02/32164.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -770,7 +770,7 @@
             <link>https://n.news.naver.com/article/308/0000032176</link>
             <guid>https://n.news.naver.com/article/308/0000032176</guid>
             <pubDate>Mon, 06 Feb 2023 05:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/06/32176.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1006,11 +1006,27 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/23/31358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[남인순 의원, “정치개혁, 내용만이 아니라 ‘과정’ 자체가 중요하다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032188</link>
+            <guid>https://n.news.naver.com/article/308/0000032188</guid>
+            <pubDate>Wed, 08 Feb 2023 05:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/08/32188.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종민 의원, “20대 정개특위에 대한 성찰과 반성이 먼저다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032190</link>
+            <guid>https://n.news.naver.com/article/308/0000032190</guid>
+            <pubDate>Wed, 08 Feb 2023 05:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/08/32190.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정치개혁 공론화, 선거제도 바꾸어낼까 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032183</link>
             <guid>https://n.news.naver.com/article/308/0000032183</guid>
             <pubDate>Tue, 07 Feb 2023 05:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/07/32183.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1018,7 +1034,7 @@
             <link>https://n.news.naver.com/article/308/0000032162</link>
             <guid>https://n.news.naver.com/article/308/0000032162</guid>
             <pubDate>Wed, 01 Feb 2023 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/01/32162.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1228,22 +1244,6 @@
             <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/10/31292.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 해외 순방 체면 구긴 바이든 대통령 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031219</link>
-            <guid>https://n.news.naver.com/article/308/0000031219</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/26/31219.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 미국 엘리트의  솔직한 심경 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031196</link>
-            <guid>https://n.news.naver.com/article/308/0000031196</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[입양 보낸 강아지 만나러 가는 ‘캐나다 체크인’, 그 뒷 이야기 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
