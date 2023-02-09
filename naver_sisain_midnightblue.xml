@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 17:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 05:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고은 복귀 논란이 우리에게 남긴 질문]]></title>
+            <link>https://n.news.naver.com/article/308/0000032194</link>
+            <guid>https://n.news.naver.com/article/308/0000032194</guid>
+            <pubDate>Thu, 09 Feb 2023 05:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/09/32194.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박정희 숭모관 건립이 구미시의 ‘책무’? [기자들의 시선]]]></title>
             <link>https://n.news.naver.com/article/308/0000032176</link>
             <guid>https://n.news.naver.com/article/308/0000032176</guid>
             <pubDate>Mon, 06 Feb 2023 05:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/06/32176.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/30/31391.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡플레이 ‘안나’ 사태가 남긴 것]]></title>
-            <link>https://n.news.naver.com/article/308/0000031358</link>
-            <guid>https://n.news.naver.com/article/308/0000031358</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/23/31358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
