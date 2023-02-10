@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 17:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 05:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본, 필리핀에 ‘안보 무상지원’ 첫 적용키로... 중국 견제 협력 강화]]></title>
+            <link>https://n.news.naver.com/article/469/0000722700</link>
+            <guid>https://n.news.naver.com/article/469/0000722700</guid>
+            <pubDate>Fri, 10 Feb 2023 05:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/10/722700.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본, 중국 관광객에 먼저 빗장 푼다... "코로나19 전수검사 중단 검토"]]></title>
             <link>https://n.news.naver.com/article/469/0000722539</link>
             <guid>https://n.news.naver.com/article/469/0000722539</guid>
             <pubDate>Thu, 09 Feb 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/09/722539.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000721271</link>
             <guid>https://n.news.naver.com/article/469/0000721271</guid>
             <pubDate>Thu, 02 Feb 2023 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/02/721271.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 15 Jan 2023 17:32:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718475.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 “후한 대접”받았다지만, 바이든은 기자회견 생략...왜?]]></title>
-            <link>https://n.news.naver.com/article/469/0000718420</link>
-            <guid>https://n.news.naver.com/article/469/0000718420</guid>
-            <pubDate>Sat, 21 Jan 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/15/718420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

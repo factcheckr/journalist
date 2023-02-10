@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 17:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 05:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노년내과 의사가 말하는 느리게 나이 드는 법]]></title>
+            <link>https://n.news.naver.com/article/308/0000032199</link>
+            <guid>https://n.news.naver.com/article/308/0000032199</guid>
+            <pubDate>Fri, 10 Feb 2023 05:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/10/32199.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[책을 도둑맞자 서점 문이 열렸다 [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000032182</link>
             <guid>https://n.news.naver.com/article/308/0000032182</guid>
             <pubDate>Tue, 07 Feb 2023 05:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/07/32182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000032164</link>
             <guid>https://n.news.naver.com/article/308/0000032164</guid>
             <pubDate>Thu, 02 Feb 2023 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/02/32164.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/15/31162.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 러브버그의 습격, 출몰의 배경은?]]></title>
-            <link>https://n.news.naver.com/article/308/0000031141</link>
-            <guid>https://n.news.naver.com/article/308/0000031141</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/11/31141.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
