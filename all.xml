@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 05:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 17:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,7 +290,7 @@
             <link>https://n.news.naver.com/article/469/0000722848</link>
             <guid>https://n.news.naver.com/article/469/0000722848</guid>
             <pubDate>Fri, 10 Feb 2023 17:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/10/722848.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,19 +302,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/10/722700.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본, 중국 관광객에 먼저 빗장 푼다... "코로나19 전수검사 중단 검토" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000722539</link>
-            <guid>https://n.news.naver.com/article/469/0000722539</guid>
-            <pubDate>Thu, 09 Feb 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/09/722539.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[일본, 8년 만에 노사정 회의 개최... 의제는 '임금 인상' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000722437</link>
             <guid>https://n.news.naver.com/article/469/0000722437</guid>
             <pubDate>Wed, 08 Feb 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/08/722437.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +314,7 @@
             <link>https://n.news.naver.com/article/469/0000722248</link>
             <guid>https://n.news.naver.com/article/469/0000722248</guid>
             <pubDate>Tue, 07 Feb 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/07/722248.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,15 +322,23 @@
             <link>https://n.news.naver.com/article/469/0000721999</link>
             <guid>https://n.news.naver.com/article/469/0000721999</guid>
             <pubDate>Mon, 06 Feb 2023 17:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/06/721999.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“30년간 일본 노천 온천서 1만 명 불법촬영” 의사·공무원도 한패 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000721764</link>
+            <guid>https://n.news.naver.com/article/469/0000721764</guid>
+            <pubDate>Sat, 11 Feb 2023 17:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/05/721764.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 "폭행·협박 없어도 강간"...강간죄 판단 요건 대폭 완화 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000721620</link>
             <guid>https://n.news.naver.com/article/469/0000721620</guid>
             <pubDate>Thu, 09 Feb 2023 17:34:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/03/721620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
