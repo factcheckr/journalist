@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 05:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 17:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000723028</link>
             <guid>https://n.news.naver.com/article/469/0000723028</guid>
             <pubDate>Sun, 12 Feb 2023 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/12/723028.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000722848</link>
             <guid>https://n.news.naver.com/article/469/0000722848</guid>
             <pubDate>Fri, 10 Feb 2023 17:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/10/722848.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000722437</link>
             <guid>https://n.news.naver.com/article/469/0000722437</guid>
             <pubDate>Wed, 08 Feb 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/08/722437.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,15 +52,23 @@
             <link>https://n.news.naver.com/article/469/0000722248</link>
             <guid>https://n.news.naver.com/article/469/0000722248</guid>
             <pubDate>Tue, 07 Feb 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/07/722248.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아베 “문재인은 확신범”…회고록서 한일관계 파탄 책임 떠넘겨]]></title>
+            <link>https://n.news.naver.com/article/469/0000722211</link>
+            <guid>https://n.news.naver.com/article/469/0000722211</guid>
+            <pubDate>Mon, 13 Feb 2023 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/07/722211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본은행 차기 총재에 비둘기파 아마미야 유력..."개혁보단 안정"]]></title>
             <link>https://n.news.naver.com/article/469/0000721999</link>
             <guid>https://n.news.naver.com/article/469/0000721999</guid>
             <pubDate>Mon, 06 Feb 2023 17:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/06/721999.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Jan 2023 05:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/19/719269.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 "구상권 포기해라" vs 한국 "권한 없다"...강제동원 협상 난항]]></title>
-            <link>https://n.news.naver.com/article/469/0000719114</link>
-            <guid>https://n.news.naver.com/article/469/0000719114</guid>
-            <pubDate>Tue, 24 Jan 2023 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/18/719114.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
