@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 05:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 17:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,19 +286,27 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1007/A0002870539_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본은행 총재에 경제학자 깜짝 발탁...세계 금융시장 어디로 갈까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000723028</link>
-            <guid>https://n.news.naver.com/article/469/0000723028</guid>
-            <pubDate>Sun, 12 Feb 2023 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/12/723028.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[도요타 쇼이치로 명예회장 별세… 도요타자동차 글로벌 기업으로 키워 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000723450</link>
+            <guid>https://n.news.naver.com/article/469/0000723450</guid>
+            <pubDate>Tue, 14 Feb 2023 17:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/14/723450.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘후쿠시마 교훈 잊었나’ 일본 원자력규제위 독립성 논란 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000723426</link>
+            <guid>https://n.news.naver.com/article/469/0000723426</guid>
+            <pubDate>Tue, 14 Feb 2023 17:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/14/723426.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["일본은행 새 총재에 우에다 가즈오… 경제학자 출신" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000722848</link>
             <guid>https://n.news.naver.com/article/469/0000722848</guid>
             <pubDate>Fri, 10 Feb 2023 17:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/10/722848.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,15 +330,23 @@
             <link>https://n.news.naver.com/article/469/0000722437</link>
             <guid>https://n.news.naver.com/article/469/0000722437</guid>
             <pubDate>Wed, 08 Feb 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/08/722437.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10조 원 투자한 '일본산 1호 제트 여객기', 일본 기술 고집하다 좌초 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000722410</link>
+            <guid>https://n.news.naver.com/article/469/0000722410</guid>
+            <pubDate>Tue, 14 Feb 2023 17:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/08/722410.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 자민당, '성소수자 차별금지법' 재추진...이번엔 결실? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000722248</link>
             <guid>https://n.news.naver.com/article/469/0000722248</guid>
             <pubDate>Tue, 07 Feb 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/07/722248.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +354,7 @@
             <link>https://n.news.naver.com/article/469/0000722211</link>
             <guid>https://n.news.naver.com/article/469/0000722211</guid>
             <pubDate>Mon, 13 Feb 2023 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/07/722211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,7 +362,7 @@
             <link>https://n.news.naver.com/article/469/0000721999</link>
             <guid>https://n.news.naver.com/article/469/0000721999</guid>
             <pubDate>Mon, 06 Feb 2023 17:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/06/721999.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -508,22 +524,6 @@
             <pubDate>Fri, 20 Jan 2023 05:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/20/719426.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['윤동주 연구'에 헌신한 일본 학자 오무라 마스오 별세 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000719298</link>
-            <guid>https://n.news.naver.com/article/469/0000719298</guid>
-            <pubDate>Fri, 20 Jan 2023 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/19/719298.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 지난해 무역적자 192조 '사상 최대'...엔저가 발목 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000719269</link>
-            <guid>https://n.news.naver.com/article/469/0000719269</guid>
-            <pubDate>Fri, 20 Jan 2023 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/19/719269.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노년내과 의사가 말하는 느리게 나이 드는 법 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
