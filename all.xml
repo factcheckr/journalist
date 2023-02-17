@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 17:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 05:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,7 +290,7 @@
             <link>https://n.news.naver.com/article/469/0000723936</link>
             <guid>https://n.news.naver.com/article/469/0000723936</guid>
             <pubDate>Thu, 16 Feb 2023 17:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/16/723936.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +298,7 @@
             <link>https://n.news.naver.com/article/469/0000723844</link>
             <guid>https://n.news.naver.com/article/469/0000723844</guid>
             <pubDate>Thu, 16 Feb 2023 17:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/16/723844.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -354,7 +354,7 @@
             <link>https://n.news.naver.com/article/469/0000722700</link>
             <guid>https://n.news.naver.com/article/469/0000722700</guid>
             <pubDate>Fri, 10 Feb 2023 05:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/10/722700.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -362,7 +362,7 @@
             <link>https://n.news.naver.com/article/469/0000722539</link>
             <guid>https://n.news.naver.com/article/469/0000722539</guid>
             <pubDate>Sun, 12 Feb 2023 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/09/722539.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,11 +526,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/26/720186.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[감염병 재난의 비용 이들에게 더 무거웠다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032231</link>
+            <guid>https://n.news.naver.com/article/308/0000032231</guid>
+            <pubDate>Fri, 17 Feb 2023 05:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/17/32231.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[노년내과 의사가 말하는 느리게 나이 드는 법 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032199</link>
             <guid>https://n.news.naver.com/article/308/0000032199</guid>
             <pubDate>Fri, 10 Feb 2023 05:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/10/32199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -758,19 +766,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/25/31211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[외신 한 컷] 우크라이나 크레멘추크, 18명 사망, 36명 실종 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031162</link>
-            <guid>https://n.news.naver.com/article/308/0000031162</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/15/31162.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고은 복귀 논란이 우리에게 남긴 질문 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032194</link>
             <guid>https://n.news.naver.com/article/308/0000032194</guid>
             <pubDate>Thu, 09 Feb 2023 05:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/09/32194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
