@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 05:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 17:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,19 +286,27 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1021/A0002874097_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 신형 로켓 H3, 흰 연기만 내뿜다 발사 불발… “실패는 아니다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000724106</link>
-            <guid>https://n.news.naver.com/article/469/0000724106</guid>
-            <pubDate>Fri, 17 Feb 2023 17:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/17/724106.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[북한 ICBM 낙하 때 일본 NHK 카메라에 불덩이 찍혀 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000724218</link>
+            <guid>https://n.news.naver.com/article/469/0000724218</guid>
+            <pubDate>Sat, 18 Feb 2023 17:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/18/724218.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 방위성 “북한 미사일 ICBM급... 일본 EEZ 안에 낙하” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000724217</link>
+            <guid>https://n.news.naver.com/article/469/0000724217</guid>
+            <pubDate>Sat, 18 Feb 2023 17:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/18/724217.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 간 외국인 3명 중 1명이 한국인..."어딜 가도 한국말" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000723936</link>
             <guid>https://n.news.naver.com/article/469/0000723936</guid>
             <pubDate>Thu, 16 Feb 2023 17:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/16/723936.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +314,7 @@
             <link>https://n.news.naver.com/article/469/0000723844</link>
             <guid>https://n.news.naver.com/article/469/0000723844</guid>
             <pubDate>Thu, 16 Feb 2023 17:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/16/723844.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +322,7 @@
             <link>https://n.news.naver.com/article/469/0000723716</link>
             <guid>https://n.news.naver.com/article/469/0000723716</guid>
             <pubDate>Thu, 16 Feb 2023 17:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/15/723716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +330,7 @@
             <link>https://n.news.naver.com/article/469/0000723684</link>
             <guid>https://n.news.naver.com/article/469/0000723684</guid>
             <pubDate>Wed, 15 Feb 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/15/723684.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,7 +338,7 @@
             <link>https://n.news.naver.com/article/469/0000723450</link>
             <guid>https://n.news.naver.com/article/469/0000723450</guid>
             <pubDate>Tue, 14 Feb 2023 17:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/14/723450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +346,7 @@
             <link>https://n.news.naver.com/article/469/0000723426</link>
             <guid>https://n.news.naver.com/article/469/0000723426</guid>
             <pubDate>Tue, 14 Feb 2023 17:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/14/723426.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,15 +354,23 @@
             <link>https://n.news.naver.com/article/469/0000723028</link>
             <guid>https://n.news.naver.com/article/469/0000723028</guid>
             <pubDate>Thu, 16 Feb 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/12/723028.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["나랑 성관계 해야 외계인이..." 최면 걸어 일부다처 동거한 일본 남성 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000722997</link>
+            <guid>https://n.news.naver.com/article/469/0000722997</guid>
+            <pubDate>Sat, 18 Feb 2023 17:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/12/722997.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["일본은행 새 총재에 우에다 가즈오… 경제학자 출신" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000722848</link>
             <guid>https://n.news.naver.com/article/469/0000722848</guid>
             <pubDate>Fri, 10 Feb 2023 17:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/10/722848.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -508,22 +524,6 @@
             <pubDate>Wed, 01 Feb 2023 17:35:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/27/720390.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["강제동원, 일본 기업의 배상 강요하면 무리...윤 대통령의 민심 설득이 중요하다"[인터뷰] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000720246</link>
-            <guid>https://n.news.naver.com/article/469/0000720246</guid>
-            <pubDate>Thu, 02 Feb 2023 17:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/27/720246.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 재계, 한일관계 개선 전망에 큰 기대… "교류 확대 노력" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000720202</link>
-            <guid>https://n.news.naver.com/article/469/0000720202</guid>
-            <pubDate>Fri, 27 Jan 2023 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/01/26/720202.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감염병 재난의 비용 이들에게 더 무거웠다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
