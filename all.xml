@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 17:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 05:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,20 +286,20 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1021/A0002874097_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한 ICBM 낙하 때 일본 NHK 카메라에 불덩이 찍혀 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000724218</link>
-            <guid>https://n.news.naver.com/article/469/0000724218</guid>
-            <pubDate>Sat, 18 Feb 2023 17:32:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/18/724218.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[일본 방위성 “북한 미사일 ICBM급... 일본 EEZ 안에 낙하” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000724217</link>
             <guid>https://n.news.naver.com/article/469/0000724217</guid>
             <pubDate>Sat, 18 Feb 2023 17:32:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/18/724217.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 신형 로켓 H3, 흰 연기만 내뿜다 발사 불발… “실패는 아니다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000724106</link>
+            <guid>https://n.news.naver.com/article/469/0000724106</guid>
+            <pubDate>Sun, 19 Feb 2023 05:33:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/17/724106.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 간 외국인 3명 중 1명이 한국인..."어딜 가도 한국말" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -530,7 +530,7 @@
             <link>https://n.news.naver.com/article/308/0000032231</link>
             <guid>https://n.news.naver.com/article/308/0000032231</guid>
             <pubDate>Fri, 17 Feb 2023 05:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/17/32231.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
