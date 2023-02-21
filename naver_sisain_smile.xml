@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 05:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 17:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,54 @@
             <pubDate>Mon, 13 Feb 2023 17:35:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31047.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문재인 정부 5년의 ‘검찰개혁’을 묻다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031046</link>
+            <guid>https://n.news.naver.com/article/308/0000031046</guid>
+            <pubDate>Tue, 21 Feb 2023 17:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31046.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 김건희 여사의 잇따른 행보, ‘제2부속실 폐지’ 괜찮나]]></title>
+            <link>https://n.news.naver.com/article/308/0000031045</link>
+            <guid>https://n.news.naver.com/article/308/0000031045</guid>
+            <pubDate>Tue, 21 Feb 2023 17:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31045.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당 비대위가 주목해야 할 세 가지 숫자]]></title>
+            <link>https://n.news.naver.com/article/308/0000031010</link>
+            <guid>https://n.news.naver.com/article/308/0000031010</guid>
+            <pubDate>Tue, 21 Feb 2023 17:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.13.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/13/31010.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불꽃'같은 낯선 존재, 박지현의 80일]]></title>
+            <link>https://n.news.naver.com/article/308/0000030980</link>
+            <guid>https://n.news.naver.com/article/308/0000030980</guid>
+            <pubDate>Tue, 21 Feb 2023 17:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/06/30980.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송영길의 ‘견제론’vs 오세훈의 ‘준비된 미래’]]></title>
+            <link>https://n.news.naver.com/article/308/0000030924</link>
+            <guid>https://n.news.naver.com/article/308/0000030924</guid>
+            <pubDate>Tue, 21 Feb 2023 17:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.27.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이시원 검사는 진짜 ‘간첩 조작’ 몰랐을까]]></title>
+            <link>https://n.news.naver.com/article/308/0000030912</link>
+            <guid>https://n.news.naver.com/article/308/0000030912</guid>
+            <pubDate>Tue, 21 Feb 2023 17:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
