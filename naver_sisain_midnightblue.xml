@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 17:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 05:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성범죄 가해자와 법조 카르텔, ‘감형’을 사고 판다]]></title>
+            <link>https://n.news.naver.com/article/308/0000032257</link>
+            <guid>https://n.news.naver.com/article/308/0000032257</guid>
+            <pubDate>Thu, 23 Feb 2023 05:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/23/32257.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고은 복귀 논란이 우리에게 남긴 질문]]></title>
             <link>https://n.news.naver.com/article/308/0000032194</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31448.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] “내가 보이면 울어라.”]]></title>
-            <link>https://n.news.naver.com/article/308/0000031391</link>
-            <guid>https://n.news.naver.com/article/308/0000031391</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/30/31391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
