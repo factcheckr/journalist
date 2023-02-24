@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 17:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 05:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000725170</link>
             <guid>https://n.news.naver.com/article/469/0000725170</guid>
             <pubDate>Thu, 23 Feb 2023 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/23/725170.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000725077</link>
             <guid>https://n.news.naver.com/article/469/0000725077</guid>
             <pubDate>Thu, 23 Feb 2023 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/23/725077.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000724826</link>
             <guid>https://n.news.naver.com/article/469/0000724826</guid>
             <pubDate>Wed, 22 Feb 2023 05:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/22/724826.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -72,11 +72,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724535.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['은하철도 999' 그린 마쓰모토 레이지, 은하의 별이 되어 떠나다]]></title>
+            <link>https://n.news.naver.com/article/469/0000724430</link>
+            <guid>https://n.news.naver.com/article/469/0000724430</guid>
+            <pubDate>Fri, 24 Feb 2023 05:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724430.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 방위성 "북한 탄도미사일, 3발 아닌 2발 발사"]]></title>
             <link>https://n.news.naver.com/article/469/0000724376</link>
             <guid>https://n.news.naver.com/article/469/0000724376</guid>
             <pubDate>Mon, 20 Feb 2023 05:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724376.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000724365</link>
             <guid>https://n.news.naver.com/article/469/0000724365</guid>
             <pubDate>Mon, 20 Feb 2023 05:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724365.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Feb 2023 17:34:52 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.02.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/07/722211.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본은행 차기 총재에 비둘기파 아마미야 유력..."개혁보단 안정"]]></title>
-            <link>https://n.news.naver.com/article/469/0000721999</link>
-            <guid>https://n.news.naver.com/article/469/0000721999</guid>
-            <pubDate>Mon, 06 Feb 2023 17:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/06/721999.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
