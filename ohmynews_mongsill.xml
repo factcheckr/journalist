@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 17:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 05:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느 순간 내 글이 이상해 보이기 시작했다]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002904489</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002904489</guid>
+            <pubDate>Mon, 27 Feb 2023 05:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0223/A0002904489_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임보라 목사를 보내는 것이 더욱 가슴 아픈 이유]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002901313</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1104/A0002878108_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['축복'을 이유로 목회자 처벌, 부끄러운 한국 교회]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002874097</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002874097</guid>
-            <pubDate>Wed, 16 Nov 2022 17:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1021/A0002874097_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
