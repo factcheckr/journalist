@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 05:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 17:35:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1104/A0002878108_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“취업 예약하고 논다" 일자리 풍년에 행복한 일본 대학생들 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000725774</link>
+            <guid>https://n.news.naver.com/article/469/0000725774</guid>
+            <pubDate>Mon, 27 Feb 2023 17:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/27/725774.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 학교법인, 우크라 난민에 "난민 귀족" 비난 파문 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000725554</link>
             <guid>https://n.news.naver.com/article/469/0000725554</guid>
             <pubDate>Sun, 26 Feb 2023 17:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/26/725554.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,23 +306,15 @@
             <link>https://n.news.naver.com/article/469/0000725546</link>
             <guid>https://n.news.naver.com/article/469/0000725546</guid>
             <pubDate>Sun, 26 Feb 2023 17:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/26/725546.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일왕도 갔던 고급 료칸, '기준치 3700배' 레지오넬라균… “물갈이 연 2회뿐” [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000725480</link>
-            <guid>https://n.news.naver.com/article/469/0000725480</guid>
-            <pubDate>Sun, 26 Feb 2023 05:34:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/26/725480.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/26/725546.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["완화정책 이어가겠다"는 일본은행 총재 후보 "현재 통화정책 적절" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000725325</link>
             <guid>https://n.news.naver.com/article/469/0000725325</guid>
             <pubDate>Fri, 24 Feb 2023 17:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/24/725325.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +322,7 @@
             <link>https://n.news.naver.com/article/469/0000725170</link>
             <guid>https://n.news.naver.com/article/469/0000725170</guid>
             <pubDate>Thu, 23 Feb 2023 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/23/725170.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +338,7 @@
             <link>https://n.news.naver.com/article/469/0000724910</link>
             <guid>https://n.news.naver.com/article/469/0000724910</guid>
             <pubDate>Wed, 22 Feb 2023 17:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/22/724910.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -350,11 +350,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/22/724826.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[감기약 일부러 많이 먹고 쓰러지는 아이들…일본의 이상한 유행 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000724703</link>
+            <guid>https://n.news.naver.com/article/469/0000724703</guid>
+            <pubDate>Mon, 27 Feb 2023 17:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/21/724703.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다 비서관 ‘망언’ 효과?... 일본서 “동성혼 인정해야” 70% 넘어 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000724683</link>
             <guid>https://n.news.naver.com/article/469/0000724683</guid>
             <pubDate>Tue, 21 Feb 2023 17:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/21/724683.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -362,7 +370,7 @@
             <link>https://n.news.naver.com/article/469/0000724535</link>
             <guid>https://n.news.naver.com/article/469/0000724535</guid>
             <pubDate>Mon, 20 Feb 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724535.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -394,7 +402,7 @@
             <link>https://n.news.naver.com/article/469/0000724277</link>
             <guid>https://n.news.naver.com/article/469/0000724277</guid>
             <pubDate>Sat, 25 Feb 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/19/724277.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -518,19 +526,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/10/722700.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본, 중국 관광객에 먼저 빗장 푼다... "코로나19 전수검사 중단 검토" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000722539</link>
-            <guid>https://n.news.naver.com/article/469/0000722539</guid>
-            <pubDate>Sun, 12 Feb 2023 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/09/722539.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[건물도, 사람도 주저앉았다 [외신 한 컷] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032260</link>
             <guid>https://n.news.naver.com/article/308/0000032260</guid>
             <pubDate>Thu, 23 Feb 2023 17:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/23/32260.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
