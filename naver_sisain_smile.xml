@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 17:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 대통령의 ‘멘토’, 전경련으로 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032283</link>
+            <guid>https://n.news.naver.com/article/308/0000032283</guid>
+            <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/28/32283.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남인순 의원, “정치개혁, 내용만이 아니라 ‘과정’ 자체가 중요하다”]]></title>
             <link>https://n.news.naver.com/article/308/0000032188</link>
@@ -342,6 +350,46 @@
             <pubDate>Tue, 21 Feb 2023 17:34:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이해충돌 논란, 윤석열 정부 공직자의 자격을 묻다]]></title>
+            <link>https://n.news.naver.com/article/308/0000030865</link>
+            <guid>https://n.news.naver.com/article/308/0000030865</guid>
+            <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.17.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/17/30865.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인주의자를 위한 국내 최초 ‘북한학 전문’ 동네책방]]></title>
+            <link>https://n.news.naver.com/article/308/0000030852</link>
+            <guid>https://n.news.naver.com/article/308/0000030852</guid>
+            <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.14.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/14/30852.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 아무도 잊히지 말자, 우리가 끝낼 때까지]]></title>
+            <link>https://n.news.naver.com/article/308/0000030840</link>
+            <guid>https://n.news.naver.com/article/308/0000030840</guid>
+            <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.12.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/12/30840.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박진 검증 위해, 캐나다 등 전세계 사이트 검색 중 [취재 뒷담화]]]></title>
+            <link>https://n.news.naver.com/article/308/0000030836</link>
+            <guid>https://n.news.naver.com/article/308/0000030836</guid>
+            <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.11.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/11/30836.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 윤석열 정부 국정과제, 공약서 빠진 내용은?]]></title>
+            <link>https://n.news.naver.com/article/308/0000030834</link>
+            <guid>https://n.news.naver.com/article/308/0000030834</guid>
+            <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

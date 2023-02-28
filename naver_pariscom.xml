@@ -4,17 +4,9 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 17:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[“취업 예약하고 논다" 일자리 풍년에 행복한 일본 대학생들]]></title>
-            <link>https://n.news.naver.com/article/469/0000725774</link>
-            <guid>https://n.news.naver.com/article/469/0000725774</guid>
-            <pubDate>Mon, 27 Feb 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/27/725774.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[일본 학교법인, 우크라 난민에 "난민 귀족" 비난 파문]]></title>
             <link>https://n.news.naver.com/article/469/0000725554</link>
@@ -30,6 +22,14 @@
             <pubDate>Sun, 26 Feb 2023 17:33:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/26/725546.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일왕도 갔던 고급 료칸, '기준치 3700배' 레지오넬라균… “물갈이 연 2회뿐” [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000725480</link>
+            <guid>https://n.news.naver.com/article/469/0000725480</guid>
+            <pubDate>Tue, 28 Feb 2023 05:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/26/725480.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["완화정책 이어가겠다"는 일본은행 총재 후보 "현재 통화정책 적절"]]></title>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000725077</link>
             <guid>https://n.news.naver.com/article/469/0000725077</guid>
             <pubDate>Thu, 23 Feb 2023 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/23/725077.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000724826</link>
             <guid>https://n.news.naver.com/article/469/0000724826</guid>
             <pubDate>Wed, 22 Feb 2023 05:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/22/724826.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000724430</link>
             <guid>https://n.news.naver.com/article/469/0000724430</guid>
             <pubDate>Sun, 26 Feb 2023 17:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724430.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000724376</link>
             <guid>https://n.news.naver.com/article/469/0000724376</guid>
             <pubDate>Mon, 20 Feb 2023 05:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724376.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000724365</link>
             <guid>https://n.news.naver.com/article/469/0000724365</guid>
             <pubDate>Mon, 20 Feb 2023 05:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724365.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

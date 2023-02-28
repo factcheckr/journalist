@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 17:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘평화’란 말마저 뺏기고…러시아 망명 예술가는 고개를 들지 못했다]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202302280600021</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202302280600021</guid>
+            <pubDate>Tue, 28 Feb 2023 05:34:29 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 상트페테르부르크 출신 화가인 사샤(38)는 지난 5일(현지시간) 망명한 러시아인으로서 우크라이나 전쟁을 어떻게 바라보는 지 묻자 침울한 표정으로 고개를 숙였다. 두 시간 남짓 인터뷰가 진행되는 동안 한 번도 고개를 들지 않았다.
+그는 예술가인 남편 파샤(40)와 함께 돈바스 전쟁 다음 해인 2015년 7월 핀란드 헬싱키로 이주했다. 그리고 지난해 2월24일 러시아가 우크라이나를 침공하자 러시아 국적을 버리고 핀란드로 귀화를 신청했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/28/news-p.v1.20230227.f0eb69a8b20d4d4b9b49d4a65ec216cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젤렌스키 “한국 무기 지원 희망한다” …침공 1주년 언급]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202302250938001</link>
@@ -105,16 +114,6 @@
             <content:encoded><![CDATA[노보라드 볼린스키, 리시찬스크, 이지움, 바흐무트…. 니콜라이 코발(39)이 지난 1년간 거쳐온 전장들이다. 키이우 방어전부터 하르키우 수복전까지, 우크라이나 전황의 주요 변곡점마다 그가 있었다.
 지난 18일 만난 니콜라이는 군복 차림으로 나타났다. 강건한 표정과 절도 있는 태도가 영락없는 베테랑 군인의 모습이었지만, 사실 그의 원래 직업은 방송국 예능 PD다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/21/khan_GxsL9Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든 방문에 “행복했다”…키이우 시민들 “미국의 우크라이나 지원 확신”]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202302211640001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202302211640001</guid>
-            <pubDate>Tue, 21 Feb 2023 17:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[20일(현지시간) 조 바이든 미국 대통령의 ‘깜짝 방문’에 우크라이나 수도 키이우 시민들은 “기쁘다”는 반응과 함께 미국의 우크라이나 지원에 대한 강한 신뢰감을 표시했다.
-바이든 대통령은 이날 오전 8시쯤 기차로 키이우에 도착해 볼로디미르 젤렌스키 대통령을 만난 뒤 오후 1시쯤 폴란드를 향해 떠났다.
-키이우 중앙역 인근에 사는 피트니스 강사 다샤(25)는 “오전 7시부터 사이렌 소리가 들렸고 검은 차량이 군인들 사이로 지나가는 걸 봤다”면서 “(바이든의 방문 소식에) 행복했다”고 말했다. 그는 “(침공 1년이 되는 2월24일) 러시아의 대공습이 있을 거란 얘기가 있어서 많은 사람들이 두려워하고 있다”면서 “바이든은 우리가 혼자가 아니란 사실을 알려줬고, 이를 세계에 보여줬다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/21/news-p.v1.20230221.30ad057b731f475291dc17e6ccea2661.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
