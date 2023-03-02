@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 17:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 05:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘삼성’ 쫓던 기자가 소설가가 된 사연]]></title>
+            <link>https://n.news.naver.com/article/308/0000032293</link>
+            <guid>https://n.news.naver.com/article/308/0000032293</guid>
+            <pubDate>Thu, 02 Mar 2023 05:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/02/32293.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 대통령의 ‘멘토’, 전경련으로 [기자들의 시선]]]></title>
             <link>https://n.news.naver.com/article/308/0000032283</link>
             <guid>https://n.news.naver.com/article/308/0000032283</guid>
             <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/28/32283.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/11/30836.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 윤석열 정부 국정과제, 공약서 빠진 내용은?]]></title>
-            <link>https://n.news.naver.com/article/308/0000030834</link>
-            <guid>https://n.news.naver.com/article/308/0000030834</guid>
-            <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
