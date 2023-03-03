@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 17:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나인들은 묻는다 “세계는 ‘어떤 평화’를 원하는가” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202303030600021</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202303030600021</guid>
+            <pubDate>Fri, 03 Mar 2023 05:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 전면 침공 1주년을 앞두고 지난달 15일(현지시간) 폴란드 바르샤바에서 우크라이나 키이우행 고속버스를 탔다.
+버스는 좌석의 약 70%가 차 있었다. 부모와 함께 탄 어린아이들도 눈에 띄었다. 그러나 우크라이나 국경까지 약 5시간 가량 버스가 달리는 동안 아이들이 떼를 쓰거나 보채는 소리는 단 한번도 들리지 않았다. 폴란드의 국경 검문소 화장실에서야 엄마에게 잠시 보챈 뒤 다시 몇 시간의 버스 이동을 감내하는 다섯살 남짓한 아이를 보면서 ‘전쟁 중인 나라의 아이들’이란 이런 모습인가 생각했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/03/news-p.v1.20230302.724962670756438fa437a872849b37b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닫혀진 국경, 되살아난 트라우마…에스토니아의 고민 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202303010600031</link>
@@ -106,15 +115,6 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/22/2023022201000974700078112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[키이우 시민들 “바이든 방문에 행복했다”…미국의 우크라 지원 확신도 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202302212140035</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202302212140035</guid>
-            <pubDate>Tue, 21 Feb 2023 17:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[20일(현지시간) 조 바이든 미국 대통령의 ‘깜짝 방문’에 우크라이나 수도 키이우 시민들은 “기쁘다”는 반응과 함께 미국의 우크라이나 지원에 대한 강한 신뢰감을 표시했다. 바이든 대통령은 이날 오전 8시쯤 기차로 키이우에 도착해 볼로디미르 젤렌스키 대통령을 만난 뒤 오후 1시쯤 폴란드를 향해 떠났다.
-키이우 중앙역 인근에 사는 피트니스 강사 다샤(25)는 “오전 7시부터 사이렌 소리가 들렸고 검은 차량이 군인들 사이로 지나가는 걸 봤다”면서 “(바이든의 방문 소식에) 행복했다”고 말했다. 그는 “(침공 1년이 되는 2월24일) 러시아의 대공습이 있을 거란 얘기가 있어서 많은 사람들이 두려워하고 있다”면서 “바이든은 우리가 혼자가 아니란 사실을 알려줬고, 이를 세계에 보여줬다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/21/2023022201000984400077481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202202210300055</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202202210300055</guid>
@@ -204,86 +204,6 @@
 성소수자에 대한 차별금지 조항에 반대하는 사람들이 내놓는 어처구니없는 논거 중 하나가 ‘한국에는 성소수자 차별이 없다’는 것이다. 뻔뻔하게도 구체적인 근거까지 내놓는다. 국가인권위원회에 성소수자 차별에 관한 진정 건수가 거의 없고, 외국과는 달리 한국에선 폭력이나 차별 사례도 별로 없지 않냐는 것이다. 잘 안 보이는 것과 없는 것은 완전히 다른 문제다. 안타깝게도 성소수자는 공식적으로 가시화되거나 정책 수립을 위한 인구집단으로 인정된 바가 없다. 인구주택총조사 등에서 성적지향이나 성별 정체성에 대한 통계를 체계적으로 수집한 적도 없고 교육, 노동, 보건의료, 가족 등의 정책 수립을 위한 실태조사에 성소수자 관련 조사를 포함시킨 적도 없다. 수사당국에서 소수자 대상 범죄 통계를 따로 집계하지도 않는다. 차별의 현실을 밝혀내려는 시도조차 하지 않았으니 차별이 입증될 수도 없다. 이런 상황에서 차별이 없다니 어안이 벙벙할 뿐이다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어느 순간 내 글이 이상해 보이기 시작했다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002904489</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002904489</guid>
-            <pubDate>Wed, 01 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0223/A0002904489_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임보라 목사를 보내는 것이 더욱 가슴 아픈 이유 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002901313</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002901313</guid>
-            <pubDate>Wed, 01 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0210/A0002901313_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해리포터 작가 또 헛소리... 정치인들이 잘못했네 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002897964</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002897964</guid>
-            <pubDate>Wed, 01 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0127/A0002897964_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힘들고 지칠 때 시작한 춤, 이런 효과 있을 줄이야 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002895081</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002895081</guid>
-            <pubDate>Wed, 01 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0113/A0002895081_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자꾸만 사고 치는 윤석열 정부, 명백한 원인이 있다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002893346</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002893346</guid>
-            <pubDate>Wed, 01 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0106/A0002893346_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 한 살 먹었다, 이 나이에 이렇게 살아도 되나 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002891805</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002891805</guid>
-            <pubDate>Wed, 01 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1230/A0002891805_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 시대, 이 땅에는 큰 충격이 필요하다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002888647</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002888647</guid>
-            <pubDate>Wed, 01 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1216/A0002888647_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령이라면 그랬을 수도... 이상한 소문 안 사라지는 이유 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002885443</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002885443</guid>
-            <pubDate>Wed, 01 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1202/A0002885443_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 여사가 '영부인'이라서 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002881604</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002881604</guid>
-            <pubDate>Wed, 01 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1118/A0002881604_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부가 또 무슨 짓 할지... 정신 똑바로 차리자 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002878108</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002878108</guid>
-            <pubDate>Wed, 01 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1104/A0002878108_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[일본 출생아 수 역대 최저인데… 기시다 ‘차원 다른 저출생 대책’은 표류 중 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000726183</link>
             <guid>https://n.news.naver.com/article/469/0000726183</guid>
@@ -320,7 +240,7 @@
             <link>https://n.news.naver.com/article/469/0000725277</link>
             <guid>https://n.news.naver.com/article/469/0000725277</guid>
             <pubDate>Thu, 02 Mar 2023 17:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/24/725277.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +256,7 @@
             <link>https://n.news.naver.com/article/469/0000725077</link>
             <guid>https://n.news.naver.com/article/469/0000725077</guid>
             <pubDate>Thu, 23 Feb 2023 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/23/725077.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +448,7 @@
             <link>https://n.news.naver.com/article/308/0000032291</link>
             <guid>https://n.news.naver.com/article/308/0000032291</guid>
             <pubDate>Thu, 02 Mar 2023 05:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/02/32291.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -768,7 +688,7 @@
             <link>https://n.news.naver.com/article/308/0000032257</link>
             <guid>https://n.news.naver.com/article/308/0000032257</guid>
             <pubDate>Thu, 23 Feb 2023 05:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/23/32257.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1008,7 +928,7 @@
             <link>https://n.news.naver.com/article/308/0000032293</link>
             <guid>https://n.news.naver.com/article/308/0000032293</guid>
             <pubDate>Thu, 02 Mar 2023 05:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/02/32293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1016,7 +936,7 @@
             <link>https://n.news.naver.com/article/308/0000032283</link>
             <guid>https://n.news.naver.com/article/308/0000032283</guid>
             <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/28/32283.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
