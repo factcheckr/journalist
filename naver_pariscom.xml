@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 17:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 05:34:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강제동원 ‘버티기’ 통했나… 일본 언론이 예상한 호응 조치는?]]></title>
+            <link>https://n.news.naver.com/article/469/0000726739</link>
+            <guid>https://n.news.naver.com/article/469/0000726739</guid>
+            <pubDate>Sun, 05 Mar 2023 05:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>32분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/05/726739.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 일본법인 첫 노조 결성… 회사의 '실리콘밸리식' 이메일 사직 권고 논란]]></title>
             <link>https://n.news.naver.com/article/469/0000726591</link>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000725480</link>
             <guid>https://n.news.naver.com/article/469/0000725480</guid>
             <pubDate>Sat, 04 Mar 2023 17:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/26/725480.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Feb 2023 17:35:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.02.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/14/723426.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정찰 풍선, 미국은 네 번 격추했는데… 일본은 보고도 격추 못하는 이유]]></title>
-            <link>https://n.news.naver.com/article/469/0000723218</link>
-            <guid>https://n.news.naver.com/article/469/0000723218</guid>
-            <pubDate>Sun, 19 Feb 2023 17:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/13/723218.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
