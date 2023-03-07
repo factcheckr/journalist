@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 17:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 05:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,16 @@
             <link>https://n.news.naver.com/article/469/0000726982</link>
             <guid>https://n.news.naver.com/article/469/0000726982</guid>
             <pubDate>Mon, 06 Mar 2023 17:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/06/726982.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 일본 총리, 사과 언급 없이 “역사 인식 전체적으로 계승”]]></title>
+            <link>https://n.news.naver.com/article/469/0000726920</link>
+            <guid>https://n.news.naver.com/article/469/0000726920</guid>
+            <pubDate>Tue, 07 Mar 2023 05:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/06/726920.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“묻지마 살인을 동경했다” 일본 학교에서 잇따르는 흉기 범죄 [특파원 24시]]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 17:33:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.02.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/16/723936.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 대기업 '30년 만에 최대' 임금인상 요구…중소기업과 격차 더 커진다]]></title>
-            <link>https://n.news.naver.com/article/469/0000723844</link>
-            <guid>https://n.news.naver.com/article/469/0000723844</guid>
-            <pubDate>Thu, 16 Feb 2023 17:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/16/723844.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
