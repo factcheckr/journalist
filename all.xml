@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 17:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 05:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,7 +288,7 @@
             <link>https://n.news.naver.com/article/469/0000727206</link>
             <guid>https://n.news.naver.com/article/469/0000727206</guid>
             <pubDate>Tue, 07 Mar 2023 17:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/07/727206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +296,7 @@
             <link>https://n.news.naver.com/article/469/0000727184</link>
             <guid>https://n.news.naver.com/article/469/0000727184</guid>
             <pubDate>Tue, 07 Mar 2023 17:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/07/727184.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +304,7 @@
             <link>https://n.news.naver.com/article/469/0000727112</link>
             <guid>https://n.news.naver.com/article/469/0000727112</guid>
             <pubDate>Tue, 07 Mar 2023 17:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/07/727112.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +320,7 @@
             <link>https://n.news.naver.com/article/469/0000726920</link>
             <guid>https://n.news.naver.com/article/469/0000726920</guid>
             <pubDate>Tue, 07 Mar 2023 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/06/726920.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +328,7 @@
             <link>https://n.news.naver.com/article/469/0000726745</link>
             <guid>https://n.news.naver.com/article/469/0000726745</guid>
             <pubDate>Mon, 06 Mar 2023 17:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/05/726745.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +528,7 @@
             <link>https://n.news.naver.com/article/308/0000032291</link>
             <guid>https://n.news.naver.com/article/308/0000032291</guid>
             <pubDate>Thu, 02 Mar 2023 05:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/02/32291.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1008,7 +1008,7 @@
             <link>https://n.news.naver.com/article/308/0000032293</link>
             <guid>https://n.news.naver.com/article/308/0000032293</guid>
             <pubDate>Thu, 02 Mar 2023 05:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/02/32293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1016,7 +1016,7 @@
             <link>https://n.news.naver.com/article/308/0000032283</link>
             <guid>https://n.news.naver.com/article/308/0000032283</guid>
             <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.02.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/28/32283.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1386,6 +1386,54 @@
             <pubDate>Tue, 28 Feb 2023 05:35:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/11/30836.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 윤석열 정부 국정과제, 공약서 빠진 내용은? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030834</link>
+            <guid>https://n.news.naver.com/article/308/0000030834</guid>
+            <pubDate>Wed, 08 Mar 2023 05:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 날, 유우성씨에게 연락이 왔다 [프리스타일] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030831</link>
+            <guid>https://n.news.naver.com/article/308/0000030831</guid>
+            <pubDate>Wed, 08 Mar 2023 05:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이들을 보라, 이들이 메시지다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030791</link>
+            <guid>https://n.news.naver.com/article/308/0000030791</guid>
+            <pubDate>Wed, 08 Mar 2023 05:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] ‘부모 찬스’ 쓴 미성년자 논문, 공식 확인됐다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030789</link>
+            <guid>https://n.news.naver.com/article/308/0000030789</guid>
+            <pubDate>Wed, 08 Mar 2023 05:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“페미니즘 정치와 계급 정치 연계시킬 토양 탄탄하게 존재한다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030737</link>
+            <guid>https://n.news.naver.com/article/308/0000030737</guid>
+            <pubDate>Wed, 08 Mar 2023 05:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030688</link>
+            <guid>https://n.news.naver.com/article/308/0000030688</guid>
+            <pubDate>Wed, 08 Mar 2023 05:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[입양 보낸 강아지 만나러 가는 ‘캐나다 체크인’, 그 뒷 이야기 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
