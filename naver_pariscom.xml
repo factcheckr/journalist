@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 17:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 05:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 언론 “기시다 총리·윤 대통령, 16일 공동기자회견도 한다...12년 만에 처음”]]></title>
+            <link>https://n.news.naver.com/article/469/0000727800</link>
+            <guid>https://n.news.naver.com/article/469/0000727800</guid>
+            <pubDate>Fri, 10 Mar 2023 05:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>17분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/10/727800.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인종차별 발언 논란' WHO 서태평양 사무처장 결국 해임]]></title>
             <link>https://n.news.naver.com/article/469/0000727630</link>
             <guid>https://n.news.naver.com/article/469/0000727630</guid>
             <pubDate>Thu, 09 Mar 2023 17:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/09/727630.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000727556</link>
             <guid>https://n.news.naver.com/article/469/0000727556</guid>
             <pubDate>Thu, 09 Mar 2023 05:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/09/727556.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000727112</link>
             <guid>https://n.news.naver.com/article/469/0000727112</guid>
             <pubDate>Tue, 07 Mar 2023 17:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/07/727112.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000726920</link>
             <guid>https://n.news.naver.com/article/469/0000726920</guid>
             <pubDate>Tue, 07 Mar 2023 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/06/726920.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000726745</link>
             <guid>https://n.news.naver.com/article/469/0000726745</guid>
             <pubDate>Mon, 06 Mar 2023 17:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/05/726745.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Feb 2023 17:33:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.02.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724430.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 방위성 "북한 탄도미사일, 3발 아닌 2발 발사"]]></title>
-            <link>https://n.news.naver.com/article/469/0000724376</link>
-            <guid>https://n.news.naver.com/article/469/0000724376</guid>
-            <pubDate>Mon, 20 Feb 2023 05:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724376.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

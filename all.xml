@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 17:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 05:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1104/A0002878108_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 언론 “기시다 총리·윤 대통령, 16일 공동기자회견도 한다...12년 만에 처음” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000727800</link>
+            <guid>https://n.news.naver.com/article/469/0000727800</guid>
+            <pubDate>Fri, 10 Mar 2023 05:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>17분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/10/727800.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['인종차별 발언 논란' WHO 서태평양 사무처장 결국 해임 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000727630</link>
             <guid>https://n.news.naver.com/article/469/0000727630</guid>
             <pubDate>Thu, 09 Mar 2023 17:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/09/727630.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +304,7 @@
             <link>https://n.news.naver.com/article/469/0000727556</link>
             <guid>https://n.news.naver.com/article/469/0000727556</guid>
             <pubDate>Thu, 09 Mar 2023 05:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/09/727556.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +344,7 @@
             <link>https://n.news.naver.com/article/469/0000727112</link>
             <guid>https://n.news.naver.com/article/469/0000727112</guid>
             <pubDate>Tue, 07 Mar 2023 17:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/07/727112.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +360,7 @@
             <link>https://n.news.naver.com/article/469/0000726920</link>
             <guid>https://n.news.naver.com/article/469/0000726920</guid>
             <pubDate>Tue, 07 Mar 2023 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/06/726920.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -360,7 +368,7 @@
             <link>https://n.news.naver.com/article/469/0000726745</link>
             <guid>https://n.news.naver.com/article/469/0000726745</guid>
             <pubDate>Mon, 06 Mar 2023 17:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/05/726745.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -516,19 +524,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724430.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 방위성 "북한 탄도미사일, 3발 아닌 2발 발사" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000724376</link>
-            <guid>https://n.news.naver.com/article/469/0000724376</guid>
-            <pubDate>Mon, 20 Feb 2023 05:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/20/724376.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[한반도 전문기자가 읽어주는 ‘남북관계의 체스판’ [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032332</link>
+            <guid>https://n.news.naver.com/article/308/0000032332</guid>
+            <pubDate>Fri, 10 Mar 2023 05:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/10/32332.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지하철 무임승차 논란, ‘진짜’ 노인은 누구인가 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032291</link>
             <guid>https://n.news.naver.com/article/308/0000032291</guid>
             <pubDate>Thu, 02 Mar 2023 05:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/02/32291.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -754,14 +762,6 @@
             <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/29/31385.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달로 간 다누리 앞에 놓인 6개의 미션 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031375</link>
-            <guid>https://n.news.naver.com/article/308/0000031375</guid>
-            <pubDate>Wed, 09 Nov 2022 05:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/26/31375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성범죄 가해자와 법조 카르텔, ‘감형’을 사고 판다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1004,11 +1004,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31448.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기로에 선 이재명과 민주당의 길 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032333</link>
+            <guid>https://n.news.naver.com/article/308/0000032333</guid>
+            <pubDate>Fri, 10 Mar 2023 05:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/10/32333.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘삼성’ 쫓던 기자가 소설가가 된 사연 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032293</link>
             <guid>https://n.news.naver.com/article/308/0000032293</guid>
             <pubDate>Thu, 02 Mar 2023 05:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/02/32293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1426,14 +1434,6 @@
             <pubDate>Wed, 08 Mar 2023 05:34:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030688</link>
-            <guid>https://n.news.naver.com/article/308/0000030688</guid>
-            <pubDate>Wed, 08 Mar 2023 05:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[입양 보낸 강아지 만나러 가는 ‘캐나다 체크인’, 그 뒷 이야기 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
