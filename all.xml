@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 17:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 05:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,6 +284,14 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1104/A0002878108_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사사키 로키, 하뉴 유즈루... 동일본대지진 경험한 스포츠 스타의 추모 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000728007</link>
+            <guid>https://n.news.naver.com/article/469/0000728007</guid>
+            <pubDate>Sun, 12 Mar 2023 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/12/728007.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재일 경제인들, 강제동원 재단 기부한다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000727881</link>
             <guid>https://n.news.naver.com/article/469/0000727881</guid>
@@ -296,7 +304,7 @@
             <link>https://n.news.naver.com/article/469/0000727800</link>
             <guid>https://n.news.naver.com/article/469/0000727800</guid>
             <pubDate>Fri, 10 Mar 2023 05:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/10/727800.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,7 +320,7 @@
             <link>https://n.news.naver.com/article/469/0000727556</link>
             <guid>https://n.news.naver.com/article/469/0000727556</guid>
             <pubDate>Thu, 09 Mar 2023 05:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/09/727556.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +360,7 @@
             <link>https://n.news.naver.com/article/469/0000727112</link>
             <guid>https://n.news.naver.com/article/469/0000727112</guid>
             <pubDate>Tue, 07 Mar 2023 17:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/07/727112.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -368,7 +376,7 @@
             <link>https://n.news.naver.com/article/469/0000726920</link>
             <guid>https://n.news.naver.com/article/469/0000726920</guid>
             <pubDate>Tue, 07 Mar 2023 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/06/726920.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -376,7 +384,7 @@
             <link>https://n.news.naver.com/article/469/0000726745</link>
             <guid>https://n.news.naver.com/article/469/0000726745</guid>
             <pubDate>Mon, 06 Mar 2023 17:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/05/726745.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -384,7 +392,7 @@
             <link>https://n.news.naver.com/article/469/0000726739</link>
             <guid>https://n.news.naver.com/article/469/0000726739</guid>
             <pubDate>Sat, 11 Mar 2023 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/05/726739.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -516,19 +524,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/21/724703.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기시다 비서관 ‘망언’ 효과?... 일본서 “동성혼 인정해야” 70% 넘어 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000724683</link>
-            <guid>https://n.news.naver.com/article/469/0000724683</guid>
-            <pubDate>Tue, 21 Feb 2023 17:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/02/21/724683.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한반도 전문기자가 읽어주는 ‘남북관계의 체스판’ [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032332</link>
             <guid>https://n.news.naver.com/article/308/0000032332</guid>
             <pubDate>Fri, 10 Mar 2023 05:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/10/32332.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1008,7 +1008,7 @@
             <link>https://n.news.naver.com/article/308/0000032333</link>
             <guid>https://n.news.naver.com/article/308/0000032333</guid>
             <pubDate>Fri, 10 Mar 2023 05:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/10/32333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
