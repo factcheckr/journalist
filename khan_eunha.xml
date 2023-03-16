@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 05:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 17:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달고 파리시장, 경찰청 ‘수거 공무원 징발 요청’ 거부]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202303162205015</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202303162205015</guid>
+            <pubDate>Thu, 16 Mar 2023 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레기 쌓여 불편하지만…정부 연금개혁 때문에 벌어진 일
+안 이달고 프랑스 파리시장(사진)이 마크롱 정부의 연금개혁 법안 추진에 반대하는 쓰레기 수거 노동자들의 파업 탓에 시내 곳곳에 쌓인 쓰레기를 치우라는 파리 경찰청의 공식 통보를 거절했다.
+르파리지앵에 따르면 로랑 누네즈 파리 경찰청장은 15일(현지시간) 이달고 시장에게 공식 서한을 보내 파리 시내 곳곳에 쌓인 쓰레기를 치우기 위해 시 공무원들을 징발하겠다고 밝혔다. 누네즈 청장은 자신의 권한에 따라 이달고 시장에게 대체인력으로 투입될 공무원들의 명단을 “지체없이” 보내줄 것을 요청한다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/16/2023031701000708000060541.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“쥐 나온다” “국가로 인해 벌어진 일” … 파리시장, 경찰의 쓰레기 수거 인력 징발 요청 거부]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202303161103001</link>
@@ -101,15 +111,6 @@
             <content:encoded><![CDATA[장터 열리고 지하철도 운행지하상가도 모두 문 열어젤렌스키 대통령은 연설서“백기 안 들고 우리 국기 지켜”
 우크라이나 전쟁 1년을 맞은 24일(현지시간) 수도 키이우는 긴장감 속에서도 평소와 다름없는 일상을 이어갔다. 시민들의 표정은 차분했지만 승리에 대한 의지는 결연했다. 볼로디미르 젤렌스키 우크라이나 대통령은 이날 대국민 연설에서 “어둠 속에서도 승리의 빛이 보인다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/24/2023022501001173100090611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁 1년 맞은 키이우…“우크라이나군 승리 위해 건배할 것”]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202302242024001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202302242024001</guid>
-            <pubDate>Fri, 24 Feb 2023 17:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 전쟁 발발 1년을 맞은 24일(현지시간) 수도 키이우는 긴장감 속에서도 평소와 다름없는 일상을 이어갔다. 시민들의 표정은 차분했지만 승리에 대한 의지는 결연했다. 볼로디미르 젤렌스키 우크라이나 대통령은 이날 대국민 연설에서 “어둠 속에서도 승리의 빛이 보인다”고 말했다.
-이날 키이우 시내의 한 주택가에서는 여느 때처럼 매주 화요일과 금요일에 열리는 장터가 들어섰다. 지하철도 정상 운행했고 지하상가도 모두 문을 열었다. 러시아가 개전 1년을 맞아 총공세에 돌입할 수 있다는 가능성이 예고돼 왔지만, 아날 키이우에서는 모든 것이 정상적으로 돌아가는 모습이었다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/24/news-p.v1.20230225.202a1bc33d7f4b1b9cb2ccf160e7e8c7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
