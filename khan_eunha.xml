@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 17:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 05:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크롱, 하원 표결 건너뛰고 연금개혁 강행 …프랑스 정국 강대강 대치 속으로]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202303170639001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202303170639001</guid>
+            <pubDate>Fri, 17 Mar 2023 05:31:52 GMT</pubDate>
+            <content:encoded><![CDATA[에마뉘엘 마크롱 프랑스 대통령이 16일(현지시간) 연금개혁 법안 관련해 의회 표결 없이 정부가 강행처리할 수 있도록 한 헌법 49조 3항을 발동했다. 야당은 정부 불신임 투표 준비에 들어갔다. 파리에서는 즉각 반발시위가 밤늦도록 이어졌다.
+프랑스24에 따르면 엘리자베스 보른 총리는 이날 오후 3시로 예정된 하원의 연금개혁 법안 표결 몇 분 직전 헌법 49조 3항을 발동한다고 발표했다. 야당 의원들은 즉각 야유를 퍼부었다. 좌파 정당 연합인 뉘페스 의원들은 국가 ‘라 마르세예즈’를 부르며 항의해 국회 일정이 중단됐다. 일부 의원들은 “64세는 안 된다”고 적힌 피켓을 의사당에서 흔들었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/17/news-p.v1.20230317.daf95ad8d2b94bbfb43902c7ca24e980.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달고 파리시장, 경찰청 ‘수거 공무원 징발 요청’ 거부]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202303162205015</link>
@@ -102,15 +111,6 @@
             <content:encoded><![CDATA[볼로디미르 젤렌스키 우크라이나 대통령이 한국의 무기 지원을 바란다고 재차 밝혔다.
 우크라이나 국영 통신사 우크린폼은 젤렌스키 대통령이 러시아의 전면 침공 1주년을 맞은 24일(현지시간) 기자회견에서 옌스 스톨텐베르그 북대서양조약기구(나토) 사무총장이 우크라이나에 무기를 지원해 달라고 한국 정부에 요청한 사실을 언급하며 “무기가 지원된다면 긍정적이라고 본다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/25/news-p.v1.20230225.842172e6633547788c9016a7a9b7fd7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정상적으로 돌아가는 일상…“어둠 속 승리의 빛이 보인다”]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202302242106005</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202302242106005</guid>
-            <pubDate>Fri, 24 Feb 2023 17:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[장터 열리고 지하철도 운행지하상가도 모두 문 열어젤렌스키 대통령은 연설서“백기 안 들고 우리 국기 지켜”
-우크라이나 전쟁 1년을 맞은 24일(현지시간) 수도 키이우는 긴장감 속에서도 평소와 다름없는 일상을 이어갔다. 시민들의 표정은 차분했지만 승리에 대한 의지는 결연했다. 볼로디미르 젤렌스키 우크라이나 대통령은 이날 대국민 연설에서 “어둠 속에서도 승리의 빛이 보인다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/24/2023022501001173100090611.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
