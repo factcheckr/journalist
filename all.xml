@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 05:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 17:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크롱 “연금개혁, 끝까지 간다” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202303202143035</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202303202143035</guid>
+            <pubDate>Mon, 20 Mar 2023 17:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[에마뉘엘 마크롱 프랑스 대통령이 19일(현지시간) “개혁이 민주적 여정의 끝까지 갈 수 있기를 원한다”고 밝혔다. 마크롱 대통령은 연금개혁을 두고 “수개월에 걸친 정치적·사회적 협의와 170시간 이상의 토론 끝에 상·하원 사이의 타협과 표결로 나온 것”이라며 AFP통신에 보낸 엘리제궁 공식 입장을 통해 이같이 밝혔다고 프랑스 언론들이 보도했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/20/2023032101000862000071451.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마크롱 “민주적 여정 끝까지 갈 수 있기를” …연금개혁 반대 파업·시위 지속 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202303201125001</link>
@@ -105,15 +113,6 @@
             <pubDate>Wed, 15 Mar 2023 17:33:56 GMT</pubDate>
             <content:encoded><![CDATA[14일(현지시간) 프랑스 파리의 번화가인 생미셸 거리 곳곳에 쓰레기 더미가 수북하게 쌓였다. 카페와 레스토랑의 야외 테이블에서 불과 몇 미터 떨어진 곳에도 파지, 스티로폼 등 재활용품과 검은 비닐봉투에 담긴 일반 쓰레기가 뒤엉켜 작은 언덕을 이뤘다. 파리의 다른 지역도 마찬가지였다. 시민들은 쓰레기 언덕 앞에서 식사를 하고 길가에 쌓인 쓰레기더미를 피해 다녔다. 순찰차를 타고 다니며 쓰레기 수거 현황을 체크하는 경찰관의 모습도 보였다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/15/news-p.v1.20230315.3499c2c0d4924e00a6cf3565741e02b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“러시아의 명분 없는 우크라 침공, 이대로 타협하면 나쁜 선례 남아” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202303092204005</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202303092204005</guid>
-            <pubDate>Thu, 09 Mar 2023 17:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[바흐무트를 비롯한 우크라이나 동남부 전선에서 우크라이나군과 러시아군 사이의 격렬한 전투가 이어지고 있다. 서방에서는 우크라이나 지원 중단과 전쟁의 종식을 요구하는 목소리가 서서히 고개를 들고 있다. ‘전쟁 이후의 세계’를 파악하려는 움직임도 분주하다.
-토마 고마르 프랑스국제관계연구소(IFRI) 소장은 지난달 10일(현지시간) 경향신문과 인터뷰에서 2년째 이어지는 러시아의 우크라이나 침공을 “핵무기를 확보한 국가가 벌이는 식민주의적 전쟁으로, 과거에는 없던 사태”라고 정의하면서 “러시아의 의도대로 전쟁이 종결될 경우 ‘판도라의 상자’를 열게 되는 것”이라고 말했다. “힘 있는 국가는 힘이 약한 이웃 국가를 맘대로 유린한 후 전쟁 종식이라는 목적을 위해 타협할 수 있다는 선례를 남기게 된다”는 것이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/09/2023031001000416200035891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -285,11 +284,35 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1118/A0002881604_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기시다 “윤 대통령을 5월 히로시마 G7 정상회의에 초청했다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000729532</link>
+            <guid>https://n.news.naver.com/article/469/0000729532</guid>
+            <pubDate>Mon, 20 Mar 2023 17:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/20/729532.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["기시다, 후쿠시마 수산물 수입 요구" 보도...대통령실 "회담 내용 공개 못 해" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000729512</link>
+            <guid>https://n.news.naver.com/article/469/0000729512</guid>
+            <pubDate>Mon, 20 Mar 2023 17:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/20/729512.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['양보 안 한' 기시다, 한일 정상회담으로 지지율 상승...정치 득실 '플러스' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000729481</link>
+            <guid>https://n.news.naver.com/article/469/0000729481</guid>
+            <pubDate>Mon, 20 Mar 2023 17:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/20/729481.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 아이돌 대부 ‘쟈니’의 소년 성폭력, 사후에도 쉬쉬하는 이유[특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000729316</link>
             <guid>https://n.news.naver.com/article/469/0000729316</guid>
             <pubDate>Sun, 19 Mar 2023 17:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/19/729316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +320,7 @@
             <link>https://n.news.naver.com/article/469/0000729135</link>
             <guid>https://n.news.naver.com/article/469/0000729135</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +328,7 @@
             <link>https://n.news.naver.com/article/469/0000729117</link>
             <guid>https://n.news.naver.com/article/469/0000729117</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -313,7 +336,7 @@
             <link>https://n.news.naver.com/article/469/0000729096</link>
             <guid>https://n.news.naver.com/article/469/0000729096</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729096.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,7 +344,7 @@
             <link>https://n.news.naver.com/article/469/0000728943</link>
             <guid>https://n.news.naver.com/article/469/0000728943</guid>
             <pubDate>Thu, 16 Mar 2023 17:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728943.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,7 +352,7 @@
             <link>https://n.news.naver.com/article/469/0000728863</link>
             <guid>https://n.news.naver.com/article/469/0000728863</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728863.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +376,7 @@
             <link>https://n.news.naver.com/article/469/0000728717</link>
             <guid>https://n.news.naver.com/article/469/0000728717</guid>
             <pubDate>Sat, 18 Mar 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/15/728717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +384,7 @@
             <link>https://n.news.naver.com/article/469/0000728705</link>
             <guid>https://n.news.naver.com/article/469/0000728705</guid>
             <pubDate>Wed, 15 Mar 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/15/728705.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -369,7 +392,7 @@
             <link>https://n.news.naver.com/article/469/0000728502</link>
             <guid>https://n.news.naver.com/article/469/0000728502</guid>
             <pubDate>Tue, 14 Mar 2023 17:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/14/728502.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -377,7 +400,7 @@
             <link>https://n.news.naver.com/article/469/0000728471</link>
             <guid>https://n.news.naver.com/article/469/0000728471</guid>
             <pubDate>Tue, 14 Mar 2023 17:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/14/728471.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -393,7 +416,7 @@
             <link>https://n.news.naver.com/article/469/0000728280</link>
             <guid>https://n.news.naver.com/article/469/0000728280</guid>
             <pubDate>Mon, 13 Mar 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/13/728280.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -401,7 +424,7 @@
             <link>https://n.news.naver.com/article/469/0000728278</link>
             <guid>https://n.news.naver.com/article/469/0000728278</guid>
             <pubDate>Mon, 13 Mar 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/13/728278.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -409,7 +432,7 @@
             <link>https://n.news.naver.com/article/469/0000728243</link>
             <guid>https://n.news.naver.com/article/469/0000728243</guid>
             <pubDate>Tue, 14 Mar 2023 17:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/13/728243.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -417,7 +440,7 @@
             <link>https://n.news.naver.com/article/469/0000728063</link>
             <guid>https://n.news.naver.com/article/469/0000728063</guid>
             <pubDate>Sun, 12 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/12/728063.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -425,7 +448,7 @@
             <link>https://n.news.naver.com/article/469/0000728036</link>
             <guid>https://n.news.naver.com/article/469/0000728036</guid>
             <pubDate>Sun, 12 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/12/728036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -501,35 +524,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/07/727206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 경산장관 “반도체 수출규제는 징용과 차원 다른 문제” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000727184</link>
-            <guid>https://n.news.naver.com/article/469/0000727184</guid>
-            <pubDate>Tue, 07 Mar 2023 17:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/07/727184.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 언론 "윤 대통령, '지지율 10%까지 떨어져도 한일관계 개선' 말했다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000727145</link>
-            <guid>https://n.news.naver.com/article/469/0000727145</guid>
-            <pubDate>Mon, 13 Mar 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/07/727145.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 새 로켓 H3 발사 실패... "2단 점화 실패, 파괴 명령" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000727112</link>
-            <guid>https://n.news.naver.com/article/469/0000727112</guid>
-            <pubDate>Mon, 13 Mar 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/07/727112.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[위기와 설렘 속에서 ‘배리어’를 저격하다 [대학기자상] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032381</link>
             <guid>https://n.news.naver.com/article/308/0000032381</guid>
             <pubDate>Mon, 20 Mar 2023 05:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/20/32381.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1009,7 +1008,7 @@
             <link>https://n.news.naver.com/article/308/0000032380</link>
             <guid>https://n.news.naver.com/article/308/0000032380</guid>
             <pubDate>Mon, 20 Mar 2023 05:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/20/32380.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
