@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 17:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 05:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크롱 “민주적 여정 끝까지 갈 수 있기를” …연금개혁 반대 파업·시위 지속]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202303201125001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202303201125001</guid>
+            <pubDate>Mon, 20 Mar 2023 05:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[에마뉘엘 마크롱 프랑스 대통령이 19일(현지시간) “개혁이 민주적 여정의 끝까지 갈 수 있기를 원한다”고 밝혔다.
+마크롱 대통령은 연금개혁을 두고 “수개월에 걸친 정치적, 사회적 협의와 170시간 이상의 토론 끝에 상·하원 사이의 타협과 표결로 나온 것”이라며 AFP통신에 보낸 엘리제궁 공식 입장을 통해 이 같이 밝혔다고 프랑스 언론들이 보도했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/20/news-p.v1.20230320.ef606a84114d4f10a854f2bc6511a31f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[담담하고 당당하게 존엄을 말하다…우크라이나에서 만난 ‘전쟁의 얼굴’들]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202303190830001</link>
@@ -105,15 +114,6 @@
             <content:encoded><![CDATA[바흐무트를 비롯한 우크라이나 동남부 전선에서 우크라이나군과 러시아군 사이의 격렬한 전투가 이어지고 있다. 서방에서는 우크라이나 지원 중단과 전쟁의 종식을 요구하는 목소리가 서서히 고개를 들고 있다. ‘전쟁 이후의 세계’를 파악하려는 움직임도 분주하다.
 토마 고마르 프랑스국제관계연구소(IFRI) 소장은 지난달 10일(현지시간) 경향신문과 인터뷰에서 2년째 이어지는 러시아의 우크라이나 침공을 “핵무기를 확보한 국가가 벌이는 식민주의적 전쟁으로, 과거에는 없던 사태”라고 정의하면서 “러시아의 의도대로 전쟁이 종결될 경우 ‘판도라의 상자’를 열게 되는 것”이라고 말했다. “힘 있는 국가는 힘이 약한 이웃 국가를 맘대로 유린한 후 전쟁 종식이라는 목적을 위해 타협할 수 있다는 선례를 남기게 된다”는 것이다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/09/2023031001000416200035891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나인들은 묻는다 “세계는 ‘어떤 평화’를 원하는가”]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202303030600021</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202303030600021</guid>
-            <pubDate>Fri, 03 Mar 2023 05:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 우크라이나 전면 침공 1주년을 앞두고 지난달 15일(현지시간) 폴란드 바르샤바에서 우크라이나 키이우행 고속버스를 탔다.
-버스는 좌석의 약 70%가 차 있었다. 부모와 함께 탄 어린아이들도 눈에 띄었다. 그러나 우크라이나 국경까지 약 5시간 가량 버스가 달리는 동안 아이들이 떼를 쓰거나 보채는 소리는 단 한번도 들리지 않았다. 폴란드의 국경 검문소 화장실에서야 엄마에게 잠시 보챈 뒤 다시 몇 시간의 버스 이동을 감내하는 다섯살 남짓한 아이를 보면서 ‘전쟁 중인 나라의 아이들’이란 이런 모습인가 생각했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/03/news-p.v1.20230302.724962670756438fa437a872849b37b4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

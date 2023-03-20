@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 17:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 05:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자유·인권·법치 한꺼번에 날린 '강제동원 해법']]></title>
+            <link>https://n.news.naver.com/article/308/0000032380</link>
+            <guid>https://n.news.naver.com/article/308/0000032380</guid>
+            <pubDate>Mon, 20 Mar 2023 05:34:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/20/32380.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기로에 선 이재명과 민주당의 길]]></title>
             <link>https://n.news.naver.com/article/308/0000032333</link>
@@ -430,14 +438,6 @@
             <pubDate>Wed, 08 Mar 2023 05:34:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“페미니즘 정치와 계급 정치 연계시킬 토양 탄탄하게 존재한다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000030737</link>
-            <guid>https://n.news.naver.com/article/308/0000030737</guid>
-            <pubDate>Wed, 08 Mar 2023 05:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
