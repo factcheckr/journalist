@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 17:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스, 연금개혁 법안 통과 …전국 각지 “루이 16세” 외치며 항의시위 계속]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202303210724001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202303210724001</guid>
+            <pubDate>Tue, 21 Mar 2023 05:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 야당 의원들이 에마뉘엘 마크롱 정부의 연금개혁 법안 강행처리를 막기 위해 제출한 내각 불신임안이 20일(현지시간) 의회에서 부결됐다. 연금개혁 법안은 이로써 통과됐으나 마크롱 대통령의 정치적 부담은 계속될 것으로 보인다.
+AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까지 연금 개혁을 밀어붙이는 데 반발해 야권이 제출한 엘리자베트 보른 총리 불신임안 두 건이 이날 모두 하원 문턱을 넘지 못했다고 보도했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/21/news-p.v1.20230321.54052d5ba0284fd3acae9f203ad2a22c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마크롱 “연금개혁, 끝까지 간다”]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202303202143035</link>
@@ -105,14 +114,6 @@
             <pubDate>Wed, 15 Mar 2023 17:33:56 GMT</pubDate>
             <content:encoded><![CDATA[14일(현지시간) 프랑스 파리의 번화가인 생미셸 거리 곳곳에 쓰레기더미가 수북하게 쌓여 있었다. 카페와 레스토랑의 야외 테이블에서 불과 몇 미터 떨어진 곳에도 파지, 스티로폼 등 재활용품과 검은 비닐봉지에 담긴 일반 쓰레기가 뒤엉켜 작은 언덕을 이뤘다. 파리의 다른 지역도 마찬가지였다. 프랑스 전역의 쓰레기 수거 노동자들이 에마뉘엘 마크롱 정부가 추진하는 연금개혁에 반대하는 파업을 9일째 벌이면서 나타난 풍경이다. 쓰레기가 16일 의회 표결을 앞두고 있는 마크롱 정부의 연금개혁을 둘러싼 갈등의 상징으로 떠올랐다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/15/2023031601000678900055401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 파리 곳곳 산을 이룬 쓰레기더미, 연금개혁 저항의 상징으로 떠오르다]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202303151645001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202303151645001</guid>
-            <pubDate>Wed, 15 Mar 2023 17:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[14일(현지시간) 프랑스 파리의 번화가인 생미셸 거리 곳곳에 쓰레기 더미가 수북하게 쌓였다. 카페와 레스토랑의 야외 테이블에서 불과 몇 미터 떨어진 곳에도 파지, 스티로폼 등 재활용품과 검은 비닐봉투에 담긴 일반 쓰레기가 뒤엉켜 작은 언덕을 이뤘다. 파리의 다른 지역도 마찬가지였다. 시민들은 쓰레기 언덕 앞에서 식사를 하고 길가에 쌓인 쓰레기더미를 피해 다녔다. 순찰차를 타고 다니며 쓰레기 수거 현황을 체크하는 경찰관의 모습도 보였다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/15/news-p.v1.20230315.3499c2c0d4924e00a6cf3565741e02b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
