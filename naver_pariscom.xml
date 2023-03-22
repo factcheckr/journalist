@@ -4,15 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 17:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 05:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권영세 “북한 7차 핵실험 반드시 할 것… 핵·미사일 개발은 내부 결속용”]]></title>
+            <link>https://n.news.naver.com/article/469/0000729828</link>
+            <guid>https://n.news.naver.com/article/469/0000729828</guid>
+            <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>12분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729828.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다, 중러 정상 만난 날 우크라 전격 방문... “비살상 장비 등 지원”]]></title>
+            <link>https://n.news.naver.com/article/469/0000729771</link>
+            <guid>https://n.news.naver.com/article/469/0000729771</guid>
+            <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729771.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑·푸틴 만난 날...기시다, 우크라이나 전격 방문해 젤렌스키와 회담]]></title>
+            <link>https://n.news.naver.com/article/469/0000729758</link>
+            <guid>https://n.news.naver.com/article/469/0000729758</guid>
+            <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729758.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 자민당, 'LGBTQ 법안' 논의 슬그머니 연기…게이단렌 "부끄럽다"]]></title>
             <link>https://n.news.naver.com/article/469/0000729657</link>
             <guid>https://n.news.naver.com/article/469/0000729657</guid>
             <pubDate>Tue, 21 Mar 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/21/729657.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000729609</link>
             <guid>https://n.news.naver.com/article/469/0000729609</guid>
             <pubDate>Tue, 21 Mar 2023 05:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/21/729609.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +124,7 @@
             <link>https://n.news.naver.com/article/469/0000728789</link>
             <guid>https://n.news.naver.com/article/469/0000728789</guid>
             <pubDate>Thu, 16 Mar 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +132,7 @@
             <link>https://n.news.naver.com/article/469/0000728771</link>
             <guid>https://n.news.naver.com/article/469/0000728771</guid>
             <pubDate>Thu, 16 Mar 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728771.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +172,7 @@
             <link>https://n.news.naver.com/article/469/0000728418</link>
             <guid>https://n.news.naver.com/article/469/0000728418</guid>
             <pubDate>Thu, 16 Mar 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/14/728418.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 15 Mar 2023 17:35:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/10/727800.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인종차별 발언 논란' WHO 서태평양 사무처장 결국 해임]]></title>
-            <link>https://n.news.naver.com/article/469/0000727630</link>
-            <guid>https://n.news.naver.com/article/469/0000727630</guid>
-            <pubDate>Thu, 09 Mar 2023 17:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/09/727630.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일 언론 “한국 정부, 지소미아 정상화 선언 방침… 한일 안보협력 강화”]]></title>
-            <link>https://n.news.naver.com/article/469/0000727556</link>
-            <guid>https://n.news.naver.com/article/469/0000727556</guid>
-            <pubDate>Thu, 09 Mar 2023 05:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/09/727556.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“민영방송과 전면전” 아베 시절 ‘방송 개입’ 문건에 일 정치권 파장]]></title>
-            <link>https://n.news.naver.com/article/469/0000727436</link>
-            <guid>https://n.news.naver.com/article/469/0000727436</guid>
-            <pubDate>Wed, 08 Mar 2023 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/08/727436.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
