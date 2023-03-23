@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 17:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 라이벌은 넷플릭스다 [지구를 구하는 기후테크]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032396</link>
+            <guid>https://n.news.naver.com/article/308/0000032396</guid>
+            <pubDate>Thu, 23 Mar 2023 05:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/23/32396.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 쉽게 재생에너지를 구매하는 법 [지구를 구하는 기후테크]]]></title>
             <link>https://n.news.naver.com/article/308/0000032387</link>
             <guid>https://n.news.naver.com/article/308/0000032387</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/22/32387.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/15/31466.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큰 개는 다 위험해? 편견이 낳은 입마개 논란]]></title>
-            <link>https://n.news.naver.com/article/308/0000031449</link>
-            <guid>https://n.news.naver.com/article/308/0000031449</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31449.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

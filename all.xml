@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 17:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,19 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1118/A0002881604_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[특파원의 시선] 잠 못 이루는 이유 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000729990</link>
+            <guid>https://n.news.naver.com/article/469/0000729990</guid>
+            <pubDate>Thu, 23 Mar 2023 05:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/23/729990.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["기시다의 우크라이나 깜짝 방문은 '시진핑 견제' 위해서였다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000729957</link>
             <guid>https://n.news.naver.com/article/469/0000729957</guid>
             <pubDate>Wed, 22 Mar 2023 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +306,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729864</link>
             <guid>https://n.news.naver.com/article/469/0000729864</guid>
             <pubDate>Wed, 22 Mar 2023 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729864.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +314,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729828</link>
             <guid>https://n.news.naver.com/article/469/0000729828</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +322,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729771</link>
             <guid>https://n.news.naver.com/article/469/0000729771</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729771.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +330,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729758</link>
             <guid>https://n.news.naver.com/article/469/0000729758</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +346,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729609</link>
             <guid>https://n.news.naver.com/article/469/0000729609</guid>
             <pubDate>Tue, 21 Mar 2023 05:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/21/729609.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -410,7 +418,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000728818</link>
             <guid>https://n.news.naver.com/article/469/0000728818</guid>
             <pubDate>Wed, 22 Mar 2023 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728818.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -418,7 +426,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000728789</link>
             <guid>https://n.news.naver.com/article/469/0000728789</guid>
             <pubDate>Thu, 16 Mar 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -426,7 +434,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000728771</link>
             <guid>https://n.news.naver.com/article/469/0000728771</guid>
             <pubDate>Thu, 16 Mar 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728771.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -518,19 +526,19 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/12/728007.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[재일 경제인들, 강제동원 재단 기부한다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000727881</link>
-            <guid>https://n.news.naver.com/article/469/0000727881</guid>
-            <pubDate>Fri, 10 Mar 2023 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/10/727881.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[반짝이는 진주 유등축제, 이면의 ‘배리어’를 쫓다 [대학기자상] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032393</link>
+            <guid>https://n.news.naver.com/article/308/0000032393</guid>
+            <pubDate>Thu, 23 Mar 2023 05:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/23/32393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위기와 설렘 속에서 ‘배리어’를 저격하다 [대학기자상] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032381</link>
             <guid>https://n.news.naver.com/article/308/0000032381</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/20/32381.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -758,19 +766,19 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/12/31583.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[기자들의 시선] 국산 1호 코로나19 백신 접종 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031478</link>
-            <guid>https://n.news.naver.com/article/308/0000031478</guid>
-            <pubDate>Tue, 21 Mar 2023 05:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31478.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[우리의 라이벌은 넷플릭스다 [지구를 구하는 기후테크] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032396</link>
+            <guid>https://n.news.naver.com/article/308/0000032396</guid>
+            <pubDate>Thu, 23 Mar 2023 05:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/23/32396.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 쉽게 재생에너지를 구매하는 법 [지구를 구하는 기후테크] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032387</link>
             <guid>https://n.news.naver.com/article/308/0000032387</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/22/32387.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -998,19 +1006,11 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/15/31466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[큰 개는 다 위험해? 편견이 낳은 입마개 논란 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031449</link>
-            <guid>https://n.news.naver.com/article/308/0000031449</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31449.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자유·인권·법치 한꺼번에 날린 '강제동원 해법' (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032380</link>
             <guid>https://n.news.naver.com/article/308/0000032380</guid>
             <pubDate>Mon, 20 Mar 2023 05:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/20/32380.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
