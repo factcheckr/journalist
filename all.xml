@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 05:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 17:34:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시청에 불지르고, 법원 난입…프랑스 ‘연금개혁 반대’ 격화 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202303242116045</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202303242116045</guid>
+            <pubDate>Fri, 24 Mar 2023 17:31:50 GMT</pubDate>
+            <content:encoded><![CDATA[연금개혁 법안 통과 후 첫 총파업이 벌어진 23일(현지시간) 프랑스 전역에서 에마뉘엘 마크롱 대통령과 정부에 대한 분노가 거세게 타올랐다. 남부 보르도에서는 시청 현관이 불에 탔고 서부 낭트에서는 시위대가 법원에 난입했다. 파리에서는 청년들이 상점 유리창을 부쉈다. 르몽드는 “분노의 하루”라고 전했다.
+이날 오후 파리 바스티유 광장에 집결한 시위대는 프랑스 대혁명이 발생한 연도를 뜻하는 “1789?” “마크롱 사임하라” 등의 문구가 적힌 손팻말을 들었다. 방호복을 입고 시위에 참여한 소방관들은 “대통령은 국민 말을 신경 쓰지 않는다”고 말했다. 마크롱 대통령은 전날 TV 생방송에 출연해 “인기가 떨어지더라도 연말까지 연금개혁을 시행하겠다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/24/2023032501001110100089521.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시청에 방화·물대포 등장…불타오르는 프랑스 연금개혁 반대 시위 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202303241835001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202303241835001</guid>
+            <pubDate>Fri, 24 Mar 2023 17:31:50 GMT</pubDate>
+            <content:encoded><![CDATA[연금개혁 법안 통과 후 첫 총파업이 벌어진 23일(현지시간) 프랑스 전역에서 에마뉘엘 마크롱 대통령과 정부에 대한 분노가 거세게 타올랐다. 남부 보르도에서는 시청 현관이 불에 탔고 북서부 로리앙에서는 경찰서 벽이 불길에 그슬렸다. 서부 낭트에서는 시위대가 법원에 난입했다. 파리에서는 청년들이 상점 유리창을 부쉈다. 르몽드는 “분노의 하루”라고 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/24/news-p.v1.20230324.e895990345a54908848bb52554e03c4a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스 연금개혁 법안 통과…“루이 16세 처단” 시위 격화 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202303212150005</link>
@@ -98,23 +115,6 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <content:encoded><![CDATA[안느 이달고 프랑스 파리시장이 쓰레기 수거 노동자들의 파업으로 인해 시내 곳곳에 쌓인 쓰레기를 치우라는 파리 경찰청의 공식 통보를 거절했다.
 르파리지앵에 따르면 로랑 누네즈 파리 경찰청장은 15일(현지시간) 이달고 시장에게 공식 서한을 보내 파리 시내 곳곳에 쌓인 쓰레기를 치우기 위해 시 공무원들을 징발하겠다고 밝혔다. 누네즈 청장은 자신의 권한에 따라 이달고 시장에게 대체인력으로 투입될 공무원들의 명단을 “지체없이” 보내줄 것을 요청한다고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/16/news-p.v1.20230316.65f7791d095747cfa76b465e0ed0e018.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 연금개혁 최종안 16일 표결 …마크롱 겨냥한 8차 시위 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202303160909001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202303160909001</guid>
-            <pubDate>Thu, 16 Mar 2023 05:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[에마뉘엘 마크롱 정부의 연금개혁에 반대하는 제8차 총파업이 15일(현지시간) 프랑스 전역에서 진행됐다. 파리에서의 시위는 이날 오전 국회의사당 근처인 앵발라드 광장에서 시작됐다. 같은 시각 국회의사당 안에서는 7명의 상원의원과 7명의 하원의원으로 구성된 양원동수위원회(CMP)가 법안을 조율하고 있었다.
-로랑 베르제 프랑스 민주노동연맹(CFDT) 위원장은 행진이 시작되기 전 “법안이 통과되면 민주적 악덕행위가 될 것”이라고 했고, 필리프 마르티네즈 CGT(일반노동총연맹) 위원장은 “법안 강제 통과는 엄청난 사회적 분노를 부르게 될 것”이라고 말했다. 마크롱 정부가 헌법 49조 3항을 발동해 의회 표결 없이 법안을 채택하는 상황을 겨냥한 것이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/16/news-p.v1.20230316.5c0c1759ad4e4686a24681db39fe1b3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시리아 난민 받으며 한 걸음 더 나아간 베를린…압둘라 “한숨 돌리는 데 7년, 이제는 직접 참여” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202303160600011</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202303160600011</guid>
-            <pubDate>Thu, 16 Mar 2023 05:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 전쟁의 장기화는 수백만 명의 난민들이 집으로 돌아갈 날이 아득하다 것을 의미한다. 해결의 실마리가 보이지 않는 전 세계 각지의 분쟁과 전쟁들은 난민들이 잠시 머물다 떠날 수 있는 ‘나그네’가 아님을 알려준다. 시리아와 우크라이나 난민을 대거 수용한 독일은 이들과 장기적으로 함께 살아가기 위한 시스템 정비에 나섰다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/16/news-p.v1.20230315.34bd2c5888cb4509b546f2184e18ecee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -298,7 +298,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729957</link>
             <guid>https://n.news.naver.com/article/469/0000729957</guid>
             <pubDate>Fri, 24 Mar 2023 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +306,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729864</link>
             <guid>https://n.news.naver.com/article/469/0000729864</guid>
             <pubDate>Wed, 22 Mar 2023 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729864.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +338,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729657</link>
             <guid>https://n.news.naver.com/article/469/0000729657</guid>
             <pubDate>Tue, 21 Mar 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/21/729657.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -354,7 +354,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729532</link>
             <guid>https://n.news.naver.com/article/469/0000729532</guid>
             <pubDate>Mon, 20 Mar 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/20/729532.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -362,7 +362,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729512</link>
             <guid>https://n.news.naver.com/article/469/0000729512</guid>
             <pubDate>Mon, 20 Mar 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/20/729512.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -370,7 +370,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729481</link>
             <guid>https://n.news.naver.com/article/469/0000729481</guid>
             <pubDate>Mon, 20 Mar 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/20/729481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -378,7 +378,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729135</link>
             <guid>https://n.news.naver.com/article/469/0000729135</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -386,7 +386,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729128</link>
             <guid>https://n.news.naver.com/article/469/0000729128</guid>
             <pubDate>Thu, 23 Mar 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729128.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -394,7 +394,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729117</link>
             <guid>https://n.news.naver.com/article/469/0000729117</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -402,7 +402,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729096</link>
             <guid>https://n.news.naver.com/article/469/0000729096</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729096.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -410,7 +410,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729088</link>
             <guid>https://n.news.naver.com/article/469/0000729088</guid>
             <pubDate>Thu, 23 Mar 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729088.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -418,7 +418,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000728943</link>
             <guid>https://n.news.naver.com/article/469/0000728943</guid>
             <pubDate>Thu, 16 Mar 2023 17:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728943.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -426,7 +426,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000728863</link>
             <guid>https://n.news.naver.com/article/469/0000728863</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728863.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -530,7 +530,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/308/0000032400</link>
             <guid>https://n.news.naver.com/article/308/0000032400</guid>
             <pubDate>Fri, 24 Mar 2023 05:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/24/32400.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
