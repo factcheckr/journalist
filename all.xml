@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 05:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 17:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,19 +294,11 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/23/729990.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["기시다의 우크라이나 깜짝 방문은 '시진핑 견제' 위해서였다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000729957</link>
-            <guid>https://n.news.naver.com/article/469/0000729957</guid>
-            <pubDate>Fri, 24 Mar 2023 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729957.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[일본 경산성 장관 “한국 측 화이트리스트 복원 환영… 우리는 신중 판단” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000729864</link>
             <guid>https://n.news.naver.com/article/469/0000729864</guid>
             <pubDate>Wed, 22 Mar 2023 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729864.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +330,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729657</link>
             <guid>https://n.news.naver.com/article/469/0000729657</guid>
             <pubDate>Tue, 21 Mar 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/21/729657.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -354,7 +346,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729532</link>
             <guid>https://n.news.naver.com/article/469/0000729532</guid>
             <pubDate>Mon, 20 Mar 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/20/729532.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -362,7 +354,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729512</link>
             <guid>https://n.news.naver.com/article/469/0000729512</guid>
             <pubDate>Mon, 20 Mar 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/20/729512.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -370,15 +362,23 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729481</link>
             <guid>https://n.news.naver.com/article/469/0000729481</guid>
             <pubDate>Mon, 20 Mar 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/20/729481.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 아이돌 대부 ‘쟈니’의 소년 성폭력, 사후에도 쉬쉬하는 이유[특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000729316</link>
+            <guid>https://n.news.naver.com/article/469/0000729316</guid>
+            <pubDate>Sat, 25 Mar 2023 17:32:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/19/729316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“게이단렌, ‘강제동원 배상에 미래 기금 쓰면 안 돼’ 전경련에 사전 확인” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000729135</link>
             <guid>https://n.news.naver.com/article/469/0000729135</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -386,7 +386,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729128</link>
             <guid>https://n.news.naver.com/article/469/0000729128</guid>
             <pubDate>Thu, 23 Mar 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729128.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -394,7 +394,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729117</link>
             <guid>https://n.news.naver.com/article/469/0000729117</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -402,7 +402,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729096</link>
             <guid>https://n.news.naver.com/article/469/0000729096</guid>
             <pubDate>Fri, 17 Mar 2023 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729096.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -410,7 +410,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000729088</link>
             <guid>https://n.news.naver.com/article/469/0000729088</guid>
             <pubDate>Thu, 23 Mar 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729088.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -530,7 +530,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/308/0000032407</link>
             <guid>https://n.news.naver.com/article/308/0000032407</guid>
             <pubDate>Sat, 25 Mar 2023 05:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/25/32407.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1438,6 +1438,13 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[폭식과 다이어트 굴레에 대항하라 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20230324162156313</link>
+            <guid>https://v.daum.net/v/20230324162156313</guid>
+            <pubDate>Sat, 25 Mar 2023 17:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[지난해, 유튜브 콘텐츠 ‘차린 건 쥐뿔도 없지만’에 출연한 걸그룹 있지(ITZY)의 채령이 래퍼 영지와 ‘폭식’에 대해 이야기하는 영상이 화제였다. 서로 ‘얼마나 폭식해봤는지’ 이야기하면서, 채령은 “프링글스 한 통 다 먹어본 적 있어?”라고 묻는다. 프링글스는 짭짤한 맛이 식욕을 자극해 많은 양을 먹도록 유도하는 감자 과자로, 식품공학 전문가들의 역작이다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 드라마 ‘더 글로리’ 파트2 시작…영광과 지옥 사이, 종착지는? (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
             <link>https://v.daum.net/v/20230310161816107</link>
             <guid>https://v.daum.net/v/20230310161816107</guid>
@@ -1513,13 +1520,6 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <guid>https://v.daum.net/v/20220819161917787</guid>
             <pubDate>Wed, 16 Nov 2022 17:55:24 GMT</pubDate>
             <content:encoded><![CDATA[최근 유튜브 채널 ‘흥마늘 스튜디오’가 &lt;밥맛 없는 언니들&gt;이라는 신개념 ‘먹방’을 시작했다. 연예계에서 대표적인 소식가로 유명한 산다라 박과 박소현이 출연하는 이 프로그램의 설명은 다음과 같다. “먹방계를 뒤집을 소식좌들의 먹방 도전기.” 먹방은 ‘먹는 방송’의 줄임말이고, 소식좌란 적게 먹는 사람을 일컫는 인터넷 용어이다. 작년에 김숙이 자신의 유튜브]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["영리하고 어리석은" 우영우처럼..'장애 전형성' 한계와 차별성 공존 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20220722160912652</link>
-            <guid>https://v.daum.net/v/20220722160912652</guid>
-            <pubDate>Wed, 16 Nov 2022 17:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;이상한 변호사 우영우&gt;(ENA)의 인기가 뜨겁다. 첫 방송 때는 케이블 방송 평균 수준이었던 시청률(0.9%)이 한 달도 안 돼 10배로 껑충 뛰었다(7월14일 기준 9.6%). 방송 날이면 드라마와 관련한 단어가 온라인 실시간 트렌드에 오르고, 다양한 감상과 해석이 쏟아진다. 이 드라마는 뜨거운 반응만큼이나 드라마를 둘러싼 논의가 활발하다. 이 드라마에]]></content:encoded>
         </item>
     </channel>
 </rss>

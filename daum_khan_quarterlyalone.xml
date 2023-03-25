@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5140981</id>
     <title>다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-03-25T05:34:24.847Z</updated>
+    <updated>2023-03-25T17:33:26.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폭식과 다이어트 굴레에 대항하라]]></title>
+        <id>https://v.daum.net/v/20230324162156313</id>
+        <link href="https://v.daum.net/v/20230324162156313"/>
+        <updated>2023-03-25T17:33:25.823Z</updated>
+        <content type="html"><![CDATA[지난해, 유튜브 콘텐츠 ‘차린 건 쥐뿔도 없지만’에 출연한 걸그룹 있지(ITZY)의 채령이 래퍼 영지와 ‘폭식’에 대해 이야기하는 영상이 화제였다. 서로 ‘얼마나 폭식해봤는지’ 이야기하면서, 채령은 “프링글스 한 통 다 먹어본 적 있어?”라고 묻는다. 프링글스는 짭짤한 맛이 식욕을 자극해 많은 양을 먹도록 유도하는 감자 과자로, 식품공학 전문가들의 역작이다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 드라마 ‘더 글로리’ 파트2 시작…영광과 지옥 사이, 종착지는?]]></title>
         <id>https://v.daum.net/v/20230310161816107</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220819161917787"/>
         <updated>2022-11-16T17:55:24.608Z</updated>
         <content type="html"><![CDATA[최근 유튜브 채널 ‘흥마늘 스튜디오’가 &lt;밥맛 없는 언니들&gt;이라는 신개념 ‘먹방’을 시작했다. 연예계에서 대표적인 소식가로 유명한 산다라 박과 박소현이 출연하는 이 프로그램의 설명은 다음과 같다. “먹방계를 뒤집을 소식좌들의 먹방 도전기.” 먹방은 ‘먹는 방송’의 줄임말이고, 소식좌란 적게 먹는 사람을 일컫는 인터넷 용어이다. 작년에 김숙이 자신의 유튜브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["영리하고 어리석은" 우영우처럼..'장애 전형성' 한계와 차별성 공존]]></title>
-        <id>https://v.daum.net/v/20220722160912652</id>
-        <link href="https://v.daum.net/v/20220722160912652"/>
-        <updated>2022-11-16T17:55:24.610Z</updated>
-        <content type="html"><![CDATA[&lt;이상한 변호사 우영우&gt;(ENA)의 인기가 뜨겁다. 첫 방송 때는 케이블 방송 평균 수준이었던 시청률(0.9%)이 한 달도 안 돼 10배로 껑충 뛰었다(7월14일 기준 9.6%). 방송 날이면 드라마와 관련한 단어가 온라인 실시간 트렌드에 오르고, 다양한 감상과 해석이 쏟아진다. 이 드라마는 뜨거운 반응만큼이나 드라마를 둘러싼 논의가 활발하다. 이 드라마에]]></content>
     </entry>
 </feed>
