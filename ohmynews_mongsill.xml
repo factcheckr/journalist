@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 17:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 05:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시대전환 조정훈 의원은 왜 엉뚱한 법 발의했나]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002912917</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002912917</guid>
+            <pubDate>Mon, 27 Mar 2023 05:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0324/A0002912917_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어느 정치인의 죽음 전하려다 고민에 빠진 이유]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002908872</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 03 Mar 2023 17:32:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1202/A0002885443_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 여사가 '영부인'이라서]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002881604</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002881604</guid>
-            <pubDate>Fri, 03 Mar 2023 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1118/A0002881604_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

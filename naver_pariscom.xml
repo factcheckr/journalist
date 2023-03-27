@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 17:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 05:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 해상보안청, "북한, 탄도미사일 추정 물체 발사" 두 차례 발표]]></title>
+            <link>https://n.news.naver.com/article/469/0000730600</link>
+            <guid>https://n.news.naver.com/article/469/0000730600</guid>
+            <pubDate>Mon, 27 Mar 2023 05:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/27/730600.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본마저 여성 정치 참여 확대... 광역단체장 후보 21%가 여성]]></title>
             <link>https://n.news.naver.com/article/469/0000730558</link>
             <guid>https://n.news.naver.com/article/469/0000730558</guid>
             <pubDate>Sun, 26 Mar 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/26/730558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000730500</link>
             <guid>https://n.news.naver.com/article/469/0000730500</guid>
             <pubDate>Sun, 26 Mar 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/26/730500.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000729990</link>
             <guid>https://n.news.naver.com/article/469/0000729990</guid>
             <pubDate>Thu, 23 Mar 2023 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/23/729990.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000729771</link>
             <guid>https://n.news.naver.com/article/469/0000729771</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729771.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000729758</link>
             <guid>https://n.news.naver.com/article/469/0000729758</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000729609</link>
             <guid>https://n.news.naver.com/article/469/0000729609</guid>
             <pubDate>Tue, 21 Mar 2023 05:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/21/729609.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Mar 2023 17:32:58 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/13/728280.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘일본 유통업계 전설’ 이토 마사토시 세븐&아이홀딩스 명예회장 별세]]></title>
-            <link>https://n.news.naver.com/article/469/0000728278</link>
-            <guid>https://n.news.naver.com/article/469/0000728278</guid>
-            <pubDate>Mon, 13 Mar 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/13/728278.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
