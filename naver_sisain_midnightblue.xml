@@ -4,9 +4,33 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 05:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 18:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임보라 목사, 입으로 외치는 100명 대신 몸으로 싸웠던 단 한 명]]></title>
+            <link>https://n.news.naver.com/article/308/0000032418</link>
+            <guid>https://n.news.naver.com/article/308/0000032418</guid>
+            <pubDate>Wed, 29 Mar 2023 18:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/27/32418.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국에는 왜 테슬라가 없냐고? [지구를 구하는 기후테크]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032399</link>
+            <guid>https://n.news.naver.com/article/308/0000032399</guid>
+            <pubDate>Wed, 29 Mar 2023 18:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/24/32399.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 라이벌은 넷플릭스다 [지구를 구하는 기후테크]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032396</link>
+            <guid>https://n.news.naver.com/article/308/0000032396</guid>
+            <pubDate>Wed, 29 Mar 2023 18:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/23/32396.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 쉽게 재생에너지를 구매하는 법 [지구를 구하는 기후테크]]]></title>
             <link>https://n.news.naver.com/article/308/0000032387</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/22/31492.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생략한 이야기 오래 남는 기사 [프리스타일]]]></title>
-            <link>https://n.news.naver.com/article/308/0000031479</link>
-            <guid>https://n.news.naver.com/article/308/0000031479</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31479.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘헤결’ 정서경 작가, “‘작은 아씨들’에 굵으면서도 섬세한 이야길 담고 싶다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000031466</link>
-            <guid>https://n.news.naver.com/article/308/0000031466</guid>
-            <pubDate>Tue, 15 Nov 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/15/31466.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큰 개는 다 위험해? 편견이 낳은 입마개 논란]]></title>
-            <link>https://n.news.naver.com/article/308/0000031449</link>
-            <guid>https://n.news.naver.com/article/308/0000031449</guid>
-            <pubDate>Fri, 24 Mar 2023 05:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31449.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
