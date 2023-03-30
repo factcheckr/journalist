@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 18:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 05:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHK "왕야쥔 평양 주재 중국대사, 2년 만에 부임"...북한 국경 개방 신호?]]></title>
+            <link>https://n.news.naver.com/article/469/0000730771</link>
+            <guid>https://n.news.naver.com/article/469/0000730771</guid>
+            <pubDate>Thu, 30 Mar 2023 05:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/27/730771.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 문화청, 도쿄에서 교토로 이전 "직원 출장비, 연간 4.7억"]]></title>
             <link>https://n.news.naver.com/article/469/0000730699</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000730600</link>
             <guid>https://n.news.naver.com/article/469/0000730600</guid>
             <pubDate>Mon, 27 Mar 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/27/730600.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000729990</link>
             <guid>https://n.news.naver.com/article/469/0000729990</guid>
             <pubDate>Thu, 23 Mar 2023 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/23/729990.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000729828</link>
             <guid>https://n.news.naver.com/article/469/0000729828</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000729771</link>
             <guid>https://n.news.naver.com/article/469/0000729771</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729771.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000729758</link>
             <guid>https://n.news.naver.com/article/469/0000729758</guid>
             <pubDate>Wed, 22 Mar 2023 05:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Mar 2023 17:35:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/15/728705.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기시다, 올여름 한국 방문 검토"...윤 대통령 방문 앞두고 잇단 '유화 시그널']]></title>
-            <link>https://n.news.naver.com/article/469/0000728502</link>
-            <guid>https://n.news.naver.com/article/469/0000728502</guid>
-            <pubDate>Tue, 14 Mar 2023 17:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/14/728502.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
