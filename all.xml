@@ -4,16 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 17:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주민 투표율 7%인데…파리 ‘전동 킥보드’ 퇴출 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202304032204025</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202304032204025</guid>
+            <pubDate>Mon, 03 Apr 2023 17:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 파리에서 주민투표 끝에 전동 킥보드 대여 서비스를 중단해야 한다는 결과가 나왔다. 하지만 무관심 속에서 진행된 투표 결과를 받아들여야 하는 주민들의 속내는 간단치 않다.
+AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상대로 전동 킥보드 대여 서비스를 지속할지 찬반을 묻는 주민투표를 시행한 결과 89.03%가 반대했다. 투표율은 7%로 낮았다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/03/2023040401000092500008051.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핀란드 총선, 중도우파 정당 승리…‘마린 총리’ 당은 3위 그쳐 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202304032158025</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202304032158025</guid>
+            <pubDate>Mon, 03 Apr 2023 17:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[핀란드 총선에서 중도우파 성향인 국민연합당이 산나 마린 총리(37·사진)의 중도좌파 성향 사회민주당에 간발의 차로 승리했다. 스웨덴, 이탈리아 등에 이어 유럽의 ‘우향우’ 흐름이 계속되고 있다.
+핀란드 공영방송 Yle에 따르면 2일(현지시간) 치러진 총선에서 국민연합당은 전체 200개 의석 중 최다인 48석을 차지해 제1당이 됐다. 극우 성향인 핀란드인당이 46석을 얻어 간발의 차로 제2당에 올랐으며, 사회민주당은 43석 확보에 그쳐 제3당으로 밀려났다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/03/2023040401000100700007981.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파리, 전동 킥보드 퇴출 결정했지만…낮은 투표율에 냉소적 시선 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202304031444021</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202304031444021</guid>
+            <pubDate>Mon, 03 Apr 2023 17:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 파리에서 주민투표 끝에 전동 킥보드 대여 서비스를 중단해야 한다는 결과가 나왔다. 하지만 무관심 속에서 진행된 투표 결과를 받아들여야 하는 주민들의 속내는 간단치 않다.
+AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상대로 전동 킥보드 대여 서비스를 지속할지 찬반을 묻는 주민투표를 시행한 결과 89.03%가 서비스 지속에 반대하는 결과가 나왔다. 유권자 138만명 가운데 10만3084명만 참여해 투표율은 7% 수준을 기록했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/03/news-p.v1.20230403.efbdf61530414abeaa5b4d4e79a553d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핀란드 총선, 중도우파 정당 승리…막 내리는 산나 마린 시대 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202304030636001</link>
             <guid>https://www.khan.co.kr/world/europe-russia/article/202304030636001</guid>
             <pubDate>Mon, 03 Apr 2023 05:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[핀란드 총선에서 중도우파 성향인 국민연합당이 산나 마린 총리가 이끄는 중도좌파 성향 사회민주당에 간발의 차로 승리했다.
-핀란드 공영방송 Yle에 따르면 2일 치러진 총선에서 국가연합당은 개표가 97.7% 진행한 시점에 20.7% 득표율을 기록해 제1당을 차지했다. 우파 포퓰리스트 핀란드당도 20.1% 득표율을 획득해 0.6% 포인트 차로 제2당에 올랐다. 사회민주당은 득표율 19.9%에 그쳐 제3당으로 밀려났다. 어느 정당도 단독정부를 수립할 수 없는 상황이다.]]></content:encoded>
+            <content:encoded><![CDATA[핀란드 총선에서 중도우파 성향인 국민연합당이 산나 마린 총리가 이끄는 중도좌파 성향 사회민주당에 간발의 차로 승리했다. 스웨덴, 이탈리아 등에 이어 유럽의 ‘우향우’ 흐름이 계속되고 있다.
+핀란드 공영방송 Yle에 따르면 2일(현지시간) 치러진 총선에서 국가연합당은 전체 200개 의석 중 최다인 48석을 차지해 제1당을 차지했다. 극우 성향인 핀란드인당이 46석을 차지해 간발의 차로 제2당에 올랐으며, 사회민주당은 43석 확보에 그쳐 제3당으로 밀려났다. 어느 정당도 단독정부를 수립할 수 없는 상황이다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/03/news-p.v1.20230403.469ea93cfc9947d18b5e3ca78a64e06b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -86,32 +113,6 @@
             <content:encoded><![CDATA[프랑스 야당 의원들이 에마뉘엘 마크롱 정부의 연금개혁 법안 강행처리를 막기 위해 제출한 내각 불신임안이 20일(현지시간) 의회에서 부결됐다. 연금개혁 법안은 이로써 통과됐으나 마크롱 대통령의 정치적 부담은 계속될 것으로 보인다.
 AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까지 연금개혁을 밀어붙이는 데 반발해 야권이 제출한 엘리자베트 보른 총리 불신임안 두 건이 이날 모두 하원 문턱을 넘지 못했다고 보도했다. 중도 성향 자유·무소속·해외영토(LIOT) 그룹과 제1야당 좌파 연합 뉘프(NUPES)가 공동으로 제출한 불신임안은 찬성 278표를 얻어 부결됐다. 불신임안이 통과되려면 하원 287석의 찬성을 얻어야 하는데 9표가 모자랐다. 극우 성향 국민연합(RN)이 제출한 불신임안도 94표의 찬성표만 얻었다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/21/2023032201000899300076021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스, 연금개혁 법안 통과 …전국 각지 “루이 16세” 외치며 항의시위 계속 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202303210724001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202303210724001</guid>
-            <pubDate>Tue, 21 Mar 2023 05:32:03 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 야당 의원들이 에마뉘엘 마크롱 정부의 연금개혁 법안 강행처리를 막기 위해 제출한 내각 불신임안이 20일(현지시간) 의회에서 부결됐다. 연금개혁 법안은 이로써 통과됐으나 마크롱 대통령의 정치적 부담은 계속될 것으로 보인다.
-AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까지 연금 개혁을 밀어붙이는 데 반발해 야권이 제출한 엘리자베트 보른 총리 불신임안 두 건이 이날 모두 하원 문턱을 넘지 못했다고 보도했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/21/news-p.v1.20230321.54052d5ba0284fd3acae9f203ad2a22c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크롱 “연금개혁, 끝까지 간다” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202303202143035</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202303202143035</guid>
-            <pubDate>Mon, 20 Mar 2023 17:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[에마뉘엘 마크롱 프랑스 대통령이 19일(현지시간) “개혁이 민주적 여정의 끝까지 갈 수 있기를 원한다”고 밝혔다. 마크롱 대통령은 연금개혁을 두고 “수개월에 걸친 정치적·사회적 협의와 170시간 이상의 토론 끝에 상·하원 사이의 타협과 표결로 나온 것”이라며 AFP통신에 보낸 엘리제궁 공식 입장을 통해 이같이 밝혔다고 프랑스 언론들이 보도했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/20/2023032101000862000071451.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크롱 “민주적 여정 끝까지 갈 수 있기를” …연금개혁 반대 파업·시위 지속 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202303201125001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202303201125001</guid>
-            <pubDate>Mon, 20 Mar 2023 05:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[에마뉘엘 마크롱 프랑스 대통령이 19일(현지시간) “개혁이 민주적 여정의 끝까지 갈 수 있기를 원한다”고 밝혔다.
-마크롱 대통령은 연금개혁을 두고 “수개월에 걸친 정치적, 사회적 협의와 170시간 이상의 토론 끝에 상·하원 사이의 타협과 표결로 나온 것”이라며 AFP통신에 보낸 엘리제궁 공식 입장을 통해 이 같이 밝혔다고 프랑스 언론들이 보도했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/20/news-p.v1.20230320.ef606a84114d4f10a854f2bc6511a31f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -283,11 +284,19 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1202/A0002885443_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 기업인 석방 요구에 중국 “법대로 하겠다”… 중국 사업 리스크 부상 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000732118?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000732118?type=journalists</guid>
+            <pubDate>Mon, 03 Apr 2023 17:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/03/732118.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본, ‘차원 다른 저출생 대책’ 발표… 아동수당 확대 등 3년간 ‘집중 추진’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000731716?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000731716?type=journalists</guid>
             <pubDate>Fri, 31 Mar 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/31/731716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,7 +304,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000731697?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000731697?type=journalists</guid>
             <pubDate>Sun, 02 Apr 2023 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/31/731697.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,7 +312,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000731682?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000731682?type=journalists</guid>
             <pubDate>Fri, 31 Mar 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/31/731682.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -311,15 +320,23 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000731492?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000731492?type=journalists</guid>
             <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/30/731492.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 역사왜곡 더 심해져...초등교과서 조선인 '징병' 강제성 흐렸다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000730927?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000730927?type=journalists</guid>
+            <pubDate>Mon, 03 Apr 2023 17:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/28/730927.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NHK "왕야쥔 평양 주재 중국대사, 2년 만에 부임"...북한 국경 개방 신호? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000730771?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000730771?type=journalists</guid>
             <pubDate>Fri, 31 Mar 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/27/730771.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -327,7 +344,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000730699?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000730699?type=journalists</guid>
             <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/27/730699.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,7 +360,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000730558?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000730558?type=journalists</guid>
             <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/26/730558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -351,7 +368,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000730500?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000730500?type=journalists</guid>
             <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/26/730500.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -505,22 +522,6 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729088.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한일 '미래 파트너십 기금' 20억원으로 출발…강제동원 피고기업 참여는 불투명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000728943?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000728943?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728943.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["윤 대통령, 한국의 ‘예스 재팬’ 세대가 반일 여론 완화시킬 거라고 기대" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000728863?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000728863?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/16/728863.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[농인들의 시선에서 본 대선 TV 토론회 [대학기자상] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -767,7 +768,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/308/0000032418?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032418?type=journalists</guid>
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/27/32418.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
