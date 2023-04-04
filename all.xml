@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 17:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 05:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,7 +288,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000732118?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000732118?type=journalists</guid>
             <pubDate>Mon, 03 Apr 2023 17:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/03/732118.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +352,7 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <link>https://n.news.naver.com/article/469/0000730600?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000730600?type=journalists</guid>
             <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/27/730600.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1004,6 +1004,14 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/22/31492.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“과거는 봉인되었고 미래는 봉쇄되었다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032453</link>
+            <guid>https://n.news.naver.com/article/308/0000032453</guid>
+            <pubDate>Tue, 04 Apr 2023 05:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/04/32453.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자유·인권·법치 한꺼번에 날린 '강제동원 해법' (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032380</link>
             <guid>https://n.news.naver.com/article/308/0000032380</guid>
@@ -1189,9 +1197,9 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
         </item>
         <item>
             <title><![CDATA['변화의 전략 vs 집토끼 다지기', 북한 방송 개방하자는 정부·여당 속내는? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031693</link>
-            <guid>https://n.news.naver.com/article/308/0000031693</guid>
-            <pubDate>Mon, 07 Nov 2022 17:46:32 GMT</pubDate>
+            <link>https://n.news.naver.com/article/308/0000031693?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031693?type=journalists</guid>
+            <pubDate>Tue, 04 Apr 2023 05:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/02/31693.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
@@ -1426,14 +1434,6 @@ AFP통신 등은 프랑스 정부가 의회 입법 절차를 건너뛰면서까�
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] ‘부모 찬스’ 쓴 미성년자 논문, 공식 확인됐다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030789?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030789?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭식과 다이어트 굴레에 대항하라 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
