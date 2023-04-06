@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 17:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 05:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[15년 만에 듣는, 한국 최초 우주인의 조금 ‘낯선’ 이야기]]></title>
+            <link>https://n.news.naver.com/article/308/0000032463?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032463?type=journalists</guid>
+            <pubDate>Thu, 06 Apr 2023 05:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/06/32463.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[농인들의 시선에서 본 대선 TV 토론회 [대학기자상]]]></title>
             <link>https://n.news.naver.com/article/308/0000032407?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/21/31630.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코로나 대응, 현장을 가다] 스웨덴의 노인들은 어떻게 팬데믹을 지나왔을까]]></title>
-            <link>https://n.news.naver.com/article/308/0000031625?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031625?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/20/31625.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
