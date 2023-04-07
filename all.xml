@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 05:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 17:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,19 +285,27 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1202/A0002885443_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사라진 자위대 헬기 미스터리 "날씨 좋았는데 구조신호도 없이..." (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000732875?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000732875?type=journalists</guid>
-            <pubDate>Fri, 07 Apr 2023 05:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>36분전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/07/732875.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[2㎞ 거리에서 후쿠시마 원전 본 민주당 의원들 "주민들이 방사능 피해 있다고 했다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000732939?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000732939?type=journalists</guid>
+            <pubDate>Fri, 07 Apr 2023 17:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/07/732939.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국, ‘희토류 자석 공급망’도 노린다...“제조 기술 수출금지 추진” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000732481?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000732481?type=journalists</guid>
+            <pubDate>Fri, 07 Apr 2023 17:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/05/732481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["후쿠시마 오염수 방류 괜찮다"는 일본인, 겨우 21% (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000732296?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000732296?type=journalists</guid>
             <pubDate>Tue, 04 Apr 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/04/732296.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +313,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000732118?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000732118?type=journalists</guid>
             <pubDate>Mon, 03 Apr 2023 17:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/03/732118.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -313,7 +321,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000731716?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000731716?type=journalists</guid>
             <pubDate>Fri, 31 Mar 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/31/731716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,7 +329,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000731697?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000731697?type=journalists</guid>
             <pubDate>Thu, 06 Apr 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/31/731697.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,7 +337,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000731682?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000731682?type=journalists</guid>
             <pubDate>Fri, 31 Mar 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/31/731682.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +345,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000731492?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000731492?type=journalists</guid>
             <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/30/731492.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -515,14 +523,6 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729135.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다, “어려운 결단한 윤 대통령에 경의… 술자리 즐거웠다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000729128?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000729128?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729128.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[15년 만에 듣는, 한국 최초 우주인의 조금 ‘낯선’ 이야기 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1437,6 +1437,13 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[야생동물을 가두는 것 자체가 코미디…인간의 재미를 위해 소비되는 동물들 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20230407161958089</link>
+            <guid>https://v.daum.net/v/20230407161958089</guid>
+            <pubDate>Fri, 07 Apr 2023 17:34:26 GMT</pubDate>
+            <content:encoded><![CDATA[모든 존재는 일정한 공간을 점거하고, 머물 만한 곳에 머문다. ‘있어야 하는 곳’을 이탈하여 ‘있어서는 안 되는 곳’에 출몰했을 때 그의 존재는 사건이 된다. 장르는 공포거나(낯선 사람이 내 방에 있다) 모험이 될 수도 있고(발바닥이 부드러운 나약한 인간이 외딴섬에 떨어진다) 코미디가 될 수도 있다(욕을 잘하는 할머니가 랩 배틀에 나간다). 얼마 전, 서울]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[폭식과 다이어트 굴레에 대항하라 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
             <link>https://v.daum.net/v/20230324162156313</link>
             <guid>https://v.daum.net/v/20230324162156313</guid>
@@ -1512,13 +1519,6 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <guid>https://v.daum.net/v/20220902162116378</guid>
             <pubDate>Wed, 16 Nov 2022 17:55:24 GMT</pubDate>
             <content:encoded><![CDATA[“오빠… 최고로 행복하되 가급적 혼자 계셨으면 좋겠어요.” 최근 영화 &lt;헌트&gt;에 출연한 정우성은 팬들의 ‘주접’으로도 유명하다. 행복하되, 혼자 있어달라는 말은 신아영 아나운서가 예능 프로그램 &lt;비디오 스타&gt;에 출연해 정우성에게 남긴 덕담(?)이다. 이 대사는 사랑하는 대상이 행복하길 바라면서도 결혼하지 않기를, 그리하여 모두의 스타로 남아주길 바라는 팬들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과시적 먹방 과잉의 시대에 반기 드는 유튜브 채널 '밥맛 없는 언니들' (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20220819161917787</link>
-            <guid>https://v.daum.net/v/20220819161917787</guid>
-            <pubDate>Wed, 16 Nov 2022 17:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[최근 유튜브 채널 ‘흥마늘 스튜디오’가 &lt;밥맛 없는 언니들&gt;이라는 신개념 ‘먹방’을 시작했다. 연예계에서 대표적인 소식가로 유명한 산다라 박과 박소현이 출연하는 이 프로그램의 설명은 다음과 같다. “먹방계를 뒤집을 소식좌들의 먹방 도전기.” 먹방은 ‘먹는 방송’의 줄임말이고, 소식좌란 적게 먹는 사람을 일컫는 인터넷 용어이다. 작년에 김숙이 자신의 유튜브]]></content:encoded>
         </item>
     </channel>
 </rss>
