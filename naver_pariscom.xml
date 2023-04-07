@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 17:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 05:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사라진 자위대 헬기 미스터리 "날씨 좋았는데 구조신호도 없이..."]]></title>
+            <link>https://n.news.naver.com/article/469/0000732875?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000732875?type=journalists</guid>
+            <pubDate>Fri, 07 Apr 2023 05:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>36분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/07/732875.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["후쿠시마 오염수 방류 괜찮다"는 일본인, 겨우 21%]]></title>
             <link>https://n.news.naver.com/article/469/0000732296?type=journalists</link>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000731333?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000731333?type=journalists</guid>
             <pubDate>Wed, 05 Apr 2023 17:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.03.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/30/731333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729128.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["일본 정치권, 윤 대통령 만나 오염수 방류·소녀상 언급"]]></title>
-            <link>https://n.news.naver.com/article/469/0000729117?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000729117?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
