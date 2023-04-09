@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 17:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 05:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,6 +285,14 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1202/A0002885443_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2㎞ 거리에서 후쿠시마 원전 본 민주당 의원들 "주민들이 방사능 피해 있다고 했다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000732939?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000732939?type=journalists</guid>
+            <pubDate>Sun, 09 Apr 2023 05:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/07/732939.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[중국, ‘희토류 자석 공급망’도 노린다...“제조 기술 수출금지 추진” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000732481?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000732481?type=journalists</guid>
@@ -313,7 +321,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000731842?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000731842?type=journalists</guid>
             <pubDate>Sat, 08 Apr 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/02/731842.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -517,19 +525,11 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/19/729316.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“게이단렌, ‘강제동원 배상에 미래 기금 쓰면 안 돼’ 전경련에 사전 확인” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000729135?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000729135?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/17/729135.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[15년 만에 듣는, 한국 최초 우주인의 조금 ‘낯선’ 이야기 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032463?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032463?type=journalists</guid>
             <pubDate>Thu, 06 Apr 2023 05:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/06/32463.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1009,7 +1009,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/308/0000032453</link>
             <guid>https://n.news.naver.com/article/308/0000032453</guid>
             <pubDate>Tue, 04 Apr 2023 05:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/04/32453.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
