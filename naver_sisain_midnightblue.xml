@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 17:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중년이지만 혼자 삽니다, 행복하게 삽니다]]></title>
+            <link>https://n.news.naver.com/article/308/0000032484?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032484?type=journalists</guid>
+            <pubDate>Mon, 10 Apr 2023 17:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/10/32484.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임보라 목사, 입으로 외치는 100명 대신 몸으로 싸웠던 단 한 명]]></title>
             <link>https://n.news.naver.com/article/308/0000032418?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/29/31518.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸그룹 초강세 ‘여덕’이 이끈다]]></title>
-            <link>https://n.news.naver.com/article/308/0000031492?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031492?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/22/31492.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
