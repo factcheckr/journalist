@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 17:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,27 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1216/A0002888647_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 "북한 미사일 ICMB 가능성... 홋카이도 피난 경보는 취소" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000733852?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000733852?type=journalists</guid>
+            <pubDate>Thu, 13 Apr 2023 05:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/13/733852.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 탄도미사일에 홋카이도 피난 경보…“지하 등으로 대피하라” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000733845?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000733845?type=journalists</guid>
+            <pubDate>Thu, 13 Apr 2023 05:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/13/733845.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국익 못 버리는 일본, G7기후장관회의 의장국이면서도 탈탄소 '주저' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000733736?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733736?type=journalists</guid>
             <pubDate>Wed, 12 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/12/733736.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +314,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733728?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733728?type=journalists</guid>
             <pubDate>Wed, 12 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/12/733728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -510,27 +526,19 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기시다, 중러 정상 만난 날 우크라 전격 방문... “비살상 장비 등 지원” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000729771?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000729771?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729771.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시진핑·푸틴 만난 날...기시다, 우크라이나 전격 방문해 젤렌스키와 회담 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000729758?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000729758?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/22/729758.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[406개 판결문으로 본 ‘법원으로 간 학폭’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032495?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032495?type=journalists</guid>
+            <pubDate>Thu, 13 Apr 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/13/32495.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[15년 만에 듣는, 한국 최초 우주인의 조금 ‘낯선’ 이야기 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032463?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032463?type=journalists</guid>
             <pubDate>Thu, 06 Apr 2023 05:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/06/32463.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -756,14 +764,6 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/24/31642.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코로나 대응, 현장을 가다] “팬데믹이 세대 간 복지 계약을 시험했다” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031630?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031630?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/21/31630.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중년이지만 혼자 삽니다, 행복하게 삽니다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1010,7 +1010,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/308/0000032490</link>
             <guid>https://n.news.naver.com/article/308/0000032490</guid>
             <pubDate>Wed, 12 Apr 2023 05:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/12/32490.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

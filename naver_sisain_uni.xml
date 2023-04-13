@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 17:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[406개 판결문으로 본 ‘법원으로 간 학폭’]]></title>
+            <link>https://n.news.naver.com/article/308/0000032495?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032495?type=journalists</guid>
+            <pubDate>Thu, 13 Apr 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/13/32495.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[15년 만에 듣는, 한국 최초 우주인의 조금 ‘낯선’ 이야기]]></title>
             <link>https://n.news.naver.com/article/308/0000032463?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032463?type=journalists</guid>
             <pubDate>Thu, 06 Apr 2023 05:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/06/32463.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/24/31642.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코로나 대응, 현장을 가다] “팬데믹이 세대 간 복지 계약을 시험했다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000031630?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031630?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/21/31630.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
