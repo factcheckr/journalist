@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 17:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 05:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 경호 '구멍'...바이든·윤 대통령 히로시마 가는데 어쩌나]]></title>
+            <link>https://n.news.naver.com/article/469/0000734471?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000734471?type=journalists</guid>
+            <pubDate>Mon, 17 Apr 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734471.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['일본 안전 신화' 흔들...기시다·아베, 9개월 간격 선거 현장서 '테러']]></title>
+            <link>https://n.news.naver.com/article/469/0000734429?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000734429?type=journalists</guid>
+            <pubDate>Mon, 17 Apr 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734429.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["효자였다"는 기시다 테러범, 집에서 화약 추정 물질 나왔다]]></title>
             <link>https://n.news.naver.com/article/469/0000734372?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734372?type=journalists</guid>
             <pubDate>Sun, 16 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/16/734372.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000734265?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734265?type=journalists</guid>
             <pubDate>Sun, 16 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/15/734265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000734261?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734261?type=journalists</guid>
             <pubDate>Sat, 15 Apr 2023 05:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/15/734261.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000733852?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733852?type=journalists</guid>
             <pubDate>Thu, 13 Apr 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/13/733852.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000733845?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733845?type=journalists</guid>
             <pubDate>Fri, 14 Apr 2023 17:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/13/733845.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +156,7 @@
             <link>https://n.news.naver.com/article/469/0000733068?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733068?type=journalists</guid>
             <pubDate>Sat, 15 Apr 2023 17:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/09/733068.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/30/731492.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기시다, 윤 대통령 도와야 일본에 이익...한일관계 천천히 개선될 것"]]></title>
-            <link>https://n.news.naver.com/article/469/0000731333?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000731333?type=journalists</guid>
-            <pubDate>Wed, 05 Apr 2023 17:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/30/731333.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 역사왜곡 더 심해져...초등교과서 조선인 '징병' 강제성 흐렸다]]></title>
-            <link>https://n.news.naver.com/article/469/0000730927?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000730927?type=journalists</guid>
-            <pubDate>Mon, 03 Apr 2023 17:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/28/730927.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 17:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 05:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,27 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1216/A0002888647_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 경호 '구멍'...바이든·윤 대통령 히로시마 가는데 어쩌나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000734471?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000734471?type=journalists</guid>
+            <pubDate>Mon, 17 Apr 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734471.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['일본 안전 신화' 흔들...기시다·아베, 9개월 간격 선거 현장서 '테러' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000734429?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000734429?type=journalists</guid>
+            <pubDate>Mon, 17 Apr 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734429.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["효자였다"는 기시다 테러범, 집에서 화약 추정 물질 나왔다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000734372?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734372?type=journalists</guid>
             <pubDate>Sun, 16 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/16/734372.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +321,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000734265?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734265?type=journalists</guid>
             <pubDate>Sun, 16 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/15/734265.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -313,7 +329,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000734261?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734261?type=journalists</guid>
             <pubDate>Sat, 15 Apr 2023 05:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/15/734261.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +369,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733852?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733852?type=journalists</guid>
             <pubDate>Thu, 13 Apr 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/13/733852.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +377,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733845?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733845?type=journalists</guid>
             <pubDate>Fri, 14 Apr 2023 17:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/13/733845.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -417,7 +433,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733068?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733068?type=journalists</guid>
             <pubDate>Sat, 15 Apr 2023 17:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/09/733068.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -509,27 +525,11 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/30/731492.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["기시다, 윤 대통령 도와야 일본에 이익...한일관계 천천히 개선될 것" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000731333?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000731333?type=journalists</guid>
-            <pubDate>Wed, 05 Apr 2023 17:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/30/731333.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 역사왜곡 더 심해져...초등교과서 조선인 '징병' 강제성 흐렸다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000730927?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000730927?type=journalists</guid>
-            <pubDate>Mon, 03 Apr 2023 17:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/28/730927.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[406개 판결문으로 본 ‘법원으로 간 학폭’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032495?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032495?type=journalists</guid>
             <pubDate>Thu, 13 Apr 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/13/32495.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1009,7 +1009,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/308/0000032490?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032490?type=journalists</guid>
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/12/32490.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1483,6 +1483,54 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <pubDate>Wed, 12 Apr 2023 05:33:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/24/30593.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘0.73’ 차기 대통령이 새겨야 할 숫자 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030560?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030560?type=journalists</guid>
+            <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.03.16.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/16/30560.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘쇼’라 하더라도 주목해야할 정치개혁안 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030506?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030506?type=journalists</guid>
+            <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.03.07.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30506.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 검찰 공약 살펴보니 “뼛속까지 검찰주의자” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030454?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030454?type=journalists</guid>
+            <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.28.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/28/30454.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국과 중국 사이, 후보들은 어디에 서 있나 [2022 대선 의제 ⑤] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030407?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030407?type=journalists</guid>
+            <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/21/30407.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘진짜 할까?’ 후보 단일화가 궁금하면 이 책을 [2021 행복한 책꽂이] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030310?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030310?type=journalists</guid>
+            <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/06/30310.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대선 뒷담화] ‘잘했다’고 자평한다면 TV 토론 더 많이 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030306?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030306?type=journalists</guid>
+            <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/05/30306.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야생동물을 가두는 것 자체가 코미디…인간의 재미를 위해 소비되는 동물들 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
