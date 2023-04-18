@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 05:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 17:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,35 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1216/A0002888647_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김동연 “송영길, 귀국해서 조사에 협조해야...대충 넘기지 말라” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000734768?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000734768?type=journalists</guid>
+            <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734768.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대만 침공 위협하는 시진핑에 경고...G7 "중국에 직접 우려 표명해야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000734751?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000734751?type=journalists</guid>
+            <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734751.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 테러범, 선거 출마 못 해 사회에 불만? “선거법 부당” 소송 냈었다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000734730?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000734730?type=journalists</guid>
+            <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734730.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[외양간 두 번째 고치는 일본...기시다 테러 후 행사 경호 대폭 강화 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000734605?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734605?type=journalists</guid>
             <pubDate>Mon, 17 Apr 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734605.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +321,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000734597?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734597?type=journalists</guid>
             <pubDate>Mon, 17 Apr 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734597.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +329,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000734522?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734522?type=journalists</guid>
             <pubDate>Mon, 17 Apr 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734522.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,7 +353,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000734372?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734372?type=journalists</guid>
             <pubDate>Sun, 16 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/16/734372.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +361,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000734275?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734275?type=journalists</guid>
             <pubDate>Sat, 15 Apr 2023 17:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/15/734275.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +385,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000734175?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734175?type=journalists</guid>
             <pubDate>Fri, 14 Apr 2023 17:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/14/734175.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -369,7 +393,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000734153?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734153?type=journalists</guid>
             <pubDate>Fri, 14 Apr 2023 17:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/14/734153.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -377,7 +401,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733960?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733960?type=journalists</guid>
             <pubDate>Sat, 15 Apr 2023 17:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/13/733960.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -385,7 +409,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733942?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733942?type=journalists</guid>
             <pubDate>Thu, 13 Apr 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/13/733942.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -409,7 +433,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733736?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733736?type=journalists</guid>
             <pubDate>Wed, 12 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/12/733736.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -417,7 +441,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733728?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733728?type=journalists</guid>
             <pubDate>Wed, 12 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/12/733728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -425,7 +449,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733485?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733485?type=journalists</guid>
             <pubDate>Tue, 11 Apr 2023 17:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/11/733485.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -433,7 +457,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733355?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733355?type=journalists</guid>
             <pubDate>Mon, 10 Apr 2023 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/10/733355.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -441,7 +465,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/469/0000733321?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000733321?type=journalists</guid>
             <pubDate>Mon, 10 Apr 2023 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/10/733321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -499,30 +523,6 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <pubDate>Mon, 03 Apr 2023 17:33:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/03/732118.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사카모토, 사망 2주 전까지 호소 "지진 대국 일본은 왜 원전에 집착하나" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000732074?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000732074?type=journalists</guid>
-            <pubDate>Sun, 09 Apr 2023 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/03/732074.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오타니 가정교육 특이점 3가지...부모는 "특별하지 않다"지만 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000731842?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000731842?type=journalists</guid>
-            <pubDate>Sat, 08 Apr 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/02/731842.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, ‘차원 다른 저출생 대책’ 발표… 아동수당 확대 등 3년간 ‘집중 추진’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000731716?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000731716?type=journalists</guid>
-            <pubDate>Fri, 31 Mar 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/03/31/731716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[406개 판결문으로 본 ‘법원으로 간 학폭’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -769,7 +769,7 @@ AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상�
             <link>https://n.news.naver.com/article/308/0000032484?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032484?type=journalists</guid>
             <pubDate>Mon, 10 Apr 2023 17:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/10/32484.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
