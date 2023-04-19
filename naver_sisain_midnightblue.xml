@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 17:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 05:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양곡관리법이 문제면 대안을 말하라 [프리스타일]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032549?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032549?type=journalists</guid>
+            <pubDate>Wed, 19 Apr 2023 05:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/19/32549.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중년이지만 혼자 삽니다, 행복하게 삽니다]]></title>
             <link>https://n.news.naver.com/article/308/0000032484?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/06/31554.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년 만에 돌아온 ‘사랑의 시인’]]></title>
-            <link>https://n.news.naver.com/article/308/0000031518?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031518?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/29/31518.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
