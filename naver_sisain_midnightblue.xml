@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 17:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 05:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[완창보다 작창, 소리꾼 이자람의 노래]]></title>
+            <link>https://n.news.naver.com/article/308/0000032557?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032557?type=journalists</guid>
+            <pubDate>Thu, 20 Apr 2023 05:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/20/32557.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양곡관리법이 문제면 대안을 말하라 [프리스타일]]]></title>
             <link>https://n.news.naver.com/article/308/0000032549?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032549?type=journalists</guid>
             <pubDate>Wed, 19 Apr 2023 05:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/19/32549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/19/31623.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 출생통보제 왜 필요할까요?]]></title>
-            <link>https://n.news.naver.com/article/308/0000031554?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031554?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/06/31554.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
