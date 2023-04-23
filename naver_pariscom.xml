@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 05:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 17:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘기시다 폭발물 테러’ 발생 지역 보궐선거서 자민당 패배]]></title>
+            <link>https://n.news.naver.com/article/469/0000735602?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000735602?type=journalists</guid>
+            <pubDate>Sun, 23 Apr 2023 17:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/23/735602.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도쿠가와 이에야스를 거역한 ‘조선인 성녀’ 친필 서한 발견 [특파원 24시]]]></title>
             <link>https://n.news.naver.com/article/469/0000735515?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735515?type=journalists</guid>
             <pubDate>Sun, 23 Apr 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/23/735515.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000735169?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735169?type=journalists</guid>
             <pubDate>Thu, 20 Apr 2023 17:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/20/735169.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000734979?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734979?type=journalists</guid>
             <pubDate>Wed, 19 Apr 2023 17:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/19/734979.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000734936?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734936?type=journalists</guid>
             <pubDate>Wed, 19 Apr 2023 17:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/19/734936.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,23 +68,15 @@
             <link>https://n.news.naver.com/article/469/0000734768?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734768?type=journalists</guid>
             <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734768.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 침공 위협하는 시진핑에 경고...G7 "중국에 직접 우려 표명해야"]]></title>
-            <link>https://n.news.naver.com/article/469/0000734751?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000734751?type=journalists</guid>
-            <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734751.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 테러범, 선거 출마 못 해 사회에 불만? “선거법 부당” 소송 냈었다]]></title>
             <link>https://n.news.naver.com/article/469/0000734730?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734730?type=journalists</guid>
             <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734730.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000734605?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734605?type=journalists</guid>
             <pubDate>Mon, 17 Apr 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734605.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000734597?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734597?type=journalists</guid>
             <pubDate>Mon, 17 Apr 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734597.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,15 +100,31 @@
             <link>https://n.news.naver.com/article/469/0000734522?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734522?type=journalists</guid>
             <pubDate>Mon, 17 Apr 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734522.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 경호 '구멍'...바이든·윤 대통령 히로시마 가는데 어쩌나]]></title>
+            <link>https://n.news.naver.com/article/469/0000734471?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000734471?type=journalists</guid>
+            <pubDate>Sun, 23 Apr 2023 17:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734471.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['일본 안전 신화' 흔들...기시다·아베, 9개월 간격 선거 현장서 '테러']]></title>
+            <link>https://n.news.naver.com/article/469/0000734429?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000734429?type=journalists</guid>
+            <pubDate>Sun, 23 Apr 2023 17:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["효자였다"는 기시다 테러범, 집에서 화약 추정 물질 나왔다]]></title>
             <link>https://n.news.naver.com/article/469/0000734372?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734372?type=journalists</guid>
             <pubDate>Sun, 16 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/16/734372.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +140,7 @@
             <link>https://n.news.naver.com/article/469/0000734285?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734285?type=journalists</guid>
             <pubDate>Fri, 21 Apr 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/15/734285.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +148,7 @@
             <link>https://n.news.naver.com/article/469/0000734275?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734275?type=journalists</guid>
             <pubDate>Sat, 15 Apr 2023 17:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/15/734275.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 11 Apr 2023 17:34:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/11/733485.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 일본은행 총재, “물가 안정 달성에 총력… 완화 정책 계속”]]></title>
-            <link>https://n.news.naver.com/article/469/0000733355?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000733355?type=journalists</guid>
-            <pubDate>Mon, 10 Apr 2023 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/10/733355.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역사수정주의 지지하는 유신회, 일본 지방선거 약진...자민당 '긴장']]></title>
-            <link>https://n.news.naver.com/article/469/0000733321?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000733321?type=journalists</guid>
-            <pubDate>Mon, 10 Apr 2023 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/10/733321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
