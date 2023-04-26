@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 05:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 17:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[총격전에도 일본인 대피 도운 한국군...기시다 "감사하다"]]></title>
+            <link>https://n.news.naver.com/article/469/0000736219?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000736219?type=journalists</guid>
+            <pubDate>Wed, 26 Apr 2023 17:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/26/736219.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본의 달 착륙 야심은 계속된다..."우주 스타트업 아이스페이스, 2, 3차도 도전"]]></title>
+            <link>https://n.news.naver.com/article/469/0000736168?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000736168?type=journalists</guid>
+            <pubDate>Wed, 26 Apr 2023 17:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/26/736168.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국은 적극적 일본은 미지근...화이트리스트 복귀 '온도 차']]></title>
             <link>https://n.news.naver.com/article/469/0000735988?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735988?type=journalists</guid>
             <pubDate>Tue, 25 Apr 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/25/735988.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000735979?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735979?type=journalists</guid>
             <pubDate>Tue, 25 Apr 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/25/735979.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000735789?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735789?type=journalists</guid>
             <pubDate>Mon, 24 Apr 2023 17:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/24/735789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000735762?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735762?type=journalists</guid>
             <pubDate>Mon, 24 Apr 2023 17:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/24/735762.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000735697?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735697?type=journalists</guid>
             <pubDate>Mon, 24 Apr 2023 17:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/24/735697.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -64,11 +80,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/21/735294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['부자 나라' 일본인은 왜 해외 여행을 좋아하지 않을까?]]></title>
+            <link>https://n.news.naver.com/article/469/0000735215?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000735215?type=journalists</guid>
+            <pubDate>Wed, 26 Apr 2023 17:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/20/735215.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성 김 “북한과 조속한 대화 기대… 협상 경로 복수 확보”]]></title>
             <link>https://n.news.naver.com/article/469/0000735169?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735169?type=journalists</guid>
             <pubDate>Thu, 20 Apr 2023 17:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/20/735169.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000734979?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734979?type=journalists</guid>
             <pubDate>Wed, 19 Apr 2023 17:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/19/734979.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000734936?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734936?type=journalists</guid>
             <pubDate>Wed, 19 Apr 2023 17:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/19/734936.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +124,7 @@
             <link>https://n.news.naver.com/article/469/0000734768?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734768?type=journalists</guid>
             <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734768.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +132,7 @@
             <link>https://n.news.naver.com/article/469/0000734751?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734751?type=journalists</guid>
             <pubDate>Mon, 24 Apr 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734751.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +140,7 @@
             <link>https://n.news.naver.com/article/469/0000734730?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000734730?type=journalists</guid>
             <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734730.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 14 Apr 2023 17:33:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/14/734175.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 경보 발령 실수, 북 미사일 변칙 궤도 탓?... 방위장관 "현재 분석 중"]]></title>
-            <link>https://n.news.naver.com/article/469/0000734153?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000734153?type=journalists</guid>
-            <pubDate>Fri, 14 Apr 2023 17:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/14/734153.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["일본, 자꾸 틀리면 양치기소년"...북한 미사일 피란경보 20분 만에 철회]]></title>
-            <link>https://n.news.naver.com/article/469/0000733960?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000733960?type=journalists</guid>
-            <pubDate>Sat, 15 Apr 2023 17:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/13/733960.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대 최대 예약 주문...새 소설 낸 무라카미 하루키는 여전히 '현상']]></title>
-            <link>https://n.news.naver.com/article/469/0000733942?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000733942?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/13/733942.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
