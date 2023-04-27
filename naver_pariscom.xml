@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 17:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 05:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한미일, 5월 21일 히로시마에서 정상회담 조율 중...미국이 요구"]]></title>
+            <link>https://n.news.naver.com/article/469/0000736366?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000736366?type=journalists</guid>
+            <pubDate>Thu, 27 Apr 2023 05:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/27/736366.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[총격전에도 일본인 대피 도운 한국군...기시다 "감사하다"]]></title>
             <link>https://n.news.naver.com/article/469/0000736219?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000736219?type=journalists</guid>
             <pubDate>Wed, 26 Apr 2023 17:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/26/736219.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000736168?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000736168?type=journalists</guid>
             <pubDate>Wed, 26 Apr 2023 17:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/26/736168.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000735515?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735515?type=journalists</guid>
             <pubDate>Sun, 23 Apr 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/23/735515.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000735294?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735294?type=journalists</guid>
             <pubDate>Fri, 21 Apr 2023 05:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/21/735294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000735104?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000735104?type=journalists</guid>
             <pubDate>Thu, 20 Apr 2023 05:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/20/735104.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Apr 2023 17:33:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/14/734180.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘더 글로리’ 이도현, 일본서 한국 관광 홍보… “닭볶음탕 맛있어요”]]></title>
-            <link>https://n.news.naver.com/article/469/0000734175?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000734175?type=journalists</guid>
-            <pubDate>Fri, 14 Apr 2023 17:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/14/734175.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
