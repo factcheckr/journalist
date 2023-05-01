@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 17:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 05:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10대 응급환자 사망사건, 그 소녀는 왜 목숨을 잃었나]]></title>
+            <link>https://n.news.naver.com/article/308/0000032615?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032615?type=journalists</guid>
+            <pubDate>Mon, 01 May 2023 05:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/01/32615.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[406개 판결문으로 본 ‘법원으로 간 학폭’]]></title>
             <link>https://n.news.naver.com/article/308/0000032495?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/01/31684.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 카카오 복구 상황을 왜 정부에서?]]></title>
-            <link>https://n.news.naver.com/article/308/0000031642?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031642?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/24/31642.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
