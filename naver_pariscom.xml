@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 17:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 05:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특파원의 시선] 갈라파고스는 어디인가]]></title>
+            <link>https://n.news.naver.com/article/469/0000737509?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000737509?type=journalists</guid>
+            <pubDate>Thu, 04 May 2023 05:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737509.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본, 한국 야당 의원 독도 방문에 항의… "도저히 받아들일 수 없어"]]></title>
             <link>https://n.news.naver.com/article/469/0000737297?type=journalists</link>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000736885?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000736885?type=journalists</guid>
             <pubDate>Sun, 30 Apr 2023 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/30/736885.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000736366?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000736366?type=journalists</guid>
             <pubDate>Thu, 27 Apr 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/27/736366.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734730.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외양간 두 번째 고치는 일본...기시다 테러 후 행사 경호 대폭 강화]]></title>
-            <link>https://n.news.naver.com/article/469/0000734605?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000734605?type=journalists</guid>
-            <pubDate>Mon, 17 Apr 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/17/734605.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

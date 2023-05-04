@@ -4,9 +4,27 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 17:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 05:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 “우크라이나군이 푸틴 암살 시도” 주장]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202305040847001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202305040847001</guid>
+            <pubDate>Thu, 04 May 2023 05:32:09 GMT</pubDate>
+            <content:encoded><![CDATA[러시아가 크렘린궁이 드론 공격을 받았다고 주장하며 보복을 공언하고 나섰다.
+3일(현지시간) 로이터, 타스 통신 등에 따르면 크렘린궁은 성명에서 “전날 밤 우크라이나가 무인기로 크렘린궁 대통령 관저에 대한 공격을 시도했다”며 “2대의 무인기가 크렘린궁을 겨냥했으나 군이 전자전 체계를 적절히 사용해 이들을 무력화했다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/04/news-p.v1.20230504.d6d1b1ecd9854628a5776dbbe2da76d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파월 “6월 중 금리 인상 일시 중단 논의…올해 금리인하 논의 없을 것”]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202305040840001</link>
+            <guid>https://www.khan.co.kr/world/america/article/202305040840001</guid>
+            <pubDate>Thu, 04 May 2023 05:32:09 GMT</pubDate>
+            <content:encoded><![CDATA[제롬 파월 미 연방준비제도(Fed·연준) 의장이 6월에 금리 인상 일시 중단에 대한 부분을 논의할 것이라고 말했다. 인플레이션 하락에 시간이 걸리는 만큼 올해는 금리 인하를 하지 않을 것으로 예상했다.
+제롬 파월 연준 의장은 3일(현지시간) 5월 연방공개시장위원회(FOMC)가 25bp 금리인상을 한 후 열린 기자회견에서 “추가적인 정책 긴축이 필요하다고 말하지 않는 것이 의미있다”며 고 말했다. 파월 의장은 “금리인상 일시 중단 결정은 오늘 이뤄지지 않았다”며 “6월 회의에서 다룰 것”이라고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/04/news-p.v1.20230504.439db661067f4140b77be9582f2b2e02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 증시 안정적 출발…퍼스트리퍼블릭 은행발 불안감 누그러져]]></title>
             <link>https://www.khan.co.kr/world/america/article/202305012316001</link>
@@ -99,24 +117,6 @@ AFP통신 등에 따르면 6일(현지시간) 파리 도심에서 북쪽으로 3
             <content:encoded><![CDATA[연금개혁 문제의 출구를 찾지 못하고 있는 프랑스에서 지난 대선과 같은 구도로 지금 선거를 다시 치를 경우 극우 정치인인 마린 르펜 국민연합(RN) 대표가 에마뉘엘 마크롱 대통령을 큰 표 차이로 꺾고 당선될 것이라는 여론조사 결과가 나왔다.
 BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 의뢰로 조사한 가상대결 결과 르펜 대표가 결선투표에서 55%의 득표를 얻어 마크롱 대통령(45%)을 10%포인트 차이로 따돌리는 것으로 집계됐다고 보도했다. 지난해 4월 대선 결선투표에서 마크롱 대통령은 58.5%를 얻어 41.5%를 얻은 르펜 대표를 17%포인트 차이로 누르고 당선됐다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/06/news-p.v1.20230406.dc4f8971ac4245c8a7866b45caddd507.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주민 투표율 7%인데…파리 ‘전동 킥보드’ 퇴출]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202304032204025</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202304032204025</guid>
-            <pubDate>Mon, 03 Apr 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 파리에서 주민투표 끝에 전동 킥보드 대여 서비스를 중단해야 한다는 결과가 나왔다. 하지만 무관심 속에서 진행된 투표 결과를 받아들여야 하는 주민들의 속내는 간단치 않다.
-AFP통신 등에 따르면 2일(현지시간) 파리 20개구 주민들을 상대로 전동 킥보드 대여 서비스를 지속할지 찬반을 묻는 주민투표를 시행한 결과 89.03%가 반대했다. 투표율은 7%로 낮았다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/03/2023040401000092500008051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핀란드 총선, 중도우파 정당 승리…‘마린 총리’ 당은 3위 그쳐]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202304032158025</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202304032158025</guid>
-            <pubDate>Mon, 03 Apr 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[핀란드 총선에서 중도우파 성향인 국민연합당이 산나 마린 총리(37·사진)의 중도좌파 성향 사회민주당에 간발의 차로 승리했다. 스웨덴, 이탈리아 등에 이어 유럽의 ‘우향우’ 흐름이 계속되고 있다.
-핀란드 공영방송 Yle에 따르면 2일(현지시간) 치러진 총선에서 국민연합당은 전체 200개 의석 중 최다인 48석을 차지해 제1당이 됐다. 극우 성향인 핀란드인당이 46석을 얻어 간발의 차로 제2당에 올랐으며, 사회민주당은 43석 확보에 그쳐 제3당으로 밀려났다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/03/2023040401000100700007981.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
