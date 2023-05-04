@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 05:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 17:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,11 +288,27 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1230/A0002891805_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['포스트 기시다' 행보 나선 일본 자민당 간사장... 라이벌 밀어주는 기시다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000737676?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000737676?type=journalists</guid>
+            <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737676.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 언론 "한일 정상 만찬, 관저에서 홈 파티 형식" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000737601?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000737601?type=journalists</guid>
+            <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737601.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[특파원의 시선] 갈라파고스는 어디인가 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000737509?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737509?type=journalists</guid>
             <pubDate>Thu, 04 May 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737509.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +316,7 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <link>https://n.news.naver.com/article/469/0000737297?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737297?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/03/737297.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +324,7 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <link>https://n.news.naver.com/article/469/0000737252?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737252?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737252.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +332,7 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <link>https://n.news.naver.com/article/469/0000737189?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737189?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +340,7 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <link>https://n.news.naver.com/article/469/0000737046?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737046?type=journalists</guid>
             <pubDate>Mon, 01 May 2023 17:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/01/737046.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +356,7 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <link>https://n.news.naver.com/article/469/0000736740?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000736740?type=journalists</guid>
             <pubDate>Sat, 29 Apr 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/28/736740.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,15 +364,23 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <link>https://n.news.naver.com/article/469/0000736709?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000736709?type=journalists</guid>
             <pubDate>Fri, 28 Apr 2023 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/28/736709.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“기시다도 尹 본받아야”... 일본 보수언론, 한미 정상회담 호평한 이유는 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000736697?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000736697?type=journalists</guid>
+            <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/28/736697.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저출생 심각한 일본, 50년 뒤 인구는 예상보다 400만 명 증가...왜? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000736548?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000736548?type=journalists</guid>
             <pubDate>Thu, 27 Apr 2023 17:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/27/736548.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -372,7 +396,7 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <link>https://n.news.naver.com/article/469/0000736227?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000736227?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/26/736227.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -380,7 +404,7 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <link>https://n.news.naver.com/article/469/0000736219?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000736219?type=journalists</guid>
             <pubDate>Wed, 26 Apr 2023 17:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/26/736219.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -388,7 +412,7 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <link>https://n.news.naver.com/article/469/0000736168?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000736168?type=journalists</guid>
             <pubDate>Wed, 26 Apr 2023 17:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.04.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/26/736168.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -502,30 +526,6 @@ BFM-TV는 5일(현지시간) 프랑스 여론조사기관 엘라브가 자사 �
             <pubDate>Wed, 19 Apr 2023 17:33:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/19/734936.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김동연 “송영길, 귀국해서 조사에 협조해야...대충 넘기지 말라” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000734768?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000734768?type=journalists</guid>
-            <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734768.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 침공 위협하는 시진핑에 경고...G7 "중국에 직접 우려 표명해야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000734751?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000734751?type=journalists</guid>
-            <pubDate>Mon, 24 Apr 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734751.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 테러범, 선거 출마 못 해 사회에 불만? “선거법 부당” 소송 냈었다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000734730?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000734730?type=journalists</guid>
-            <pubDate>Tue, 18 Apr 2023 17:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/18/734730.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고용노동부의 ‘놀라웠던’ 보도자료 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
