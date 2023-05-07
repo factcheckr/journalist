@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 05:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 17:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,13 +18,12 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/07/news-p.v1.20230507.935159f9d55743e68d15bbab043855a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방한 기시다 첫 일정, 애국지사도 묻힌 ‘국립현충원 헌화’ (경향신문 ─ 박은하 기자)]]></title>
+            <title><![CDATA[기시다 방한 첫 일정 ‘국립현충원 참배’ 3가지 의미 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202305071029001</link>
             <guid>https://www.khan.co.kr/world/japan/article/202305071029001</guid>
             <pubDate>Sun, 07 May 2023 05:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[기시다 후미오 일본 총리가 7일 한국 방문 직전에 한일 정상회담과 관련해 “신뢰관계에 기초해 윤석열 대통령과 솔직한 의견교환을 하겠다”고 말했다.
-기시다 총리는 하네다공항으로 출발하기 전 도쿄 관저에서 기자들의 질문에 이 같이 답했다고 교도통신 등 일본 언론들이 보도했다.
-기시다 총리는 오는 19~21일 히로시마에서 열리는 주요7개국(G7)정상회의에 윤 대통령을 초대한 것을 근거로 국제·지역정세에 대해서도 논의할 것이라고 말했다. 기시다 총리는 재무, 방위 등 다양한 분야에서 한일 정부 간 대화가 재개되고 있다면서 “이런 흐름을 한층 발전시키겠다”고 말했다.]]></content:encoded>
+            <content:encoded><![CDATA[기시다 후미오 일본 총리가 7일 한국 방문 첫 일정으로 서울 동작동 국립현충원을 찾아 참배했다. 기시다 총리는 부인인 기시다 유코 여사, 기하라 세이지 관방부장관, 아이보시 고이치 주한 일본대사, 윤덕민 주일 한국대사 등과 함께 국립현충원을 방문했다.
+연합뉴스에 따르면 일본 정부 당국자는 기시다 총리가 국립현충원을 방문하는 의미에 대한 질의에 “한 국가의 정상이 방문국의 현충 시설을 찾아가 그 나라의 역사와 관련한 많은 사람의 삶에 존경의 마음을 표하는 것은 자연스러운 일”이라고 설명했다. 이 당국자는 “기시다 총리도 한국 역사에서 그런 (현충원에 묻힌) 사람들에 대한 존경을 표시하기를 원한다”고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/07/rcv.YNA.20230507.PYH2023050702120001300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -290,11 +289,19 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1230/A0002891805_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 언론 “기시다 '징용 관련' 발언은 윤 대통령 배려한 것” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000737988?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000737988?type=journalists</guid>
+            <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737988.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 언론 "강제동원 피해 생존자 1명, 한국 정부 해법 수용 의향" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000737914?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737914?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737914.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,31 +309,31 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737897?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737897?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737897.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5년 만의 일본 총리 방한… 기시다, 현충원 참배 첫 일정 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000737896?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000737896?type=journalists</guid>
-            <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737896.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 "윤 대통령과 솔직한 의견 교환 하겠다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000737892?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737892?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737892.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 이시카와현서 강진… "1명 사망 20여 명 부상" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000737811?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000737811?type=journalists</guid>
+            <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/05/737811.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['포스트 기시다' 행보 나선 일본 자민당 간사장... 라이벌 밀어주는 기시다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000737676?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737676?type=journalists</guid>
             <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737676.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -334,7 +341,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737601?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737601?type=journalists</guid>
             <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737601.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -350,7 +357,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737297?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737297?type=journalists</guid>
             <pubDate>Sat, 06 May 2023 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/03/737297.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,7 +365,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737252?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737252?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737252.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -366,7 +373,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737189?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737189?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -374,8 +381,16 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737046?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737046?type=journalists</guid>
             <pubDate>Mon, 01 May 2023 17:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/01/737046.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["2시간 노출시 사망하는 폐기물 41톤" 후쿠시마 원전, 또 다른 악재 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000737020?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000737020?type=journalists</guid>
+            <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/01/737020.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["위안부 문제 알아버린 책임감"...과거사 열공하는 일본 청년들 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -512,22 +527,6 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <pubDate>Fri, 28 Apr 2023 17:33:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/23/735588.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿠가와 이에야스를 거역한 ‘조선인 성녀’ 친필 서한 발견 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000735515?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000735515?type=journalists</guid>
-            <pubDate>Sun, 23 Apr 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/23/735515.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 'A급 전범 합사' 야스쿠니 신사에 공물 봉납... 취임 후 다섯 번째 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000735294?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000735294?type=journalists</guid>
-            <pubDate>Fri, 21 Apr 2023 05:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/21/735294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고용노동부의 ‘놀라웠던’ 보도자료 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>

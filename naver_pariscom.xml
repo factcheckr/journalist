@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 05:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 17:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 언론 “기시다 '징용 관련' 발언은 윤 대통령 배려한 것”]]></title>
+            <link>https://n.news.naver.com/article/469/0000737988?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000737988?type=journalists</guid>
+            <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737988.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 언론 "강제동원 피해 생존자 1명, 한국 정부 해법 수용 의향"]]></title>
             <link>https://n.news.naver.com/article/469/0000737914?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737914?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737914.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,31 +28,31 @@
             <link>https://n.news.naver.com/article/469/0000737897?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737897?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737897.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5년 만의 일본 총리 방한… 기시다, 현충원 참배 첫 일정]]></title>
-            <link>https://n.news.naver.com/article/469/0000737896?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000737896?type=journalists</guid>
-            <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737896.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 "윤 대통령과 솔직한 의견 교환 하겠다"]]></title>
             <link>https://n.news.naver.com/article/469/0000737892?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737892?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737892.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 이시카와현서 강진… "1명 사망 20여 명 부상"]]></title>
+            <link>https://n.news.naver.com/article/469/0000737811?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000737811?type=journalists</guid>
+            <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/05/737811.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['포스트 기시다' 행보 나선 일본 자민당 간사장... 라이벌 밀어주는 기시다]]></title>
             <link>https://n.news.naver.com/article/469/0000737676?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737676?type=journalists</guid>
             <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737676.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000737601?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737601?type=journalists</guid>
             <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737601.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000737297?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737297?type=journalists</guid>
             <pubDate>Sat, 06 May 2023 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/03/737297.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000737252?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737252?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737252.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000737189?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737189?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,8 +100,16 @@
             <link>https://n.news.naver.com/article/469/0000737046?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737046?type=journalists</guid>
             <pubDate>Mon, 01 May 2023 17:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/01/737046.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["2시간 노출시 사망하는 폐기물 41톤" 후쿠시마 원전, 또 다른 악재]]></title>
+            <link>https://n.news.naver.com/article/469/0000737020?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000737020?type=journalists</guid>
+            <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/01/737020.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["위안부 문제 알아버린 책임감"...과거사 열공하는 일본 청년들 [특파원 24시]]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 28 Apr 2023 17:33:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/23/735588.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿠가와 이에야스를 거역한 ‘조선인 성녀’ 친필 서한 발견 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000735515?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000735515?type=journalists</guid>
-            <pubDate>Sun, 23 Apr 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/23/735515.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 'A급 전범 합사' 야스쿠니 신사에 공물 봉납... 취임 후 다섯 번째]]></title>
-            <link>https://n.news.naver.com/article/469/0000735294?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000735294?type=journalists</guid>
-            <pubDate>Fri, 21 Apr 2023 05:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/21/735294.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
