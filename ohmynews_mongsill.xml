@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 17:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 05:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상상하던 세상이 눈앞에... 서울시 방해하지 말아요]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002925606</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002925606</guid>
+            <pubDate>Mon, 08 May 2023 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0508/A0002925606_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕, 문빈... 가수 해줘서 고마웠어요]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002920885</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 03 Mar 2023 17:32:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0106/A0002893346_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 한 살 먹었다, 이 나이에 이렇게 살아도 되나]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002891805</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002891805</guid>
-            <pubDate>Fri, 03 Mar 2023 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1230/A0002891805_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

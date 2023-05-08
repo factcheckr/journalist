@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 17:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 05:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘윤석열 비용’ 청구서가 쌓인다 [윤석열 정부 1년]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032645?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032645?type=journalists</guid>
+            <pubDate>Mon, 08 May 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/08/32645.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정치적 책임은 지지만 돈봉투 의혹은 몰랐다는 송영길 [기자들의 시선]]]></title>
             <link>https://n.news.naver.com/article/308/0000032618?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032618?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/02/32618.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,14 +534,6 @@
             <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.02.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/28/30454.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국과 중국 사이, 후보들은 어디에 서 있나 [2022 대선 의제 ⑤]]]></title>
-            <link>https://n.news.naver.com/article/308/0000030407?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030407?type=journalists</guid>
-            <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/21/30407.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
