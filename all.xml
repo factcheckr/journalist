@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 05:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 17:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,7 +31,7 @@ AP통신 등에 따르면 6일 오후 3시 36분쯤 텍사스주 댈러스 외�
             <guid>https://www.khan.co.kr/world/america/article/202305080833001</guid>
             <pubDate>Mon, 08 May 2023 05:32:07 GMT</pubDate>
             <content:encoded><![CDATA[미국 텍사스주 국경도시 브라운스빌에서 7일(현지시간) SUV 차량이 국경 이민자 보호소 앞 버스 정류장 쪽으로 돌진해 최소 7명이 숨지고 10명이 부상했다.
-AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 오자남 센터’의 운영자인 빅터 맬더나도는 현장 감시 카메라에 녹화된 영상을 봤다며 “SUV인 레인지로버 차량이 약 30m 떨어진 곳에서 신호를 무시한 채 그대로 버스 정류장에 앉아 있던 사람들을 치었다”라고 전했다.]]></content:encoded>
+AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 오자남 센터’의 운영자인 빅터 맬더나도는 현장 감시 카메라에 녹화된 영상을 봤다며 “레인지로버 차량이 약 30m 떨어진 곳에서 신호를 무시한 채 달려와 그대로 버스 정류장에 앉아 있던 사람들을 치었다”라고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/08/news-p.v1.20230508.0e9d2ab4542d49fab16e8d67fa4e443f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,7 +40,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <guid>https://www.khan.co.kr/world/america/article/202305080754001</guid>
             <pubDate>Mon, 08 May 2023 05:32:07 GMT</pubDate>
             <content:encoded><![CDATA[페루의 금광에서 화재가 발생해 최소 27명이 사망했다고 당국이 7일(현지시간) 밝혔다.
-로이터, AFP통신에 따르면 사고는 전날 페루 남부 아레키파 지역에 있는 라 에스페란자 광산 내부 터널에서 발생했다. 아레키파 지방정부는 설명자료에서 “광산 소유주인 에스테반 우아마니 우르다이가 화재를 신고했다”며 “(우르다이는) 광부 27명이 질식돼 위험하다며 도움을 요청했다”고 말했다.]]></content:encoded>
+로이터·AFP통신에 따르면 사고는 전날 페루 남부 아레키파 지역에 있는 라 에스페란자 광산 내부 터널에서 발생했다. 아레키파 지방정부는 설명자료에서 “광산 소유주인 에스테반 우아마니 우르다이가 화재를 신고했다”며 “(우르다이는) 광부 27명이 질식돼 위험하다며 도움을 요청했다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/08/news-p.v1.20230508.b708e5c732784773a61f046c65c56075.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +292,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000738086?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738086?type=journalists</guid>
             <pubDate>Mon, 08 May 2023 05:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/08/738086.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,8 +300,16 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737988?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737988?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737988.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 언론 "강제동원 피해 생존자 1명, 한국 정부 해법 수용 의향" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000737914?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000737914?type=journalists</guid>
+            <pubDate>Mon, 08 May 2023 17:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737914.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호주, 홋카이도 원주민 아이누 유골 반환하며 사과… 정작 일본은? [특파원24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -332,7 +340,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737811?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737811?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/05/737811.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +348,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737676?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737676?type=journalists</guid>
             <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737676.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +356,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737601?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737601?type=journalists</guid>
             <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737601.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,7 +372,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737297?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737297?type=journalists</guid>
             <pubDate>Sat, 06 May 2023 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/03/737297.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -372,7 +380,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737252?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737252?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737252.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -380,7 +388,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737189?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737189?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -388,7 +396,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737046?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737046?type=journalists</guid>
             <pubDate>Mon, 01 May 2023 17:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/01/737046.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -396,7 +404,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737020?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737020?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/01/737020.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -518,14 +526,6 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <pubDate>Mon, 24 Apr 2023 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/24/735697.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘기시다 폭발물 테러’ 발생 지역 보궐선거서 자민당 패배 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000735602?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000735602?type=journalists</guid>
-            <pubDate>Sat, 29 Apr 2023 05:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/23/735602.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고용노동부의 ‘놀라웠던’ 보도자료 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1012,7 +1012,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/308/0000032645?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032645?type=journalists</guid>
             <pubDate>Mon, 08 May 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/08/32645.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
