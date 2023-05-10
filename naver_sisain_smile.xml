@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 17:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 05:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법무부와 검찰은 지금 ‘윤석열 사단’ 전성시대 [윤석열 정부 1년]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032655?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032655?type=journalists</guid>
+            <pubDate>Wed, 10 May 2023 05:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/10/32655.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘윤석열 비용’ 청구서가 쌓인다 [윤석열 정부 1년]]]></title>
             <link>https://n.news.naver.com/article/308/0000032645?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032645?type=journalists</guid>
             <pubDate>Mon, 08 May 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/08/32645.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000032618?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032618?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/02/32618.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,14 +534,6 @@
             <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30506.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 검찰 공약 살펴보니 “뼛속까지 검찰주의자”]]></title>
-            <link>https://n.news.naver.com/article/308/0000030454?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030454?type=journalists</guid>
-            <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/28/30454.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

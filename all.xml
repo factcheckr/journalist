@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 17:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 05:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,11 +288,19 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0106/A0002893346_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[챗GPT, 일본 의사 국시도 통과... 인간 평균 점수보단 못 받았다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000738498?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000738498?type=journalists</guid>
+            <pubDate>Wed, 10 May 2023 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738498.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["마음 아프다" 표현만 아베 따라한 기시다...아베 "사과와 반성"은 생략 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000738367?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738367?type=journalists</guid>
             <pubDate>Tue, 09 May 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738367.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +308,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000738324?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738324?type=journalists</guid>
             <pubDate>Tue, 09 May 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738324.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +316,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000738262?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738262?type=journalists</guid>
             <pubDate>Tue, 09 May 2023 05:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +324,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000738086?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738086?type=journalists</guid>
             <pubDate>Mon, 08 May 2023 05:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/08/738086.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +340,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737914?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737914?type=journalists</guid>
             <pubDate>Mon, 08 May 2023 17:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737914.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +348,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737897?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737897?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737897.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +356,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737896?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737896?type=journalists</guid>
             <pubDate>Mon, 08 May 2023 05:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737896.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,7 +364,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737892?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737892?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737892.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -388,7 +396,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737509?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737509?type=journalists</guid>
             <pubDate>Thu, 04 May 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737509.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -412,7 +420,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/469/0000737189?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737189?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -520,19 +528,11 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/25/735988.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[외국인 노동자에 문 활짝 여는 일본..."이민 국가 된다” 보수는 반발 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000735979?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000735979?type=journalists</guid>
-            <pubDate>Tue, 25 Apr 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/25/735979.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[롯데 자이언츠, 올가을 ‘탑데’ 될까? [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032646?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032646?type=journalists</guid>
             <pubDate>Tue, 09 May 2023 05:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/09/32646.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -540,7 +540,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/308/0000032624?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032624?type=journalists</guid>
             <pubDate>Wed, 03 May 2023 05:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/03/32624.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -772,7 +772,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/308/0000032634?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032634?type=journalists</guid>
             <pubDate>Fri, 05 May 2023 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/05/32634.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1248,11 +1248,19 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/19/30727.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[법무부와 검찰은 지금 ‘윤석열 사단’ 전성시대 [윤석열 정부 1년] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032655?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032655?type=journalists</guid>
+            <pubDate>Wed, 10 May 2023 05:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/10/32655.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘윤석열 비용’ 청구서가 쌓인다 [윤석열 정부 1년] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032645?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032645?type=journalists</guid>
             <pubDate>Mon, 08 May 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/08/32645.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1260,7 +1268,7 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <link>https://n.news.naver.com/article/308/0000032618?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032618?type=journalists</guid>
             <pubDate>Tue, 02 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/02/32618.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1766,14 +1774,6 @@ AP통신은 이날 익명의 관계자들을 인용해 수단 정부군과 준�
             <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.03.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30506.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 검찰 공약 살펴보니 “뼛속까지 검찰주의자” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030454?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030454?type=journalists</guid>
-            <pubDate>Mon, 17 Apr 2023 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.02.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/28/30454.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그룹 아스트로의 멤버 문빈의 안타까운 죽음으로 본 K팝 산업의 현실 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
