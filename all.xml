@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 17:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 05:34:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,19 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0106/A0002893346_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“삼성전자, 3000억 들여 일본에 반도체 개발거점 신설한다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000739173?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000739173?type=journalists</guid>
+            <pubDate>Sun, 14 May 2023 05:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/14/739173.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 지바현서 규모 5.2 지진…도쿄서도 "새벽에 자다 깜짝" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000738728?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738728?type=journalists</guid>
             <pubDate>Thu, 11 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/11/738728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +306,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <link>https://n.news.naver.com/article/469/0000738696?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738696?type=journalists</guid>
             <pubDate>Thu, 11 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/11/738696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +322,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <link>https://n.news.naver.com/article/469/0000738498?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738498?type=journalists</guid>
             <pubDate>Wed, 10 May 2023 05:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738498.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +346,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <link>https://n.news.naver.com/article/469/0000738262?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738262?type=journalists</guid>
             <pubDate>Tue, 09 May 2023 05:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,7 +354,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <link>https://n.news.naver.com/article/469/0000738086?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738086?type=journalists</guid>
             <pubDate>Mon, 08 May 2023 05:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/08/738086.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -370,7 +378,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <link>https://n.news.naver.com/article/469/0000737914?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737914?type=journalists</guid>
             <pubDate>Fri, 12 May 2023 05:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737914.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -378,7 +386,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <link>https://n.news.naver.com/article/469/0000737897?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737897?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737897.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -386,7 +394,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <link>https://n.news.naver.com/article/469/0000737896?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737896?type=journalists</guid>
             <pubDate>Mon, 08 May 2023 05:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737896.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -394,7 +402,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <link>https://n.news.naver.com/article/469/0000737892?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737892?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737892.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -518,19 +526,11 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/28/736697.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[저출생 심각한 일본, 50년 뒤 인구는 예상보다 400만 명 증가...왜? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000736548?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000736548?type=journalists</guid>
-            <pubDate>Thu, 27 Apr 2023 17:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/27/736548.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[롯데 자이언츠, 올가을 ‘탑데’ 될까? [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032646?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032646?type=journalists</guid>
             <pubDate>Tue, 09 May 2023 05:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/09/32646.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1250,7 +1250,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <link>https://n.news.naver.com/article/308/0000032655?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032655?type=journalists</guid>
             <pubDate>Wed, 10 May 2023 05:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/10/32655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1258,7 +1258,7 @@ AP통신에 따르면 이민자 보호소인 ‘비숍 엔리케 산 페드로 �
             <link>https://n.news.naver.com/article/308/0000032645?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032645?type=journalists</guid>
             <pubDate>Mon, 08 May 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/08/32645.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
