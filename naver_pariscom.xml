@@ -4,17 +4,9 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 05:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 17:34:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[“삼성전자, 3000억 들여 일본에 반도체 개발거점 신설한다"]]></title>
-            <link>https://n.news.naver.com/article/469/0000739173?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000739173?type=journalists</guid>
-            <pubDate>Sun, 14 May 2023 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/14/739173.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[일본 지바현서 규모 5.2 지진…도쿄서도 "새벽에 자다 깜짝"]]></title>
             <link>https://n.news.naver.com/article/469/0000738728?type=journalists</link>
@@ -32,11 +24,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/11/738696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[타임지, “기시다, 평화주의 포기하고 군사강국 도약 원해”]]></title>
+            <link>https://n.news.naver.com/article/469/0000738626?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000738626?type=journalists</guid>
+            <pubDate>Sun, 14 May 2023 17:33:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738626.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한일 정상회담에 화답한 재계...한일 미래기금, 공동사업 논의 시동]]></title>
             <link>https://n.news.naver.com/article/469/0000738585?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738585?type=journalists</guid>
             <pubDate>Thu, 11 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738585.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000738367?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738367?type=journalists</guid>
             <pubDate>Tue, 09 May 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738367.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000738324?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738324?type=journalists</guid>
             <pubDate>Tue, 09 May 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738324.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 09 May 2023 05:32:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738262.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘윤석열 정부 구하기’ 나선 기시다의 “마음 아프다”...일본서 호평]]></title>
+            <link>https://n.news.naver.com/article/469/0000738165?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000738165?type=journalists</guid>
+            <pubDate>Sun, 14 May 2023 17:33:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/08/738165.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다 “윤 대통령과 힘 합쳐 새 시대 열어가고 싶다”]]></title>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000737988?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737988?type=journalists</guid>
             <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737988.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000737975?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000737975?type=journalists</guid>
             <pubDate>Sat, 13 May 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737975.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Apr 2023 17:33:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/28/736709.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“기시다도 尹 본받아야”... 일본 보수언론, 한미 정상회담 호평한 이유는]]></title>
-            <link>https://n.news.naver.com/article/469/0000736697?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000736697?type=journalists</guid>
-            <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/28/736697.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
