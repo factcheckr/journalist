@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 17:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마스크 벗은 일본, 돈 내고 미소 짓는 법 배운다]]></title>
+            <link>https://n.news.naver.com/article/469/0000739627?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000739627?type=journalists</guid>
+            <pubDate>Tue, 16 May 2023 17:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/16/739627.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["자녀 3세 될 때까지 부모 재택근무 보장하라" 일본 저출생 대책]]></title>
+            <link>https://n.news.naver.com/article/469/0000739572?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000739572?type=journalists</guid>
+            <pubDate>Tue, 16 May 2023 17:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/16/739572.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["윤 대통령이 간토대학살 잘 모르나 싶었는데, 제가 더 열심히 알려야죠"]]></title>
             <link>https://n.news.naver.com/article/469/0000739469?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000739469?type=journalists</guid>
             <pubDate>Tue, 16 May 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/16/739469.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000739377?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000739377?type=journalists</guid>
             <pubDate>Mon, 15 May 2023 17:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/15/739377.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000738626?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738626?type=journalists</guid>
             <pubDate>Sun, 14 May 2023 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738626.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000738585?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738585?type=journalists</guid>
             <pubDate>Thu, 11 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738585.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000738367?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738367?type=journalists</guid>
             <pubDate>Tue, 09 May 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738367.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000738324?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738324?type=journalists</guid>
             <pubDate>Tue, 09 May 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738324.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000738165?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738165?type=journalists</guid>
             <pubDate>Sun, 14 May 2023 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/08/738165.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 07 May 2023 17:33:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/01/737020.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["위안부 문제 알아버린 책임감"...과거사 열공하는 일본 청년들 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000736885?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000736885?type=journalists</guid>
-            <pubDate>Sun, 30 Apr 2023 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/30/736885.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 언론 "기시다 다음달 7, 8일 답방"... 이번엔 '성의 있는 호응' 보여줄까]]></title>
-            <link>https://n.news.naver.com/article/469/0000736802?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000736802?type=journalists</guid>
-            <pubDate>Fri, 05 May 2023 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/04/29/736802.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
