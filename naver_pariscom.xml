@@ -4,31 +4,47 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 05:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 17:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기시다 "한일관계 더욱 개선" 바이든 "기시다 노력에 찬사"]]></title>
+            <link>https://n.news.naver.com/article/469/0000740085?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000740085?type=journalists</guid>
+            <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740085.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국인 원폭 피해자들 “한일 정상 위령비 방문 환영… 미국은 사과해야”]]></title>
+            <link>https://n.news.naver.com/article/469/0000740075?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000740075?type=journalists</guid>
+            <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740075.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["마이크론, 일본에 5조 투자"...기시다 만난 세계 반도체 빅7, 투자 약속]]></title>
+            <link>https://n.news.naver.com/article/469/0000740004?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000740004?type=journalists</guid>
+            <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740004.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다, 삼성·TSMC·인텔 등 반도체기업 대표 한꺼번에 만난다]]></title>
             <link>https://n.news.naver.com/article/469/0000739876?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000739876?type=journalists</guid>
             <pubDate>Wed, 17 May 2023 17:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/17/739876.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["인권 후진국 아닌 척하려고?"...일본 자민당, 'LGBT 이해증진법' 발의키로]]></title>
-            <link>https://n.news.naver.com/article/469/0000739871?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000739871?type=journalists</guid>
-            <pubDate>Wed, 17 May 2023 17:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/17/739871.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마스크 벗은 일본, 돈 내고 미소 짓는 법 배운다]]></title>
             <link>https://n.news.naver.com/article/469/0000739627?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000739627?type=journalists</guid>
             <pubDate>Tue, 16 May 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/16/739627.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000739572?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000739572?type=journalists</guid>
             <pubDate>Tue, 16 May 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/16/739572.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,8 +68,16 @@
             <link>https://n.news.naver.com/article/469/0000739377?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000739377?type=journalists</guid>
             <pubDate>Mon, 15 May 2023 17:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/15/739377.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“한일관계 개선, 윤 대통령 개인의 의지에 의존하면 한계”[전문가 인터뷰]]]></title>
+            <link>https://n.news.naver.com/article/469/0000738884?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000738884?type=journalists</guid>
+            <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/12/738884.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 지바현서 규모 5.2 지진…도쿄서도 "새벽에 자다 깜짝"]]></title>
@@ -76,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000738626?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738626?type=journalists</guid>
             <pubDate>Sun, 14 May 2023 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738626.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000738585?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738585?type=journalists</guid>
             <pubDate>Thu, 11 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738585.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 04 May 2023 05:32:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737509.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 한국 야당 의원 독도 방문에 항의… "도저히 받아들일 수 없어"]]></title>
-            <link>https://n.news.naver.com/article/469/0000737297?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000737297?type=journalists</guid>
-            <pubDate>Sat, 06 May 2023 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/03/737297.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["삼성·LG, 중국에 쫓겨 투자해 봐야"...일본 언론 "한국 패널산업 미래 불투명"]]></title>
-            <link>https://n.news.naver.com/article/469/0000737252?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000737252?type=journalists</guid>
-            <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737252.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7일 한국 오는 기시다 “윤 대통령과 허심탄회한 의견 교환 기대한다"]]></title>
-            <link>https://n.news.naver.com/article/469/0000737189?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000737189?type=journalists</guid>
-            <pubDate>Tue, 02 May 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/02/737189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
