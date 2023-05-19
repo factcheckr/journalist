@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 17:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 05:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000740085?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740085?type=journalists</guid>
             <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740085.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000740075?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740075?type=journalists</guid>
             <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000740004?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740004?type=journalists</guid>
             <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 17 May 2023 17:32:53 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/17/739876.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["인권 후진국 아닌 척하려고?"...일본 자민당, 'LGBT 이해증진법' 발의키로]]></title>
+            <link>https://n.news.naver.com/article/469/0000739871?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000739871?type=journalists</guid>
+            <pubDate>Fri, 19 May 2023 05:34:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/17/739871.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마스크 벗은 일본, 돈 내고 미소 짓는 법 배운다]]></title>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000739469?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000739469?type=journalists</guid>
             <pubDate>Tue, 16 May 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/16/739469.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000738884?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738884?type=journalists</guid>
             <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/12/738884.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000738728?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738728?type=journalists</guid>
             <pubDate>Thu, 11 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/11/738728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000738696?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000738696?type=journalists</guid>
             <pubDate>Thu, 11 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/11/738696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 May 2023 17:32:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737601.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특파원의 시선] 갈라파고스는 어디인가]]></title>
-            <link>https://n.news.naver.com/article/469/0000737509?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000737509?type=journalists</guid>
-            <pubDate>Thu, 04 May 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/04/737509.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
