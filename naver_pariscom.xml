@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 17:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 05:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[G7 폐막날 ‘신스틸러’는 젤렌스키... 인도 등 '친러' 신흥국에 협력 요청]]></title>
+            <link>https://n.news.naver.com/article/469/0000740458?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000740458?type=journalists</guid>
+            <pubDate>Mon, 22 May 2023 05:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740458.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[G7, 러시아엔 합심해 '강력 규탄'… 중국엔 경고와 동시에 협력 요구]]></title>
             <link>https://n.news.naver.com/article/469/0000740426?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740426?type=journalists</guid>
             <pubDate>Sun, 21 May 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/21/740426.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000740388?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740388?type=journalists</guid>
             <pubDate>Sun, 21 May 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/21/740388.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000739469?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000739469?type=journalists</guid>
             <pubDate>Tue, 16 May 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/16/739469.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +132,7 @@
             <link>https://n.news.naver.com/article/469/0000739173?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000739173?type=journalists</guid>
             <pubDate>Sat, 20 May 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/14/739173.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 May 2023 05:33:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737914.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호주, 홋카이도 원주민 아이누 유골 반환하며 사과… 정작 일본은? [특파원24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000737897?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000737897?type=journalists</guid>
-            <pubDate>Sun, 07 May 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/07/737897.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
