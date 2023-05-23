@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 17:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 05:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["조선인 피폭은 일본 때문...일본은 왜 피해 사실만 전시하는가"[인터뷰]]]></title>
+            <link>https://n.news.naver.com/article/469/0000740653?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000740653?type=journalists</guid>
+            <pubDate>Tue, 23 May 2023 05:32:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/23/740653.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오염수 시찰단, 23일 후쿠시마 원전 간다]]></title>
             <link>https://n.news.naver.com/article/469/0000740631?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740631?type=journalists</guid>
             <pubDate>Mon, 22 May 2023 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740631.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000740579?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740579?type=journalists</guid>
             <pubDate>Mon, 22 May 2023 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740579.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000740565?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740565?type=journalists</guid>
             <pubDate>Mon, 22 May 2023 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740565.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000740458?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740458?type=journalists</guid>
             <pubDate>Mon, 22 May 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +140,7 @@
             <link>https://n.news.naver.com/article/469/0000739469?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000739469?type=journalists</guid>
             <pubDate>Tue, 16 May 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/16/739469.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 14 May 2023 17:33:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/08/738165.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 “윤 대통령과 힘 합쳐 새 시대 열어가고 싶다”]]></title>
-            <link>https://n.news.naver.com/article/469/0000738086?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000738086?type=journalists</guid>
-            <pubDate>Mon, 08 May 2023 05:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/08/738086.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
