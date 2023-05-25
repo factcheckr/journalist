@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 17:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 05:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,28 @@ SZ를 비롯한 독일 매체와 폴란드, 스웨덴, 덴마크 언론사들이
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0127/A0002897964_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["일본 자위대 함정, 욱일기 달고 부산항 오는 것 조율 중" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000741124?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000741124?type=journalists</guid>
+            <pubDate>Thu, 25 May 2023 05:32:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/25/741124.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후쿠시마 현장 점검 첫날, 일본 정부는 "수산물 수입 재개도..." (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000740868?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740868?type=journalists</guid>
             <pubDate>Wed, 24 May 2023 05:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/24/740868.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["조선인 피폭은 일본 때문...일본은 왜 피해 사실만 전시하는가"[인터뷰] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000740653?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000740653?type=journalists</guid>
+            <pubDate>Thu, 25 May 2023 05:32:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/23/740653.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오염수 시찰단, 23일 후쿠시마 원전 간다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -316,7 +332,7 @@ SZ를 비롯한 독일 매체와 폴란드, 스웨덴, 덴마크 언론사들이
             <link>https://n.news.naver.com/article/469/0000740458?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740458?type=journalists</guid>
             <pubDate>Mon, 22 May 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -504,27 +520,11 @@ SZ를 비롯한 독일 매체와 폴란드, 스웨덴, 덴마크 언론사들이
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738498.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["마음 아프다" 표현만 아베 따라한 기시다...아베 "사과와 반성"은 생략 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000738367?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000738367?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738367.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["시찰단은 시찰만"..."후쿠시마 원전 오염수 안전성 평가는 안 된다"는 일본 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000738324?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000738324?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/09/738324.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[26년 차 소아과 의사의 ‘작심 고언’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032730?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032730?type=journalists</guid>
             <pubDate>Wed, 24 May 2023 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/24/32730.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -532,7 +532,7 @@ SZ를 비롯한 독일 매체와 폴란드, 스웨덴, 덴마크 언론사들이
             <link>https://n.news.naver.com/article/308/0000032692?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032692?type=journalists</guid>
             <pubDate>Wed, 17 May 2023 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/17/32692.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,7 +764,7 @@ SZ를 비롯한 독일 매체와 폴란드, 스웨덴, 덴마크 언론사들이
             <link>https://n.news.naver.com/article/308/0000032729?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032729?type=journalists</guid>
             <pubDate>Wed, 24 May 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/24/32729.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -772,7 +772,7 @@ SZ를 비롯한 독일 매체와 폴란드, 스웨덴, 덴마크 언론사들이
             <link>https://n.news.naver.com/article/308/0000032695?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032695?type=journalists</guid>
             <pubDate>Thu, 18 May 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/18/32695.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1244,7 +1244,7 @@ SZ를 비롯한 독일 매체와 폴란드, 스웨덴, 덴마크 언론사들이
             <link>https://n.news.naver.com/article/308/0000032718?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032718?type=journalists</guid>
             <pubDate>Mon, 22 May 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/22/32718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1252,7 +1252,7 @@ SZ를 비롯한 독일 매체와 폴란드, 스웨덴, 덴마크 언론사들이
             <link>https://n.news.naver.com/article/308/0000032691?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032691?type=journalists</guid>
             <pubDate>Wed, 17 May 2023 05:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/17/32691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
