@@ -4,16 +4,32 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 17:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미일 반도체 협력 공동성명... 대중국 전선 '밀착']]></title>
+            <link>https://n.news.naver.com/article/469/0000741458?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000741458?type=journalists</guid>
+            <pubDate>Fri, 26 May 2023 17:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/26/741458.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후쿠시마 시찰단, “착실히 점검했다… 이른 시일 내 결과 설명”]]></title>
             <link>https://n.news.naver.com/article/469/0000741259?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741259?type=journalists</guid>
             <pubDate>Thu, 25 May 2023 17:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/25/741259.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후쿠시마 떠나는 시찰단 "도쿄전력 성실히 답변... 안전성 평가 진전 이룰 듯"]]></title>
+            <link>https://n.news.naver.com/article/469/0000741055?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000741055?type=journalists</guid>
+            <pubDate>Fri, 26 May 2023 17:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/24/741055.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후쿠시마 현장 점검 첫날, 일본 정부는 "수산물 수입 재개도..."]]></title>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000740631?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740631?type=journalists</guid>
             <pubDate>Mon, 22 May 2023 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740631.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000740579?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740579?type=journalists</guid>
             <pubDate>Mon, 22 May 2023 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740579.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000740565?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740565?type=journalists</guid>
             <pubDate>Mon, 22 May 2023 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740565.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000740426?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740426?type=journalists</guid>
             <pubDate>Sun, 21 May 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/21/740426.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000740388?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740388?type=journalists</guid>
             <pubDate>Sun, 21 May 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/21/740388.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000740320?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740320?type=journalists</guid>
             <pubDate>Wed, 24 May 2023 17:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/20/740320.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000740248?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740248?type=journalists</guid>
             <pubDate>Tue, 23 May 2023 17:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/19/740248.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000740231?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740231?type=journalists</guid>
             <pubDate>Sun, 21 May 2023 05:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/19/740231.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +124,7 @@
             <link>https://n.news.naver.com/article/469/0000740209?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740209?type=journalists</guid>
             <pubDate>Fri, 19 May 2023 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/19/740209.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +140,7 @@
             <link>https://n.news.naver.com/article/469/0000740085?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740085?type=journalists</guid>
             <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740085.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +148,7 @@
             <link>https://n.news.naver.com/article/469/0000740075?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740075?type=journalists</guid>
             <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +156,7 @@
             <link>https://n.news.naver.com/article/469/0000740004?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000740004?type=journalists</guid>
             <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 11 May 2023 05:33:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/11/738696.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타임지, “기시다, 평화주의 포기하고 군사강국 도약 원해”]]></title>
-            <link>https://n.news.naver.com/article/469/0000738626?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000738626?type=journalists</guid>
-            <pubDate>Sun, 14 May 2023 17:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738626.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한일 정상회담에 화답한 재계...한일 미래기금, 공동사업 논의 시동]]></title>
-            <link>https://n.news.naver.com/article/469/0000738585?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000738585?type=journalists</guid>
-            <pubDate>Thu, 11 May 2023 05:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/10/738585.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

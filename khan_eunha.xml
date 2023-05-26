@@ -4,9 +4,27 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 17:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벨라루스 “러 핵무기가 오고 있다”…미 “무책임한 행동”]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202305262118025</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202305262118025</guid>
+            <pubDate>Fri, 26 May 2023 17:32:04 GMT</pubDate>
+            <content:encoded><![CDATA[러시아로부터 전술 핵무기를 받아 자국에 배치하기로 한 벨라루스가 핵무기 이전을 위한 작업이 개시됐다고 주장했다. 러시아가 외국에 핵무기를 배치하는 것은 27년 만에 처음이다. 미국은 러시아에 “무책임한 행동”이라고 강력 규탄하고 나섰다. 동유럽이 핵 전쟁의 화약고가 될 수 있다는 우려가 나오는 가운데, 러시아가 ‘핵’을 무기로 서방의 우크라이나 지원을 막으려 한다는 관측이 제기됐다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/26/2023052701001048200092581.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일 자민·공명 결속 흔들?…공명 “도쿄도 선거협력 안 해”]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202305261448001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202305261448001</guid>
+            <pubDate>Fri, 26 May 2023 17:32:04 GMT</pubDate>
+            <content:encoded><![CDATA[일본의 연립 여당인 공명당이 중의원(하원) 선거 때 도쿄에서 출마하는 집권 자민당 후보를 지지하지 않겠다고 선언했다.
+26일 아사히신문 등 현지 언론에 따르면 이시이 게이치 공명당 간사장은 전날 모테기 도시미쓰 자민당 간사장과의 회담 후 “도쿄에서 자민당과 공명당의 신뢰 관계는 땅에 떨어졌다”며 이런 방침을 밝혔다.
+공명당은 중의원 선거구 조정에 따라 새로 생기는 도쿄 28구에 자당 후보를 출마시키겠다고 협조를 요청했지만 자민당이 이를 수용하지 않자 도쿄도 내 선거 협력 거부라는 강수를 택했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/26/news-p.v1.20230526.f7c5a5e0204e401280777818126d8afd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베트남 법원, ‘금박 스테이크’ 먹은 장관 풍자한 시민에 징역형]]></title>
             <link>https://www.khan.co.kr/world/asia-australia/article/202305261240001</link>
@@ -22,7 +40,7 @@
             <guid>https://www.khan.co.kr/world/america/article/202305261223011</guid>
             <pubDate>Fri, 26 May 2023 05:32:24 GMT</pubDate>
             <content:encoded><![CDATA[미국 1·6 의회 난입 사태를 주도한 극우단체 지도자에게 미 법원이 징역 18년형을 선고했다.
-워싱턴DC 연방지방법원 재판부는 25일(현지시간) 극우주의 무장단체 ‘오스 키퍼스’의 설립자로 의사당을 습격한 혐의로 기소된 스튜어트 로즈(58)에게 징역 18년을 선고했다고 AP통신 등이 전했다. 이는 의회 난입 사태 관련해 여태까지 내려진 것 중 최고형이다. 당초 검찰은 로즈에게 징역 25년을 구형했다.]]></content:encoded>
+워싱턴 연방지방법원 재판부는 25일(현지시간) 극우주의 무장단체 ‘오스 키퍼스’의 설립자로 의사당을 습격한 혐의로 기소된 스튜어트 로즈(58)에게 징역 18년을 선고했다고 AP통신 등이 전했다. 이는 의회 난입 사태 관련해 여태까지 내려진 것 중 최고형이다. 당초 검찰은 로즈에게 징역 25년을 구형했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/26/news-p.v1.20230526.97cd45a73b684a93b24e0da46f8b38d7.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -63,12 +81,11 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/26/news-p.v1.20230526.734558e8889e47baaa47f93e4a33be34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[루카셴코 “러시아 핵무기 벨라루스로 오고 있다”]]></title>
+            <title><![CDATA[루카셴코 “러시아 핵무기, 벨라루스로 오고 있다”]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202305260913001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202305260913001</guid>
             <pubDate>Fri, 26 May 2023 05:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[러시아로부터 전술 핵무기를 받아 자국에 배치하기로 한 벨라루스가 핵무기 이전을 위한 작업이 개시됐다고 주장했다.
-알렉산드르 루카셴코 벨라루스 대통령 25일(현지시간) “오늘 블라디미르 푸틴 러시아 대통령이 핵무기 이전 배치에 관한 법령에 서명했다고 나에게 알려왔다”고 말했다고 타스통신이 보도했다. 루카셴코 대통령은 “핵무기를 옮기는 노력이 시작됐다”면서 “저장 시설 등 필요한 것들을 준비해야 한다”고 말했다.]]></content:encoded>
+            <content:encoded><![CDATA[러시아로부터 전술 핵무기를 받아 자국에 배치하기로 한 벨라루스가 핵무기 이전을 위한 작업이 개시됐다고 주장했다. 러시아가 외국에 핵무기를 배치하는 것은 27년 만에 처음이다. 미국은 러시아에 “무책임한 행동”이라고 강력 규탄하고 나섰다. 동유럽이 핵 전쟁의 화약고가 될 수 있다는 우려가 나오는 가운데, 러시아가 ‘핵’을 무기로 서방의 우크라이나 지원을 막으려 한다는 관측이 제기됐다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/26/news-p.v1.20230526.912c60c8b9474e1f844a366af6d9ec71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -95,24 +112,6 @@
             <content:encoded><![CDATA[기시다 후미오 일본 총리 아들이자 총리 정무비서관을 맡은 기시다 쇼타로(32)가 지난해 말 관저에서 친족 송년회 등 사적인 모임을 열고 공식 빈객 접대장소에서 사진촬영을 한 사실이 뒤늦게 밝혀져 구설에 올랐다.
 요미우리신문에 따르면 마쓰노 히로카즈 일 관방장관은 25일 정례 기자회견에서 기시다 총리가 슈간분슌에 보도된 관저 사적 이용 논란과 관련해 장남 쇼타로에게 엄중하게 주의를 줬다고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/25/news-p.v1.20230525.1b9f8015f1ff484f8e6829e9551d2ce2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러 국방장관 “영토 침입, 극도로 가혹하게 대응할 것” …우크라이나 겨냥]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202305250001001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202305250001001</guid>
-            <pubDate>Wed, 24 May 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[세르게이 쇼이구 러시아 국방장관이 최근 자국 내에서 발생한 교전과 관련해 “우크라이나 민병대의 그런 행위에 대해 앞으로도 즉각적이고 극도로 가혹하게 대응할 것”이라고 말했다고 로이터, AFP 통신 등이 24일(현지시간) 보도했다.
-러시아 국방부는 쇼이구 장관은 이날 국방부 회의에서 지난 22일 우크라이나 접경 지역인 서부 벨고로드주에서 발생한 교전 결과에 대해 논의하면서 이처럼 경고했다고 성명을 통해 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/25/news-p.v1.20230525.08800784ad1649348a2823fe2761db75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“몬테네그로 고등법원, ‘테라’ 권도형 보석 취소”]]></title>
-            <link>https://www.khan.co.kr/economy/economy-general/article/202305242304001</link>
-            <guid>https://www.khan.co.kr/economy/economy-general/article/202305242304001</guid>
-            <pubDate>Wed, 24 May 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[가상통화 ‘테라·루나’ 폭락 사태의 핵심 인물로 사기 혐의를 받고 있는 권도형 테라폼랩스 대표(32)가 몬테네그로에서 계속 구금된 상태로 재판받게 됐다.
-몬테네그로 일간지 ‘포베다’는 24일(현지시간) 수도 포드고리차에 있는 포드고리차 고등법원이 검찰의 항고를 받아들여 보석을 허가한 하급법원의 결정을 취소했다고 보도했다. 포베다는 포드고리차 고등법원의 홍보 책임자인 마리야 라코비치에게 이 같은 사실을 확인했다고 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/24/rcv.YNA.20230511.PYH2023051123540010900.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
