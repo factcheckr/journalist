@@ -4,15 +4,31 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 17:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 05:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문재인 정부의 검찰개혁은 실패했나? [기자의 추천 책]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032757?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032757?type=journalists</guid>
+            <pubDate>Tue, 30 May 2023 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/30/32757.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김남국 코인 논란’은 왜 도덕성 문제가 아닌가]]></title>
+            <link>https://n.news.naver.com/article/308/0000032758?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032758?type=journalists</guid>
+            <pubDate>Tue, 30 May 2023 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/30/32758.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 윤석열 정부 1년, 대통령기록관 압수수색 역대급]]></title>
             <link>https://n.news.naver.com/article/308/0000032718?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032718?type=journalists</guid>
             <pubDate>Mon, 22 May 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/22/32718.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -518,22 +534,6 @@
             <pubDate>Wed, 12 Apr 2023 05:33:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아”]]></title>
-            <link>https://n.news.naver.com/article/308/0000030688?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030688?type=journalists</guid>
-            <pubDate>Wed, 12 Apr 2023 05:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20대 남녀 투표, 이 지점에서 극명히 갈렸다 [대선 표심 분석]]]></title>
-            <link>https://n.news.naver.com/article/308/0000030648?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030648?type=journalists</guid>
-            <pubDate>Wed, 12 Apr 2023 05:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30648.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
