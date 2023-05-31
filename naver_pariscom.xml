@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 05:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 17:35:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 피난경보엔 ①이유 ②대피 장소 있었다…총리·장관도 즉시 대응]]></title>
+            <link>https://n.news.naver.com/article/469/0000742135?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000742135?type=journalists</guid>
+            <pubDate>Wed, 31 May 2023 17:34:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/31/742135.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 "北발사체, 서해상공서 소실 추정… 파괴조치 시행 안 해"]]></title>
             <link>https://n.news.naver.com/article/469/0000742034?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742034?type=journalists</guid>
             <pubDate>Wed, 31 May 2023 05:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/31/742034.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000742000?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742000?type=journalists</guid>
             <pubDate>Wed, 31 May 2023 05:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/31/742000.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000741982?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741982?type=journalists</guid>
             <pubDate>Wed, 31 May 2023 05:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/31/741982.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000741870?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741870?type=journalists</guid>
             <pubDate>Tue, 30 May 2023 17:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/30/741870.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000741767?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741767?type=journalists</guid>
             <pubDate>Mon, 29 May 2023 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741767.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000741742?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741742?type=journalists</guid>
             <pubDate>Mon, 29 May 2023 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741742.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000741723?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741723?type=journalists</guid>
             <pubDate>Mon, 29 May 2023 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000741458?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741458?type=journalists</guid>
             <pubDate>Fri, 26 May 2023 17:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/26/741458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000741259?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741259?type=journalists</guid>
             <pubDate>Thu, 25 May 2023 17:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/25/741259.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +132,7 @@
             <link>https://n.news.naver.com/article/469/0000741055?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741055?type=journalists</guid>
             <pubDate>Fri, 26 May 2023 17:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/24/741055.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740085.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 원폭 피해자들 “한일 정상 위령비 방문 환영… 미국은 사과해야”]]></title>
-            <link>https://n.news.naver.com/article/469/0000740075?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000740075?type=journalists</guid>
-            <pubDate>Thu, 18 May 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/18/740075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
