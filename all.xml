@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 05:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 17:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,19 @@ AFP통신 등에 따르면 29일(현지시간) 코소보 북부 즈베찬에서 
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0127/A0002897964_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김대중·오부치 선언 25주년… 스가 “일본 젊은이, 한국을 유행의 최첨단으로 여겨” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000742631?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000742631?type=journalists</guid>
+            <pubDate>Sat, 03 Jun 2023 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/03/742631.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["북한 정찰위성 성공하면 미사일 정확도 높아져 새로운 위협" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000742329?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742329?type=journalists</guid>
             <pubDate>Thu, 01 Jun 2023 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/01/742329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +304,7 @@ AFP통신 등에 따르면 29일(현지시간) 코소보 북부 즈베찬에서 
             <link>https://n.news.naver.com/article/469/0000742135?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742135?type=journalists</guid>
             <pubDate>Wed, 31 May 2023 17:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/31/742135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,19 +324,11 @@ AFP통신 등에 따르면 29일(현지시간) 코소보 북부 즈베찬에서 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/31/742000.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘미니 버핏’ 해외 투자자들의 ‘바이 재팬’...‘30년 침체’ 종료 신호? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000741982?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000741982?type=journalists</guid>
-            <pubDate>Wed, 31 May 2023 05:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/31/741982.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[총리공관서 파티한 아들 감싸려다 뒤늦게 경질한 기시다..."너무 늦었다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000741870?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741870?type=journalists</guid>
             <pubDate>Tue, 30 May 2023 17:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/30/741870.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +344,7 @@ AFP통신 등에 따르면 29일(현지시간) 코소보 북부 즈베찬에서 
             <link>https://n.news.naver.com/article/469/0000741742?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741742?type=journalists</guid>
             <pubDate>Mon, 29 May 2023 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741742.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +352,7 @@ AFP통신 등에 따르면 29일(현지시간) 코소보 북부 즈베찬에서 
             <link>https://n.news.naver.com/article/469/0000741723?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741723?type=journalists</guid>
             <pubDate>Mon, 29 May 2023 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -372,11 +372,19 @@ AFP통신 등에 따르면 29일(현지시간) 코소보 북부 즈베찬에서 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741668.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아내 휠체어 바다로 떠민 남편...아내 40년 간병하더니, 왜? [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000741591?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000741591?type=journalists</guid>
+            <pubDate>Sat, 03 Jun 2023 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/28/741591.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 시골마을서 경찰관 등 4명 피살... "범인, 총 쏘기 직전 웃고 있었다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000741463?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741463?type=journalists</guid>
             <pubDate>Thu, 01 Jun 2023 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/26/741463.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -384,7 +392,7 @@ AFP통신 등에 따르면 29일(현지시간) 코소보 북부 즈베찬에서 
             <link>https://n.news.naver.com/article/469/0000741458?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741458?type=journalists</guid>
             <pubDate>Fri, 26 May 2023 17:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/26/741458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -514,14 +522,6 @@ AFP통신 등에 따르면 29일(현지시간) 코소보 북부 즈베찬에서 
             <pubDate>Fri, 19 May 2023 17:32:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/19/740209.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드론 막는 전파도 쏜다...'테러 트라우마' 일본, G7 철통 경비 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000740108?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000740108?type=journalists</guid>
-            <pubDate>Thu, 25 May 2023 17:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/19/740108.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6개월 단명 장관? [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
