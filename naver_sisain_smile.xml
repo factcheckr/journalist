@@ -4,25 +4,9 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 17:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 05:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[문재인 정부의 검찰개혁은 실패했나? [기자의 추천 책]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032757?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032757?type=journalists</guid>
-            <pubDate>Tue, 30 May 2023 05:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/30/32757.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘김남국 코인 논란’은 왜 도덕성 문제가 아닌가]]></title>
-            <link>https://n.news.naver.com/article/308/0000032758?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032758?type=journalists</guid>
-            <pubDate>Tue, 30 May 2023 05:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/30/32758.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[단독] 윤석열 정부 1년, 대통령기록관 압수수색 역대급]]></title>
             <link>https://n.news.naver.com/article/308/0000032718?type=journalists</link>
@@ -534,6 +518,70 @@
             <pubDate>Wed, 12 Apr 2023 05:33:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아”]]></title>
+            <link>https://n.news.naver.com/article/308/0000030688?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030688?type=journalists</guid>
+            <pubDate>Mon, 05 Jun 2023 05:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20대 남녀 투표, 이 지점에서 극명히 갈렸다 [대선 표심 분석]]]></title>
+            <link>https://n.news.naver.com/article/308/0000030648?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030648?type=journalists</guid>
+            <pubDate>Mon, 05 Jun 2023 05:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.04.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/04/30648.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열심히 투표한 당신 왜 찍고 왜 안 찍었나]]></title>
+            <link>https://n.news.naver.com/article/308/0000030593?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030593?type=journalists</guid>
+            <pubDate>Mon, 05 Jun 2023 05:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.03.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/24/30593.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘0.73’ 차기 대통령이 새겨야 할 숫자]]></title>
+            <link>https://n.news.naver.com/article/308/0000030560?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030560?type=journalists</guid>
+            <pubDate>Mon, 05 Jun 2023 05:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.03.16.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/16/30560.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘쇼’라 하더라도 주목해야할 정치개혁안]]></title>
+            <link>https://n.news.naver.com/article/308/0000030506?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030506?type=journalists</guid>
+            <pubDate>Mon, 05 Jun 2023 05:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.03.07.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/03/07/30506.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 검찰 공약 살펴보니 “뼛속까지 검찰주의자”]]></title>
+            <link>https://n.news.naver.com/article/308/0000030454?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030454?type=journalists</guid>
+            <pubDate>Mon, 05 Jun 2023 05:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.28.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/28/30454.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국과 중국 사이, 후보들은 어디에 서 있나 [2022 대선 의제 ⑤]]]></title>
+            <link>https://n.news.naver.com/article/308/0000030407?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030407?type=journalists</guid>
+            <pubDate>Mon, 05 Jun 2023 05:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.21.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/21/30407.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘진짜 할까?’ 후보 단일화가 궁금하면 이 책을 [2021 행복한 책꽂이]]]></title>
+            <link>https://n.news.naver.com/article/308/0000030310?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030310?type=journalists</guid>
+            <pubDate>Mon, 05 Jun 2023 05:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.02.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/02/06/30310.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
