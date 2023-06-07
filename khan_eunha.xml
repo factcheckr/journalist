@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 05:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 17:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“손가락에 얼마나 피를 더 묻혀야” 해리 왕자, 법정서 타블로이드 매체 비판]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202306071709001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202306071709001</guid>
+            <pubDate>Wed, 07 Jun 2023 17:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[“누군가 이 광기를 멈추기 전까지 자판을 두드리는 손가락에 얼마나 더 많은 피를 묻힐 겁니까.”
+6일(현지시간) 영국 런던고등법원. 영국의 타블로이드 매체 3곳을 거느린 언론사를 상대로 소송을 낸 해리 왕자가 법정에 섰다. 자신이 겪은 “비열하고 불법적인” 언론 보도 실태와 고통을 증언하기 위해서였다.
+해리 왕자는 앞서 100여명의 공동 소송인단과 함께 데일리 미러, 선데이 미러, 더 피플 등을 거느린 미러 그룹 뉴스페이퍼(MGN)가 1996∼2010년 송고한 기사 147건에 불법 수집한 정보가 담겼다며 소송을 제기했다.  영국 왕실 고위 인사가 법원에 출석해 증언한 것은 130년 만에 처음 있는 일이다]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/07/news-p.v1.20230607.b0fa9e71516e4dd1b1f86a46abef8681.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 SEC, 세계 최대 가상통화 거래소 바이낸스·CEO 고발]]></title>
             <link>https://www.khan.co.kr/world/america/article/202306062124005</link>
@@ -109,15 +119,6 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
 피오 티코두아두아 피지 내무장관이 일본의 후쿠시마 제1원전 방사성 물질 오염수 해양방류를 두고 국제회의에서 공개 비판했다.
 5일 아사히신문에 따르면 티코두아두아 장관은 하마다 야스카주 일본 방위상과 함께 지난 3일 싱가포르에서 개최된 제20차 아시아안보회의(샹그릴라 대화) 프로그램 중 하나인 ‘해양의 안보 질서’ 세션에 참여했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/05/news-p.v1.20230605.e14549a6e5324afebe18e33fe48584fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 남성 “톈안먼 시위의 상징 왕단에 성추행 당해”]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202306042136025</link>
-            <guid>https://www.khan.co.kr/world/china/article/202306042136025</guid>
-            <pubDate>Sun, 04 Jun 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[최근 대만에서 집권 민진당 인사들의 성폭력 문제가 불거진 가운데 1989년 중국 톈안먼 광장 학생 시위의 주역인 왕단(王丹·사진) 역시 성추행을 저질렀다는 폭로가 나왔다.
-대만 매체 중국시보 등에 따르면 린량쥔 타이베이 시의원의 보좌관이었던 남성 리모씨는 4일 기자회견을 열고 2014년 6월 미국에서 왕단에게 성추행을 당했다고 밝혔다. 리씨는 왕단의 초청으로 미국을 방문해 그가 잡아준 호텔에서 머물렀으며, 이때 왕단이 보좌진이 떠나고 나자 강제로 입을 맞추며 성폭력을 시도했다고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/04/2023060501000142700009901.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

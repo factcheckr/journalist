@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 05:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 17:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“손가락에 얼마나 피를 더 묻혀야” 해리 왕자, 법정서 타블로이드 매체 비판 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202306071709001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202306071709001</guid>
+            <pubDate>Wed, 07 Jun 2023 17:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[“누군가 이 광기를 멈추기 전까지 자판을 두드리는 손가락에 얼마나 더 많은 피를 묻힐 겁니까.”
+6일(현지시간) 영국 런던고등법원. 영국의 타블로이드 매체 3곳을 거느린 언론사를 상대로 소송을 낸 해리 왕자가 법정에 섰다. 자신이 겪은 “비열하고 불법적인” 언론 보도 실태와 고통을 증언하기 위해서였다.
+해리 왕자는 앞서 100여명의 공동 소송인단과 함께 데일리 미러, 선데이 미러, 더 피플 등을 거느린 미러 그룹 뉴스페이퍼(MGN)가 1996∼2010년 송고한 기사 147건에 불법 수집한 정보가 담겼다며 소송을 제기했다.  영국 왕실 고위 인사가 법원에 출석해 증언한 것은 130년 만에 처음 있는 일이다]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/07/news-p.v1.20230607.b0fa9e71516e4dd1b1f86a46abef8681.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 SEC, 세계 최대 가상통화 거래소 바이낸스·CEO 고발 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/america/article/202306062124005</link>
@@ -109,15 +119,6 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
 피오 티코두아두아 피지 내무장관이 일본의 후쿠시마 제1원전 방사성 물질 오염수 해양방류를 두고 국제회의에서 공개 비판했다.
 5일 아사히신문에 따르면 티코두아두아 장관은 하마다 야스카주 일본 방위상과 함께 지난 3일 싱가포르에서 개최된 제20차 아시아안보회의(샹그릴라 대화) 프로그램 중 하나인 ‘해양의 안보 질서’ 세션에 참여했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/05/news-p.v1.20230605.e14549a6e5324afebe18e33fe48584fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 남성 “톈안먼 시위의 상징 왕단에 성추행 당해” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202306042136025</link>
-            <guid>https://www.khan.co.kr/world/china/article/202306042136025</guid>
-            <pubDate>Sun, 04 Jun 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[최근 대만에서 집권 민진당 인사들의 성폭력 문제가 불거진 가운데 1989년 중국 톈안먼 광장 학생 시위의 주역인 왕단(王丹·사진) 역시 성추행을 저질렀다는 폭로가 나왔다.
-대만 매체 중국시보 등에 따르면 린량쥔 타이베이 시의원의 보좌관이었던 남성 리모씨는 4일 기자회견을 열고 2014년 6월 미국에서 왕단에게 성추행을 당했다고 밝혔다. 리씨는 왕단의 초청으로 미국을 방문해 그가 잡아준 호텔에서 머물렀으며, 이때 왕단이 보좌진이 떠나고 나자 강제로 입을 맞추며 성폭력을 시도했다고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/04/2023060501000142700009901.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -293,15 +294,23 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/469/0000742928?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742928?type=journalists</guid>
             <pubDate>Mon, 05 Jun 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/05/742928.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 “중러 군사협력 우려” vs 중국 “대만 문제 건드리지 말라”... 싱가포르서 신경전 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000742696?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000742696?type=journalists</guid>
+            <pubDate>Wed, 07 Jun 2023 17:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/04/742696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["북한 정찰위성 성공하면 미사일 정확도 높아져 새로운 위협" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000742329?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742329?type=journalists</guid>
             <pubDate>Thu, 01 Jun 2023 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/01/742329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -309,7 +318,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/469/0000742135?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742135?type=journalists</guid>
             <pubDate>Wed, 31 May 2023 17:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/31/742135.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -349,7 +358,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/469/0000741870?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000741870?type=journalists</guid>
             <pubDate>Tue, 30 May 2023 17:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.05.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/30/741870.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -519,14 +528,6 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <pubDate>Sun, 21 May 2023 17:32:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/21/740388.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[G7 "중국에 직접적 우려 표명 중요"···협력도 강조 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000740320?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000740320?type=journalists</guid>
-            <pubDate>Wed, 24 May 2023 17:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/20/740320.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6개월 단명 장관? [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -767,6 +768,30 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/16/31931.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 동물을 사랑하냐고요? [기자의 추천 책] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032792?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032792?type=journalists</guid>
+            <pubDate>Wed, 07 Jun 2023 17:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/06/32792.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[59년 전에도 틀렸고 지금도 틀렸다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032770?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032770?type=journalists</guid>
+            <pubDate>Wed, 07 Jun 2023 17:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/02/32770.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성폭력 피해자 옆에서 ‘가장 보통의 편견’과 싸우는 사람 [사람IN] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000032766?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032766?type=journalists</guid>
+            <pubDate>Wed, 07 Jun 2023 17:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/01/32766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디시인사이드는 달라져야 한다 [프리스타일] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1223,78 +1248,6 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30915.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후위기 시대, 축산업계의 딜레마 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030905?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030905?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/24/30905.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘육식=기후악당?’ 근거가 왜 이렇게 다른가 봤더니 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030900?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030900?type=journalists</guid>
-            <pubDate>Tue, 06 Jun 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/23/30900.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[을지OB베어, 끝내 사라진 을지로의 빛나는 순간 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030870?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030870?type=journalists</guid>
-            <pubDate>Tue, 06 Jun 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/18/30870.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 가족은 왜 청와대 앞에서 삭발을 했을까 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030807?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030807?type=journalists</guid>
-            <pubDate>Tue, 06 Jun 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30807.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명의 ‘개딸’들이 민주당에 미치는 영향 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030766?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030766?type=journalists</guid>
-            <pubDate>Tue, 06 Jun 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/27/30766.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박근혜에게 가세연은 아낌없이 주는 나무? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030727?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030727?type=journalists</guid>
-            <pubDate>Tue, 06 Jun 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/19/30727.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 어서 와, 이런 언니는 처음이지? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030667?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030667?type=journalists</guid>
-            <pubDate>Tue, 06 Jun 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/08/30667.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“정치인 아니라 동료에게 보내는 글을 씁니다.” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030657?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030657?type=journalists</guid>
-            <pubDate>Tue, 06 Jun 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/06/30657.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 일본 교과서에 ‘종군 위안부’ 표현 빠진다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030655?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030655?type=journalists</guid>
-            <pubDate>Tue, 06 Jun 2023 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/05/30655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령실 보도자료가 검사가 쓴 공소장? [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
