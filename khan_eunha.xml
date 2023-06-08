@@ -4,9 +4,37 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 05:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 17:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스 안시에서 아이들에게 칼부림…3살 등 3명 중태]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202306082048001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202306082048001</guid>
+            <pubDate>Thu, 08 Jun 2023 17:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 동부 안시에 있는 한 마을에서 8일(현지시간) 칼부림이 벌어져 3살 안팎의 어린아이를 포함해 여러 명이 다쳤다.
+BFM-TV 등에 따르면 이날 오전 9시 45분쯤 안시 호수 근처에 있는 공원에서 한 남성이 흉기를 휘둘러 여러 사람을 찌른 혐의로 체포됐다. 용의자는 시리아 출신 망명 신청자라고 경찰에 진술했다고 AFP통신이 소식통을 인용해 보도했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/08/news-p.v1.20230608.44f3b7f5b44a42658290cd30d5951735.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프간 모스크에서 장례식 중 폭발사고…“15명 사망”]]></title>
+            <link>https://www.khan.co.kr/world/mideast-africa/article/202306081912001</link>
+            <guid>https://www.khan.co.kr/world/mideast-africa/article/202306081912001</guid>
+            <pubDate>Thu, 08 Jun 2023 17:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[아프가니스탄 북부 지역의 한 모스크에서 장례식 도중 폭발 사고가 일어나 수십 명의 사상자가 발생했다.
+8일(현지시간) 현지 톨로뉴스와 AP·로이터 통신 등에 따르면 이틀 전 차량 폭탄 테러로 사망한 니사르 아흐마드 아마디 바다크샨 주지사 대행의 장례식이 진행되던 바다크샨주 주도 파이자바드의 한 모스크에서 폭발이 발생했다.
+바다크샨주 공보·문화국장인 마아주딘 아흐마디는 모스크에서 폭발이 있었고 사상자도 발생했지만, 정확한 사상자 수와 폭탄 테러에 의한 폭발인지 등은 아직 파악 중이라고 설명했다. 톨로뉴스는 현지 병원 관계자를 인용해 이번 사고로 15명이 숨졌고 50명이 다쳤다고 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/08/news-p.v1.20230608.a7fd04ce5b1f4e61a4d9142e1ad72579.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 후쿠오카 법원 “동성혼 불인정은 ‘위헌 상태’” 판결]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202306081638001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202306081638001</guid>
+            <pubDate>Thu, 08 Jun 2023 17:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[일본에서 동성 결혼을 인정하지 않는 민법 등의 법률 규정은 헌법에 어긋난다는 지방법원의 판단이 추가로 나왔다.
+아사히신문 등에 따르면 후쿠오카지방재판소(지방법원)는 8일 후쿠오카시와 구마모토시에 사는 30∼40대 동성 커플 세 쌍이 동성 간 결혼을 인정하지 않는 현 민법 등의 규정은 헌법 위반이라며 국가를 상대로 각각 100만엔(약 940만원)의 손해배상을 요구한 1심 소송에서 원고 측 배상 청구를 기각했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/08/news-p.v1.20230608.3960380fe58248abb327951fdb0aa6b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중·러 군용기 이틀 연속 일본 인근 상공 공동비행]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202306081330001</link>
@@ -14,7 +42,7 @@
             <pubDate>Thu, 08 Jun 2023 05:32:18 GMT</pubDate>
             <content:encoded><![CDATA[중국과 러시아 폭격기가 이틀 연속 일본 주변 상공에서 공동 비행하고 있다고 일본 정부가 발표했다.
 8일 NHK에 따르면 일본 방위성은 중국 폭격기 H-6 2대와 러시아 폭격기 Tu-95 2대를 비롯해 총 22대의 중·러 군용기가 지난 7일 자국 인근 상공에서 비행했다고 밝혔다.
-방위성에 따르면 중국과 러시아 폭격기들은 중국 방향에서 날아와 동중국해 상공을 지나 오키나와 본섬과 미야코섬 사이를 지나 태평양 방향으로 비행했다. 이윽고 중국군의 전투기로 보이는 15기와 러시아군의 전투기로 보이는 2대가 합류했다. 러시아 폭격기는 동중국해에서 규슈와 쓰시마섬 사이를 지나 동해로 빠져나갔다.  중·러 양국군의 총 합동 비행시간은 8시간에 달했다.]]></content:encoded>
+방위성에 따르면 중국과 러시아 폭격기들은 중국 방향에서 날아와 동중국해 상공을 지나 오키나와 본섬과 미야코섬 사이를 거쳐 태평양 방향으로 비행했다. 이윽고 중국군의 전투기로 보이는 15기와 러시아군의 전투기로 보이는 2대가 합류했다. 러시아 폭격기는 동중국해에서 규슈와 쓰시마섬 사이를 지나 동해로 빠져나갔다.  중·러 양국군의 총 합동 비행시간은 8시간에 달했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/08/news-p.v1.20230608.d081e524fc42493d93171fb1056d2ccc.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -92,33 +120,6 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <content:encoded><![CDATA[우크라이나가 러시아에 대한 대대적 공세에 나선 것으로 알려진 가운데 조 바이든 대통령이 우크라이나군에 행운을 비는 손 모양의 제스처를 취했다.
 바이든 대통령은 5일(현지시간) 백악관에서 열린 메테 프레데릭센 덴마크 총리와의 회담에서 우크라이나가 반격에 성공할 것이냐는 기자들의 질문에 대해 말로 대답하는 대신 한 손을 들어 손가락 두 개를 교차하는 모양을 만들었다. 이 제스처는 ‘행운을 빈다’는 의미다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/06/news-p.v1.20230606.7a01093d04444e129859bb7d16185f4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤렌스키 “바흐무트에서 전진 중” 러시아 “우크라이나군 격퇴”]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306060913001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306060913001</guid>
-            <pubDate>Tue, 06 Jun 2023 05:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[볼로디미르 젤렌스키 우크라이나 대통령이 러시아군을 상대로 반격 태세에 나선 우크라이나군이 동부 격전지 바흐무트에서 전진하고 있다며 국민을 격려했다.
-로이터통신에 따르면 젤렌스키 대통령이 5일(현지시간) 밤 대국민 동영상 연설에서 “오늘 우리가 기다려온 소식을 전해준 군인들에게 감사한다. 바흐무트 지역의 군인 모두 수고했다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/06/news-p.v1.20230606.0ef695d8b8bb440da6333fe4792cbd86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“바이든은 신자유주의자” 미 진보 철학자 대선출마 선언]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202306060734001</link>
-            <guid>https://www.khan.co.kr/world/america/article/202306060734001</guid>
-            <pubDate>Tue, 06 Jun 2023 05:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 진보 성향 사회운동가이자 철학자인 코넬 웨스트 유니언 신학대 교수(70)가 내년 대통령 선거 출마를 선언했다.
-로이터통신은 5일(현지시간) 웨스트 교수가 트위터를 통해 “평생 추구했던 진실과 정의를 위해 대통령직에 도전한다”는 출마 메시지를 공개했다고 보도했다. 웨스트 교수는 소수정당 ‘인민의 당’(People‘s Party) 소속으로 대선에 출마하겠다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/06/news-p.v1.20230606.f50042ebfeea48ca8a37e40362f524c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 SEC, 세계 최대 가상통화 거래소 바이낸스 고발]]></title>
-            <link>https://www.khan.co.kr/economy/finance/article/202306060717001</link>
-            <guid>https://www.khan.co.kr/economy/finance/article/202306060717001</guid>
-            <pubDate>Tue, 06 Jun 2023 05:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[미국 증권거래위원회(SEC)가 세계 최대 가상통화 거래소 바이낸스와 설립자 겸 최고경영자(CEO) 자오창펑을 증권법 위반 혐의로 고발했다. 미 규제 당국이 가상통화 산업에 대한 단속을 강화하는 조치를 이어가면서 비트코인, 이더리움 등 가상통화 가치는 일제히 급락했다.
-로이터통신 등에 따르면 SEC는 5일(현지시간) 워싱턴 연방법원에 제출한 소장에서 바이낸스가 미등록 증권거래소를 운영하며 고객의 자산을 유용할 수 있도록 하고, 자금을 외부 기관으로 빼돌린 사실을 은폐했다고 밝혔다. 또 수십억 달러의 이용자 자금이 자오창펑의 개인 계좌로 들어갔다고 주장했다. SEC는 모두 13건의 증권법 위반 혐의를 제기했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/06/news-p.v1.20230606.089ab2ade0104b419eb36a63f398fd4e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
