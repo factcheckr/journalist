@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 17:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 05:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,6 +291,22 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0210/A0002901313_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["한국 욕하고 재미 보던 시절은 끝" 힘 빠진 일본 '혐한' 콘텐츠 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000743576?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000743576?type=journalists</guid>
+            <pubDate>Fri, 09 Jun 2023 05:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743576.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국·러시아 폭격기, 일본 위협하며 이틀 연속 공동비행 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000743378?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000743378?type=journalists</guid>
+            <pubDate>Fri, 09 Jun 2023 05:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/08/743378.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 "상장기업 여성임원 '30% 이상'으로 7년 안에 늘려라" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000742928?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742928?type=journalists</guid>
@@ -311,7 +327,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/469/0000742678?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742678?type=journalists</guid>
             <pubDate>Thu, 08 Jun 2023 17:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/04/742678.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -513,22 +529,6 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <pubDate>Mon, 22 May 2023 17:33:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740565.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[G7 폐막날 ‘신스틸러’는 젤렌스키... 인도 등 '친러' 신흥국에 협력 요청 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000740458?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000740458?type=journalists</guid>
-            <pubDate>Mon, 22 May 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/22/740458.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[G7, 러시아엔 합심해 '강력 규탄'… 중국엔 경고와 동시에 협력 요구 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000740426?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000740426?type=journalists</guid>
-            <pubDate>Sun, 21 May 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/21/740426.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6개월 단명 장관? [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -775,7 +775,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/308/0000032802?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032802?type=journalists</guid>
             <pubDate>Thu, 08 Jun 2023 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/08/32802.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -783,7 +783,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/308/0000032792?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032792?type=journalists</guid>
             <pubDate>Wed, 07 Jun 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/06/32792.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -791,7 +791,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/308/0000032770?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032770?type=journalists</guid>
             <pubDate>Wed, 07 Jun 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/02/32770.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -799,7 +799,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/308/0000032766?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032766?type=journalists</guid>
             <pubDate>Wed, 07 Jun 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/01/32766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1255,7 +1255,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/308/0000032786?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032786?type=journalists</guid>
             <pubDate>Mon, 05 Jun 2023 17:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/05/32786.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
