@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 05:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 17:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,7 +295,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/469/0000743713?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743713?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,7 +303,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/469/0000743607?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743607?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743607.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -319,7 +319,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/469/0000742928?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742928?type=journalists</guid>
             <pubDate>Mon, 05 Jun 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/05/742928.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -327,7 +327,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/469/0000742696?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742696?type=journalists</guid>
             <pubDate>Wed, 07 Jun 2023 17:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/04/742696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,7 +343,7 @@ NHK는 6일 도쿄전력을 인용해 육지와 바다 양쪽에서 해저터널
             <link>https://n.news.naver.com/article/469/0000742631?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742631?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/03/742631.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
