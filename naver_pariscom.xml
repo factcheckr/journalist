@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 05:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 17:34:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후쿠시마 오염수 방류 설비 시운전 시작… 어민 반대에도 "올여름 강행 불변"]]></title>
+            <link>https://n.news.naver.com/article/469/0000744096?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000744096?type=journalists</guid>
+            <pubDate>Mon, 12 Jun 2023 17:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/12/744096.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페미니스트가 그라비아 모델 일자리 빼앗았다? 일본 '수영복 촬영회'가 뭐기에 [특파원 24시]]]></title>
             <link>https://n.news.naver.com/article/469/0000743833?type=journalists</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000743713?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743713?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000743607?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743607?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743607.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000742928?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742928?type=journalists</guid>
             <pubDate>Mon, 05 Jun 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/05/742928.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000742696?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000742696?type=journalists</guid>
             <pubDate>Wed, 07 Jun 2023 17:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/04/742696.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 May 2023 05:32:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/24/740868.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["조선인 피폭은 일본 때문...일본은 왜 피해 사실만 전시하는가"[인터뷰]]]></title>
-            <link>https://n.news.naver.com/article/469/0000740653?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000740653?type=journalists</guid>
-            <pubDate>Thu, 25 May 2023 05:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/23/740653.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
