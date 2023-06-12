@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 17:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 05:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국은 어떻게 팬데믹의 끝에 다다랐나]]></title>
+            <link>https://n.news.naver.com/article/308/0000032820?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032820?type=journalists</guid>
+            <pubDate>Mon, 12 Jun 2023 05:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/12/32820.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6개월 단명 장관? [기자들의 시선]]]></title>
             <link>https://n.news.naver.com/article/308/0000032752?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/20/31949.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“우리는 ‘닥터 파우치’를 믿습니다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000031931?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031931?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/16/31931.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
