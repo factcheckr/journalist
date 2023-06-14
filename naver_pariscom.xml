@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 17:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 05:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["일본이 '오염수 안전성' 직접 설명해야” 윤덕민 주일대사 촉구]]></title>
+            <link>https://n.news.naver.com/article/469/0000744438?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000744438?type=journalists</guid>
+            <pubDate>Wed, 14 Jun 2023 05:32:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>47분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/14/744438.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도요타, ‘10분 충전 1200㎞ 주행’ 전고체 배터리차 2027년 실용화]]></title>
             <link>https://n.news.naver.com/article/469/0000744303?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744303?type=journalists</guid>
             <pubDate>Tue, 13 Jun 2023 17:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/13/744303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000743833?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743833?type=journalists</guid>
             <pubDate>Sun, 11 Jun 2023 05:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/11/743833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 May 2023 05:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/25/741075.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 떠나는 시찰단 "도쿄전력 성실히 답변... 안전성 평가 진전 이룰 듯"]]></title>
-            <link>https://n.news.naver.com/article/469/0000741055?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000741055?type=journalists</guid>
-            <pubDate>Fri, 26 May 2023 17:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/24/741055.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
