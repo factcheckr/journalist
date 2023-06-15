@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 17:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그리스 해안 ‘난민선박 침몰 참사’ 책임 공방 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/mideast-africa/article/202306152213035</link>
+            <guid>https://www.khan.co.kr/world/mideast-africa/article/202306152213035</guid>
+            <pubDate>Thu, 15 Jun 2023 17:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[생존자 모두 남성…“실종자 수백명 중 다수가 여성·어린이”
+그리스 남부 해안에서 벌어진 이주민 선박 참사를 둘러싸고 책임 공방이 일고 있다. 그리스 정부는 15일(현지시간) 사흘간의 공식 애도기간을 선포하며 ‘이주 브로커’ 조직을 비난했지만, 지중해 지역에서 거듭되는 참사는 유럽의 강도 높은 반이주 정책의 결과라는 책임론이 나오고 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/15/2023061601000565200049681.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그리스서 침몰한 난민 어선 사망자, 어린이 포함 수백명 추정…“탐욕‘ “외면”이 죽음 불러 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202306151704001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202306151704001</guid>
+            <pubDate>Thu, 15 Jun 2023 17:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[그리스 남부 해안에서 침몰한 이주민 선박이 최악의 참사 중 하나로 기록될 가능성이 점점 커지고 있다. 배에 최대 750명이 타고 있었다는 증언이 나왔지만, 현재까지 구조된 사람은 100여명에 불과하다. 특히 생존자가 모두 성인 남성으로 확인되면서 다수의 여성·아동이 희생됐을 가능성이 제기되고 있다.
+AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로스만 인근 공해상에서 전날 발생한 선박 침몰사고의 실종자를 찾기 위한 수색 작업을 재개했다. 해안경비대는 전날 오후까지 104명의 승객을 구조했으며 78구의 시신을 수습했다고 밝혔다. 배에 탄 사람들은 이집트, 시리아, 파키스탄, 아프가니스탄, 팔레스타인 등 다양한 출신으로 이뤄져 있었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/15/news-p.v1.20230615.e3bca78abc024608aee9600909d2185b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[합계출산율 ‘1.26명’ 일본의 저출생 대책…한국과 닮은꼴 피할까 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202306141609001</link>
@@ -95,25 +113,6 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <content:encoded><![CDATA[11일(현지시간) 치러진 몬테네그로 총선에서 대통령을 배출한 신생 중도 정당 ‘지금 유럽’이 득표율 선두를 차지한다는 출구조사 결과가 나왔다.
 AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 조기 총선에서 일부 개표소의 개표 결과를 토대로 한 표본 조사결과 26%의 득표율로 1위를 차지할 것으로 예측됐다. 인구 62만여명의 몬테네그로 총선에서는 81개 의석을 놓고 15개 정당이 경쟁했다. 투표율은 56.4%로 비교적 낮았다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/12/news-p.v1.20230612.dd02ce3df1504bcfb63fe3d580260424.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 시민들, 트럼프 “기소해야” 48% “정치수사” 47% (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202306120831001</link>
-            <guid>https://www.khan.co.kr/world/america/article/202306120831001</guid>
-            <pubDate>Mon, 12 Jun 2023 05:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[미국 공화당 유력 대선주자인 도널드 트럼프 전 대통령이 불법 기밀문건 반출 혐의로 추가 기소를 두고 미국 사회가 또 갈렸다. 미국 국빈의 절반 가량은 이번 기소를 ‘정당하다’고 본 반면 비슷한 규모의 미국 국민이 이번 기소를 ‘정치적’이라고 답하 답했다.
-미국 ABC 방송이 여론조사업체 입소스와 지난 9~10일 미국 국민 910명을 대상으로 실시해 11일(현지시간) 공개한 여론조사에 따르면 전체 응답자의 61%가 트럼프 전 대통령의 기밀문건 반출 혐의에 대해 ‘심각한 일’이라고 답했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/12/news-p.v1.20230612.d1dfd72d6aec47b29e3bcce39313965a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤렌스키 “ICC 카호우카댐 붕괴 조사 시작” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306120817001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306120817001</guid>
-            <pubDate>Mon, 12 Jun 2023 05:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[볼로디미르 젤렌스키 우크라이나 대통령이 카호우카댐 붕괴에 대한 국제형사재판소(ICC) 조사가 시작됐다고 11일(현지시간) 밝혔다.
-로이터통신과 dpa통신 등에 따르면 젤렌스키 대통령은 이날 화상 연설을 통해 “ICC 대표단이 최근 며칠간 헤르손 지역을 방문했다”고 말했다.
-젤렌스키 대통령은 “재난 발생 바로 다음 날 (우크라이나) 검찰총장실에서 ICC에 조사 관련 요청을 전달했고 업무가 이미 시작된 상황”이라고 전했다. 그는 특히 국제 법률 전문가들이 홍수 피해 지역에 대한 포격을 포함한 재난 사후 상황을 직접 보는 것이 중요하다고도 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/12/news-p.v1.20230612.31bb7e31af1d423faad7d908f9fba054.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -285,11 +284,19 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0210/A0002901313_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 방위성 “북한 탄도미사일, 일본 EEZ 안에 낙하한 듯” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000744757?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000744757?type=journalists</guid>
+            <pubDate>Thu, 15 Jun 2023 17:32:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744757.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["한일관계 개선 좋아" 일본 80% 한국 47% ..."한국이 너무 양보해서"[한일 여론조사] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000744637?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744637?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>42분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744637.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +304,7 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <link>https://n.news.naver.com/article/469/0000744627?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744627?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744627.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +312,7 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <link>https://n.news.naver.com/article/469/0000744612?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744612?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744612.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -313,7 +320,7 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <link>https://n.news.naver.com/article/469/0000744561?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744561?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,7 +328,7 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <link>https://n.news.naver.com/article/469/0000744459?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744459?type=journalists</guid>
             <pubDate>Wed, 14 Jun 2023 17:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/14/744459.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +344,7 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <link>https://n.news.naver.com/article/469/0000744303?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744303?type=journalists</guid>
             <pubDate>Tue, 13 Jun 2023 17:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/13/744303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,23 +352,15 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <link>https://n.news.naver.com/article/469/0000744096?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744096?type=journalists</guid>
             <pubDate>Mon, 12 Jun 2023 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/12/744096.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니스트가 그라비아 모델 일자리 빼앗았다? 일본 '수영복 촬영회'가 뭐기에 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000743833?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000743833?type=journalists</guid>
-            <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/11/743833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 ‘성소수자 이해증진법’ 상임위 통과… 법원은 ‘동성결혼 법제화’ 촉구 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000743713?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743713?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -369,8 +368,24 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <link>https://n.news.naver.com/article/469/0000743607?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743607?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743607.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한국 욕하고 재미 보던 시절은 끝" 힘 빠진 일본 '혐한' 콘텐츠 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000743576?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000743576?type=journalists</guid>
+            <pubDate>Thu, 15 Jun 2023 17:32:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743576.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“한일관계 나쁘면 K팝 끊어야 하나요?" 당당한 일본 청년들 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000743539?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000743539?type=journalists</guid>
+            <pubDate>Thu, 15 Jun 2023 17:32:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743539.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중국·러시아 폭격기, 일본 위협하며 이틀 연속 공동비행 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -385,7 +400,7 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <link>https://n.news.naver.com/article/469/0000743268?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743268?type=journalists</guid>
             <pubDate>Tue, 13 Jun 2023 17:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/07/743268.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -509,27 +524,11 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741723.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[욱일기 게양한 일본 자위대 호위함, 부산항 입항 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000741689?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000741689?type=journalists</guid>
-            <pubDate>Mon, 29 May 2023 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741689.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, "북한, 인공위성 31일∼내달 11일 발사 통보" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000741668?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000741668?type=journalists</guid>
-            <pubDate>Mon, 29 May 2023 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741668.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[홍제천 풀꽃 지식부터 지역 재난방송까지, 서대문공동체라디오의 꿈 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032843?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032843?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/15/32843.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1249,7 +1248,7 @@ AP, 로이터 통신 등에 따르면 ‘지금 유럽’은 이날 치러진 �
             <link>https://n.news.naver.com/article/308/0000032841?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032841?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/15/32841.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

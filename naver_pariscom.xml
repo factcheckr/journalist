@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 17:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 방위성 “북한 탄도미사일, 일본 EEZ 안에 낙하한 듯”]]></title>
+            <link>https://n.news.naver.com/article/469/0000744757?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000744757?type=journalists</guid>
+            <pubDate>Thu, 15 Jun 2023 17:32:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744757.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["한일관계 개선 좋아" 일본 80% 한국 47% ..."한국이 너무 양보해서"[한일 여론조사]]]></title>
             <link>https://n.news.naver.com/article/469/0000744637?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744637?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>42분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744637.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000744627?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744627?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744627.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000744612?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744612?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744612.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000744561?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744561?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000744459?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744459?type=journalists</guid>
             <pubDate>Wed, 14 Jun 2023 17:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/14/744459.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000744303?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744303?type=journalists</guid>
             <pubDate>Tue, 13 Jun 2023 17:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/13/744303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,23 +76,15 @@
             <link>https://n.news.naver.com/article/469/0000744096?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744096?type=journalists</guid>
             <pubDate>Mon, 12 Jun 2023 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/12/744096.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니스트가 그라비아 모델 일자리 빼앗았다? 일본 '수영복 촬영회'가 뭐기에 [특파원 24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000743833?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000743833?type=journalists</guid>
-            <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/11/743833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 ‘성소수자 이해증진법’ 상임위 통과… 법원은 ‘동성결혼 법제화’ 촉구]]></title>
             <link>https://n.news.naver.com/article/469/0000743713?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743713?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,8 +92,24 @@
             <link>https://n.news.naver.com/article/469/0000743607?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743607?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743607.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한국 욕하고 재미 보던 시절은 끝" 힘 빠진 일본 '혐한' 콘텐츠]]></title>
+            <link>https://n.news.naver.com/article/469/0000743576?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000743576?type=journalists</guid>
+            <pubDate>Thu, 15 Jun 2023 17:32:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743576.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“한일관계 나쁘면 K팝 끊어야 하나요?" 당당한 일본 청년들]]></title>
+            <link>https://n.news.naver.com/article/469/0000743539?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000743539?type=journalists</guid>
+            <pubDate>Thu, 15 Jun 2023 17:32:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743539.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중국·러시아 폭격기, 일본 위협하며 이틀 연속 공동비행]]></title>
@@ -108,7 +124,7 @@
             <link>https://n.news.naver.com/article/469/0000743268?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743268?type=journalists</guid>
             <pubDate>Tue, 13 Jun 2023 17:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/07/743268.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 29 May 2023 17:32:52 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741723.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[욱일기 게양한 일본 자위대 호위함, 부산항 입항]]></title>
-            <link>https://n.news.naver.com/article/469/0000741689?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000741689?type=journalists</guid>
-            <pubDate>Mon, 29 May 2023 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741689.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, "북한, 인공위성 31일∼내달 11일 발사 통보"]]></title>
-            <link>https://n.news.naver.com/article/469/0000741668?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000741668?type=journalists</guid>
-            <pubDate>Mon, 29 May 2023 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/05/29/741668.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
