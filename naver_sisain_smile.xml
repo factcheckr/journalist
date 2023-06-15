@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 17:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 05:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘일본은 왜 그럴까?’ 역사학자에게 물었다]]></title>
+            <link>https://n.news.naver.com/article/308/0000032841?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032841?type=journalists</guid>
+            <pubDate>Thu, 15 Jun 2023 05:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/15/32841.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실 보도자료가 검사가 쓴 공소장? [기자들의 시선]]]></title>
             <link>https://n.news.naver.com/article/308/0000032786?type=journalists</link>
@@ -526,14 +534,6 @@
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] ‘부모 찬스’ 쓴 미성년자 논문, 공식 확인됐다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030789?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030789?type=journalists</guid>
-            <pubDate>Wed, 12 Apr 2023 05:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
