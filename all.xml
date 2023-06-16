@@ -4,17 +4,34 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 17:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[일 제1야당 ‘내각 불신임’ 제출…기시다 “조기총선 없다” (경향신문 ─ 박은하 기자)]]></title>
+            <title><![CDATA[여성, 아내, 엄마‘~다움’의 불평등 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202306162054015</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202306162054015</guid>
+            <pubDate>Fri, 16 Jun 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[가부장 자본주의폴린 그로장 지음·배세진 옮김민음사 | 276쪽 | 1만8000원
+‘여성의 유리천장은 왜 여전할까’ ‘아이 키우는 여성의 경력단절과 독박육아는 왜 해결되지 않는가’. 경제학자인 저자가 내놓은 대답은 ‘규범’이다. 여성다움, 엄마다움, 아내다움을 강요하는 규범이 불평등을 만든다. 이 불평등으로 자본이 이득을 얻는 현 체제를 ‘가부장 자본주의’라 부른다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/16/2023061701000570800051451.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본, 방위력 강화자금법 통과…후퇴 논란 LGBT이해증진법도 가결 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202306161620011</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202306161620011</guid>
+            <pubDate>Fri, 16 Jun 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[일본 정부가 향후 대폭 늘어날 방위비를 조달하기 위해 ‘방위력 강화자금’을 창설하는 방안을 확정했다.
+일본 참의원(상원)은 16일 본회의에서 방위비 증액 재원 확보법안을 통과시켰다고 교도통신과 NHK가 보도했다. 이 법안은 국유재산 매각 등으로 확보한 세외수입을 여러 해 동안 방위비로 활용하기 위해 방위력 강화자금을 신설한다는 내용을 담고 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/16/news-p.v1.20230616.602b5151b2cb4d788103b16a6087c009.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일 제1야당 ‘내각 불신임’ 부결…기시다 “조기총선 없다” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202306161421001</link>
             <guid>https://www.khan.co.kr/world/japan/article/202306161421001</guid>
             <pubDate>Fri, 16 Jun 2023 05:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[일본 제1야당인 입헌민주당이 16일 내각불신임 결의안을 제출했다.
-교도통신 등에 따르면 입헌민주당은 방위 재원 확보를 위한 증세와 일본판 주민등록증인 ‘마이넘버 카드’를 둘러싼 혼선 등을 이유로 기시다 내각에 대한 불신임안을 중의원(하원)에 제출했다.
-이즈미 겐타 입헌민주당 대표는 이날 오전 기자회견에서 “방위 증세로 국민을 불안하게 하고 마이넘버 카드와 연동되는 계좌가 잘못 등록되는 등 문제가 속출하고 있는 점을 근거로 기시다 정권에 대한 대응을 결정한다”고 밝혔다.]]></content:encoded>
+            <content:encoded><![CDATA[일본 제1야당인 입헌민주당이 16일 방위자금 창설법 등에 반대해 내각불신임 결의안을 제출했으나 부결됐다.
+교도통신 등에 따르면 입헌민주당은 이날 오전 기시다 후미오 내각에 대한 불신임안을 중의원(하원)에 제출했으나 중의원 본회의에 부결됐다. 일본 공산당과 사민당은 불신임안에 찬성했으나 집권 자민당과 연립여당인 공명당, 보수 성향 야당인 일본유신회, 국민민주당은 반대했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/16/news-p.v1.20230616.0df56cfc90f141ddbe4dc2e65af4339f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -96,24 +113,6 @@ NHK, 아사히신문 등 일본 언론들은 14일 정부 관계자를 인용해
             <content:encoded><![CDATA[콜롬비아 아마존 정글에서의 비행기 추락 사고 후 40일째 되는 날 극적으로 생환한 4남매에게 함께 사고를 당한 엄마가 ‘살아나가라’는 유언을 했다고 아이들의 아버지가 밝혔다.
 AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11일(현지시간) 현지 매체들과의 기자회견에서 큰딸 레슬리 무투쿠이(13)와의 대화 내용 일부를 공개했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/12/2023061301000407600036011.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포켓몬 카드 1장이 554만원···일본 ‘포케카 버블’에 절도 기승 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202306121548001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202306121548001</guid>
-            <pubDate>Mon, 12 Jun 2023 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[일본에서 인기 애니메이션 &lt;포켓 몬스터&gt; 캐릭터를 활용해 게임처럼 즐길 수 있도록 한 ‘포켓몬 카드’를 노린 절도 사건이 연달아 발생하고 있다. 포켓몬 카드 인기가 지나치게 높아져 고액으로 거래되고 되팔기마저 성행하는 현실이 절도가 기승을 부리는 배경이다.
-아사히신문은 12일 개점 2주 만에 절도 피해를 봤다는 구마모토현의 한 포켓몬 카드 전문매장 사례를 소개했다. 매장 주인에 따르면 지난달 13일 오후 9시 이후 침입한 것으로 추정되는 강도는 진열장 유리를 부수고 포켓몬 카드 600장과 현금 13만엔(120만원)이 든 금전등록기를 훔쳐갔다. 1장에 60만엔(554만원)에 거래되는 ‘파이어＆썬더＆프리저 GX’ 카드 등 고가의 카드가 주로 사라졌다. 피해액은 약 650만엔(6005만원)으로 추정된다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/12/news-p.v1.20230612.d837a48825164fe7b5b63bc2f051fb69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘불의 고리’ 필리핀 마욘 화산 분출 시작…1만명 이상 대피 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/asia-australia/article/202306120930001</link>
-            <guid>https://www.khan.co.kr/world/asia-australia/article/202306120930001</guid>
-            <pubDate>Mon, 12 Jun 2023 05:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[필리핀에서 가장 활발한 화산인 마욘 화산이 11일(현지시간) 용암을 분출하기 시작했다. 지역 주민 1만명 이상이 대피했다.
-필리핀 화산지진학연구소에 따르면 마욘 화산은 이날 밤 가스와 화산재에 이어 용암을 분출하기 시작했다. 연구소는 분화가 격렬해지면 마욘 주변의 고위험 지역이 확장될 수 있다고 말했다. 곧 본격적으로 폭발할 전망이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/12/news-p.v1.20230612.5402d88d9665407baea8a679e878e956.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -289,7 +288,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000744758?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744758?type=journalists</guid>
             <pubDate>Fri, 16 Jun 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +296,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000744757?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744757?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744757.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,7 +328,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000744459?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744459?type=journalists</guid>
             <pubDate>Wed, 14 Jun 2023 17:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/14/744459.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,7 +344,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000744303?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744303?type=journalists</guid>
             <pubDate>Tue, 13 Jun 2023 17:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/13/744303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +352,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000744096?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744096?type=journalists</guid>
             <pubDate>Mon, 12 Jun 2023 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/12/744096.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +360,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000743713?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743713?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -369,7 +368,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000743607?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743607?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743607.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -769,7 +768,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/308/0000032851?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032851?type=journalists</guid>
             <pubDate>Fri, 16 Jun 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32851.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -777,7 +776,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/308/0000032848?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032848?type=journalists</guid>
             <pubDate>Fri, 16 Jun 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32848.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
