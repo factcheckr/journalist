@@ -4,15 +4,31 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 17:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 05:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“퀴어문화축제는 시민으로서의 권리를 계속 증명하는 것이다”]]></title>
+            <link>https://n.news.naver.com/article/308/0000032851?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032851?type=journalists</guid>
+            <pubDate>Fri, 16 Jun 2023 05:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32851.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울퀴어문화축제 불허 사유는? 광장시민위 회의록 살펴보니]]></title>
+            <link>https://n.news.naver.com/article/308/0000032848?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032848?type=journalists</guid>
+            <pubDate>Fri, 16 Jun 2023 05:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32848.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현재진행형 공격수 박은선이 돌아왔다]]></title>
             <link>https://n.news.naver.com/article/308/0000032802?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032802?type=journalists</guid>
             <pubDate>Thu, 08 Jun 2023 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/08/32802.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -470,22 +486,6 @@
             <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/15/31020.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디시인사이드 우울증갤러리 수사는 왜 중단됐나]]></title>
-            <link>https://n.news.naver.com/article/308/0000030987?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030987?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/08/30987.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘자가’와 ‘세입자’로 산불 이재민 지원금도 차별?]]></title>
-            <link>https://n.news.naver.com/article/308/0000030944?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030944?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/31/30944.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
