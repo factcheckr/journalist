@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 05:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 17:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,19 +284,11 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0210/A0002901313_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조태용, 기시다 총리에 "오염수 방류, 투명성 갖고 소통해달라" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000744758?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000744758?type=journalists</guid>
-            <pubDate>Fri, 16 Jun 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744758.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[일본 방위성 “북한 탄도미사일, 일본 EEZ 안에 낙하한 듯” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000744757?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744757?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744757.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +320,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000744459?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744459?type=journalists</guid>
             <pubDate>Wed, 14 Jun 2023 17:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/14/744459.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +336,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000744303?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744303?type=journalists</guid>
             <pubDate>Tue, 13 Jun 2023 17:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/13/744303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,15 +344,23 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000744096?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744096?type=journalists</guid>
             <pubDate>Mon, 12 Jun 2023 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/12/744096.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페미니스트가 그라비아 모델 일자리 빼앗았다? 일본 '수영복 촬영회'가 뭐기에 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000743833?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000743833?type=journalists</guid>
+            <pubDate>Sat, 17 Jun 2023 17:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/11/743833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 ‘성소수자 이해증진법’ 상임위 통과… 법원은 ‘동성결혼 법제화’ 촉구 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000743713?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743713?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743713.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -368,7 +368,7 @@ AFP통신 등에 따르면 아이들의 아버지인 마누엘 라노케는 11�
             <link>https://n.news.naver.com/article/469/0000743607?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000743607?type=journalists</guid>
             <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/09/743607.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
