@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 17:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 05:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘중국이 아쉬워 만난 것 아니다’…‘상석’에 앉은 시 주석의 메시지 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202306200600015</link>
+            <guid>https://www.khan.co.kr/world/china/article/202306200600015</guid>
+            <pubDate>Tue, 20 Jun 2023 05:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[시진핑 중국 국가주석이 19일 토니 블링컨 미국 국무장관을 면담하는 자리에서 ‘상석’에 앉아 회의를 주재하는 듯한 모습을 연출해 눈길을 끌었다.
+이날 회동이 열린 베이징 인민대회당에는 ‘ㄷ’자 모양 테이블이 놓였다. 마주 보는 긴 테이블 한쪽에는 블링컨 장관 일행, 다른 한쪽에는 왕이 공산당 중앙정치국 위원과 친강 외교부장 등 중국 측 인사들이 각각 앉았다. 시 주석은 한가운데 앉았다. 시 주석이 마치 상석에서 회의를 주재하는 듯한 모습이 연출됐다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/20/2023062001000690900061621.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몬테네그로 법원, 권도형에 ‘실형’ (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202306192245015</link>
@@ -104,15 +113,6 @@
             <content:encoded><![CDATA[생존자 모두 남성…“실종자 수백명 중 다수가 여성·어린이”
 그리스 남부 해안에서 벌어진 이주민 선박 참사를 둘러싸고 책임 공방이 일고 있다. 그리스 정부는 15일(현지시간) 사흘간의 공식 애도기간을 선포하며 ‘이주 브로커’ 조직을 비난했지만, 지중해 지역에서 거듭되는 참사는 유럽의 강도 높은 반이주 정책의 결과라는 책임론이 나오고 있다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/15/2023061601000565200049681.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그리스서 침몰한 난민 어선 사망자, 어린이 포함 수백명 추정…“탐욕‘ “외면”이 죽음 불러 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306151704001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306151704001</guid>
-            <pubDate>Thu, 15 Jun 2023 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[그리스 남부 해안에서 침몰한 이주민 선박이 최악의 참사 중 하나로 기록될 가능성이 점점 커지고 있다. 배에 최대 750명이 타고 있었다는 증언이 나왔지만, 현재까지 구조된 사람은 100여명에 불과하다. 특히 생존자가 모두 성인 남성으로 확인되면서 다수의 여성·아동이 희생됐을 가능성이 제기되고 있다.
-AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로스만 인근 공해상에서 전날 발생한 선박 침몰사고의 실종자를 찾기 위한 수색 작업을 재개했다. 해안경비대는 전날 오후까지 104명의 승객을 구조했으며 78구의 시신을 수습했다고 밝혔다. 배에 탄 사람들은 이집트, 시리아, 파키스탄, 아프가니스탄, 팔레스타인 등 다양한 출신으로 이뤄져 있었다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/15/news-p.v1.20230615.e3bca78abc024608aee9600909d2185b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -288,7 +288,7 @@ AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로
             <link>https://n.news.naver.com/article/469/0000745269?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745269?type=journalists</guid>
             <pubDate>Mon, 19 Jun 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/19/745269.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +320,7 @@ AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로
             <link>https://n.news.naver.com/article/469/0000744627?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744627?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744627.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +328,7 @@ AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로
             <link>https://n.news.naver.com/article/469/0000744612?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744612?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744612.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +336,7 @@ AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로
             <link>https://n.news.naver.com/article/469/0000744561?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744561?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +352,7 @@ AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로
             <link>https://n.news.naver.com/article/469/0000744438?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744438?type=journalists</guid>
             <pubDate>Wed, 14 Jun 2023 05:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/14/744438.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +528,7 @@ AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로
             <link>https://n.news.naver.com/article/308/0000032843?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032843?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/15/32843.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -536,7 +536,7 @@ AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로
             <link>https://n.news.naver.com/article/308/0000032820?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032820?type=journalists</guid>
             <pubDate>Mon, 12 Jun 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/12/32820.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -768,7 +768,7 @@ AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로
             <link>https://n.news.naver.com/article/308/0000032851?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032851?type=journalists</guid>
             <pubDate>Fri, 16 Jun 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32851.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -776,7 +776,7 @@ AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로
             <link>https://n.news.naver.com/article/308/0000032848?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032848?type=journalists</guid>
             <pubDate>Fri, 16 Jun 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32848.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1248,7 +1248,7 @@ AFP·로이터통신 등에 따르면 그리스 해안경비대는 이날 필로
             <link>https://n.news.naver.com/article/308/0000032841?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032841?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/15/32841.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
