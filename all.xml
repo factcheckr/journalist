@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 17:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 05:34:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,7 +288,7 @@
             <link>https://n.news.naver.com/article/469/0000745758?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745758?type=journalists</guid>
             <pubDate>Wed, 21 Jun 2023 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/21/745758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +296,7 @@
             <link>https://n.news.naver.com/article/469/0000745743?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745743?type=journalists</guid>
             <pubDate>Wed, 21 Jun 2023 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/21/745743.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +336,7 @@
             <link>https://n.news.naver.com/article/469/0000744637?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744637?type=journalists</guid>
             <pubDate>Wed, 21 Jun 2023 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744637.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +344,7 @@
             <link>https://n.news.naver.com/article/469/0000744627?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744627?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744627.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +352,7 @@
             <link>https://n.news.naver.com/article/469/0000744612?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744612?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744612.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -360,7 +360,7 @@
             <link>https://n.news.naver.com/article/469/0000744580?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744580?type=journalists</guid>
             <pubDate>Wed, 21 Jun 2023 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744580.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -368,7 +368,7 @@
             <link>https://n.news.naver.com/article/469/0000744561?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744561?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744561.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -384,7 +384,7 @@
             <link>https://n.news.naver.com/article/469/0000744438?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744438?type=journalists</guid>
             <pubDate>Wed, 14 Jun 2023 05:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/14/744438.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +528,7 @@
             <link>https://n.news.naver.com/article/308/0000032883?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032883?type=journalists</guid>
             <pubDate>Wed, 21 Jun 2023 05:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/21/32883.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -536,7 +536,7 @@
             <link>https://n.news.naver.com/article/308/0000032843?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032843?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/15/32843.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -762,22 +762,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/02/32044.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“퀴어문화축제는 시민으로서의 권리를 계속 증명하는 것이다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032851?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032851?type=journalists</guid>
-            <pubDate>Fri, 16 Jun 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32851.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울퀴어문화축제 불허 사유는? 광장시민위 회의록 살펴보니 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032848?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032848?type=journalists</guid>
-            <pubDate>Fri, 16 Jun 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32848.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현재진행형 공격수 박은선이 돌아왔다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1244,11 +1228,75 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/15/31020.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디시인사이드 우울증갤러리 수사는 왜 중단됐나 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030987?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030987?type=journalists</guid>
+            <pubDate>Thu, 22 Jun 2023 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.06.08.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/08/30987.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘자가’와 ‘세입자’로 산불 이재민 지원금도 차별? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030944?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030944?type=journalists</guid>
+            <pubDate>Thu, 22 Jun 2023 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.31.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/31/30944.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기후위기 시대, ‘고기를 먹느냐 마느냐’에서 ‘얼마나 먹느냐’로 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030915?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030915?type=journalists</guid>
+            <pubDate>Thu, 22 Jun 2023 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30915.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기후위기 시대, 축산업계의 딜레마 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030905?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030905?type=journalists</guid>
+            <pubDate>Thu, 22 Jun 2023 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/24/30905.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘육식=기후악당?’ 근거가 왜 이렇게 다른가 봤더니 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030900?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030900?type=journalists</guid>
+            <pubDate>Thu, 22 Jun 2023 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.23.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/23/30900.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[을지OB베어, 끝내 사라진 을지로의 빛나는 순간 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030870?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030870?type=journalists</guid>
+            <pubDate>Thu, 22 Jun 2023 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/18/30870.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 가족은 왜 청와대 앞에서 삭발을 했을까 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030807?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030807?type=journalists</guid>
+            <pubDate>Thu, 22 Jun 2023 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.05.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/05/30807.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명의 ‘개딸’들이 민주당에 미치는 영향 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000030766?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000030766?type=journalists</guid>
+            <pubDate>Thu, 22 Jun 2023 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.04.27.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/27/30766.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘일본은 왜 그럴까?’ 역사학자에게 물었다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032841?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032841?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 05:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/15/32841.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
