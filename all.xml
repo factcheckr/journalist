@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 05:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 17:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,27 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0223/A0002904489_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“도쿄전력 원전 가동 자격 유무 재확인하겠다”… 일본 규제위, 이례적 재검토 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000746099?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000746099?type=journalists</guid>
+            <pubDate>Fri, 23 Jun 2023 17:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/23/746099.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 "중국 원전 삼중수소가 후쿠시마 6.5배"... 방류 앞두고 홍보전 가열 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000746097?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000746097?type=journalists</guid>
+            <pubDate>Fri, 23 Jun 2023 17:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/23/746097.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["후쿠시마 방사능에 피폭된 소 아직 돌봅니다...생명이니까요" [인터뷰] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000745955?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745955?type=journalists</guid>
             <pubDate>Fri, 23 Jun 2023 05:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/23/745955.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +312,7 @@
             <link>https://n.news.naver.com/article/469/0000745937?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745937?type=journalists</guid>
             <pubDate>Thu, 22 Jun 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/22/745937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +320,7 @@
             <link>https://n.news.naver.com/article/469/0000745758?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745758?type=journalists</guid>
             <pubDate>Wed, 21 Jun 2023 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/21/745758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,7 +328,7 @@
             <link>https://n.news.naver.com/article/469/0000745743?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745743?type=journalists</guid>
             <pubDate>Wed, 21 Jun 2023 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/21/745743.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +336,7 @@
             <link>https://n.news.naver.com/article/469/0000745478?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745478?type=journalists</guid>
             <pubDate>Tue, 20 Jun 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/20/745478.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +344,7 @@
             <link>https://n.news.naver.com/article/469/0000745269?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745269?type=journalists</guid>
             <pubDate>Thu, 22 Jun 2023 17:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/19/745269.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +352,7 @@
             <link>https://n.news.naver.com/article/469/0000745096?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745096?type=journalists</guid>
             <pubDate>Sun, 18 Jun 2023 17:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/18/745096.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +360,7 @@
             <link>https://n.news.naver.com/article/469/0000744758?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744758?type=journalists</guid>
             <pubDate>Sun, 18 Jun 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +368,7 @@
             <link>https://n.news.naver.com/article/469/0000744757?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000744757?type=journalists</guid>
             <pubDate>Thu, 15 Jun 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744757.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -506,22 +522,6 @@
             <pubDate>Thu, 08 Jun 2023 17:33:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/04/742678.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김대중·오부치 선언 25주년… 스가 “일본 젊은이, 한국을 유행의 최첨단으로 여겨” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000742631?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000742631?type=journalists</guid>
-            <pubDate>Fri, 09 Jun 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/03/742631.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["북한 정찰위성 성공하면 미사일 정확도 높아져 새로운 위협" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000742329?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000742329?type=journalists</guid>
-            <pubDate>Thu, 01 Jun 2023 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/01/742329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소아 필수의료 지형도, 전국 빨간불·지역은 더 빨간불 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1248,7 +1248,7 @@
             <link>https://n.news.naver.com/article/308/0000032896?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032896?type=journalists</guid>
             <pubDate>Fri, 23 Jun 2023 05:36:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/23/32896.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
