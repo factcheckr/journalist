@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 05:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 17:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,16 +288,8 @@
             <link>https://n.news.naver.com/article/469/0000746099?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746099?type=journalists</guid>
             <pubDate>Fri, 23 Jun 2023 17:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/23/746099.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 "중국 원전 삼중수소가 후쿠시마 6.5배"... 방류 앞두고 홍보전 가열 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000746097?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000746097?type=journalists</guid>
-            <pubDate>Fri, 23 Jun 2023 17:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/23/746097.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["후쿠시마 방사능에 피폭된 소 아직 돌봅니다...생명이니까요" [인터뷰] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -312,7 +304,7 @@
             <link>https://n.news.naver.com/article/469/0000745937?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745937?type=journalists</guid>
             <pubDate>Thu, 22 Jun 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/22/745937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +312,7 @@
             <link>https://n.news.naver.com/article/469/0000745758?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745758?type=journalists</guid>
             <pubDate>Wed, 21 Jun 2023 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/21/745758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +320,7 @@
             <link>https://n.news.naver.com/article/469/0000745743?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745743?type=journalists</guid>
             <pubDate>Wed, 21 Jun 2023 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/21/745743.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +328,7 @@
             <link>https://n.news.naver.com/article/469/0000745478?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745478?type=journalists</guid>
             <pubDate>Tue, 20 Jun 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/20/745478.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +336,7 @@
             <link>https://n.news.naver.com/article/469/0000745269?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745269?type=journalists</guid>
             <pubDate>Thu, 22 Jun 2023 17:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/19/745269.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,8 +344,16 @@
             <link>https://n.news.naver.com/article/469/0000745096?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745096?type=journalists</guid>
             <pubDate>Sun, 18 Jun 2023 17:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/18/745096.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“아빠 육아휴직 3개월 하면 900만 원” 일본 기업의 파격 지원 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000745039?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000745039?type=journalists</guid>
+            <pubDate>Sat, 24 Jun 2023 17:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/18/745039.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조태용, 기시다 총리에 "오염수 방류, 투명성 갖고 소통해달라" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
