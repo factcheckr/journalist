@@ -4,9 +4,36 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 17:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 05:35:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반란 평정 선언하며 1917년 러시아 혁명 ‘내전의 비극’으로 표현한 푸틴 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202306250837001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202306250837001</guid>
+            <pubDate>Sun, 25 Jun 2023 05:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[블라디미르 푸틴 러시아 대통령이 바그너 그룹의 반란 평정을 선언하며 소련 건국의 도화선이 된 1917년 러시아 혁명을 ‘내전의 비극’으로 표현해 눈길을 끌었다.
+푸틴 러시아 대통령은 24일(현지시간) TV 연설에서 반란 정보를 입수했다며 가담자 모두를 처벌하겠다고 밝혔다. 푸틴 대통령은 “러시아는 현재 미래를 위해 가장 어려운 전쟁을 벌이고 있으며 네오 나치와 그 조련사들의 침략을 격퇴하고 있다”며 우크라이나 침공은 우크라이나를 앞세운 서방의 침략으로부터 러시아를 보호하기 위한 것이라는 기존 선전을 반복했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/25/news-p.v1.20230625.d0c5d4d907df470e9b92361122e1765e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[바그너 반란군 하루 800km 진격…러, 혼돈의 24시간 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202306250751001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202306250751001</guid>
+            <pubDate>Sun, 25 Jun 2023 05:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[예브게니 프리고진이 이끄는 민간군사기업 바그너 그룹의 무장 반란은 약 24시간 만에 종료됐다. 반란은 하루에 그쳤지만 블라디미르 푸틴 러시아 대통령의 권위에 손상을 내며 후폭풍을 예고했다.
+AFP, 로이터, 스푸트니크통신 등에 따르면 바그너 그룹은 23일(현지시간) 밤 우크라이나에 있던 병력을 돌려 국경 넘어 러시아 영토로 진격했다.  러시아 국방부가 자신들의 후방 캠프를 미사일로 공격했다는 것이 이유였다. 프리고진은 “정의를 위한 행진”이 시작됐다며 군 수뇌부의 처벌을 요구했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/25/news-p.v1.20230625.72fc1bee55904aaca57a077b1b7a26ac.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[바그너 그룹 반란 중단…프리고진 “벨라루스로 떠난다” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202306250601001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202306250601001</guid>
+            <pubDate>Sun, 25 Jun 2023 05:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 지도부를 상대로 무장반란을 일으킨 민간군사기업 바그너 그룹이 하루 만에 반란을 중단하고 벨라루스로 떠나기로 했다. 러시아는 자국을 떠나는 반란군의 안전을 보장하고 반란에 대한 형사 처벌을 중단하기로 했다.
+스푸트니크, 로이터통신 등에 따르면 바그너 그룹 수장 예브게니 프리고진은 24일(현지시간) 오디오 메시지를 통해 “러시아인의 피를 흘리기 원하지 않는다”며 “유혈사태를 피하고자 모스크바로 향하던 병력에 기지로 철수하도록 지시했다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/25/news-p.v1.20230625.8d9d990c189642c2bd5377b3412de56f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[“무기 수출 빗장 풀자” 일 여당, 이달 내 규칙 개정안 정리 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202306211615001</link>
@@ -86,33 +113,6 @@
             <pubDate>Mon, 19 Jun 2023 17:32:52 GMT</pubDate>
             <content:encoded><![CDATA[지난 14일 일본 기후현 육상자위대 사격장에서 자위관 후보생이 벌인 총격 사건의 동기는 여전히 미궁에 빠져 있다. 사회에 안긴 충격은 크다. 북한을 겨냥한 미사일 요격태세를 유지하는 등 일본 정부가 안보 위험을 강조하고 방위력 강화를 추진하는 상황에서 벌어진 일이기 때문이다. 지원자 감소와 열악한 처우 등 자위대의 고질적인 문제들이 다시금 주목받고 있다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/19/news-p.v1.20230619.5a2bf30670ab46c698daf89f76c04fc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“전기요금 때문에”…하뉴 유즈루 배출 일 스케이트장 영업 중단 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202306191615001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202306191615001</guid>
-            <pubDate>Mon, 19 Jun 2023 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[올림픽 남자 피겨스케이팅 금메달리스트인 하뉴 유즈루를 배출한 일본 센다이시의 실내 스케이트장 ‘아이스링크 센다이’가 이달 들어 일반 영업을 전면 중단했다. 스케이트장은 다음 달 영업을 재개하지만 단축운영할 계획이며 8월 영업 여부는 아직 결정하지 않았다.
-영업중단의 직접적 원인은 치솟는 전기요금 때문이다. 스케이트장 운영사에 따르면 전기요금은 지난 5월 기준 3배 가까운 수준으로 올랐다. 실내 온도를 유지하려면 냉동기를 24시간 가동해 빙판 아래 설치된 파이프에 냉각액을 주입해야 하는데, 우크라이나 전쟁과 엔저 여파로 전기요금이 치솟았다. 이른 폭염과 장마까지 덮치며 여름철 에너지 상황은 더욱 나빠질 것이란 관측이 나왔다. 일본의 주요 전력회사들은 이달부터 가정용 전기요금을 대폭 인상했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/19/news-p.v1.20230619.5f6a3b8bfaf7450fab2ed326fe63f50f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[여성, 아내, 엄마‘~다움’의 불평등 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202306162054015</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202306162054015</guid>
-            <pubDate>Fri, 16 Jun 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[가부장 자본주의폴린 그로장 지음·배세진 옮김민음사 | 276쪽 | 1만8000원
-‘여성의 유리천장은 왜 여전할까’ ‘아이 키우는 여성의 경력단절과 독박육아는 왜 해결되지 않는가’. 경제학자인 저자가 내놓은 대답은 ‘규범’이다. 여성다움, 엄마다움, 아내다움을 강요하는 규범이 불평등을 만든다. 이 불평등으로 자본이 이득을 얻는 현 체제를 ‘가부장 자본주의’라 부른다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/16/2023061701000570800051451.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 방위력 강화자금법 통과…후퇴 논란 LGBT이해증진법도 가결 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202306161620011</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202306161620011</guid>
-            <pubDate>Fri, 16 Jun 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[일본 정부가 향후 대폭 늘어날 방위비를 조달하기 위해 ‘방위력 강화자금’을 창설하는 방안을 확정했다.
-일본 참의원(상원)은 16일 본회의에서 방위비 증액 재원 확보법안을 통과시켰다고 교도통신과 NHK가 보도했다. 이 법안은 국유재산 매각 등으로 확보한 세외수입을 여러 해 동안 방위비로 활용하기 위해 방위력 강화자금을 신설한다는 내용을 담고 있다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/16/news-p.v1.20230616.602b5151b2cb4d788103b16a6087c009.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -296,7 +296,7 @@
             <link>https://n.news.naver.com/article/469/0000745955?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745955?type=journalists</guid>
             <pubDate>Fri, 23 Jun 2023 05:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/23/745955.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +352,7 @@
             <link>https://n.news.naver.com/article/469/0000745039?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745039?type=journalists</guid>
             <pubDate>Sat, 24 Jun 2023 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/18/745039.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +528,7 @@
             <link>https://n.news.naver.com/article/308/0000032883?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032883?type=journalists</guid>
             <pubDate>Wed, 21 Jun 2023 05:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/21/32883.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -768,7 +768,7 @@
             <link>https://n.news.naver.com/article/308/0000032889?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032889?type=journalists</guid>
             <pubDate>Thu, 22 Jun 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/22/32889.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1248,7 +1248,7 @@
             <link>https://n.news.naver.com/article/308/0000032896?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032896?type=journalists</guid>
             <pubDate>Fri, 23 Jun 2023 05:36:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/23/32896.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
