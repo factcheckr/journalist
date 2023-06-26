@@ -4,9 +4,17 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 05:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 17:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 전문가 5인 인터뷰 “푸틴 체제 붕괴 가능성 낮아…대중 반응이 관건”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202306261947001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202306261947001</guid>
+            <pubDate>Mon, 26 Jun 2023 17:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 민간군사기업(PMC) 바그너 그룹이 일으킨 무장 반란은 여전히 많은 부분이 베일에 가려져 있다. 러시아 정부와 바그너 그룹 간 신속한 타협을 두고 사전에 합의된 ‘위장 군사 반란’, ‘친위 쿠데타’였다는 의견까지 나온다. 블라디미르 푸틴 러시아 대통령과 세르게이 쇼이구 국방장관은 침묵 중이고, 반란을 이끈 바그너 그룹 수장 예브게니 프리고진의 행방은 묘연한 상태다. 반란이 푸틴 대통령의 장기집권 체제에 균열을 가져올 수 있을지에 대해서도 의견이 엇갈린다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/26/news-p.v1.20230626.958f8a36673e4de0b62c206078ec894c_P3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘바그너’에 환호 보낸 러시아 시민들…왜?]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202306252300005</link>
@@ -107,15 +115,6 @@ AFP, 로이터, 스푸트니크통신 등에 따르면 바그너 그룹은 23일
             <content:encoded><![CDATA[세계에서 가장 높은 산봉우리가 있는 히말라야산맥의 빙하가 빠르게 녹아 세계 인구의 4분의 1이 위험에 처할 것이라는 연구결과가 나왔다.
 국제통합산악개발센터(ICIMOD)는 2011~2020년 히말라야산맥의 빙하가 이전 10년 동안보다 65% 더 빨리 녹았으며, 현 추세대로 온실가스가 배출될 경우 21세기 말에는 현재 빙하의 80%가 녹아 없어질 것이라는 보고서를 내놓았다고 블룸버그통신이 20일(현지시간) 보도했다. ICIMOD는 빙하 유실의 영향으로 히말라야산맥에서 발원한 12개 강의 담수량이 크게 줄어들어 16개국 20억명이 생명과 생계에 위협을 받을 것이라고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/20/2023062101000710700065491.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히말라야 빙하 빠르게 녹는다…세계인구 4분의 1 위험]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306201510001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306201510001</guid>
-            <pubDate>Tue, 20 Jun 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[세계에서 가장 높은 산봉우리가 있는 히말라야산맥의 빙하가 빠르게 녹아 세계 인구의 4분의 1이 위험에 처할 것이라는 연구결과가 나왔다.
-국제통합산악개발센터(ICIMOD)는 2011~2020년 히말라야산맥의 빙하가 이전의 10년 동안보다 65% 더 빨리 녹았으며, 현재의 추세대로 온실가스가 배출될 경우 21세기 말에는 현재 빙하의 80%가 녹아 없어질 것이라는 보고서를 내놓았다고 블룸버그통신이 20일(현지시간) 보도했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/20/news-p.v1.20230620.247fcaff2dcd474185d905fe0afa3f39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
