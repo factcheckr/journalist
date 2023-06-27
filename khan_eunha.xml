@@ -4,9 +4,27 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 05:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 17:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본, 내달 4일 이후 후쿠시마 오염수 방류 전망]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202306272107005</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202306272107005</guid>
+            <pubDate>Tue, 27 Jun 2023 17:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[라파엘 그로시 국제원자력기구(IAEA) 사무총장이 다음달 4일 일본을 방문해 기시다 후미오 총리(사진)에게 후쿠시마 제1원전 오염수(일본 정부 명칭 처리수)의 안전성에 대한 포괄적인 최종 보고서를 제출할 예정이라고 아사히신문이 27일 전했다. 이에 따라 후쿠시마 오염수 해양 방류는 다음달 4일 이후가 될 것으로 전망된다.
+다만 정확한 방류 시점은 아직 불투명하다. 일본 정부는 올여름 오염수를 해양 방류한다는 입장을 밝혀왔지만 현재까지 명확한 시점을 밝히지 않고 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/27/2023062801000985700089541.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벨라루스 단체 “프리고진 소유 제트기 도착”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202306271619011</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202306271619011</guid>
+            <pubDate>Tue, 27 Jun 2023 17:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[모스크바로 진격하다 돌연 철군한 뒤 종적이 묘연한 상태인 프리고진이 소유한 비행기가 벨라루스에 도착했다는 보고가 나왔다.
+벨라루스의 군사정보 감시단체 ‘벨라루스 가윤(Belarus Gayun)’은 예브게니 프리고진이 소유한 비즈니스 제트기 1대가 27일 오전 7시40분(현지시간) 민스크 인근 마추리시 공군기지에 착륙했다고 텔레그램 채널에 밝혔다. 프리고진이 이 비행기에 타고 있었는지는 알려지지 않았다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/27/news-p.v1.20230627.ad96690309be4ff8b5f00d2782cbc6b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타이베이시, 민진당에 성폭력 관련 벌금 3800만원 부과]]></title>
             <link>https://www.khan.co.kr/world/china/article/202306271000001</link>
@@ -18,13 +36,12 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/27/news-p.v1.20230627.93860b37280f4ac483755e611041eaca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘아무도 모른다’ 후쿠시마 오염수 해양 방류 시점]]></title>
+            <title><![CDATA[일본, ‘후쿠시마 오염수’ 방류 내달 4일 이후 전망]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202306270937001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202306270937001</guid>
             <pubDate>Tue, 27 Jun 2023 05:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[일본 후쿠시마 제1원자력발전소 오염수(일본 정부 명칭 처리수)의 해양 방류는 다음 달 4일 이후가 될 전망이다.
-정확한 방류 시점은 아직 불투명하다. 일본 정부는 올 여름 오염수를 해양 방류한다는 입장을 밝혀왔지만 현재까지 명확한 시점을 밝히지 않고 있다. 어민과 주변국 등 일본 안팎의 반발이 변수로 예상된다.
-기시다 후미오 총리는 다음 달 4일 라파엘 그로시 국제원자력기구(IAEA) 사무총장과 만나는 방향으로 최종 조정에 들어갔다고 아사히신문이 27일 전했다. 그로시 IAEA 사무총장은 후쿠시마 오염수의 안전성에 대한 포괄적인 보고서를 일본 정부에 제출할 예정이며 기시다 총리는 보고서 내용을 토대로 방출 시기를 결정할 방침이다.]]></content:encoded>
+            <content:encoded><![CDATA[기시다 후미오 총리가 다음달 4일 라파엘 그로시 국제원자력기구(IAEA) 사무총장과 만나는 방향으로 최종 조정에 들어갔다고 아사히신문이 27일 전했다. 이에 따라 일본 후쿠시마 제1원자력발전소 오염수(일본 정부 명칭 처리수)의 해양 방류는 다음달 4일 이후가 될 전망이다.
+다만 정확한 방류 시점은 아직 불투명하다. 일본 정부는 올 여름 오염수를 해양 방류한다는 입장을 밝혀왔지만 현재까지 명확한 시점을 밝히지 않고 있다. 어민과 주변국 등 일본 안팎의 반발이 변수로 예상된다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/27/news-p.v1.20230627.6efe3f05d1aa48edbf223fe3c1559989.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -101,24 +118,6 @@
 블라디미르 푸틴 러시아 대통령이 바그너 그룹의 반란 평정을 선언하며 소련 건국의 도화선이 된 1917년 러시아 혁명을 ‘내전의 비극’으로 표현해 눈길을 끌었다.
 푸틴 대통령은 24일(현지시간) TV 연설에서 반란 정보를 입수했다며 가담자 모두를 처벌하겠다고 밝혔다. 푸틴 대통령은 “러시아는 현재 미래를 위해 가장 어려운 전쟁을 벌이고 있으며 네오나치와 그 조련사들의 침략을 격퇴하고 있다”며 우크라이나 침공은 우크라이나를 앞세운 서방의 침략으로부터 러시아를 보호하기 위한 것이라는 기존 선전을 반복했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/25/2023062601000885100081361.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘용병’ 2만5000명 모스크바로…내전 코앞에서 ‘탱크’ 멈췄다]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202306252114005</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202306252114005</guid>
-            <pubDate>Sun, 25 Jun 2023 17:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[예브게니 프리고진이 이끄는 민간군사기업 바그너 그룹의 무장 반란은 약 24시간 만에 종료됐다. 반란은 하루에 그쳤지만 블라디미르 푸틴 러시아 대통령의 권위에 손상을 내며 후폭풍을 예고했다.
-프리고진은 무장 반란 하루 전인 23일(현지시간)부터 우크라이나 전쟁과 관련해 크렘린궁과 러시아 국방부를 비난하는 게시물을 텔레그램에 쏟아냈다. 로이터·AFP·스푸트니크 통신 등을 종합하면 프리고진은 이날 오전 러시아 국방부가 우크라이나에 있던 바그너 그룹의 후방 기지를 고의적으로 포격했다고 주장했다. 오후 9시쯤 음성 메시지를 올려 쇼이구 장관을 축출하는 반란을 일으키겠다고 선언했다. 그는 “이것은 정의의 행진”이라며 “우리는 끝까지 갈 준비가 돼 있다”고 밝혔다. 러시아 연방보안국(FSB)은 이날 자정 무렵 무장 반란 혐의로 프리고진에 대한 조사를 시작했다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/25/2023062601000885200081231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜, 러 시민들은 프리고진과 바그너 그룹에 환호했나]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306252100011</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306252100011</guid>
-            <pubDate>Sun, 25 Jun 2023 17:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[무장 반란은 하루 만에 그쳤지만 바그너 그룹은 어떻게 별다른 저항 없이 수도 모스크바로 진격할 수 있었을까. 바그너 그룹에 환호를 보내는 시민들은 진심이었을까.
-러시아 시민들이 반란을 일으킨 바그너 그룹 병사들을 환영하는 모습이 24일(현지시간) AP 통신, 로이터 통신 등의 사진과 영상에 포착됐다. 바그너 그룹 차량이 러시아 남부 로스토프주를 지나자 시민들은 도로로 나와 박수를 보냈다. 바그너 그룹 소속 병사들과 웃는 표정으로 함께 사진을 찍으면서 엄지를 세워 보이거나 악수를 청하는 시민들도 있었다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/25/news-p.v1.20230625.1c7a129b5ec740d390688207ab5a27fe.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
