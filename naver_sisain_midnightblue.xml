@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 17:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 05:45:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[총선까지 300일 녹색당, 사투를 시작하다]]></title>
+            <link>https://n.news.naver.com/article/308/0000032938?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032938?type=journalists</guid>
+            <pubDate>Thu, 29 Jun 2023 05:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/29/32938.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름 ‘슈퍼 엘니뇨’ 때문에 정말 더울까?]]></title>
             <link>https://n.news.naver.com/article/308/0000032889?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032889?type=journalists</guid>
             <pubDate>Thu, 22 Jun 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/22/32889.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/28/31079.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 이준석·배현진의 ‘살벌한’ 인사]]></title>
-            <link>https://n.news.naver.com/article/308/0000031072?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031072?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/27/31072.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
