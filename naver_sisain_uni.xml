@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 17:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 05:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수도권 6600병상이 온다, 지역 의료 붕괴가 가속화된다]]></title>
+            <link>https://n.news.naver.com/article/308/0000032944?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032944?type=journalists</guid>
+            <pubDate>Fri, 30 Jun 2023 05:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/30/32944.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소아 필수의료 지형도, 전국 빨간불·지역은 더 빨간불]]></title>
             <link>https://n.news.naver.com/article/308/0000032883?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/10/32079.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다누리, 드디어 달에 도착했다 [기자들의 시선]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032044?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032044?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/02/32044.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
