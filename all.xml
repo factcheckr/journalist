@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 05:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 17:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스 사흘째 폭동 계속 …‘경찰개혁’ 목소리 불지핀 10대의 죽음 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202306301721001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202306301721001</guid>
+            <pubDate>Fri, 30 Jun 2023 17:32:15 GMT</pubDate>
+            <content:encoded><![CDATA[교외 거주하는 알제리계 10대 소년이 교통검문에 불응했다 경찰 총에 맞아 사망한 사건에 대한 분노가 프랑스를 휩쓸었다. 전국에서 폭동이 발생해 관공서 곳곳이 불타고 600명 넘게 체포됐다. 경찰의 폭력과 인종차별을 규탄하며 개혁을 요구하는 목소리와 ‘2005년 폭동’의 재연을 우려해 더 강한 경찰력 배치를 요구하는 상반된 목소리가 동시 나오고 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/30/news-p.v1.20230630.d955438155a34162ac7eecd066ce2673.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[우간다 주민들, 토탈에너지에 소송 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/mideast-africa/article/202306282142025</link>
@@ -108,14 +116,6 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
 가디언은 26일(현지시간) 우크라이나군이 남부 헤르손주 헤르손시의 강 건너 마을 다치를 점령했다고 친러시아 텔레그램 채널들을 인용해 밝혔다. 이 지역은 러시아가 2014년 강제 병합한 크름반도를 압박할 수 있는 요충이다.
 러시아 군사 블로거 사샤 코츠는 “지난주 드니프로강 안토니우스키 다리 지역에서 적의 활동이 비정상적으로 증가했다”며 “우크라이나가 좌안(물이 흐르는 방향의 왼쪽·동안)에 자리를 잡아 영역을 확장하고 있다”고 적었다. 우크라이나군은 그동안 드리프로강 서안에 진을 치고 있었으며 동안은 러시아군이 점령한 상태였다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/27/news-p.v1.20230627.d75b9f6d515947bf91e7906b9cb6f5c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“푸틴 정권 붕괴로 이어지진 않을 것” “전쟁 상황에 따라 반란의 효과 달라져” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202306270600015</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202306270600015</guid>
-            <pubDate>Tue, 27 Jun 2023 05:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 민간군사기업(PMC) 바그너 그룹이 일으킨 무장 반란은 여전히 많은 부분이 베일에 가려져 있다. 반란이 블라디미르 푸틴 대통령의 장기집권 체제에 균열을 가져올 수 있을지에 대해서도 의견이 엇갈린다.
-경향신문은 26일 국내 러시아 전문가들에게 반란의 의미와 영향을 전화로 물었다. 반란으로 인한 푸틴 정권 붕괴 가능성은 낮다는 의견이 우세했다. 푸틴 대통령을 중심으로 러시아 지도층의 재결집할 계기가 될 수 있다는 분석도 나왔다. 반면 장기적으로 전쟁에 염증을 느끼는 여론 증가와 푸틴의 리더십 약화는 피할 수 없다는 진단도 있다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -291,7 +291,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000747184?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747184?type=journalists</guid>
             <pubDate>Thu, 29 Jun 2023 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/29/747184.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -299,7 +299,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000747099?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747099?type=journalists</guid>
             <pubDate>Thu, 29 Jun 2023 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/29/747099.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -307,7 +307,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000747061?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747061?type=journalists</guid>
             <pubDate>Thu, 29 Jun 2023 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/29/747061.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -315,7 +315,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746933?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746933?type=journalists</guid>
             <pubDate>Wed, 28 Jun 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/28/746933.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +323,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746903?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746903?type=journalists</guid>
             <pubDate>Wed, 28 Jun 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/28/746903.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +331,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746656?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746656?type=journalists</guid>
             <pubDate>Thu, 29 Jun 2023 05:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/27/746656.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -339,7 +339,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746469?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746469?type=journalists</guid>
             <pubDate>Mon, 26 Jun 2023 17:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/26/746469.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -347,7 +347,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746461?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746461?type=journalists</guid>
             <pubDate>Mon, 26 Jun 2023 17:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/26/746461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -355,7 +355,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746099?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746099?type=journalists</guid>
             <pubDate>Fri, 23 Jun 2023 17:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/23/746099.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -363,7 +363,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746097?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746097?type=journalists</guid>
             <pubDate>Tue, 27 Jun 2023 17:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/23/746097.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -379,7 +379,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000745937?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745937?type=journalists</guid>
             <pubDate>Thu, 22 Jun 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/22/745937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -387,7 +387,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000745893?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000745893?type=journalists</guid>
             <pubDate>Wed, 28 Jun 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/22/745893.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -531,7 +531,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/308/0000032944?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032944?type=journalists</guid>
             <pubDate>Fri, 30 Jun 2023 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/30/32944.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
