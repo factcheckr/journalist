@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 17:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 05:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,6 +287,14 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0223/A0002904489_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“사소한 행동에 애정 식어” 일본 Z세대 유행어 ‘개구리화 현상’이란 [특파원24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000747484?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000747484?type=journalists</guid>
+            <pubDate>Sun, 02 Jul 2023 05:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747484.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아직 한번도 쓴 적 없지만... 미국 대신할 달러 조달 창구 확보 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000747184?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747184?type=journalists</guid>
@@ -519,19 +527,11 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/14/744438.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도요타, ‘10분 충전 1200㎞ 주행’ 전고체 배터리차 2027년 실용화 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000744303?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000744303?type=journalists</guid>
-            <pubDate>Tue, 13 Jun 2023 17:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/13/744303.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[수도권 6600병상이 온다, 지역 의료 붕괴가 가속화된다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032944?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032944?type=journalists</guid>
             <pubDate>Fri, 30 Jun 2023 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/30/32944.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -771,7 +771,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/308/0000032938?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032938?type=journalists</guid>
             <pubDate>Thu, 29 Jun 2023 05:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/29/32938.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
