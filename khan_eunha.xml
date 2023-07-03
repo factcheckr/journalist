@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 05:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 17:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘바그너 그룹’은 하루 아침에 만들어지지 않았다…민간군사기업의 역사]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202307031745021</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202307031745021</guid>
+            <pubDate>Mon, 03 Jul 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전에도 비슷한 뉴스를 봤던 것 같은데 무슨 맥락에서 나온 건지 궁금할 때 있으시죠? ‘사이월드’가 단편적인 여러 국제 뉴스의 사이사이를 짚어 세계의 흐름을 보여드립니다.
+러시아 지도부를 상대로 무장 반란을 일으킨 바그너 그룹의 정체는 ‘민간군사기업(PMC·Private Millitary Company)’이다. PMC는 용병들을 고용해 자체 무장을 하고 경비·경호 업무 뿐 아니라 국가 간 전쟁이나 대테러 작전에도 참여한다. 최소 34개국에 걸쳐 전 세계 170여곳에서 활동 중인 것으로 추정된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/03/news-p.v1.20230703.14af951efbc84b919bf5c4d2d8a8082b.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스 사흘째 폭동 계속 …‘경찰개혁’ 목소리 불지핀 10대의 죽음]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202306301721001</link>
@@ -106,16 +115,6 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <content:encoded><![CDATA[블라디미르 푸틴 러시아 대통령이 대국민 TV연설을 통해 발생한 바그너 그룹의 반란은 “실패할 수밖에 없는 운명”이었다고 말했다. 자신의 판단으로 유혈사태를 피하고 반란을 신속히 진압할 수 있었다고도 밝혔다.
 로이터통신 등에 따르면 푸틴 대통령은 26일(현지시간) 밤 TV 연설을 통해 “이번 상황은 모든 협박과 혼란이 실패할 운명임을 보여줬다”고 밝혔다. 푸틴 대통령은 “사태 시작부터 위협을 제거하고 헌정 및 시민의 생명과 안전을 지키기 위해 모든 필요한 결정이 즉시 내려졌다”며 “무장반란은 어떤 경우든 진압됐을 것”이라고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/27/news-p.v1.20230627.44b0f66e9c5941bfbe254c5cff9941a6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“우크라이나, 드니프로강 건너 진격” …동남부 계속 전진]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306270849001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306270849001</guid>
-            <pubDate>Tue, 27 Jun 2023 05:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나가 드니프로강을 넘어 남부 탈환에 속도를 내고 있다는 관측이 나왔다.
-가디언은 26일(현지시간) 우크라이나군이 남부 헤르손주 헤르손시의 강 건너 마을 다치를 점령했다고 친러시아 텔레그램 채널들을 인용해 밝혔다. 이 지역은 러시아가 2014년 강제 병합한 크름반도를 압박할 수 있는 요충이다.
-러시아 군사 블로거 사샤 코츠는 “지난주 드니프로강 안토니우스키 다리 지역에서 적의 활동이 비정상적으로 증가했다”며 “우크라이나가 좌안(물이 흐르는 방향의 왼쪽·동안)에 자리를 잡아 영역을 확장하고 있다”고 적었다. 우크라이나군은 그동안 드리프로강 서안에 진을 치고 있었으며 동안은 러시아군이 점령한 상태였다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/27/news-p.v1.20230627.d75b9f6d515947bf91e7906b9cb6f5c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
