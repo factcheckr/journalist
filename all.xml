@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 05:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 17:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,27 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0310/A0002908872_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["기시다, 윤 대통령에 직접 설명할 것"...'8월 오염수 방류' 정해졌나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000748178?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000748178?type=journalists</guid>
+            <pubDate>Wed, 05 Jul 2023 17:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/05/748178.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국은 지지, 중국은 보복  시사...IAEA '방류 면죄부'에 엇갈린 반응 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000748121?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000748121?type=journalists</guid>
+            <pubDate>Wed, 05 Jul 2023 17:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/05/748121.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["해수욕 시즌 피해야"...후쿠시마 오염수 방류 버튼 언제 누를까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000747954?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747954?type=journalists</guid>
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747954.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +314,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000747937?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747937?type=journalists</guid>
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +322,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000747869?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747869?type=journalists</guid>
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747869.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +330,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000747572?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747572?type=journalists</guid>
             <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747572.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +338,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000747528?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747528?type=journalists</guid>
             <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747528.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +354,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000747184?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747184?type=journalists</guid>
             <pubDate>Thu, 29 Jun 2023 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/29/747184.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,7 +362,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000747099?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747099?type=journalists</guid>
             <pubDate>Thu, 29 Jun 2023 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/29/747099.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -354,7 +370,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000747061?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747061?type=journalists</guid>
             <pubDate>Thu, 29 Jun 2023 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/29/747061.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -362,7 +378,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746933?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746933?type=journalists</guid>
             <pubDate>Wed, 28 Jun 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/28/746933.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -370,7 +386,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746918?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746918?type=journalists</guid>
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/28/746918.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -378,7 +394,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746903?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746903?type=journalists</guid>
             <pubDate>Wed, 28 Jun 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/28/746903.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -386,7 +402,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746674?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746674?type=journalists</guid>
             <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/27/746674.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -394,7 +410,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <link>https://n.news.naver.com/article/469/0000746656?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000746656?type=journalists</guid>
             <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.06.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/27/746656.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -508,22 +524,6 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <pubDate>Sun, 18 Jun 2023 17:32:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/18/745096.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“아빠 육아휴직 3개월 하면 900만 원” 일본 기업의 파격 지원 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000745039?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000745039?type=journalists</guid>
-            <pubDate>Sat, 24 Jun 2023 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/18/745039.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조태용, 기시다 총리에 "오염수 방류, 투명성 갖고 소통해달라" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000744758?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000744758?type=journalists</guid>
-            <pubDate>Sun, 18 Jun 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/15/744758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수도권 6600병상이 온다, 지역 의료 붕괴가 가속화된다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1249,8 +1249,8 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <title><![CDATA[후쿠시마 오염수 방류, 국가의 역할을 묻다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000032977?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032977?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 05:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/05/32977.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1785,7 +1785,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <title><![CDATA[어느 날, 유우성씨에게 연락이 왔다 [프리스타일] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030831?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000030831?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 05:37:24 GMT</pubDate>
+            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
@@ -1793,7 +1793,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <title><![CDATA[이들을 보라, 이들이 메시지다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030791?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000030791?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 05:37:24 GMT</pubDate>
+            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
@@ -1801,7 +1801,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <title><![CDATA[[기자들의 시선] ‘부모 찬스’ 쓴 미성년자 논문, 공식 확인됐다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030789?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000030789?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 05:37:24 GMT</pubDate>
+            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
@@ -1809,7 +1809,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <title><![CDATA[“페미니즘 정치와 계급 정치 연계시킬 토양 탄탄하게 존재한다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030737?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000030737?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 05:37:24 GMT</pubDate>
+            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
@@ -1817,7 +1817,7 @@ AFP통신과 아프리카뉴스는 27일(현지시간) 우간다 인권활동가
             <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000030688?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000030688?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 05:37:24 GMT</pubDate>
+            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
