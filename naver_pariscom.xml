@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 17:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 05:35:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 언론, IAEA 중립성에 의문 제기 "분담금 많이 내니 배려했을 것"]]></title>
+            <link>https://n.news.naver.com/article/469/0000748676?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000748676?type=journalists</guid>
+            <pubDate>Sun, 09 Jul 2023 05:34:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>35분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/09/748676.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IAEA 사무총장 “한국 오염수 우려 알아… 반대 야당 만남도 기꺼이 응할 것”]]></title>
             <link>https://n.news.naver.com/article/469/0000748541?type=journalists</link>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000747484?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747484?type=journalists</guid>
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747484.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 21 Jun 2023 17:32:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/21/745743.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["팬데믹 끝나도 재택근무 확대하는 게 이익"이라는 일본 기업, 왜?]]></title>
-            <link>https://n.news.naver.com/article/469/0000745546?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000745546?type=journalists</guid>
-            <pubDate>Mon, 26 Jun 2023 17:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/20/745546.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
