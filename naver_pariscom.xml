@@ -4,23 +4,15 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 05:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 17:35:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[일본 언론, IAEA 중립성에 의문 제기 "분담금 많이 내니 배려했을 것"]]></title>
-            <link>https://n.news.naver.com/article/469/0000748676?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000748676?type=journalists</guid>
-            <pubDate>Sun, 09 Jul 2023 05:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/09/748676.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[IAEA 사무총장 “한국 오염수 우려 알아… 반대 야당 만남도 기꺼이 응할 것”]]></title>
             <link>https://n.news.naver.com/article/469/0000748541?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000748541?type=journalists</guid>
             <pubDate>Fri, 07 Jul 2023 17:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/07/748541.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000748388?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000748388?type=journalists</guid>
             <pubDate>Thu, 06 Jul 2023 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/06/748388.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000748336?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000748336?type=journalists</guid>
             <pubDate>Thu, 06 Jul 2023 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/06/748336.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000748178?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000748178?type=journalists</guid>
             <pubDate>Sun, 09 Jul 2023 17:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/05/748178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,15 +44,23 @@
             <link>https://n.news.naver.com/article/469/0000748121?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000748121?type=journalists</guid>
             <pubDate>Wed, 05 Jul 2023 17:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/05/748121.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 손들어 준 IAEA "후쿠시마 오염수, 방사능 영향 미미"]]></title>
+            <link>https://n.news.naver.com/article/469/0000747968?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000747968?type=journalists</guid>
+            <pubDate>Mon, 10 Jul 2023 17:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747968.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["해수욕 시즌 피해야"...후쿠시마 오염수 방류 버튼 언제 누를까]]></title>
             <link>https://n.news.naver.com/article/469/0000747954?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747954?type=journalists</guid>
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747954.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,15 +68,23 @@
             <link>https://n.news.naver.com/article/469/0000747937?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747937?type=journalists</guid>
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747937.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] IAEA "후쿠시마 오염수, 사람·환경에 미칠 영향은 무시할 수 있는 수준"]]></title>
+            <link>https://n.news.naver.com/article/469/0000747921?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000747921?type=journalists</guid>
+            <pubDate>Mon, 10 Jul 2023 17:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747921.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“후쿠시마 보고서 제출해 영광”이라는 IAEA 수장 “일본은 큰 기여국”]]></title>
             <link>https://n.news.naver.com/article/469/0000747869?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747869?type=journalists</guid>
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747869.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000747572?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747572?type=journalists</guid>
             <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747572.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000747533?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747533?type=journalists</guid>
             <pubDate>Sat, 08 Jul 2023 17:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747533.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000747528?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000747528?type=journalists</guid>
             <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747528.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 28 Jun 2023 17:33:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/22/745893.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["불평등한 아시아" 세계 성평등 지수, 한국 105위·중국 107위·일본 125위]]></title>
-            <link>https://n.news.naver.com/article/469/0000745758?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000745758?type=journalists</guid>
-            <pubDate>Wed, 21 Jun 2023 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/21/745758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
