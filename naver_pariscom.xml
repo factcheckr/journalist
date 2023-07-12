@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 17:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 05:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 방위성, “북한 탄도미사일은 ICBM급… 일본 EEZ 밖 낙하”]]></title>
+            <link>https://n.news.naver.com/article/469/0000749275?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000749275?type=journalists</guid>
+            <pubDate>Wed, 12 Jul 2023 05:34:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/12/749275.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["여성으로 성전환자는 여성 화장실 쓸 수 있어야" 일본 법원 첫 확정판결]]></title>
             <link>https://n.news.naver.com/article/469/0000749123?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749123?type=journalists</guid>
             <pubDate>Tue, 11 Jul 2023 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/11/749123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Jun 2023 05:35:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/23/745955.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["방학숙제 '챗GPT'에 시키면 부정행위" 일본 정부 지침 만든다]]></title>
-            <link>https://n.news.naver.com/article/469/0000745937?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000745937?type=journalists</guid>
-            <pubDate>Thu, 22 Jun 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/22/745937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

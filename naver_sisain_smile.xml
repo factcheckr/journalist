@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 17:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 05:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독자는 기자가 “좀 더” 하길 바란다 [시사IN 독자위원회]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033021?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033021?type=journalists</guid>
+            <pubDate>Wed, 12 Jul 2023 05:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/12/33021.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후쿠시마 오염수 방류, 국가의 역할을 묻다]]></title>
             <link>https://n.news.naver.com/article/308/0000032977?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000032977?type=journalists</guid>
             <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/05/32977.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -574,14 +582,6 @@
             <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종인 “대통령제 때문에 청와대 안 들어가는 건 논리상 맞지 않아”]]></title>
-            <link>https://n.news.naver.com/article/308/0000030688?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030688?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/12/30688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
