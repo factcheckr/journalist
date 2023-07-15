@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 05:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 17:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,23 +288,15 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <link>https://n.news.naver.com/article/469/0000749788?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749788?type=journalists</guid>
             <pubDate>Fri, 14 Jul 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/14/749788.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 '알바 사원'이 일 냈다…혼자 노조 가입해 5000명 임금 인상 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000749644?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000749644?type=journalists</guid>
-            <pubDate>Thu, 13 Jul 2023 17:33:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/13/749644.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/14/749788.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["설득하고 방류한다"던 일본, 후쿠시마 어민 설득 못 해 '난감' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000749617?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749617?type=journalists</guid>
             <pubDate>Thu, 13 Jul 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/13/749617.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,7 +304,7 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <link>https://n.news.naver.com/article/469/0000749548?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749548?type=journalists</guid>
             <pubDate>Thu, 13 Jul 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/13/749548.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,31 +312,39 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <link>https://n.news.naver.com/article/469/0000749388?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749388?type=journalists</guid>
             <pubDate>Thu, 13 Jul 2023 05:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/12/749388.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 방위성, “북한 탄도미사일은 ICBM급… 일본 EEZ 밖 낙하” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000749275?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000749275?type=journalists</guid>
-            <pubDate>Wed, 12 Jul 2023 05:34:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/12/749275.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/12/749388.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["여성으로 성전환자는 여성 화장실 쓸 수 있어야" 일본 법원 첫 확정판결 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000749123?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749123?type=journalists</guid>
             <pubDate>Tue, 11 Jul 2023 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/11/749123.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤어진 남친이 "죽이겠다" 해도 일본 경찰은 "어머니가 감독하라"고만 했다 [특파원24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000748693?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000748693?type=journalists</guid>
+            <pubDate>Sat, 15 Jul 2023 17:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/09/748693.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 언론, IAEA 중립성에 의문 제기 "분담금 많이 내니 배려했을 것" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000748676?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000748676?type=journalists</guid>
+            <pubDate>Sat, 15 Jul 2023 17:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/09/748676.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IAEA 사무총장 “한국 오염수 우려 알아… 반대 야당 만남도 기꺼이 응할 것” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000748541?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000748541?type=journalists</guid>
             <pubDate>Fri, 07 Jul 2023 17:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/07/748541.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
