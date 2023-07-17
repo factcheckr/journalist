@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 17:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 05:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,7 +288,7 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <link>https://n.news.naver.com/article/469/0000750015?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000750015?type=journalists</guid>
             <pubDate>Sun, 16 Jul 2023 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/16/750015.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +344,7 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <link>https://n.news.naver.com/article/469/0000748676?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000748676?type=journalists</guid>
             <pubDate>Sat, 15 Jul 2023 17:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/09/748676.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +528,7 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <link>https://n.news.naver.com/article/308/0000033030?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033030?type=journalists</guid>
             <pubDate>Fri, 14 Jul 2023 05:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/14/33030.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,11 +764,19 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/19/32122.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밀란 쿤데라의 마지막을 함께한 책 [기자들의 시선] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033043?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033043?type=journalists</guid>
+            <pubDate>Mon, 17 Jul 2023 05:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/17/33043.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아동의 살 권리는 어떻게 보장하나 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033010?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033010?type=journalists</guid>
             <pubDate>Mon, 10 Jul 2023 05:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/10/33010.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1236,19 +1244,19 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/13/31149.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원격근무제, 누구에겐 뉴노멀 누구에겐 ‘그림의 떡’ (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031116?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031116?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31116.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[카르텔 향한 어퍼컷, 전 부처의 검찰화? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033046?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033046?type=journalists</guid>
+            <pubDate>Mon, 17 Jul 2023 05:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/17/33046.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독자는 기자가 “좀 더” 하길 바란다 [시사IN 독자위원회] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033021?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033021?type=journalists</guid>
             <pubDate>Wed, 12 Jul 2023 05:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/12/33021.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1810,14 +1818,6 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“페미니즘 정치와 계급 정치 연계시킬 토양 탄탄하게 존재한다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030737?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030737?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.04.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/04/21/30737.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
