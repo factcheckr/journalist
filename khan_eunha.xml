@@ -4,9 +4,28 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 05:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 17:36:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“오븐 속에서 사는 것 같아요” 시리아 난민의 더 괴로운 폭염]]></title>
+            <link>https://www.khan.co.kr/world/mideast-africa/article/202307171626001</link>
+            <guid>https://www.khan.co.kr/world/mideast-africa/article/202307171626001</guid>
+            <pubDate>Mon, 17 Jul 2023 17:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[“천막 안의 열기 때문에 숨쉬기 힘든 오븐 속에 있는 것처럼 살고 있습니다.”
+시리아와 튀르키예 국경 난민캠프에서 사는 하미다 단두쉬(62)가 한낮 무더위를 피하는 방법은 딱 하나뿐이다. 딸, 손자와 함께 사는 텐트에 물을 뿌리며 열을 식히는 것이다.
+하미다는 “어제 손자가 경련을 일으켰고 숨쉬기 어려워 병원에 갔더니 텐트 안이 더워서 그런 것 같다고 하더라”며 “우리 같은 노인들이 이 날씨를 견디지 못하면 어린아이들은 어떻게 견딜 수 있겠느냐”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/17/news-p.v1.20230717.2b6db21151fa46c9a31b4fa536ac270f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭염·홍수·산불로 세계 곳곳 사망자 속출…“1.2도 상승의 결과”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202307171457001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202307171457001</guid>
+            <pubDate>Mon, 17 Jul 2023 17:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[기록적인 폭염이 아시아, 아메리카, 유럽 3개 대륙을 강타했다. 북반구 일부 내륙 도시들의 기온이 50도를 넘긴 가운데 폭염, 산불, 홍수로 인한 사망자도 속출하고 있다.
+미국 기상청에 따르면 16일(현지시간) 캘리포니아주와 네바다주 경계에 펼쳐진 데스밸리 국립공원의 최고 기온은 화씨 128도(섭씨 53.33도)를 기록했다. 랜디 체베르니 세계기상기구(WMO) 연구원에 따르면 1913년 7월 1일의 화씨134도(56.67도) 이후 110년 만의 최고 기록이다. 세계에서 가장 더운 곳이라 여겨지는 데스밸리의 폭염 기록은 지난 달 이른 폭염으로 미국 남서부 지역에서 수십 명의 사망자가 발생한 뒤에 관측된 것이라 기상 관계자들은 우려하고 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/17/news-p.v1.20230717.b05e6bb3821a418fbcf14361ace5114a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[중 인터넷 매체 ‘펑파이’ 회장 감찰 조사…미디어 더욱 옥죈다]]></title>
             <link>https://www.khan.co.kr/world/china/article/202307142206001</link>
@@ -97,22 +116,6 @@ AFP통신 등에 따르면 모디 총리는 이날 샹젤리제 거리에서 진
             <content:encoded><![CDATA[일본 대법원에 해당하는 최고재판소가 성전환 수술을 받지 않은 트랜스젠더 직원의 여자 화장실 사용을 제한한 것은 위법이라고 판결했다.
 NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들어온 후 ‘성 정체성 장애’(육체적 성과 반대의 성으로 생각하는 사람)로 진단받았다. 그는 건강상 이유로 성전환 수술을 받을 수 없었으며 호르몬 치료만 받았다. 법적으로는 계속 남성으로 남았다. 일본에서 법률상 성별 전환은 성전환 수술을 받아야만 가능하다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/11/news-p.v1.20230711.ced6921591bc41f68a64e1404086497a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 과격하게 거듭되는 ‘학교 흉기 난동’…사회적 논의조차 통제하는 중국 정부]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202307112131025</link>
-            <guid>https://www.khan.co.kr/world/china/article/202307112131025</guid>
-            <pubDate>Tue, 11 Jul 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[어린이를 포함해 6명의 사망자를 낸 중국 광둥성 롄징시 유치원 칼부림 사건은 올해 들어 중국에서 세 번째로 일어난 ‘학교 공격 사건’이다. 중국에서는 2010년부터 거의 해마다 학교나 유치원에서 학생 등을 대상으로 한 무차별 공격 사건이 발생하고 있다. 불평등 확산에 따른 사회적 박탈감, 고립·통제에 대한 스트레스 등이 원인으로 지목된다. 그러나 중국 정부의 정보 통제 탓에 관련된 사회적 논의는 14년째 이뤄지지 못하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쌍둥이 판다 출산에 중국도 들썩…“한국민 사랑에 감사”]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202307112034001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202307112034001</guid>
-            <pubDate>Tue, 11 Jul 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[용인 에버랜드에 있는 판다 아이바오(9세)와 러바오(10세) 사이에 푸바오(2세)에 이어 쌍둥이 판다가 태어난 사실이 공개되자 판다를 한국에 보낸 중국도 축하를 보냈다.
-주한 중국대사관은 11일 위챗 공식 계정에 ‘푸바오: 내가 언니가 됐어요’라는 글을 올리면서 “한국에 살고 있는 판다가 3년 만에 다시금 낭보를 보내왔다”며 지난 7일 새벽 아이바오가 쌍둥이를 낳았다는 소식을 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/11/news-p.v1.20230711.76bd1d43cc3a4523bb40cfb03b6c3155.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
