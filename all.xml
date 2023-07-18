@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 17:36:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 05:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알츠하이머도 당뇨처럼 관리할 수 있을까…진행 늦추는 약 개발 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/life/life-general/article/202307181324001</link>
+            <guid>https://www.khan.co.kr/life/life-general/article/202307181324001</guid>
+            <pubDate>Tue, 18 Jul 2023 05:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[미국 제약사가 개발한 신약이 알츠하이머병 진행을 최대 60%까지 늦출 수 있다는 임상시험 결과가 나왔다. 알츠하이머병 치료의 새로운 돌파구가 될 수 있을지 의학계가 주목하고 있다.
+가디언 등에 따르면 17일(현지시간) 네덜란드 암스테르담에서 열린 알츠하이머 국제 컨퍼런스에서 제약사 일라이 릴리의 존 심스 박사팀은 알츠하이머병 치료제 ‘도나네맙(Donanemab)’이 뇌가 손상된 초기 단계 환자의 인지기능 저하를 35.1% 늦춘다는 임상시험 결과를 발표했다. 임상시험은 세계 각지의 알츠하이머병 증상이 있는 1736명을 대상으로 76주간 진행됐다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/18/news-p.v1.20230718.d85e58a8c95543238dad95f06eb34ab3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“오븐 속에서 사는 것 같아요” 시리아 난민의 더 괴로운 폭염 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/mideast-africa/article/202307171626001</link>
@@ -109,15 +118,6 @@ AFP통신 등에 따르면 모디 총리는 이날 샹젤리제 거리에서 진
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/12/news-p.v1.20230712.ca6317afd01d4438adb48ac8c7d9c36a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일 최고재판소 “수술 안 한 트랜스젠더, 여성 화장실 제한은 위법” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202307112247001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202307112247001</guid>
-            <pubDate>Tue, 11 Jul 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[일본 대법원에 해당하는 최고재판소가 성전환 수술을 받지 않은 트랜스젠더 직원의 여자 화장실 사용을 제한한 것은 위법이라고 판결했다.
-NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들어온 후 ‘성 정체성 장애’(육체적 성과 반대의 성으로 생각하는 사람)로 진단받았다. 그는 건강상 이유로 성전환 수술을 받을 수 없었으며 호르몬 치료만 받았다. 법적으로는 계속 남성으로 남았다. 일본에서 법률상 성별 전환은 성전환 수술을 받아야만 가능하다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/11/news-p.v1.20230711.ced6921591bc41f68a64e1404086497a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202202210300055</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202202210300055</guid>
@@ -207,6 +207,14 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
 성소수자에 대한 차별금지 조항에 반대하는 사람들이 내놓는 어처구니없는 논거 중 하나가 ‘한국에는 성소수자 차별이 없다’는 것이다. 뻔뻔하게도 구체적인 근거까지 내놓는다. 국가인권위원회에 성소수자 차별에 관한 진정 건수가 거의 없고, 외국과는 달리 한국에선 폭력이나 차별 사례도 별로 없지 않냐는 것이다. 잘 안 보이는 것과 없는 것은 완전히 다른 문제다. 안타깝게도 성소수자는 공식적으로 가시화되거나 정책 수립을 위한 인구집단으로 인정된 바가 없다. 인구주택총조사 등에서 성적지향이나 성별 정체성에 대한 통계를 체계적으로 수집한 적도 없고 교육, 노동, 보건의료, 가족 등의 정책 수립을 위한 실태조사에 성소수자 관련 조사를 포함시킨 적도 없다. 수사당국에서 소수자 대상 범죄 통계를 따로 집계하지도 않는다. 차별의 현실을 밝혀내려는 시도조차 하지 않았으니 차별이 입증될 수도 없다. 이런 상황에서 차별이 없다니 어안이 벙벙할 뿐이다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스포츠 브라를 입은 남자가 이상한가요? (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002944655</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002944655</guid>
+            <pubDate>Tue, 18 Jul 2023 05:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0714/A0002944655_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장예찬의 '지나친 PC주의' 발언... 그가 외면한 진실들 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002941102</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002941102</guid>
@@ -277,14 +285,6 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <pubDate>Mon, 27 Mar 2023 05:32:42 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0324/A0002912917_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 정치인의 죽음 전하려다 고민에 빠진 이유 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002908872</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002908872</guid>
-            <pubDate>Mon, 13 Mar 2023 17:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0310/A0002908872_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예고편도 없는 미야자키 하야오 최신작... '무홍보' 개봉 첫날 반응은 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -527,11 +527,19 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/27/746656.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘사람 살리는 의사’를 늘리기 위해서는 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033054?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033054?type=journalists</guid>
+            <pubDate>Tue, 18 Jul 2023 05:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/18/33054.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지연된 의대 증원, 그리고 그 반대자들 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033030?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033030?type=journalists</guid>
             <pubDate>Fri, 14 Jul 2023 05:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/14/33030.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -759,19 +767,11 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/02/32164.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밤하늘에 보이는 달, 그곳에 다누리가 있다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032122?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032122?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/19/32122.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[밀란 쿤데라의 마지막을 함께한 책 [기자들의 시선] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033043?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033043?type=journalists</guid>
             <pubDate>Mon, 17 Jul 2023 05:35:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/17/33043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -779,7 +779,7 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <link>https://n.news.naver.com/article/308/0000033010?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033010?type=journalists</guid>
             <pubDate>Mon, 10 Jul 2023 05:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/10/33010.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1251,7 +1251,7 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <link>https://n.news.naver.com/article/308/0000033046?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033046?type=journalists</guid>
             <pubDate>Mon, 17 Jul 2023 05:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/17/33046.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1259,7 +1259,7 @@ NHK 등에 따르면 경제산업성 50대 직원인 원고는 경산성에 들�
             <link>https://n.news.naver.com/article/308/0000033021?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033021?type=journalists</guid>
             <pubDate>Wed, 12 Jul 2023 05:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/12/33021.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
