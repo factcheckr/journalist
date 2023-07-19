@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 17:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 05:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부모가 사장님? 극심한 실업난에 ‘전업자녀’ 택한 중국 청년들 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202307191334001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202307191334001</guid>
+            <pubDate>Wed, 19 Jul 2023 05:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[중국 항저우 다창에서 8년 동안 프로그래머로 일했던 왕커(가명·35)는 지난 2월 퇴사를 결심했다. 체력소모와 경쟁이 심한 프로그래머 업계에서 35세면 임원 승진을 목표로 계속 일할지 아니면 다른 업종으로 전직해야 할지 갈림길에 서는 나이였다.
+왕커는 제4의 선택을 했다. 저장성의 부모님 집으로 돌아가는 것이다. 왕커는 “지금 이력서를 제출해도 여전히 일자리를 찾지 못할 가능성이 높다”며 “집에서 돈을 벌고 효도하기로 했다”고 말했다. 그는 요리, 장보기 등 집안일을 하며 이따금씩 부업 삼아 온라인으로 대학생들에게 프로그래밍을 가르친다. 그는 “중국의 부모들은 노후를 위해 자녀 양육에 막대한 투자를 하는데 자녀가 돌아와 부모를 돌보는 것도 합리적이지 않느냐”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/19/news-p.v1.20230719.a3844d34db124773964ee3d49c2e855e.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[알츠하이머도 당뇨처럼 관리할 수 있을까…진행 늦추는 약 개발 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/life/life-general/article/202307181324001</link>
@@ -107,15 +116,6 @@ AFP통신 등에 따르면 모디 총리는 이날 샹젤리제 거리에서 진
             <content:encoded><![CDATA[봉제선이 뜯어진 셔츠, 굽이 부러진 구두, 찢어진 청바지…. 프랑스에서는 올 가을부터 망가진 옷이나 신발을 버리지 않고 수선하면 정부가 수선비 일부를 보조해준다. 프랑스 정부가 기후위기 대책을 위해 새로 내놓은 정책이다.
 베랑제르 쿨리야르 프랑스 생태전환부 장관은 12일(현지시간) 파리 패션 중심가를 방문해 “의류를 수선하는 소비자들은 오는 10월부터 수선보조금을 받게 될 것”이라고 발표했다. 쿨리야르 장관에 따르면 보조금은 6~26유로(약 8500원~3만7000원)이다. 프랑스 정부는 수선보조금 지급을 위해 올해부터 2028년까지 1억5400만유로(2200억원)를 할당했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/13/news-p.v1.20230713.21c4e553119d42c58b3e50bfc7f0653b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태국 선관위, 전진당 대표 헌재에 회부…피타 림짜른랏 총리행에 빨간 불 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/asia-australia/article/202307121617001</link>
-            <guid>https://www.khan.co.kr/world/asia-australia/article/202307121617001</guid>
-            <pubDate>Thu, 13 Jul 2023 05:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[태국 선거관리위원회가 야권 총리 후보인 피타 림자른랏 전진당(MFP) 대표를 선거법 위반으로 헌재에 회부하기로 했다고 밝혔다. 의회의 총리 선출을 하루 앞두고 내린 결정이다.
-현지 매체 네이션과 외신에 따르면 태국 선관위는 12일 피타 대표가 미디어 주식을 보유해 총선 출마 자격에 문제가 있음을 알고도 출마한 증거가 있다며 이에 대한 판단을 헌재에 맡기겠다고 밝혔다. 선관위는 피타 대표의 의원 자격을 박탈해야 한다는 의견과 판결이 나올 때까지 의원직 직무 정지를 권고한 것으로 알려졌다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/12/news-p.v1.20230712.ca6317afd01d4438adb48ac8c7d9c36a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -315,7 +315,7 @@ AFP통신 등에 따르면 모디 총리는 이날 샹젤리제 거리에서 진
             <link>https://n.news.naver.com/article/469/0000749275?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749275?type=journalists</guid>
             <pubDate>Tue, 18 Jul 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/12/749275.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -531,7 +531,7 @@ AFP통신 등에 따르면 모디 총리는 이날 샹젤리제 거리에서 진
             <link>https://n.news.naver.com/article/308/0000033054?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033054?type=journalists</guid>
             <pubDate>Tue, 18 Jul 2023 05:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/18/33054.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -539,7 +539,7 @@ AFP통신 등에 따르면 모디 총리는 이날 샹젤리제 거리에서 진
             <link>https://n.news.naver.com/article/308/0000033030?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033030?type=journalists</guid>
             <pubDate>Fri, 14 Jul 2023 05:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/14/33030.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -771,7 +771,7 @@ AFP통신 등에 따르면 모디 총리는 이날 샹젤리제 거리에서 진
             <link>https://n.news.naver.com/article/308/0000033043?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033043?type=journalists</guid>
             <pubDate>Mon, 17 Jul 2023 05:35:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/17/33043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1251,7 +1251,7 @@ AFP통신 등에 따르면 모디 총리는 이날 샹젤리제 거리에서 진
             <link>https://n.news.naver.com/article/308/0000033046?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033046?type=journalists</guid>
             <pubDate>Mon, 17 Jul 2023 05:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/17/33046.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1259,7 +1259,7 @@ AFP통신 등에 따르면 모디 총리는 이날 샹젤리제 거리에서 진
             <link>https://n.news.naver.com/article/308/0000033021?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033021?type=journalists</guid>
             <pubDate>Wed, 12 Jul 2023 05:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/12/33021.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
