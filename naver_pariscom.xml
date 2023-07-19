@@ -4,15 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 05:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 17:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예고편도 없는 미야자키 하야오 최신작... '무홍보' 개봉 첫날 반응은 [특파원 24시]]]></title>
+            <link>https://n.news.naver.com/article/469/0000750015?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000750015?type=journalists</guid>
+            <pubDate>Wed, 19 Jul 2023 17:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/16/750015.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['큰일' 난 2025년 오사카·간사이 엑스포...행사장 첫 삽도 못 떴다]]></title>
+            <link>https://n.news.naver.com/article/469/0000749788?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000749788?type=journalists</guid>
+            <pubDate>Wed, 19 Jul 2023 17:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/14/749788.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 '알바 사원'이 일 냈다…혼자 노조 가입해 5000명 임금 인상]]></title>
+            <link>https://n.news.naver.com/article/469/0000749644?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000749644?type=journalists</guid>
+            <pubDate>Wed, 19 Jul 2023 17:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/13/749644.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["설득하고 방류한다"던 일본, 후쿠시마 어민 설득 못 해 '난감']]></title>
             <link>https://n.news.naver.com/article/469/0000749617?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749617?type=journalists</guid>
             <pubDate>Thu, 13 Jul 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/13/749617.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000749548?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749548?type=journalists</guid>
             <pubDate>Thu, 13 Jul 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/13/749548.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000749388?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749388?type=journalists</guid>
             <pubDate>Thu, 13 Jul 2023 05:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/12/749388.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000749123?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000749123?type=journalists</guid>
             <pubDate>Tue, 11 Jul 2023 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/11/749123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/28/746918.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['후쿠시마 부흥' 가로막는 오염수 방류... 서핑대회 국제대회 개최 무산]]></title>
-            <link>https://n.news.naver.com/article/469/0000746903?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000746903?type=journalists</guid>
-            <pubDate>Wed, 28 Jun 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/28/746903.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 오염수 방류 초읽기 들어갔다… "IAEA 최종보고서, 내달 4일쯤 공개"]]></title>
-            <link>https://n.news.naver.com/article/469/0000746674?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000746674?type=journalists</guid>
-            <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/27/746674.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한자와 나오키' 출연 일본 유명배우, 모친 자살방조 혐의로 체포]]></title>
-            <link>https://n.news.naver.com/article/469/0000746656?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000746656?type=journalists</guid>
-            <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/27/746656.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
