@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 05:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 17:34:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘테러리즘과의 전쟁’ 외피를 쓴 중국의 위구르 탄압·말살 정책]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202307212016025</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202307212016025</guid>
+            <pubDate>Fri, 21 Jul 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[위구르 제노사이드숀 R 로버츠 지음·장성준 옮김산처럼 | 488쪽 | 3만원
+책은 중국 정부가 벌이고 있는 ‘위구르 탄압’이 ‘테러리즘과의 전쟁’의 형태로 진행됐다는 점에 주목한다. 중국 내 다른 소수민족과 달리 위구르인만 유독 ‘제노사이드’, 즉 종족 전체가 멸절의 대상이 된 이유를 설명하기 위해서이다.
+책은 위구르 탄압의 근본 원인을 식민주의에서 찾는다. 청 제국이 18세기 동투르키스탄(신장)을 정복하고 나서야 이 지역에 살던 위구르인이 중국 역사에 편입됐다. 중국 정부는 신장 지역에 한족의 이주를 늘리고 이 지역이 중국에 경제적으로 종속되도록 하는 정책을 펼쳐 왔다. ‘정착형 식민지’ 건설과 ‘느린 동화’를 추구했다고 할 수 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/21/2023072201000779000073821.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[취업 대신 ‘전업자녀’ 택한 중국 청년들]]></title>
             <link>https://www.khan.co.kr/world/china/article/202307200600025</link>
@@ -106,16 +116,6 @@
             <content:encoded><![CDATA[중국에서 가장 영향력 있는 인터넷 매체 회장이 감찰 조사를 받아 자리에서 물러나게 됐다고 환구시보 등 현지 매체들이 14일 보도했다.
 보도에 따르면 중국 공산당 중앙기율위원회·국가감찰위원회(기율감찰위)는 전날 청펑 상하이신문그룹 부총경리 겸 펑파이신문 회장을 심각한 기율 및 법률 위반 혐의로 조사 중이라고 밝혔다. 그의 구체적인 혐의는 공개되지 않았지만 기율감찰위가 나서는 경우 대부분 부패 혐의가 적용된다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/14/news-p.v1.20230714.90695d11792a4b03a035aa8d3a7fc02b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도, 달 탐사선 ‘찬드라얀 3호’ 발사 성공]]></title>
-            <link>https://www.khan.co.kr/world/asia-australia/article/202307141955001</link>
-            <guid>https://www.khan.co.kr/world/asia-australia/article/202307141955001</guid>
-            <pubDate>Fri, 14 Jul 2023 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[인도가 세번째 달착륙 도전에 나섰다.
-인도우주연구기구(ISRO)는 14일(현지시간) 오후 2시 35분 남부 안드라프라데시주 스리하리코타 우주센터에서 무인 달 탐사선 찬드라얀 3호를 발사에 성공했다고 밝혔다. 찬드라얀은 산스크리트어로 ‘달의 차량’이라는 뜻이다.
-AP·AFP통신 등에 따르면 ISRO는 로켓이 찬드라얀 3호를 지구 궤도에 진입시키는 데 성공했다며 내달 달 착륙을 위한 궤도에 들어설 것이라고 발표했다. ISRO의 계획대로라면 찬드라얀 3호는 8월 23일 달 표면에 착륙할 예정이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/14/news-p.v1.20230714.3efee5adaaa1491f950ae24afd72d34f.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
