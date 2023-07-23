@@ -4,23 +4,15 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 05:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 17:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['오염수 방류'에 강하게 나가는 중국...일본 수산물 '전수 검사'로 보복]]></title>
-            <link>https://n.news.naver.com/article/469/0000751080?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000751080?type=journalists</guid>
-            <pubDate>Fri, 21 Jul 2023 17:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/21/751080.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[예고편도 없는 미야자키 하야오 최신작... '무홍보' 개봉 첫날 반응은 [특파원 24시]]]></title>
             <link>https://n.news.naver.com/article/469/0000750015?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000750015?type=journalists</guid>
             <pubDate>Wed, 19 Jul 2023 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/16/750015.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 28 Jun 2023 17:33:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/28/746933.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 정부 “지역 어민 이해 못 얻으면 오염수 방출 안 해”... 어민들 ‘반대’ 고수]]></title>
+            <link>https://n.news.naver.com/article/469/0000746918?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000746918?type=journalists</guid>
+            <pubDate>Sun, 23 Jul 2023 17:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.06.28.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/28/746918.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
