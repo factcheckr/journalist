@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 17:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 05:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울-양평 고속도로는 대통령 처가로 향한다?]]></title>
+            <link>https://n.news.naver.com/article/308/0000033101?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033101?type=journalists</guid>
+            <pubDate>Tue, 25 Jul 2023 05:32:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/25/33101.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘사람 살리는 의사’를 늘리기 위해서는]]></title>
             <link>https://n.news.naver.com/article/308/0000033054?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033054?type=journalists</guid>
             <pubDate>Tue, 18 Jul 2023 05:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/18/33054.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.02.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/07/32182.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“정치가의 말이 실패할 때, 민주주의는 실패한다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000032164?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032164?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/02/32164.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 17:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 05:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특수활동비 영수증이 들춰낸 검찰의 ‘내로남불’?]]></title>
+            <link>https://n.news.naver.com/article/308/0000033099?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033099?type=journalists</guid>
+            <pubDate>Tue, 25 Jul 2023 05:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/25/33099.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카르텔 향한 어퍼컷, 전 부처의 검찰화?]]></title>
             <link>https://n.news.naver.com/article/308/0000033046?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033046?type=journalists</guid>
             <pubDate>Mon, 17 Jul 2023 05:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/17/33046.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -574,14 +582,6 @@
             <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] ‘부모 찬스’ 쓴 미성년자 논문, 공식 확인됐다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030789?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030789?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30789.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
