@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 05:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 17:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발 빠른 일본...내년 미국 대선 대비 주미대사 교체]]></title>
+            <link>https://n.news.naver.com/article/469/0000751882?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000751882?type=journalists</guid>
+            <pubDate>Wed, 26 Jul 2023 17:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/26/751882.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한중일 정상회의 4년 만에 재개되나...일본 "다시 하기로 중국과 합의"]]></title>
             <link>https://n.news.naver.com/article/469/0000751679?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751679?type=journalists</guid>
             <pubDate>Tue, 25 Jul 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/25/751679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000751491?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751491?type=journalists</guid>
             <pubDate>Mon, 24 Jul 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/24/751491.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000751270?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751270?type=journalists</guid>
             <pubDate>Tue, 25 Jul 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/23/751270.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 29 Jun 2023 17:33:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/29/747184.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 살상무기 수출 금지도 해제하나...자민당 "규제 철폐"]]></title>
-            <link>https://n.news.naver.com/article/469/0000747099?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000747099?type=journalists</guid>
-            <pubDate>Thu, 29 Jun 2023 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/06/29/747099.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
