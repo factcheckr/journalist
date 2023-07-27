@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 05:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 17:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부 업무 '챗GPT'로 보겠다는 일본...MS와 연간 26억 계약]]></title>
+            <link>https://n.news.naver.com/article/469/0000752123?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752123?type=journalists</guid>
+            <pubDate>Thu, 27 Jul 2023 17:33:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/27/752123.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[묻지마 칼부림, ‘흔한 범죄’ 되지 않으려면 [특파원의 시선]]]></title>
             <link>https://n.news.naver.com/article/469/0000751935?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751935?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/27/751935.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000751882?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751882?type=journalists</guid>
             <pubDate>Wed, 26 Jul 2023 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/26/751882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000751679?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751679?type=journalists</guid>
             <pubDate>Tue, 25 Jul 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/25/751679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,16 +44,16 @@
             <link>https://n.news.naver.com/article/469/0000751491?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751491?type=journalists</guid>
             <pubDate>Mon, 24 Jul 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/24/751491.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘오염수 방류 준비 끝’ 일본 도쿄전력, 외신에 시설 공개… 전방위 홍보전]]></title>
-            <link>https://n.news.naver.com/article/469/0000751270?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000751270?type=journalists</guid>
-            <pubDate>Tue, 25 Jul 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/23/751270.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA['오염수 방류'에 강하게 나가는 중국...일본 수산물 '전수 검사'로 보복]]></title>
+            <link>https://n.news.naver.com/article/469/0000751080?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000751080?type=journalists</guid>
+            <pubDate>Thu, 27 Jul 2023 17:33:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/21/751080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예고편도 없는 미야자키 하야오 최신작... '무홍보' 개봉 첫날 반응은 [특파원 24시]]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747528.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“사소한 행동에 애정 식어” 일본 Z세대 유행어 ‘개구리화 현상’이란 [특파원24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000747484?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000747484?type=journalists</guid>
-            <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747484.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
