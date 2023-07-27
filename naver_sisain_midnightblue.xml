@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 17:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 05:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘생태’는 진보, ‘환경보호’는 보수? 이념에 갇힌 기후 대응 교육]]></title>
+            <link>https://n.news.naver.com/article/308/0000033117?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033117?type=journalists</guid>
+            <pubDate>Thu, 27 Jul 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/27/33117.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀란 쿤데라의 마지막을 함께한 책 [기자들의 시선]]]></title>
             <link>https://n.news.naver.com/article/308/0000033043?type=journalists</link>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/15/31165.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겸손하게, 그리고 압도적으로, ‘소수적 감성’을 짚다]]></title>
-            <link>https://n.news.naver.com/article/308/0000031149?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031149?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/13/31149.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
