@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 05:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 17:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,11 +290,27 @@ ECB는 물가상승률이 높아 금리인상이 계속 필요하다고 보고 �
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0407/A0002916874_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 최저임금 4.3% 인상... 1000엔 넘었는데 한국보다 적다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000752369?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752369?type=journalists</guid>
+            <pubDate>Fri, 28 Jul 2023 17:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752369.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본은행, 금융완화 정책 일부 수정… 금융 시장 ‘깜짝’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000752364?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752364?type=journalists</guid>
+            <pubDate>Fri, 28 Jul 2023 17:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752364.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정부 업무 '챗GPT'로 보겠다는 일본...MS와 연간 26억 계약 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000752123?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752123?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/27/752123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -310,7 +326,7 @@ ECB는 물가상승률이 높아 금리인상이 계속 필요하다고 보고 �
             <link>https://n.news.naver.com/article/469/0000751882?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751882?type=journalists</guid>
             <pubDate>Wed, 26 Jul 2023 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/26/751882.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,7 +334,7 @@ ECB는 물가상승률이 높아 금리인상이 계속 필요하다고 보고 �
             <link>https://n.news.naver.com/article/469/0000751679?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751679?type=journalists</guid>
             <pubDate>Tue, 25 Jul 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/25/751679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -326,15 +342,23 @@ ECB는 물가상승률이 높아 금리인상이 계속 필요하다고 보고 �
             <link>https://n.news.naver.com/article/469/0000751491?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751491?type=journalists</guid>
             <pubDate>Mon, 24 Jul 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/24/751491.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘오염수 방류 준비 끝’ 일본 도쿄전력, 외신에 시설 공개… 전방위 홍보전 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000751270?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000751270?type=journalists</guid>
+            <pubDate>Fri, 28 Jul 2023 17:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/23/751270.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['오염수 방류'에 강하게 나가는 중국...일본 수산물 '전수 검사'로 보복 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000751080?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751080?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/21/751080.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -504,30 +528,6 @@ ECB는 물가상승률이 높아 금리인상이 계속 필요하다고 보고 �
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747869.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄서 "강제동원 희생자 추도비 철거 반대" 집회… 우익의 방해 예고에 한때 긴장감 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000747572?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000747572?type=journalists</guid>
-            <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747572.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실용성 중시되는 일본 프러포즈 선물... '월급 3배' 약혼반지 대신 '부동산 지분'도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000747533?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000747533?type=journalists</guid>
-            <pubDate>Sat, 08 Jul 2023 17:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747533.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아베 1주기 앞두고 위령비 제막... 총격 현장서 5㎞ 지점에 세운 이유는? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000747528?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000747528?type=journalists</guid>
-            <pubDate>Sun, 02 Jul 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/02/747528.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울-양평 고속도로는 대통령 처가로 향한다? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
