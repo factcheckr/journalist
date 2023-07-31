@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 05:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 17:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,13 +44,13 @@ CBS방송 등에 따르면 30일(현지시간) 지난 27일 오후 미 중부 �
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/31/news-p.v1.20230731.a43c215662914e979de17ef8f83fd17c.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[파키스탄 폭탄 테러 사망자 최소 44명 (경향신문 ─ 박은하 기자)]]></title>
+            <title><![CDATA[파키스탄 폭탄 테러…최소 54명 사망, 200여명 부상 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202307310823001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202307310823001</guid>
             <pubDate>Mon, 31 Jul 2023 05:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[파키스탄 북서부에서 30일(현지시간) 이슬람 정치 지도자 모임에서 폭탄 테러가 벌어져 최소 44명이 사망하고 약 200명이 다쳤다.
+            <content:encoded><![CDATA[파키스탄 북서부에서 30일(현지시간) 이슬람 정치 지도자 모임에서 폭탄 테러가 벌어져 최소 54명이 사망하고 약 200명이 다쳤다.
 AP·AFP·dpa 통신 등에 따르면 이날 아프가니스탄 접경지인 파키스탄 북서부 카르카이버·파크쿤트와주 바자우르에서 이슬람 강경파 정치지도자들이 모인 정치 집회에서 자살 폭탄 공격이 발생했다.
-페로즈 자말 파키스탄 지방 정보부 장관은 AP 통신에 “폭발로 지금까지 44명이 ‘순교’했고 거의 200명이 다쳤다”고 말했다. 현지 경찰은 “부상자 일부는 중태로, 도심 주요 병원으로 옮겨졌다”며 “사망자 수는 앞으로 더 늘어날 수 있다”고 말했다.]]></content:encoded>
+사망자 수는 현재까지 54명으로 늘었고 부상자는 약 200명에 이르는 것으로 파악됐다. 현지 경찰은 “부상자 일부는 중태로, 도심 주요 병원으로 옮겨졌다”며 “사망자 수는 앞으로 더 늘어날 수 있다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/31/news-p.v1.20230731.284300631fbb4b43a4b9a508344c52ec.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -288,11 +288,19 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0420/A0002920885_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오염수 방류 반대하면 다 가짜뉴스? 일본, 한미일 정상회담 의제로 올리나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000752712?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752712?type=journalists</guid>
+            <pubDate>Mon, 31 Jul 2023 17:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/31/752712.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전 남편 자살 연루된 日 기시다 최측근 아내…재수사 중단 둘러싼 '진실게임' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000752509?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752509?type=journalists</guid>
             <pubDate>Sun, 30 Jul 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/30/752509.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,23 +308,15 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <link>https://n.news.naver.com/article/469/0000752369?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752369?type=journalists</guid>
             <pubDate>Fri, 28 Jul 2023 17:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752369.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 방위백서 “독도는 일본 땅” 여전… 한일 방위협력엔 긍정 평가 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000752293?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000752293?type=journalists</guid>
-            <pubDate>Mon, 31 Jul 2023 05:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정부 업무 '챗GPT'로 보겠다는 일본...MS와 연간 26억 계약 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000752123?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752123?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/27/752123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,15 +332,23 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <link>https://n.news.naver.com/article/469/0000751882?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751882?type=journalists</guid>
             <pubDate>Wed, 26 Jul 2023 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/26/751882.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["미국 추종 너무 심했나"...중국의 경제 보복 걱정하는 일본 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000751712?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000751712?type=journalists</guid>
+            <pubDate>Mon, 31 Jul 2023 17:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/25/751712.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한중일 정상회의 4년 만에 재개되나...일본 "다시 하기로 중국과 합의" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000751679?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751679?type=journalists</guid>
             <pubDate>Tue, 25 Jul 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/25/751679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +356,7 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <link>https://n.news.naver.com/article/469/0000751491?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751491?type=journalists</guid>
             <pubDate>Mon, 24 Jul 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/24/751491.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,7 +364,7 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <link>https://n.news.naver.com/article/469/0000751273?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751273?type=journalists</guid>
             <pubDate>Sat, 29 Jul 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/23/751273.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,7 +372,7 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <link>https://n.news.naver.com/article/469/0000751270?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751270?type=journalists</guid>
             <pubDate>Fri, 28 Jul 2023 17:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/23/751270.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -518,14 +526,6 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747954.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반발한 중국 "일본의 오염수 방류 책임, IAEA가 면제해 줄 수 없다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000747937?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000747937?type=journalists</guid>
-            <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울-양평 고속도로는 대통령 처가로 향한다? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>

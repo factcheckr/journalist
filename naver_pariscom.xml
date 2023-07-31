@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 05:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 17:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오염수 방류 반대하면 다 가짜뉴스? 일본, 한미일 정상회담 의제로 올리나]]></title>
+            <link>https://n.news.naver.com/article/469/0000752712?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752712?type=journalists</guid>
+            <pubDate>Mon, 31 Jul 2023 17:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/31/752712.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 남편 자살 연루된 日 기시다 최측근 아내…재수사 중단 둘러싼 '진실게임']]></title>
             <link>https://n.news.naver.com/article/469/0000752509?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752509?type=journalists</guid>
             <pubDate>Sun, 30 Jul 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/30/752509.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,23 +28,15 @@
             <link>https://n.news.naver.com/article/469/0000752369?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752369?type=journalists</guid>
             <pubDate>Fri, 28 Jul 2023 17:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752369.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 방위백서 “독도는 일본 땅” 여전… 한일 방위협력엔 긍정 평가]]></title>
-            <link>https://n.news.naver.com/article/469/0000752293?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000752293?type=journalists</guid>
-            <pubDate>Mon, 31 Jul 2023 05:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정부 업무 '챗GPT'로 보겠다는 일본...MS와 연간 26억 계약]]></title>
             <link>https://n.news.naver.com/article/469/0000752123?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752123?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/27/752123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,15 +52,23 @@
             <link>https://n.news.naver.com/article/469/0000751882?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751882?type=journalists</guid>
             <pubDate>Wed, 26 Jul 2023 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/26/751882.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["미국 추종 너무 심했나"...중국의 경제 보복 걱정하는 일본]]></title>
+            <link>https://n.news.naver.com/article/469/0000751712?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000751712?type=journalists</guid>
+            <pubDate>Mon, 31 Jul 2023 17:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/25/751712.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한중일 정상회의 4년 만에 재개되나...일본 "다시 하기로 중국과 합의"]]></title>
             <link>https://n.news.naver.com/article/469/0000751679?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751679?type=journalists</guid>
             <pubDate>Tue, 25 Jul 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/25/751679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000751491?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751491?type=journalists</guid>
             <pubDate>Mon, 24 Jul 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/24/751491.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000751273?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751273?type=journalists</guid>
             <pubDate>Sat, 29 Jul 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/23/751273.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000751270?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751270?type=journalists</guid>
             <pubDate>Fri, 28 Jul 2023 17:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/23/751270.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747954.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반발한 중국 "일본의 오염수 방류 책임, IAEA가 면제해 줄 수 없다"]]></title>
-            <link>https://n.news.naver.com/article/469/0000747937?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000747937?type=journalists</guid>
-            <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747937.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
