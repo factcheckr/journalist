@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 17:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 05:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000752509?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752509?type=journalists</guid>
             <pubDate>Sun, 30 Jul 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/30/752509.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 28 Jul 2023 17:34:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752369.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 방위백서 “독도는 일본 땅” 여전… 한일 방위협력엔 긍정 평가]]></title>
+            <link>https://n.news.naver.com/article/469/0000752293?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752293?type=journalists</guid>
+            <pubDate>Mon, 31 Jul 2023 05:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정부 업무 '챗GPT'로 보겠다는 일본...MS와 연간 26억 계약]]></title>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000751935?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751935?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/27/751935.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Jul 2023 17:36:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747937.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[속보] IAEA "후쿠시마 오염수, 사람·환경에 미칠 영향은 무시할 수 있는 수준"]]></title>
-            <link>https://n.news.naver.com/article/469/0000747921?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000747921?type=journalists</guid>
-            <pubDate>Mon, 10 Jul 2023 17:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/04/747921.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
