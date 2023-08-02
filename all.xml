@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 17:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 05:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,7 +338,7 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <link>https://n.news.naver.com/article/469/0000751935?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751935?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/27/751935.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -530,7 +530,7 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <link>https://n.news.naver.com/article/308/0000033152?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033152?type=journalists</guid>
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -538,7 +538,7 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <link>https://n.news.naver.com/article/308/0000033150?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033150?type=journalists</guid>
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33150.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -546,7 +546,7 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <link>https://n.news.naver.com/article/308/0000033101?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033101?type=journalists</guid>
             <pubDate>Tue, 25 Jul 2023 05:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/25/33101.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -766,11 +766,19 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/17/32231.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“재난 대응의 기본 단위는 개인이 아닌 이웃이다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033156?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033156?type=journalists</guid>
+            <pubDate>Wed, 02 Aug 2023 05:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/02/33156.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘생태’는 진보, ‘환경보호’는 보수? 이념에 갇힌 기후 대응 교육 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033117?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033117?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/27/33117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1238,19 +1246,11 @@ AFP, dpa통신 등에 따르면 우크라이나 펜싱 선수 올가 칼린은 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘퀴어적 시선’으로 사회적 참사를 들여다본다는 것 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031165?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031165?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/15/31165.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[특수활동비 영수증이 들춰낸 검찰의 ‘내로남불’? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033099?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033099?type=journalists</guid>
             <pubDate>Tue, 25 Jul 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/25/33099.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
