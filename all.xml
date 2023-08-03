@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 17:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 05:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일 신문 “북한, 이달 카자흐스탄 세계태권도대회 참가” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202308030908001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202308030908001</guid>
+            <pubDate>Thu, 03 Aug 2023 05:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[북한이 이달 카자흐스탄 아스타나에서 열리는 태권도 세계선수권 대회에 100명 규모의 선수단을 파견한다고 도쿄신문이 3일 보도했다. 코로나19 대유행 이후 북한의 첫 국제스포츠대회 참가이다.
+보도에 따르면 북한은 이달 19~26일 아스타나에서 열리는 제22회 세계태권도선수권 대회에 스태프 포함 100명 규모의 선수단을 파견한다. 선수단은 17일 중국  랴오닝성 단둥을 거쳐 베이징으로 입국한 뒤 항공편으로 카자흐스탄까지 이동할 계획이다. 단둥까지는 버스나 열차를 이용해 이동할 계획이라는 정보가 있다고 도쿄신문은 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/03/news-p.v1.20230803.9fd449a6ec0449b091e808c928d7fa2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케냐 주도 다국적 경찰 파견…아이티 현대사 트라우마 넘을 수 있을까 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202308021710001</link>
@@ -106,15 +115,6 @@ AP·AFP·dpa 통신 등에 따르면 이날 아프가니스탄 접경지인 파�
             <content:encoded><![CDATA[프랑스 파리의 명물인 센강변 책 노점상들(사진)이 2024년 파리 올림픽을 위해 일시 철거돼야 한다는 통보를 받고 반발하고 있다.
 AFP·로이터통신에 따르면 파리 시 당국은 내년 7월26일 열리는 하계올림픽 개회식을 위해 센강변의 책 노점 가판대 570개를 옮기기로 했다. 이는 전체 노점의 60%에 해당한다. 경찰은 “명백한 보안상의 이유로 노점을 철거해야 한다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/30/2023073101001117700105181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘풀뿌리 민심’ 두려워 당원 앞에서 트럼프 비판 못한 미 공화당 후보들 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202307301645001</link>
-            <guid>https://www.khan.co.kr/world/america/article/202307301645001</guid>
-            <pubDate>Sun, 30 Jul 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[미국 공화당 대선주자들이 총출동한 28일(현지시간) 아이오와 당원대회에서 도널드 트럼프 전 대통령의 경쟁자들이 도널드 전 대통령의 사법리스크 언급을 회피하는 진풍경을 보였다.
-아이오와주 디모인에서 이날 열린 공화당 연례모금 행사인 ‘링컨의 날’ 기념 만찬에는 트럼프 전 대통령, 론 디샌티스 플로리다주지사, 팀 스콧 사우스캐롤라이나 상원의원, 니키 헤일리 전 유엔대사, 마이크 펜스 전 부통령 등 공화당 경선 후보 13명이 전원 참석했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/30/news-p.v1.20230730.04dcaaeb07e6408ca7c60733fb82c277.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -290,7 +290,7 @@ AFP·로이터통신에 따르면 파리 시 당국은 내년 7월26일 열리�
             <link>https://n.news.naver.com/article/469/0000753073?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753073?type=journalists</guid>
             <pubDate>Wed, 02 Aug 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/02/753073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,7 +346,7 @@ AFP·로이터통신에 따르면 파리 시 당국은 내년 7월26일 열리�
             <link>https://n.news.naver.com/article/469/0000751935?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751935?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/27/751935.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -530,7 +530,7 @@ AFP·로이터통신에 따르면 파리 시 당국은 내년 7월26일 열리�
             <link>https://n.news.naver.com/article/308/0000033152?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033152?type=journalists</guid>
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -538,7 +538,7 @@ AFP·로이터통신에 따르면 파리 시 당국은 내년 7월26일 열리�
             <link>https://n.news.naver.com/article/308/0000033150?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033150?type=journalists</guid>
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33150.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -770,7 +770,7 @@ AFP·로이터통신에 따르면 파리 시 당국은 내년 7월26일 열리�
             <link>https://n.news.naver.com/article/308/0000033156?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033156?type=journalists</guid>
             <pubDate>Wed, 02 Aug 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/02/33156.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -778,7 +778,7 @@ AFP·로이터통신에 따르면 파리 시 당국은 내년 7월26일 열리�
             <link>https://n.news.naver.com/article/308/0000033117?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033117?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/27/33117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
