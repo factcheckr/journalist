@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 17:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 05:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,7 +289,7 @@ AP·AFP·dpa 통신 등에 따르면 이날 아프가니스탄 접경지인 파�
             <link>https://n.news.naver.com/article/469/0000753266?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753266?type=journalists</guid>
             <pubDate>Thu, 03 Aug 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/03/753266.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +353,7 @@ AP·AFP·dpa 통신 등에 따르면 이날 아프가니스탄 접경지인 파�
             <link>https://n.news.naver.com/article/469/0000751935?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000751935?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/27/751935.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -529,7 +529,7 @@ AP·AFP·dpa 통신 등에 따르면 이날 아프가니스탄 접경지인 파�
             <link>https://n.news.naver.com/article/308/0000033152?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033152?type=journalists</guid>
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -537,7 +537,7 @@ AP·AFP·dpa 통신 등에 따르면 이날 아프가니스탄 접경지인 파�
             <link>https://n.news.naver.com/article/308/0000033150?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033150?type=journalists</guid>
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33150.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -769,7 +769,7 @@ AP·AFP·dpa 통신 등에 따르면 이날 아프가니스탄 접경지인 파�
             <link>https://n.news.naver.com/article/308/0000033156?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033156?type=journalists</guid>
             <pubDate>Wed, 02 Aug 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/02/33156.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -777,7 +777,7 @@ AP·AFP·dpa 통신 등에 따르면 이날 아프가니스탄 접경지인 파�
             <link>https://n.news.naver.com/article/308/0000033117?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033117?type=journalists</guid>
             <pubDate>Thu, 27 Jul 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/27/33117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1243,6 +1243,14 @@ AP·AFP·dpa 통신 등에 따르면 이날 아프가니스탄 접경지인 파�
             <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31199.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 정신과 의사의 조언 “자책하지 마세요” [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033171?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033171?type=journalists</guid>
+            <pubDate>Fri, 04 Aug 2023 05:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/04/33171.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특수활동비 영수증이 들춰낸 검찰의 ‘내로남불’? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
@@ -1811,14 +1819,6 @@ AP·AFP·dpa 통신 등에 따르면 이날 아프가니스탄 접경지인 파�
             <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이들을 보라, 이들이 메시지다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030791?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030791?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 17:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 05:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 정신과 의사의 조언 “자책하지 마세요” [사람IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033171?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033171?type=journalists</guid>
+            <pubDate>Fri, 04 Aug 2023 05:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/04/33171.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특수활동비 영수증이 들춰낸 검찰의 ‘내로남불’?]]></title>
             <link>https://n.news.naver.com/article/308/0000033099?type=journalists</link>
@@ -574,14 +582,6 @@
             <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이들을 보라, 이들이 메시지다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030791?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030791?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/02/30791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
