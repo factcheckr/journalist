@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 05:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 17:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,19 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0420/A0002920885_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["말이 높이 2m 벽 뛰어넘으면 풍년"이라 믿는 일본 축제...다치면 '살처분' [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000753672?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000753672?type=journalists</guid>
+            <pubDate>Sun, 06 Aug 2023 17:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753672.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘위안부 사죄’ 고노 담화 30주년...일본 “계승 변함없어” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000753266?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753266?type=journalists</guid>
             <pubDate>Thu, 03 Aug 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/03/753266.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +304,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000753073?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753073?type=journalists</guid>
             <pubDate>Wed, 02 Aug 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/02/753073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,15 +312,23 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000752712?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752712?type=journalists</guid>
             <pubDate>Mon, 31 Jul 2023 17:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/31/752712.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] "학부모 악마화는 해법 아냐" 교권 붕괴 먼저 겪은 일본서 배운다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000752569?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752569?type=journalists</guid>
+            <pubDate>Sun, 06 Aug 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/31/752569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 남편 자살 연루된 日 기시다 최측근 아내…재수사 중단 둘러싼 '진실게임' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000752509?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752509?type=journalists</guid>
             <pubDate>Sun, 30 Jul 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/30/752509.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -506,22 +522,6 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <pubDate>Fri, 07 Jul 2023 17:34:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/07/748541.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기시다 불러다 교육시켜라!" 통일교가 모욕해도 대응 못 하는 일본 정부 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000748388?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000748388?type=journalists</guid>
-            <pubDate>Thu, 06 Jul 2023 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/06/748388.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터를 끝까지 사랑한 일본도 "이젠 한계"... 저커버그의 '스레드'가 틈새 노린다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000748336?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000748336?type=journalists</guid>
-            <pubDate>Thu, 06 Jul 2023 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/06/748336.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘 사법부 무력화될까 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
