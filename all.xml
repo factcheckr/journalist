@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 17:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 05:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,27 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0420/A0002920885_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“일본, 오염수 방류 이달 하순 개시할 듯… 한미일 정상회의 후 결정” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000753754?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000753754?type=journalists</guid>
+            <pubDate>Mon, 07 Aug 2023 05:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753754.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["나만 불쌍하다는 왜곡된 분노가 묻지마 칼부림의 원인...일본을 보라" [인터뷰] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000753728?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000753728?type=journalists</guid>
+            <pubDate>Mon, 07 Aug 2023 05:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753728.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["말이 높이 2m 벽 뛰어넘으면 풍년"이라 믿는 일본 축제...다치면 '살처분' [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000753672?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753672?type=journalists</guid>
             <pubDate>Sun, 06 Aug 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753672.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +336,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000752569?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752569?type=journalists</guid>
             <pubDate>Sun, 06 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/31/752569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -508,27 +524,11 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/09/748693.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 언론, IAEA 중립성에 의문 제기 "분담금 많이 내니 배려했을 것" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000748676?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000748676?type=journalists</guid>
-            <pubDate>Sat, 15 Jul 2023 17:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/09/748676.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IAEA 사무총장 “한국 오염수 우려 알아… 반대 야당 만남도 기꺼이 응할 것” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000748541?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000748541?type=journalists</guid>
-            <pubDate>Fri, 07 Jul 2023 17:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/07/748541.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이스라엘 사법부 무력화될까 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033152?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033152?type=journalists</guid>
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -536,7 +536,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/308/0000033150?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033150?type=journalists</guid>
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33150.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -768,7 +768,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/308/0000033156?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033156?type=journalists</guid>
             <pubDate>Wed, 02 Aug 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/02/33156.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1244,11 +1244,19 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이것은 분명한 인재다 [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033182?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033182?type=journalists</guid>
+            <pubDate>Mon, 07 Aug 2023 05:34:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/07/33182.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한 정신과 의사의 조언 “자책하지 마세요” [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033171?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033171?type=journalists</guid>
             <pubDate>Fri, 04 Aug 2023 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/04/33171.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1810,14 +1818,6 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30834.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 날, 유우성씨에게 연락이 왔다 [프리스타일] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030831?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030831?type=journalists</guid>
-            <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/10/30831.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
