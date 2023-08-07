@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 05:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 17:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“혁명 위해 싸울 것”···전운 감도는 니제르, 더 결집된 반외세 시위 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202308071718001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202308071718001</guid>
+            <pubDate>Mon, 07 Aug 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[서아프리카 15개국 연합체인 서아프리카경제공동체(ECOWAS)가 니제르 군부에 군사개입을 경고한 최후통첩 시한이 6일(현지시간)로 만료되면서 니제르에 긴장이 고조되고 있다.
+전면전 발발 가능성까지 거론되는 니제르에서는 주말 사이 사재기와 피난 준비 등의 움직임이 나타났다. 반외세 시위도 격렬하게 벌어졌다. ECOWAS의 군사개입 가능성이 니제르인을 더욱 결집시키고 있다는 분석도 나온다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/07/news-p.v1.20230807.bcab2eeb73e44217b9b634f5dabeb2f7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴란드 농민 “우크라이나 값싼 농산물 몰려온다” 우려 …다시 고개 드는 갈등 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202308071543001</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202308071543001</guid>
+            <pubDate>Mon, 07 Aug 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[폴란드와 우크라이나의 ‘반러시아 연대’를 흔드는 갈등의 도화선이었던 우크라이나산 농산물 문제가 다시금 부상하고 있다. 유럽연합(EU)이 동유럽 4개국에 한시적으로 허용해 준 우크라이나산 농산물 수입 금지 조치가 다음달 15일 해제되기 때문이다. 폴란드 정부는 EU의 관세 면제 혜택을 받은 우크라이나산 농산물과 경쟁해야 하는 자국 농민들의 피해를 고려해 독자적으로 수입 금지 조치를 유지할 계획이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/07/news-p.v1.20230807.7a93be26f1fb4f3e89fc80cae71f9191.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[서아프리카 15개국 대표단 니제르 도착 … ‘쿠데타 해결’ 군사개입 결정될까 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/mideast-africa/article/202308041711001</link>
@@ -95,24 +112,6 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <content:encoded><![CDATA[일본 내에서 후쿠시마 제1원자력발전소의 오염수(일본 정부 명칭 처리수) 해양 방출을 찬성하는 여론이 60%에 육박했다는 여론조사 결과가 나왔다.
 31일 니혼게이자이신문은 지난 28~30일 전국 18세 이상 남녀를 대상으로 진행한 여론조사에서 ‘오염수 방출에 찬성한다’는 의견이 58%로 반대 응답을 크게 웃돌았다고 보도했다. 연령대별 찬성 비율로는 39세 이하가 52%, 40·50대가 62%, 60세 이상이 60%가 찬성해 연령과 찬성 응답 비율이 비례하는 경향을 보였다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/31/news-p.v1.20230731.5d44fc02c74a47c2ab3f3e94c19d83c5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[일 산케이 “한미일 정상회담 의제에 원전 오염수 가짜뉴스 대응책 포함” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202307311013011</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202307311013011</guid>
-            <pubDate>Mon, 31 Jul 2023 05:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[내달 18일 열리는 한미일 정상회담 의제로 일본 후쿠시마 제1원자력발전소 오염수(일본 정부 명칭 ‘처리수’)를 둘러싼 중국발 가짜 정보에 대한 대응책이 포함될 수도 있다고 산케이신문이 31일 보도했다.
-산케이신문은 일본 정부가 중국발 가짜 정보에 대응하기 위해 미국, 한국과 협력을 강화하고 있다면서 한미일 정상회담에서도 중국 문제의 하나로서 의제에 오를 가능성이 있다고 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/31/news-p.v1.20230731.781a515604c64d13aaab20c5a16e66ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이탈리아 국방장관 “일대일로 참여, 형편없는 결정” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202307310903001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202307310903001</guid>
-            <pubDate>Mon, 31 Jul 2023 05:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[이탈리아가 국방장관이 자국의 일대일로 사업 참여를 두고 ‘형편없는 결정’이었다고 언론 인터뷰에서 말했다.
-귀도 크로세토 이탈리아 국방장관은 30일(현지시간) 보도된 자국 일간지 ‘코리에레 델라 세라’와 인터뷰에서 “일대일로에 참여하기로 한 결정은 즉흥적이고 형편없는 행동이었다”며 중국의 대이탈리아 수출은 증가했지만, 이탈리아의 대중국 수출은 같은 효과를 보지 못했다“고 지적했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/31/news-p.v1.20230731.b9cbd131e86e495eb9bbaad3731d862e_P2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -284,27 +283,19 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0420/A0002920885_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“일본, 오염수 방류 이달 하순 개시할 듯… 한미일 정상회의 후 결정” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <title><![CDATA[“일본, 오염수 방류 이달 하순 개시할 듯…한미일 정상회의 후 결정” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000753754?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753754?type=journalists</guid>
             <pubDate>Mon, 07 Aug 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753754.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나만 불쌍하다는 왜곡된 분노가 묻지마 칼부림의 원인...일본을 보라" [인터뷰] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000753728?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000753728?type=journalists</guid>
-            <pubDate>Mon, 07 Aug 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["말이 높이 2m 벽 뛰어넘으면 풍년"이라 믿는 일본 축제...다치면 '살처분' [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000753672?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753672?type=journalists</guid>
             <pubDate>Sun, 06 Aug 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753672.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,7 +303,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000753266?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753266?type=journalists</guid>
             <pubDate>Thu, 03 Aug 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/03/753266.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,15 +311,31 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000753073?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753073?type=journalists</guid>
             <pubDate>Wed, 02 Aug 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/02/753073.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '바비' SNS에 일본인들 집단 분노…"원폭 피해가 장난이냐" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000752937?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752937?type=journalists</guid>
+            <pubDate>Mon, 07 Aug 2023 17:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/01/752937.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 학생 60%가 영어 말하기 시험 '0점'…무슨 일이? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000752878?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752878?type=journalists</guid>
+            <pubDate>Mon, 07 Aug 2023 17:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/01/752878.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오염수 방류 반대하면 다 가짜뉴스? 일본, 한미일 정상회담 의제로 올리나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000752712?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752712?type=journalists</guid>
             <pubDate>Mon, 31 Jul 2023 17:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/31/752712.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +351,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000752509?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752509?type=journalists</guid>
             <pubDate>Sun, 30 Jul 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/30/752509.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -514,14 +521,6 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <pubDate>Sun, 16 Jul 2023 17:32:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/10/748932.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어진 남친이 "죽이겠다" 해도 일본 경찰은 "어머니가 감독하라"고만 했다 [특파원24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000748693?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000748693?type=journalists</guid>
-            <pubDate>Sat, 15 Jul 2023 17:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/09/748693.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘 사법부 무력화될까 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1248,7 +1247,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/308/0000033182?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033182?type=journalists</guid>
             <pubDate>Mon, 07 Aug 2023 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/07/33182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

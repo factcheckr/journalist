@@ -4,31 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 05:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 17:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[“일본, 오염수 방류 이달 하순 개시할 듯… 한미일 정상회의 후 결정”]]></title>
+            <title><![CDATA[“일본, 오염수 방류 이달 하순 개시할 듯…한미일 정상회의 후 결정”]]></title>
             <link>https://n.news.naver.com/article/469/0000753754?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753754?type=journalists</guid>
             <pubDate>Mon, 07 Aug 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753754.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나만 불쌍하다는 왜곡된 분노가 묻지마 칼부림의 원인...일본을 보라" [인터뷰]]]></title>
-            <link>https://n.news.naver.com/article/469/0000753728?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000753728?type=journalists</guid>
-            <pubDate>Mon, 07 Aug 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["말이 높이 2m 벽 뛰어넘으면 풍년"이라 믿는 일본 축제...다치면 '살처분' [특파원 24시]]]></title>
             <link>https://n.news.naver.com/article/469/0000753672?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753672?type=journalists</guid>
             <pubDate>Sun, 06 Aug 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753672.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000753266?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753266?type=journalists</guid>
             <pubDate>Thu, 03 Aug 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/03/753266.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,15 +36,31 @@
             <link>https://n.news.naver.com/article/469/0000753073?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753073?type=journalists</guid>
             <pubDate>Wed, 02 Aug 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/02/753073.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '바비' SNS에 일본인들 집단 분노…"원폭 피해가 장난이냐"]]></title>
+            <link>https://n.news.naver.com/article/469/0000752937?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752937?type=journalists</guid>
+            <pubDate>Mon, 07 Aug 2023 17:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/01/752937.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 학생 60%가 영어 말하기 시험 '0점'…무슨 일이?]]></title>
+            <link>https://n.news.naver.com/article/469/0000752878?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000752878?type=journalists</guid>
+            <pubDate>Mon, 07 Aug 2023 17:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/01/752878.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오염수 방류 반대하면 다 가짜뉴스? 일본, 한미일 정상회담 의제로 올리나]]></title>
             <link>https://n.news.naver.com/article/469/0000752712?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752712?type=journalists</guid>
             <pubDate>Mon, 31 Jul 2023 17:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/31/752712.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000752509?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000752509?type=journalists</guid>
             <pubDate>Sun, 30 Jul 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.07.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/30/752509.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 16 Jul 2023 17:32:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/10/748932.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어진 남친이 "죽이겠다" 해도 일본 경찰은 "어머니가 감독하라"고만 했다 [특파원24시]]]></title>
-            <link>https://n.news.naver.com/article/469/0000748693?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000748693?type=journalists</guid>
-            <pubDate>Sat, 15 Jul 2023 17:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/09/748693.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
