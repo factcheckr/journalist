@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 17:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 05:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,7 +291,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000753754?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753754?type=journalists</guid>
             <pubDate>Mon, 07 Aug 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753754.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -531,7 +531,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/308/0000033152?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033152?type=journalists</guid>
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -539,7 +539,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/308/0000033150?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033150?type=journalists</guid>
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33150.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -767,11 +767,19 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/17/32231.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지자체만 웃는 특별재난지역 선포 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033193?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033193?type=journalists</guid>
+            <pubDate>Wed, 09 Aug 2023 05:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/09/33193.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“재난 대응의 기본 단위는 개인이 아닌 이웃이다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033156?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033156?type=journalists</guid>
             <pubDate>Wed, 02 Aug 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/02/33156.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1239,19 +1247,11 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/19/31341.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘가상 인간’ 세계,  우리는 가짜가 아니다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031199?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031199?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31199.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이것은 분명한 인재다 [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033182?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033182?type=journalists</guid>
             <pubDate>Mon, 07 Aug 2023 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/07/33182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1259,7 +1259,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/308/0000033171?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033171?type=journalists</guid>
             <pubDate>Fri, 04 Aug 2023 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/04/33171.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
