@@ -4,9 +4,38 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 05:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 17:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘폭염이 당신의 지갑을 태운다’ 지구촌 식탁에 히트플레이션 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202308102125015</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202308102125015</guid>
+            <pubDate>Thu, 10 Aug 2023 17:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[주요 산지 가뭄·폭우 여파멕시코 할라피뇨 대흉작남유럽 올리브유 값 2배아르헨 쇠고기는 ‘금고기’인도선 토마토 도둑 기승
+설상가상 국제정세 불안식품 물가 상승 계속될 듯
+쌀밥, 토마토, 올리브유, 스리라차 소스, 쇠고기…. 전 지구를 덮친 이상기후로 세계인의 식탁이 위협받고 있다. 세계 주요 농산물 산지마다 가뭄이나 폭우로 흉작인 데다 러시아·우크라이나 전쟁과 보호무역으로 공급마저 차질을 빚으면서 향후 전 세계의 식탁물가는 계속 고공행진할 것으로 전망된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/10/2023081101000385400037511.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘더 밴드’ 기타리스트 로비 로버트슨 별세 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/people/people-general/article/202308102014025</link>
+            <guid>https://www.khan.co.kr/people/people-general/article/202308102014025</guid>
+            <pubDate>Thu, 10 Aug 2023 17:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[밥 딜런과 협연 이후 세계적 인기미 대중음악 큰 영향…향년 80세
+1960~1970년대 개성 넘치는 록음악을 연주한 것으로 평가받는 ‘더 밴드’의 기타리스트 로비 로버트슨이 별세했다. 향년 80세.
+뉴욕타임스(NYT)는 9일(현지시간) 장기간 투병 중이던 로버트슨이 이날 로스앤젤레스(LA)에서 운명했다고 보도했다. 캐나다 출신인 로버트슨은 1950년대 말 토론토에서 ‘더 밴드’의 전신인 ‘더 호크스’라는 그룹을 결성했다. 그는 이후 10년 가까운 무명 생활을 이어가다 1965년 밥 딜런과의 만남을 계기로 운명이 바뀌었다. 당시 딜런은 통기타로 상징되는 포크 음악에서 전기기타를 앞세운 록으로 방향 전환을 모색 중이었고, 순회공연에서 자신의 백밴드에서 기타를 칠 연주자를 찾고 있었다. 이때 딜런에게 추천된 기타 연주자가 로버트슨이었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/10/2023081101000365000036901.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭염이 당신의 지갑을 태운다 …전 세계 식탁물가 비상 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202308101810001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202308101810001</guid>
+            <pubDate>Thu, 10 Aug 2023 17:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[쌀밥, 토마토, 올리브유, 스라리차 소스, 쇠고기…. 전 지구를 덮친 이상 기후로 세계인의 식탁이 위협받고 있다. 세계 주요 농산물 산지마다 가뭄이나 폭우로 흉작이 발생한 데다 러시아·우크라이나 전쟁의 여파까지 더해져 전 세계의 식탁물가는 계속 고공행진할 전망이다.
+먼저 ‘쇠고기 대국’ 아르헨티나에서 쇠고기 사먹기란 힘든 일이 됐다. 아르헨티나 인구 3분의 1이 거주하는 부에노스아이레스에서 지난 6월 쇠고기 가격은 1년 전보다 72% 올랐다. 가뭄으로 목초지가 황폐해진 것이 원인으로 꼽힌다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/10/news-p.v1.20230810.40f1904344d24914807e185250eced0f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[군부에 억류된 니제르 대통령 “생쌀 먹는다” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/mideast-africa/article/202308101045001</link>
@@ -94,32 +123,6 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
 브릭 레인에 등장한 중국식 사회주의 핵심사상의 슬로건 문구에서 시작된 낙서 전쟁은 정치적 선전과 거리예술의 경계에 대한 논쟁까지 촉발시켰다고 BBC·사우스차이나모닝포스트(SCMP) 등이 7일(현지시간) 보도했다.
 뒷골목 담벼락인 ‘브릭 레인’은 평소 정치적 풍자 메시지를 담은 낙서나 그래피티로 빼곡히 채워져 있다. 누구나 자유롭게 목소리를 낼 수 있는 공간으로 “티베트에게 자유를”도 담벼락에 있는 낙서 중 하나다. 하지만 지난 6일 브릭 레인을 찾은 시민들은 완전히 낯선 풍경을 목격했다. 누군가 담벼락 전체를 흰색 페인트로 칠해 기존 낙서를 싹 덮어버린 뒤 그 위에 붉은 색 페인트로 한자 24글자를 적어놓은 것이다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/08/news-p.v1.20230808.06a6ade8fd6f49759cf22c0bf0c2d32b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“혁명 위해 싸울 것”···전운 감도는 니제르, 더 결집된 반외세 시위 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202308071718001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202308071718001</guid>
-            <pubDate>Mon, 07 Aug 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[서아프리카 15개국 연합체인 서아프리카경제공동체(ECOWAS)가 니제르 군부에 군사개입을 경고한 최후통첩 시한이 6일(현지시간)로 만료되면서 니제르에 긴장이 고조되고 있다.
-전면전 발발 가능성까지 거론되는 니제르에서는 주말 사이 사재기와 피난 준비 등의 움직임이 나타났다. 반외세 시위도 격렬하게 벌어졌다. ECOWAS의 군사개입 가능성이 니제르인을 더욱 결집시키고 있다는 분석도 나온다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/07/news-p.v1.20230807.bcab2eeb73e44217b9b634f5dabeb2f7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴란드 농민 “우크라이나 값싼 농산물 몰려온다” 우려 …다시 고개 드는 갈등 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202308071543001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202308071543001</guid>
-            <pubDate>Mon, 07 Aug 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[폴란드와 우크라이나의 ‘반러시아 연대’를 흔드는 갈등의 도화선이었던 우크라이나산 농산물 문제가 다시금 부상하고 있다. 유럽연합(EU)이 동유럽 4개국에 한시적으로 허용해 준 우크라이나산 농산물 수입 금지 조치가 다음달 15일 해제되기 때문이다. 폴란드 정부는 EU의 관세 면제 혜택을 받은 우크라이나산 농산물과 경쟁해야 하는 자국 농민들의 피해를 고려해 독자적으로 수입 금지 조치를 유지할 계획이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/07/news-p.v1.20230807.7a93be26f1fb4f3e89fc80cae71f9191.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[서아프리카 15개국 대표단 니제르 도착 … ‘쿠데타 해결’ 군사개입 결정될까 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/mideast-africa/article/202308041711001</link>
-            <guid>https://www.khan.co.kr/world/mideast-africa/article/202308041711001</guid>
-            <pubDate>Fri, 04 Aug 2023 17:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[서아프리카 15개국 연합체인 서아프리카경제공동체(ECOWAS) 대표단이 니제르에 도착해 쿠데타를 벌인 군부 세력과 협상을 시도하고 있다. 니제르 군부는 ECOWAS의 개입도 “침략시도”로 규정하며 ‘쿠데타 벨트’ 국가들과 제휴해 맞불을 놓을 준비를 하고 있다.
-AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니아메에 도착했다고 현지 공항 관계자를 인용해 3일 보도했다. 대표단은 니제르의 쿠데타 주동자들을 만나 ECOWAS의 요구 사항을 제시할 예정이다. 앞서 ECOWAS 의장인 볼라 티누부 나이지리아 대통령은 성명을 통해 대표단에 “니제르 사태의 결정적이고 우호적인 해결을 위해 필요한 모든 조치를 해달라”고 촉구했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/04/news-p.v1.20230804.5aa7dd163e1440f09c784127c8b17802.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -291,11 +294,27 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0420/A0002920885_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기시다, 시진핑에 친서 쓰고 대만 문제엔 강경 발언...강온 전략? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000754552?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000754552?type=journalists</guid>
+            <pubDate>Thu, 10 Aug 2023 17:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/10/754552.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해커집단 어나니머스, 일본에 사이버 공격..."후쿠시마 오염수 방류 항의" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000754443?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000754443?type=journalists</guid>
+            <pubDate>Thu, 10 Aug 2023 17:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/10/754443.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다, 오염수 방류에 “어민과 신뢰 깊어져”... 후쿠시마 어민들 “금시초문” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000754240?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754240?type=journalists</guid>
             <pubDate>Wed, 09 Aug 2023 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/09/754240.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,7 +322,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000753876?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753876?type=journalists</guid>
             <pubDate>Wed, 09 Aug 2023 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753876.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -319,7 +338,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000753672?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753672?type=journalists</guid>
             <pubDate>Sun, 06 Aug 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753672.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -327,7 +346,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000753266?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753266?type=journalists</guid>
             <pubDate>Thu, 03 Aug 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/03/753266.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -335,7 +354,7 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <link>https://n.news.naver.com/article/469/0000753073?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753073?type=journalists</guid>
             <pubDate>Wed, 02 Aug 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/02/753073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -513,22 +532,6 @@ AFP통신은 ECOWAS 대표단이 지난 1일(현지시간) 니제르 수도 니�
             <pubDate>Thu, 13 Jul 2023 17:33:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/13/749548.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오염수 앞에서 손잡은 한국·일본 의원들 "방류 취소하라" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000749388?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000749388?type=journalists</guid>
-            <pubDate>Thu, 13 Jul 2023 05:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/12/749388.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 방위성, “북한 탄도미사일은 ICBM급… 일본 EEZ 밖 낙하” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000749275?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000749275?type=journalists</guid>
-            <pubDate>Tue, 18 Jul 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/12/749275.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘 사법부 무력화될까 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
