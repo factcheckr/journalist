@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 05:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 17:34:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,19 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0420/A0002920885_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["윤·바이든·기시다, 정상회의·군사훈련 '매년 실시' 추진...한미일 단결 보여줄 것" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000754662?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000754662?type=journalists</guid>
+            <pubDate>Fri, 11 Aug 2023 17:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/11/754662.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다, 시진핑에 친서 쓰고 대만 문제엔 강경 발언...강온 전략? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000754552?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754552?type=journalists</guid>
             <pubDate>Thu, 10 Aug 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/10/754552.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +322,7 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/469/0000754240?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754240?type=journalists</guid>
             <pubDate>Wed, 09 Aug 2023 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/09/754240.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +330,7 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/469/0000753876?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753876?type=journalists</guid>
             <pubDate>Wed, 09 Aug 2023 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753876.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +346,7 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/469/0000753672?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753672?type=journalists</guid>
             <pubDate>Sun, 06 Aug 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753672.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,7 +354,7 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/469/0000753266?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753266?type=journalists</guid>
             <pubDate>Thu, 03 Aug 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/03/753266.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -524,14 +532,6 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <pubDate>Thu, 13 Jul 2023 17:33:22 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/13/749617.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 간청 듣자마자 “오염수 방류하면 수산물 수입 금지” 선포한 홍콩 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000749548?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000749548?type=journalists</guid>
-            <pubDate>Thu, 13 Jul 2023 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/13/749548.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘 사법부 무력화될까 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1258,7 +1258,7 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/308/0000033208?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033208?type=journalists</guid>
             <pubDate>Fri, 11 Aug 2023 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/11/33208.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
