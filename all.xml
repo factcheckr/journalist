@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 17:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 05:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외신이 본 잼버리 “K팝 콘서트, 전체주의 사고” “사과로 마무리” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202308131135001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202308131135001</guid>
+            <pubDate>Sun, 13 Aug 2023 05:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[외신은 11일 ‘2023 새만금 세계스카우트 잼버리’ 폐영식 소식을 내보내면서 한국 정부가 혼란스러운 대회를 수습하려는 노력으로 K팝 콘서트를 열었다고 보도했다. 급조된 K팝 콘서트가 “전체주의적 사고”를 드러냈다는 보도도 있었다.
+AFP통신은 12일 서울발로 내보낸 ‘K팝이 구출? 한국, 스카우트 잼버리 폐막 콘서트에 올인’ 기사에서 수만 명의 스카우트 대원들이 춤을 추고 야광봉을 흔들었다고 현장의 열띤 분위기를 전했다. 방탄소년단(BTS) 소속사 하이브가 모든 관객에게 총 8억원 어치의 BTS 포토카드를 제공한 사실도 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/13/news-p.v1.20230813.e02587e8de5049889a4a4a699a40fea2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘폭염이 당신의 지갑을 태운다’ 지구촌 식탁에 히트플레이션 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202308102125015</link>
@@ -113,16 +122,6 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
 규정은 특정 목적이 있고 충분한 필요성과 엄격한 보호조치를 한 경우에만 안면인식 기술을 사용할 수 있다고 명시했다.
 안면인식 기술로 국가 안보를 위협하거나 공익을 해치며 사회질서를 방해하는 경우 외에도 개인과 조직의 합법적인 권익을 침해하는 때는 사용할 수 없다고 규정했다. 또 안면인식 기술을 활용할 경우에는 반드시 개인의 동의를 받도록 했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/08/news-p.v1.20230808.6c84232eac2443cb804262c7af3bb7cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런던 거리예술 덮은 ‘중국 공산당 문구’와 낙서전쟁 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202308081608001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202308081608001</guid>
-            <pubDate>Tue, 08 Aug 2023 17:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[거리예술의 명소인 영국 런던 동부지구 ‘브릭 레인’ 담벼락이 주말 사이 낙서 전쟁으로 달아올랐다.
-브릭 레인에 등장한 중국식 사회주의 핵심사상의 슬로건 문구에서 시작된 낙서 전쟁은 정치적 선전과 거리예술의 경계에 대한 논쟁까지 촉발시켰다고 BBC·사우스차이나모닝포스트(SCMP) 등이 7일(현지시간) 보도했다.
-뒷골목 담벼락인 ‘브릭 레인’은 평소 정치적 풍자 메시지를 담은 낙서나 그래피티로 빼곡히 채워져 있다. 누구나 자유롭게 목소리를 낼 수 있는 공간으로 “티베트에게 자유를”도 담벼락에 있는 낙서 중 하나다. 하지만 지난 6일 브릭 레인을 찾은 시민들은 완전히 낯선 풍경을 목격했다. 누군가 담벼락 전체를 흰색 페인트로 칠해 기존 낙서를 싹 덮어버린 뒤 그 위에 붉은 색 페인트로 한자 24글자를 적어놓은 것이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/08/news-p.v1.20230808.06a6ade8fd6f49759cf22c0bf0c2d32b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -298,7 +297,7 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/469/0000754754?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754754?type=journalists</guid>
             <pubDate>Sat, 12 Aug 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/12/754754.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +321,7 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/469/0000754443?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754443?type=journalists</guid>
             <pubDate>Thu, 10 Aug 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/10/754443.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,8 +345,16 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/469/0000753754?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753754?type=journalists</guid>
             <pubDate>Mon, 07 Aug 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753754.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["나만 불쌍하다는 왜곡된 분노가 묻지마 칼부림의 원인...일본을 보라" [인터뷰] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000753728?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000753728?type=journalists</guid>
+            <pubDate>Sun, 13 Aug 2023 05:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "교과서에서 지워진 ‘일본군 위안부’… 고노 담화는 마지막 보루" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -524,14 +531,6 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <pubDate>Wed, 19 Jul 2023 17:33:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/16/750015.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['큰일' 난 2025년 오사카·간사이 엑스포...행사장 첫 삽도 못 떴다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000749788?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000749788?type=journalists</guid>
-            <pubDate>Wed, 19 Jul 2023 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/14/749788.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘 사법부 무력화될까 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -778,7 +777,7 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/308/0000033193?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033193?type=journalists</guid>
             <pubDate>Wed, 09 Aug 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/09/33193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1258,7 +1257,7 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/308/0000033208?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033208?type=journalists</guid>
             <pubDate>Fri, 11 Aug 2023 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/11/33208.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1266,7 +1265,7 @@ TSMC는 8일(현지시간) 이사회를 열어 독일 동부 지역 도시인 �
             <link>https://n.news.naver.com/article/308/0000033182?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033182?type=journalists</guid>
             <pubDate>Mon, 07 Aug 2023 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/07/33182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
