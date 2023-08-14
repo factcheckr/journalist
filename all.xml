@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 17:34:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식민지 탐욕이 하와이 산불 키웠다…식민주의와 기후재앙 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202308141857001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202308141857001</guid>
+            <pubDate>Mon, 14 Aug 2023 17:32:07 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전에도 비슷한 뉴스를 봤던 것 같은데 무슨 맥락에서 나온 건지 궁금할 때 있으시죠? ‘사이월드’가 단편적인 여러 국제 뉴스의 사이사이를 짚어 세계의 흐름을 보여드립니다.
+“카나카 마오리족으로서 이곳 마우이섬에서 7대째 이어오고 있다. (산불을) 지켜보는 것이 가슴이 아프다. 식민지 탐욕이 우리 집을 불태우고 있다. 미국 정치인과 오염을 시킨 자들이 비난받아야 한다.”]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/14/news-p.v1.20230814.adcae284a3fa4621acd862751a2b937c.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[필리핀 강경 대응에 한발 물러선 중국…“대화 준비됐다”면서 “미국이 일으킨 풍파” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/asia-australia/article/202308132137015</link>
@@ -108,15 +117,6 @@ AP통신 등에 따르면 야당인 ‘건설운동’ 소속 페르난도 비�
 WHO는 이날 XBB.1.9.2로 불리는 오미크론의 하위변이종에서 나온 에리스가 미국과 중국, 영국을 포함해 전 세계적으로 빠르게 확산하고 있다고 밝혔다.
 WHO는 에리스를 관심변이종으로 지정했지만, 에리스가 공중보건상 특별한 위험을 야기하지는 않을 것으로 보고 있다고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/10/news-p.v1.20230810.0d5fed81d8aa404e818cf843b0bb5d3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“중국, 3년 반만에 일본 단체여행 허용할 듯” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202308100932001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202308100932001</guid>
-            <pubDate>Thu, 10 Aug 2023 05:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[중국 정부가 일본행 단체여행을 이르면 10일부터 재개하겠다는 방침을 전날 일본 정부에 전달했다고 요미우리신문과 아사히신문 등 일본 언론이 보도했다.
-보도에 따르면 중국은 2020년 1월부터 자국민의 일본행 단체여행을 허용하지 않앗다. 중국은 지난 3월 40개국을 해외 단체여행 허용 국가에 추가했으나, 한국과 일본은 포함하지 않았다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/10/news-p.v1.20230810.359dee2851d044cd903a696bb8c65031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -288,6 +288,14 @@ WHO는 에리스를 관심변이종으로 지정했지만, 에리스가 공중�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0420/A0002920885_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주일 한국대사관에도 "나는 일본인, 폭파하겠다" 협박 이메일 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000755061?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000755061?type=journalists</guid>
+            <pubDate>Mon, 14 Aug 2023 17:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/14/755061.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한미일 정상회의서 '군사연습 정례화' 논의… 대통령실 신중 분위기도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000754754?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754754?type=journalists</guid>
@@ -300,7 +308,7 @@ WHO는 에리스를 관심변이종으로 지정했지만, 에리스가 공중�
             <link>https://n.news.naver.com/article/469/0000754662?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754662?type=journalists</guid>
             <pubDate>Fri, 11 Aug 2023 17:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/11/754662.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +316,7 @@ WHO는 에리스를 관심변이종으로 지정했지만, 에리스가 공중�
             <link>https://n.news.naver.com/article/469/0000754552?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754552?type=journalists</guid>
             <pubDate>Thu, 10 Aug 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/10/754552.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,11 +328,19 @@ WHO는 에리스를 관심변이종으로 지정했지만, 에리스가 공중�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/10/754443.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['자전거 속도'로 한반도 향하는 태풍 카눈, 일본 규슈서 133만명 대피령 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000754302?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000754302?type=journalists</guid>
+            <pubDate>Mon, 14 Aug 2023 17:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/09/754302.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기시다, 오염수 방류에 “어민과 신뢰 깊어져”... 후쿠시마 어민들 “금시초문” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000754240?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754240?type=journalists</guid>
             <pubDate>Wed, 09 Aug 2023 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/09/754240.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +348,7 @@ WHO는 에리스를 관심변이종으로 지정했지만, 에리스가 공중�
             <link>https://n.news.naver.com/article/469/0000753876?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753876?type=journalists</guid>
             <pubDate>Wed, 09 Aug 2023 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753876.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,7 +372,7 @@ WHO는 에리스를 관심변이종으로 지정했지만, 에리스가 공중�
             <link>https://n.news.naver.com/article/469/0000753714?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753714?type=journalists</guid>
             <pubDate>Sat, 12 Aug 2023 17:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753714.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,7 +380,7 @@ WHO는 에리스를 관심변이종으로 지정했지만, 에리스가 공중�
             <link>https://n.news.naver.com/article/469/0000753672?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000753672?type=journalists</guid>
             <pubDate>Sun, 06 Aug 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753672.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -510,22 +526,6 @@ WHO는 에리스를 관심변이종으로 지정했지만, 에리스가 공중�
             <pubDate>Fri, 28 Jul 2023 17:34:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/23/751270.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오염수 방류'에 강하게 나가는 중국...일본 수산물 '전수 검사'로 보복 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000751080?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000751080?type=journalists</guid>
-            <pubDate>Thu, 27 Jul 2023 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/21/751080.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예고편도 없는 미야자키 하야오 최신작... '무홍보' 개봉 첫날 반응은 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000750015?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000750015?type=journalists</guid>
-            <pubDate>Wed, 19 Jul 2023 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/16/750015.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘 사법부 무력화될까 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
