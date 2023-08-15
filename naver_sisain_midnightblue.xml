@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 17:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 05:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살인은 복잡하다, 거짓과 연민 때문에 [기자의 추천 책]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033224?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033224?type=journalists</guid>
+            <pubDate>Tue, 15 Aug 2023 05:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/15/33224.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지자체만 웃는 특별재난지역 선포]]></title>
             <link>https://n.news.naver.com/article/308/0000033193?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033193?type=journalists</guid>
             <pubDate>Wed, 09 Aug 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/09/33193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/23/31358.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신도 ‘돈 안쓰기’ 챌린지에 빠지셨나요?]]></title>
-            <link>https://n.news.naver.com/article/308/0000031341?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031341?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/19/31341.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
