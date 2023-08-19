@@ -4,15 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 17:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 05:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미일, 극초음속 미사일 요격용 신형미사일 공동 개발 합의]]></title>
+            <link>https://n.news.naver.com/article/469/0000755868?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000755868?type=journalists</guid>
+            <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755868.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다, 오염수 방류 "국가적 판단할 최종 단계"... 20일 후쿠시마 제1원전 방문]]></title>
+            <link>https://n.news.naver.com/article/469/0000755862?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000755862?type=journalists</guid>
+            <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755862.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["기시다, 20일 후쿠시마 원전 시찰... 이르면 22일 방류 시점 결정할 듯"]]></title>
+            <link>https://n.news.naver.com/article/469/0000755824?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000755824?type=journalists</guid>
+            <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755824.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“일본 정부, 탈탄소 기업에 장기 세액공제 검토”… 일본판 ‘인플레 감축법’ 도입하나]]></title>
             <link>https://n.news.naver.com/article/469/0000755764?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755764?type=journalists</guid>
             <pubDate>Fri, 18 Aug 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/18/755764.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000755155?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755155?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 05:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755155.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000754754?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754754?type=journalists</guid>
             <pubDate>Sat, 12 Aug 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/12/754754.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000754741?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754741?type=journalists</guid>
             <pubDate>Fri, 18 Aug 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/12/754741.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 30 Jul 2023 17:32:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/30/752509.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 최저임금 4.3% 인상... 1000엔 넘었는데 한국보다 적다]]></title>
-            <link>https://n.news.naver.com/article/469/0000752369?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000752369?type=journalists</guid>
-            <pubDate>Fri, 28 Jul 2023 17:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752369.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본은행, 금융완화 정책 일부 수정… 금융 시장 ‘깜짝’]]></title>
-            <link>https://n.news.naver.com/article/469/0000752364?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000752364?type=journalists</guid>
-            <pubDate>Tue, 01 Aug 2023 17:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752364.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 방위백서 “독도는 일본 땅” 여전… 한일 방위협력엔 긍정 평가]]></title>
-            <link>https://n.news.naver.com/article/469/0000752293?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000752293?type=journalists</guid>
-            <pubDate>Tue, 01 Aug 2023 17:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/28/752293.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
