@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 05:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 17:34:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,6 +285,14 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0508/A0002925606_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤 대통령 “IAEA 신뢰” 발언에 힘 받은 일본…"오염수 이달 방류 유력" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000755983?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000755983?type=journalists</guid>
+            <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/755983.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미일, 극초음속 미사일 요격용 신형미사일 공동 개발 합의 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000755868?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755868?type=journalists</guid>
@@ -313,15 +321,23 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755764?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755764?type=journalists</guid>
             <pubDate>Fri, 18 Aug 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/18/755764.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산서 50㎞ 거리 쓰시마섬에 방폐장? 시의회, 유치 첫 단계 승인했다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000755589?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000755589?type=journalists</guid>
+            <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/17/755589.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["한미일 외교·국방장관 회의도 정례화...각국 정권 바뀌어도 공조 유지되도록" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000755558?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755558?type=journalists</guid>
             <pubDate>Thu, 17 Aug 2023 17:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/17/755558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,7 +345,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755332?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755332?type=journalists</guid>
             <pubDate>Wed, 16 Aug 2023 17:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/16/755332.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +353,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755204?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755204?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,7 +361,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755194?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755194?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,8 +377,16 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755061?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755061?type=journalists</guid>
             <pubDate>Mon, 14 Aug 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/14/755061.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["공짜로 못 보게 4미터 벽 설치"...일본 불꽃놀이도 '유료화' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000755043?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000755043?type=journalists</guid>
+            <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/14/755043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“나는 무기 자체였다”... ‘인간어뢰’였던 일본 100세 노인의 회고 [특파원24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -499,30 +523,6 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <pubDate>Mon, 07 Aug 2023 17:32:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/01/752878.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오염수 방류 반대하면 다 가짜뉴스? 일본, 한미일 정상회담 의제로 올리나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000752712?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000752712?type=journalists</guid>
-            <pubDate>Mon, 31 Jul 2023 17:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/31/752712.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] "학부모 악마화는 해법 아냐" 교권 붕괴 먼저 겪은 일본서 배운다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000752569?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000752569?type=journalists</guid>
-            <pubDate>Sun, 06 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/31/752569.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 남편 사망 연루된 日 기시다 최측근 아내…재수사 중단 둘러싼 '진실게임' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000752509?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000752509?type=journalists</guid>
-            <pubDate>Sun, 30 Jul 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/07/30/752509.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘62. 팬데믹 끝’ 폴더를 닫으며 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
