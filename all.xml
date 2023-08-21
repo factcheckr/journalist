@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 05:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 17:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,19 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0508/A0002925606_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[DJ소다 성추행한 관객 3명 찾았다...일본 기획사가 형사 고발 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000756124?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000756124?type=journalists</guid>
+            <pubDate>Mon, 21 Aug 2023 17:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756124.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빈곤·차별 맞서 싸우다 팔순 넘어 평화... 재일동포 1세 할머니들의 삶 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000756073?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756073?type=journalists</guid>
             <pubDate>Mon, 21 Aug 2023 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,8 +305,16 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755983?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755983?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/755983.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["일본 더럽히는 자 처단" 자위대 스파이부대 ‘별반’의 정체는 [특파원24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000755965?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000755965?type=journalists</guid>
+            <pubDate>Mon, 21 Aug 2023 17:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/755965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미일, 극초음속 미사일 요격용 신형미사일 공동 개발 합의 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -329,7 +345,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755764?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755764?type=journalists</guid>
             <pubDate>Fri, 18 Aug 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/18/755764.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +353,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755589?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755589?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/17/755589.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,7 +361,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755558?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755558?type=journalists</guid>
             <pubDate>Thu, 17 Aug 2023 17:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/17/755558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +369,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755332?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755332?type=journalists</guid>
             <pubDate>Wed, 16 Aug 2023 17:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/16/755332.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +377,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755204?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755204?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -369,7 +385,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755194?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755194?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -385,7 +401,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755061?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755061?type=journalists</guid>
             <pubDate>Mon, 14 Aug 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/14/755061.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -393,7 +409,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755043?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755043?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/14/755043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -509,28 +525,12 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/03/753266.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["여성이 총선 첫 도전하면 900만원...자녀 있으면 더 준다"는 일본 자민당 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000753073?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000753073?type=journalists</guid>
-            <pubDate>Wed, 02 Aug 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/02/753073.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '바비' SNS에 일본인들 집단 분노…"원폭 피해가 장난이냐" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000752937?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000752937?type=journalists</guid>
-            <pubDate>Mon, 07 Aug 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/01/752937.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘62. 팬데믹 끝’ 폴더를 닫으며 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033229?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033229?type=journalists</guid>
-            <pubDate>Wed, 16 Aug 2023 05:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/16/33229.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[비용편익 분석 실종된 양평고속도로 ‘변경안’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033225?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033225?type=journalists</guid>
+            <pubDate>Mon, 21 Aug 2023 17:32:26 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/15/33225.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘 사법부 무력화될까 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
