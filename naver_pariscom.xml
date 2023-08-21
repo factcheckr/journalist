@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 17:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 05:34:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈곤·차별 맞서 싸우다 팔순 넘어 평화... 재일동포 1세 할머니들의 삶]]></title>
+            <link>https://n.news.naver.com/article/469/0000756073?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000756073?type=journalists</guid>
+            <pubDate>Mon, 21 Aug 2023 05:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756073.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령 “IAEA 신뢰” 발언에 힘 받은 일본…"오염수 이달 방류 유력"]]></title>
             <link>https://n.news.naver.com/article/469/0000755983?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755983?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/755983.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000755868?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755868?type=journalists</guid>
             <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755868.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000755862?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755862?type=journalists</guid>
             <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755862.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000755824?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755824?type=journalists</guid>
             <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755824.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000755155?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755155?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 05:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755155.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +124,7 @@
             <link>https://n.news.naver.com/article/469/0000754833?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000754833?type=journalists</guid>
             <pubDate>Sat, 19 Aug 2023 17:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/13/754833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Aug 2023 17:32:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/01/752937.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 학생 60%가 영어 말하기 시험 '0점'…무슨 일이?]]></title>
-            <link>https://n.news.naver.com/article/469/0000752878?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000752878?type=journalists</guid>
-            <pubDate>Mon, 07 Aug 2023 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/01/752878.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
