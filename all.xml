@@ -4,9 +4,36 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 05:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 17:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘데브리’ 제거 시작도 못해…폐로 시점도 미정 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202308222059005</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202308222059005</guid>
+            <pubDate>Tue, 22 Aug 2023 17:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[일본 정부가 24일부터 후쿠시마 제1원전 오염수를 방류하기로 하면서 원전 사고 수습 책임이 있는 도쿄전력은 짐을 덜게 됐다. 하지만 원자로 폐로를 비롯해 사고의 완전한 수습 일정은 불투명하다. 도쿄전력이 폐로 계획을 제대로 내놓지 않고 있기 때문이다.
+도쿄전력은 당초 폐로 작업을 원활하게 하기 위해 후쿠시마 제1원전 부지 내 저장탱크에 담긴 오염수를 방출해야 한다고 주장했다. 기시다 후미오 총리는 지난 21일 어민들과 면담 후 기자회견에서 “처리수(일본 정부의 오염수 표현)를 보관하는 탱크가 가득 차 폐로를 진행하는 데 필요한 공간이 없어지고 있다”고 설명했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/22/2023082301000759400074651.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제트스키 밀입국 30대 중국인, ‘정치적 망명’ 주장 나왔다 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202308221542001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202308221542001</guid>
+            <pubDate>Tue, 22 Aug 2023 17:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[중국에서 제트스키를 타고 인천 앞바다로 밀입국을 시도한 30대 남성이 정치적 박해를 피해 망명한 것이라는 주장이 나왔다.
+국제인권활동가 이대선씨는 22일 경향신문과의 통화에서 “밀입국을 시도하다 체포된 30대 중국인은 중국 인권운동가 권평(权平·35)”이라며 “그가 목숨을 걸고 한국에 온 것은 중국 당국의 감시를 피해 한국 또는 제3국으로 망명하기 위한 것”이라고 주장했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/22/news-p.v1.20230822.3a257e030b874ac1910f24ce8f5671df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄전력의 불분명한 폐로 계획…“오염수 2051년 이후에도 발생 가능” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202308221518001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202308221518001</guid>
+            <pubDate>Tue, 22 Aug 2023 17:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[일본 정부가 오는 24일부터 후쿠시마 제1원전 오염수를 방류하기로 하면서 원전 사고 수습 책임이 있는 도쿄전력은 짐을 덜게 됐다. 하지만 원자로 폐로를 비롯해 사고의 완전한 수습 일정은 불투명하다. 도쿄전력이 폐로 계획을 제대로 내놓지 않고 있기 때문이다.
+도쿄전력은 당초 폐로 작업을 원활하게 하기 위해 후쿠시마 제1원전 부지 내 저장 탱크에 담긴 오염수를 방출해야 한다고 주장했다. 기시다 후미오 일본 총리는 지난 21일 어민들과의 면담 후 기자회견에서 “처리수(일본 정부의 오염수 표현)를 보관하는 탱크가 가득 차서 폐로를 진행하는 데 필요한 공간이 없어지고 있다”며 오염수 방류가 필요하다고 설명했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/22/news-p.v1.20230822.4877e43a9cef422993eeaed413c209e3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[미, 우크라에 ‘F-16 전투기’ 제공 승인 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202308190500015</link>
@@ -88,32 +115,6 @@
             <content:encoded><![CDATA[미국이 우크라이나에 대한 F-16 전투기 제공 요청을 승인하기로 했다. 이에 따라 우크라이나 공군력이 크게 강화될 것으로 기대된다. 다만 훈련 일정 등을 감안할 때 연내 투입은 쉽지 않을 것으로 전망된다.
 로이터통신은 17일(현지시간) 미국이 덴마크와 네덜란드가 F-16 전투기 전달 승인을 요청할 경우 이를 신속히 승인하겠다는 확답을 각국에 전달한 것으로 알려졌다고 한 미국 관리를 인용해 보도했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/news-p.v1.20230818.1615c986d057429eab47a426d49f6beb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 공화당 반대에도…바이든표 ‘학자금 대출 탕감’ 시작 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202308162200015</link>
-            <guid>https://www.khan.co.kr/world/america/article/202308162200015</guid>
-            <pubDate>Wed, 16 Aug 2023 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[80만여명을 대상으로 한 조 바이든 미국 행정부의 대학 학자금 대출 탕감 정책이 시작됐다.
-ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들이 전날부터 대출 기관으로부터 ‘축하합니다. 귀하의 대출이 청산됐습니다’라는 e메일을 받기 시작했다고 보도했다. ABC뉴스는 미국 교육부가 지난 14일 하루에만 20만명을 탕감한 것으로 추정된다면서, 앞으로 몇주 안에 모든 탕감 조치가 완료될 것이라고 전했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘인공강우’, ‘안개수집’ 시도하는 가뭄 지구촌…효과는? (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202308161628001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202308161628001</guid>
-            <pubDate>Wed, 16 Aug 2023 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[극심한 가뭄을 겪고 있는 지구촌 곳곳에서 과학기술을 활용해 수자원을 확보하려는 시도가 일고 있다. 인공강우나 안개수집 등이 대표적이다. 효과를 두고는 논란이 뒤따르거나 제한적이라는 평가가 나온다.
-인공강우에 가장 적극적인 나라 중 하나는 멕시코다. 멕시코 정부는 지난달 인공강우를 목표로 ‘구름 씨앗’ 키우기 작업에 착수했다. 멕시코 농업부는 가뭄 피해가 극심한 북동부 62개 지자체가 대상이라며 “가뭄의 영향을 퇴치하고 대수층을 다시 채우는 것을 목표로 한다”고 발표했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/16/news-p.v1.20230816.2af7bf81d7ee4ab99de5f4b4763d8c69.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든표 학자금 대출 탕감 시작…“최대한 많은 사람 구제할 것” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202308161527001</link>
-            <guid>https://www.khan.co.kr/world/america/article/202308161527001</guid>
-            <pubDate>Wed, 16 Aug 2023 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[80만명을 대상으로 한 조 바이든 행정부의 대학 학자금 대출 탕감 정책이 시작됐다.
-미국 방송사 ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들이 전날부터 대출 기관으로부터 “축하합니다. 귀하의 대출이 청산됐습니다”라는 e메일을 받기 시작했다고 보도했다. ABC뉴스는 미국 교육부가 지난 14일 하루에만 20만명을 탕감한 것으로 추정된다면서, 앞으로 몇 주 안에 모든 탕감 조치가 완료될 것이라고 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/16/news-p.v1.20230816.5e4180d60568403392f021abeabdc13b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -289,7 +290,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000756124?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756124?type=journalists</guid>
             <pubDate>Mon, 21 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756124.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -301,19 +302,11 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["한국·일본은 '동맹' 아닌데..." 한미일 정상회의 성과에 신중한 일본 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000756008?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000756008?type=journalists</guid>
-            <pubDate>Tue, 22 Aug 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/756008.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤 대통령 “IAEA 신뢰” 발언에 힘 받은 일본…"오염수 이달 방류 유력" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000755983?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755983?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/755983.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,7 +314,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755965?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755965?type=journalists</guid>
             <pubDate>Mon, 21 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/755965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +346,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755764?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755764?type=journalists</guid>
             <pubDate>Fri, 18 Aug 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/18/755764.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +354,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755589?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755589?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/17/755589.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -369,15 +362,23 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755558?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755558?type=journalists</guid>
             <pubDate>Thu, 17 Aug 2023 17:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/17/755558.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외국 관광객 돈 펑펑 쓸 때 일본인은 빵값도 절약...'엔저 경제'의 희비 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000755404?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000755404?type=journalists</guid>
+            <pubDate>Tue, 22 Aug 2023 17:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/16/755404.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 언론도 놀란 윤 대통령 광복절 경축사 "일본 비판 없었다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000755332?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755332?type=journalists</guid>
             <pubDate>Wed, 16 Aug 2023 17:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/16/755332.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -385,7 +386,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755204?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755204?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -393,7 +394,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755194?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755194?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -409,7 +410,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755061?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755061?type=journalists</guid>
             <pubDate>Mon, 14 Aug 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/14/755061.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -417,7 +418,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/469/0000755043?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755043?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/14/755043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -523,6 +524,30 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <pubDate>Sun, 06 Aug 2023 17:32:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753672.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘엔데믹’인데 코로나19 확진자 왜 또 늘어나나? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033247?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033247?type=journalists</guid>
+            <pubDate>Tue, 22 Aug 2023 17:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/18/33247.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘내부자’에게 듣는 최강우주망원경 제임스웹 1년 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033243?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033243?type=journalists</guid>
+            <pubDate>Tue, 22 Aug 2023 17:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/18/33243.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘62. 팬데믹 끝’ 폴더를 닫으며 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033229?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033229?type=journalists</guid>
+            <pubDate>Tue, 22 Aug 2023 17:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/16/33229.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비용편익 분석 실종된 양평고속도로 ‘변경안’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -739,30 +764,6 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/10/32332.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지하철 무임승차 논란, ‘진짜’ 노인은 누구인가 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032291?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032291?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/02/32291.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건물도, 사람도 주저앉았다 [외신 한 컷] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032260?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032260?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/23/32260.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 인구 얼마나 줄었을까? [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032241?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032241?type=journalists</guid>
-            <pubDate>Fri, 18 Aug 2023 05:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/20/32241.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[살인은 복잡하다, 거짓과 연민 때문에 [기자의 추천 책] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1249,7 +1250,7 @@ ABC뉴스는 15일(현지시간) 연방 학자금 대출을 받은 미국인들�
             <link>https://n.news.naver.com/article/308/0000033262?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033262?type=journalists</guid>
             <pubDate>Tue, 22 Aug 2023 05:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/22/33262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

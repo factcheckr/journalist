@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 05:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 17:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000756124?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756124?type=journalists</guid>
             <pubDate>Mon, 21 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756124.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -24,19 +24,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["한국·일본은 '동맹' 아닌데..." 한미일 정상회의 성과에 신중한 일본]]></title>
-            <link>https://n.news.naver.com/article/469/0000756008?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000756008?type=journalists</guid>
-            <pubDate>Tue, 22 Aug 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/756008.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤 대통령 “IAEA 신뢰” 발언에 힘 받은 일본…"오염수 이달 방류 유력"]]></title>
             <link>https://n.news.naver.com/article/469/0000755983?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755983?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/755983.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000755965?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755965?type=journalists</guid>
             <pubDate>Mon, 21 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/755965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000755764?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755764?type=journalists</guid>
             <pubDate>Fri, 18 Aug 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/18/755764.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000755589?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755589?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/17/755589.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,15 +84,23 @@
             <link>https://n.news.naver.com/article/469/0000755558?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755558?type=journalists</guid>
             <pubDate>Thu, 17 Aug 2023 17:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/17/755558.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외국 관광객 돈 펑펑 쓸 때 일본인은 빵값도 절약...'엔저 경제'의 희비]]></title>
+            <link>https://n.news.naver.com/article/469/0000755404?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000755404?type=journalists</guid>
+            <pubDate>Tue, 22 Aug 2023 17:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/16/755404.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 언론도 놀란 윤 대통령 광복절 경축사 "일본 비판 없었다"]]></title>
             <link>https://n.news.naver.com/article/469/0000755332?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755332?type=journalists</guid>
             <pubDate>Wed, 16 Aug 2023 17:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/16/755332.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000755204?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755204?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000755194?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755194?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://n.news.naver.com/article/469/0000755061?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755061?type=journalists</guid>
             <pubDate>Mon, 14 Aug 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/14/755061.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +140,7 @@
             <link>https://n.news.naver.com/article/469/0000755043?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755043?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/14/755043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
