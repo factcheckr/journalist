@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 17:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 05:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,6 +286,14 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0508/A0002925606_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["이달 24일 오염수 방류 시작" 확정...기시다 "국제사회 이해 확실히 확산" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000756275?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000756275?type=journalists</guid>
+            <pubDate>Wed, 23 Aug 2023 05:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/22/756275.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DJ소다 성추행한 관객 3명 찾았다...일본 기획사가 형사 고발 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000756124?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756124?type=journalists</guid>
@@ -298,8 +306,16 @@
             <link>https://n.news.naver.com/article/469/0000756073?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756073?type=journalists</guid>
             <pubDate>Mon, 21 Aug 2023 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756073.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한국·일본은 '동맹' 아닌데..." 한미일 정상회의 성과에 신중한 일본 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000756008?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000756008?type=journalists</guid>
+            <pubDate>Wed, 23 Aug 2023 05:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/756008.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤 대통령 “IAEA 신뢰” 발언에 힘 받은 일본…"오염수 이달 방류 유력" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -322,7 +338,7 @@
             <link>https://n.news.naver.com/article/469/0000755868?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755868?type=journalists</guid>
             <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755868.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,7 +346,7 @@
             <link>https://n.news.naver.com/article/469/0000755862?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755862?type=journalists</guid>
             <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755862.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +354,7 @@
             <link>https://n.news.naver.com/article/469/0000755824?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755824?type=journalists</guid>
             <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755824.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -402,7 +418,7 @@
             <link>https://n.news.naver.com/article/469/0000755155?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755155?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 05:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755155.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -510,27 +526,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] "교과서에서 지워진 ‘일본군 위안부’… 고노 담화는 마지막 보루" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000753714?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000753714?type=journalists</guid>
-            <pubDate>Sat, 12 Aug 2023 17:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753714.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["말이 높이 2m 벽 뛰어넘으면 풍년"이라 믿는 일본 축제...다치면 '살처분' [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000753672?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000753672?type=journalists</guid>
-            <pubDate>Sun, 06 Aug 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/06/753672.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘엔데믹’인데 코로나19 확진자 왜 또 늘어나나? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033247?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033247?type=journalists</guid>
             <pubDate>Tue, 22 Aug 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/18/33247.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -538,7 +538,7 @@
             <link>https://n.news.naver.com/article/308/0000033243?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033243?type=journalists</guid>
             <pubDate>Tue, 22 Aug 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/18/33243.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -546,7 +546,7 @@
             <link>https://n.news.naver.com/article/308/0000033229?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033229?type=journalists</guid>
             <pubDate>Tue, 22 Aug 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/16/33229.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -554,7 +554,7 @@
             <link>https://n.news.naver.com/article/308/0000033225?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033225?type=journalists</guid>
             <pubDate>Mon, 21 Aug 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/15/33225.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -770,7 +770,7 @@
             <link>https://n.news.naver.com/article/308/0000033224?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033224?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/15/33224.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1250,7 +1250,7 @@
             <link>https://n.news.naver.com/article/308/0000033262?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033262?type=journalists</guid>
             <pubDate>Tue, 22 Aug 2023 05:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/22/33262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1258,7 +1258,7 @@
             <link>https://n.news.naver.com/article/308/0000033244?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033244?type=journalists</guid>
             <pubDate>Fri, 18 Aug 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/18/33244.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
