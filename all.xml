@@ -4,9 +4,36 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 05:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 17:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후쿠시마 주민들 “지역 부흥? 오염수에 다 빼앗길 것” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202308232059015</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202308232059015</guid>
+            <pubDate>Wed, 23 Aug 2023 17:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[도매시장 상인들 자조 속 ‘체념’“수산물 질 좋아도 제값 못 받아"다음달 ‘방류 중단 요구’ 소송
+“우리는 풍평(소문) 피해에 지지 않는다.”
+일본 정부와 도쿄전력이 후쿠시마 제1원자력발전소의 방사능 오염수를 방류하기 하루 전날인 23일 후쿠시마시중앙도매시장 입구에는 이렇게 적힌 포스터가 붙어 있었다. 이곳은 미야기현, 후쿠시마현 등 동일본 앞바다에서 난 수산물이 모두 모이는 도매시장이다. 한국으로 치면 노량진 수산시장 같은 곳이다. 포스터 속 문구는 이곳 상인들의 두려움을 압축하고 있었다. 동일본대지진 이후 12년간 지역 부흥을 위해 애써온 사람들은 오염수 방류로 모든 것이 물거품이 될까 우려했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/23/khan_cOkqgp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘IAEA 권위’ 업고, 현지인 ‘딜레마’ 몰아넣고...일본 정부의 방류 여론전 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202308231803001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202308231803001</guid>
+            <pubDate>Wed, 23 Aug 2023 17:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[일본 정부는 후쿠시마 제1원자력발전소 오염수 해양 방류를 결정하면서 “어민의 이해를 구하기 전까지는 시행하지 않겠다”고 밝혀 왔다. 하지만 실제로는 ‘올 여름’이라는 시점을 못 박고 후쿠시마 현지 어민들을 압박했다. 일본 정부가 국제원자력기구(IAEA)의 승인과 한국 정부의 지지 등 국제사회에서 찬성 여론을 먼저 끌어올린 뒤 후쿠시마 어민을 포위한 모양새다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/23/news-p.v1.20230823.480746f91228461c8fc0ad7b89be3b9e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[일 언론 “오염수 방류 24일 오후 1시부터…올해 3만t 이상 흘려보낸다” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202308231618001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202308231618001</guid>
+            <pubDate>Wed, 23 Aug 2023 17:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[일본 정부와 도쿄전력이 후쿠시마 제1원자력 발전소에 저장돼 있는 방사능 오염수 방류를 24일 오후 1시부터 시작한다. 날씨와 바다 상황에 문제가 없다면 오염수 방류는 이날을 시작으로 30~40년에 걸쳐 진행된다.
+도쿄전력은 원전 내 탱크에 보관된 오염수의 방사성 물질을 다핵종제거설비(ALPS)로 거른 뒤 오염수 1t당 바닷물 1200t과 섞어 삼중수소 농도가 기준치 이하로 확인되면 바다로 방류할 계획이다. 방류 기준이 되는 농도는 1L당 1500베크렐(㏃) 이하다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/23/news-p.v1.20230823.dea5a9e29a634007b55b1ce958a879f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘데브리’ 제거 시작도 못해…폐로 시점도 미정 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202308222059005</link>
@@ -88,33 +115,6 @@
 멕시코 정부는 16일(현지시간) 연방관보(DOF)에 일반 수출입세에 관한 법률상 관세 부과 규칙 일부 수정안을 발표했다.
 멕시코와 무역협정(TA)을 체결하지 않은 국가에서 오는 392개 수입 품목에 대해 한시적으로 5∼25%의 임시 관세를 부과하는 게 골자다. 내년 10월 인하·철폐하려던 91개 품목에 대한 관세를 그대로 유지하는 안도 담겼다. 효력은 관보 게재 즉시 생겼다. 적용 시한은 2025년 7월31일까지다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/news-p.v1.20230818.ba2bb7bb903447b78d5f84d0f30debfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“바이든, 한반도 비핵화 위해 김정은 만날 수 있다” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/north-korea/article/202308180817001</link>
-            <guid>https://www.khan.co.kr/politics/north-korea/article/202308180817001</guid>
-            <pubDate>Fri, 18 Aug 2023 05:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[조 바이든 미국 대통령이 한반도 비핵화를 논의하기 위해 김정은 북한 국무위원장과 전제 조건 없이 만날 의향이 있다고 존 커비 미 국가안전보장회의(NSC) 전략소통조정관이 17일(현지시간) 밝혔다.
-커비 조정관은 이날 보도된 일본 교도통신과 인터뷰에서 “그들(북한)은 그 제안에 긍정적인 반응을 보이지 않았다”며 “그러나 여전히 그 제안은 테이블 위에 있다”고 말했다. 그는 “우리는 기꺼이 앉아서 전제조건 없이 협상할 것”이라고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/news-p.v1.20230818.c73ac9f3d8b649249bf4f6fdd85bad39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 부동산 위기 진앙 헝다그룹 미국에서 파산보호 신청 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202308180803001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202308180803001</guid>
-            <pubDate>Fri, 18 Aug 2023 05:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[중국 부동산 위기의 진앙인 부동산 개발업체 헝다(恒大·에버그란데)그룹이 17일(현지시간) 뉴욕에서 파산보호법 15조(챕터 15)에 따른 파산보호를 신청했다.
-중국이 극심한 경기침체를 겪고 있는 데다 또 다른 부동산 업체인 비구이위안(碧桂園·컨트리가든)도 채무불이행(디폴트) 위기에 빠져 있어 헝다그룹의 파산보호 신청이 중국 전체 부동산 시장과 금융 시장에 미칠 파장이 주목된다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/news-p.v1.20230818.f760d0bcf43c490199980dc859245bae.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘게임체인저’가 간다···“미, 우크라이나에 F16 전투기 제공 승인하기로” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202308180737001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202308180737001</guid>
-            <pubDate>Fri, 18 Aug 2023 05:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 우크라이나에 대한 F-16 전투기 제공 요청을 승인하기로 했다. 이에 따라 우크라이나 공군력이 크게 강화될 것으로 기대된다. 다만 훈련 일정 등을 감안할 때 연내 투입은 쉽지 않을 것으로 전망된다.
-로이터통신은 17일(현지시간) 미국이 덴마크와 네덜란드가 F-16 전투기 전달 승인을 요청할 경우 이를 신속히 승인하겠다는 확답을 각국에 전달한 것으로 알려졌다고 한 미국 관리를 인용해 보도했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/news-p.v1.20230818.1615c986d057429eab47a426d49f6beb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -294,11 +294,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/22/756275.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NHK "이르면 24일 오염수 방류 개시"... 기시다, 어민 반대에도 강행 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000756210?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000756210?type=journalists</guid>
+            <pubDate>Wed, 23 Aug 2023 17:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756210.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DJ소다 성추행한 관객 3명 찾았다...일본 기획사가 형사 고발 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000756124?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756124?type=journalists</guid>
             <pubDate>Mon, 21 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756124.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +322,7 @@
             <link>https://n.news.naver.com/article/469/0000756008?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756008?type=journalists</guid>
             <pubDate>Wed, 23 Aug 2023 05:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/756008.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +330,7 @@
             <link>https://n.news.naver.com/article/469/0000755983?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755983?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/755983.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,7 +338,7 @@
             <link>https://n.news.naver.com/article/469/0000755965?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755965?type=journalists</guid>
             <pubDate>Mon, 21 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/20/755965.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -362,7 +370,7 @@
             <link>https://n.news.naver.com/article/469/0000755764?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755764?type=journalists</guid>
             <pubDate>Fri, 18 Aug 2023 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/18/755764.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -370,7 +378,7 @@
             <link>https://n.news.naver.com/article/469/0000755589?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755589?type=journalists</guid>
             <pubDate>Sun, 20 Aug 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/17/755589.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -378,7 +386,7 @@
             <link>https://n.news.naver.com/article/469/0000755558?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755558?type=journalists</guid>
             <pubDate>Thu, 17 Aug 2023 17:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/17/755558.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -386,7 +394,7 @@
             <link>https://n.news.naver.com/article/469/0000755404?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755404?type=journalists</guid>
             <pubDate>Tue, 22 Aug 2023 17:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/16/755404.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -394,7 +402,7 @@
             <link>https://n.news.naver.com/article/469/0000755332?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755332?type=journalists</guid>
             <pubDate>Wed, 16 Aug 2023 17:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/16/755332.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -402,7 +410,7 @@
             <link>https://n.news.naver.com/article/469/0000755204?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755204?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -410,7 +418,7 @@
             <link>https://n.news.naver.com/article/469/0000755194?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755194?type=journalists</guid>
             <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755194.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -516,14 +524,6 @@
             <pubDate>Mon, 07 Aug 2023 05:33:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753754.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나만 불쌍하다는 왜곡된 분노가 묻지마 칼부림의 원인...일본을 보라" [인터뷰] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000753728?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000753728?type=journalists</guid>
-            <pubDate>Sun, 13 Aug 2023 05:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘엔데믹’인데 코로나19 확진자 왜 또 늘어나나? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
