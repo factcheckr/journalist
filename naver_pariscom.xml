@@ -4,15 +4,47 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 17:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 05:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 도쿄전력, 후쿠시마 오염수 방출 개시]]></title>
+            <link>https://n.news.naver.com/article/469/0000756728?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000756728?type=journalists</guid>
+            <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756728.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄전력, “희석한 오염수 삼중수소 기준치 크게 밑돌아… 오후 1시 방류 개시”]]></title>
+            <link>https://n.news.naver.com/article/469/0000756719?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000756719?type=journalists</guid>
+            <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756719.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] "도쿄전력, 오염수 오늘 오후 1시 방류 확정... 삼중수소 농도, 기상 문제 없어"]]></title>
+            <link>https://n.news.naver.com/article/469/0000756688?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000756688?type=journalists</guid>
+            <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756688.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본, 북한 '우주발사체' 발사하자 오키나와 피난 명령… 15분 후 해제]]></title>
+            <link>https://n.news.naver.com/article/469/0000756671?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000756671?type=journalists</guid>
+            <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756671.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이달 24일 오염수 방류 시작" 확정...기시다 "국제사회 이해 확실히 확산"]]></title>
             <link>https://n.news.naver.com/article/469/0000756275?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756275?type=journalists</guid>
             <pubDate>Wed, 23 Aug 2023 05:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/22/756275.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000756073?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756073?type=journalists</guid>
             <pubDate>Mon, 21 Aug 2023 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/21/756073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000755868?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755868?type=journalists</guid>
             <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755868.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000755862?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755862?type=journalists</guid>
             <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755862.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +116,7 @@
             <link>https://n.news.naver.com/article/469/0000755824?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000755824?type=journalists</guid>
             <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755824.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 10 Aug 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/10/754443.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자전거 속도'로 한반도 향하는 태풍 카눈, 일본 규슈서 133만명 대피령]]></title>
-            <link>https://n.news.naver.com/article/469/0000754302?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000754302?type=journalists</guid>
-            <pubDate>Mon, 14 Aug 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/09/754302.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다, 오염수 방류에 “어민과 신뢰 깊어져”... 후쿠시마 어민들 “금시초문”]]></title>
-            <link>https://n.news.naver.com/article/469/0000754240?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000754240?type=journalists</guid>
-            <pubDate>Wed, 09 Aug 2023 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/09/754240.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더위에 선수 쓰러져도...일본 고교야구 '고시엔' 폭염 속 경기 강행 '시끌']]></title>
-            <link>https://n.news.naver.com/article/469/0000753876?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000753876?type=journalists</guid>
-            <pubDate>Wed, 09 Aug 2023 17:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753876.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“일본, 오염수 방류 이달 하순 개시할 듯…한미일 정상회의 후 결정”]]></title>
-            <link>https://n.news.naver.com/article/469/0000753754?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000753754?type=journalists</guid>
-            <pubDate>Mon, 07 Aug 2023 05:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/07/753754.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

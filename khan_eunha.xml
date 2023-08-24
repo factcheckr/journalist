@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 17:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 05:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오후 1시 ‘엎지른 물’ 될 오염수…올해 3만여t, 종료시점 미지수]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202308240600005</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202308240600005</guid>
+            <pubDate>Thu, 24 Aug 2023 05:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[ALPS 거쳐 희석 삼중수소 농도 측정…오전에 결과 공개적합 판단되면 원전서 1㎞ 떨어진 해저 배출구 통해 배출방류 직후 채취한 표본 측정 결과는 이르면 27일 공개 예정
+일본 정부와 도쿄전력이 후쿠시마 제1원자력발전소에 저장돼 있는 방사능 오염수 방류를 24일 오후 1시부터 시작한다. 날씨와 바다 상황에 문제가 없다면 오염수 방류는 이날을 시작으로 30~40년에 걸쳐 진행된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/24/2023082401000830400080101.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후쿠시마 주민들 “지역 부흥? 오염수에 다 빼앗길 것”]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202308232059015</link>
@@ -105,16 +114,6 @@
             <content:encoded><![CDATA[한·미·일이 반도체 등의 공급망 혼란을 피하고자 관련 물자가 부족한 경우 정보를 신속히 공유하는 ‘조기 경계 메커니즘’을 신설하는 방향으로 조율하고 있다고 요미우리신문이 18일 보도했다.
 요미우리신문은 “첨단기술 개발에서 치열한 경쟁을 벌이는 중국을 염두에 두고 경제 안보를 강화하려는 의도”라며 미국에서 이날 발표될 한·미·일 정상회의 공동성명에 이런 내용이 포함될 것으로 보인다고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/news-p.v1.20230818.803000e8c3de4c90a09a9ac73b729258.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멕시코 수입 철강 관세 최고 25%로 인상…한국 수출 영향받을 듯]]></title>
-            <link>https://www.khan.co.kr/economy/industry-trade/article/202308180839001</link>
-            <guid>https://www.khan.co.kr/economy/industry-trade/article/202308180839001</guid>
-            <pubDate>Fri, 18 Aug 2023 05:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[멕시코 정부가 기존의 단계적 인하 기조를 뒤집고 수입 철강 관세를 기습적으로 인상했다.
-멕시코 정부는 16일(현지시간) 연방관보(DOF)에 일반 수출입세에 관한 법률상 관세 부과 규칙 일부 수정안을 발표했다.
-멕시코와 무역협정(TA)을 체결하지 않은 국가에서 오는 392개 수입 품목에 대해 한시적으로 5∼25%의 임시 관세를 부과하는 게 골자다. 내년 10월 인하·철폐하려던 91개 품목에 대한 관세를 그대로 유지하는 안도 담겼다. 효력은 관보 게재 즉시 생겼다. 적용 시한은 2025년 7월31일까지다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/news-p.v1.20230818.ba2bb7bb903447b78d5f84d0f30debfa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
