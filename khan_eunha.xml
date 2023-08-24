@@ -4,9 +4,35 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 05:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 17:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방류가 값싸다더니 이미 5378억…“어민 보상은 별도”]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202308242112005</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202308242112005</guid>
+            <pubDate>Thu, 24 Aug 2023 17:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[후쿠시마 제1원전 오염수 해양 방류에 드는 비용이 일본 정부 예상보다 급증해 현재 590억엔(약 5378억2600만원)에 이르렀다고 일본 경제매체 도요게이자이가 24일 보도했다. 이는 일본 정부가 당초 예상한 34억엔보다 17배 이상 커진 것이다. 오염수 발생량이 당초 예상보다 많았고 설비공사 비용도 커진 것이 전체 비용 증가의 원인이다.
+애초 일본 정부가 오염수 처리 방법으로 해양 방류를 고집했던 이유는 ‘저렴한 비용’이었다. 일본 정부가 구성한 전문가위원회는 2016년 원전 오염수 처리 방법으로 해양 방류(34억엔), 수증기 형태로 대기 방출(349억엔), 수소와 산소로 전기분해해서 대기 방출(1000억엔), 지층 주입(186억엔 이상), 지하 매설(2431억엔) 등 5가지를 내놓았다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“한 달 사이 판매량 반토막” 일본 어민 피해는 벌써 시작]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202308241708001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202308241708001</guid>
+            <pubDate>Thu, 24 Aug 2023 17:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[후쿠시마제1원전 오염수 해양 방류가 시작되면서 일본 정부의 핵심 과제는 자국 어업계에 약속한 ‘풍평(소문) 피해’ 차단으로 넘어왔다. 하지만 풍평 피해는 이미 시작됐고, 후쿠시마 어업인들은 더욱 궁지에 몰리고 있다.
+일본 경제매체 도요게이자이의 24일 보도에 따르면 일본 미야기현 오나가와마치에서 가리비 양식을 하는 기무라 요시아키(71)는 지난달부터 심각한 매출 감소를 겪고 있다. 지난 6월 4일 530엔(약4800원)이었던 1kg당 가리비 가격은 7월 16일 450엔, 8월 2일 420엔, 8월 20일 400엔으로 뚝뚝 떨어졌다. 일일 판매량도 7월 1.3t에서 8월 초 800kg, 최근에는 600kg로 줄었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/24/news-p.v1.20230824.00931e72aeec458f9d74dbe64f93b4a1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[기하급수적으로 커진다···원전 오염수 방류 비용 34억엔→590억엔]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202308241509001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202308241509001</guid>
+            <pubDate>Thu, 24 Aug 2023 17:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[후쿠시마 제1원전 오염수 해양 방류에 드는 비용이 일본 정부 예상보다 급증해 현재 590억엔(약 5378억2600만원)에 이르렀다고 일본 경제매체 도요게이자이가 24일 보도했다. 이는 일본 정부가 당초 예상한 34억엔보다 17배 이상 커진 것이다.
+오염수 발생량이 당초 예상보다 많았고 설비공사 비용도 커진 것이 전체 비용 증가의 원인이다. 도쿄전력은 경제산업성에 제출한 자금계획에서 희석 시설과 해저터널 등 설비공사비, 오염수 대책 등에 사용된 2021~2025년 오염수 방류 관련 비용을 총 590억엔으로 책정했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/24/news-p.v1.20230824.eb488c72869d438fb2289f5101db027f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[오후 1시 ‘엎지른 물’ 될 오염수…올해 3만여t, 종료시점 미지수]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202308240600005</link>
@@ -87,33 +113,6 @@
             <content:encoded><![CDATA[뉴욕 법원에 해외 채무조정 협상 중인 상황 인정 요청…내달 20일 심리또 다른 업체 비구이위안도 디폴트 위기…중국 경제 위기 가속화 우려
 중국 부동산 위기의 진앙인 부동산 개발업체 헝다(恒大·에버그란데)그룹이 17일(현지시간) 미국에서 파산보호법 15조(챕터15)에 따른 파산보호를 신청했다. 중국이 극심한 경기침체를 겪고 있는 데다, 또 다른 부동산 업체인 비구이위안(碧桂園·컨트리가든)도 채무불이행(디폴트) 위기에 빠져 있어 헝다그룹의 파산보호 신청이 중국 부동산 및 금융 시장에 미칠 파장이 주목된다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/2023081901000634800062541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카자흐스탄, 자국 내 러시아 선전 방송 차단 “증오 조장”]]></title>
-            <link>https://www.khan.co.kr/world/asia-australia/article/202308181552001</link>
-            <guid>https://www.khan.co.kr/world/asia-australia/article/202308181552001</guid>
-            <pubDate>Fri, 18 Aug 2023 17:31:53 GMT</pubDate>
-            <content:encoded><![CDATA[카자흐스탄 정부가 자국 내 인종적 증오 조장 등을 이유로 극우성향 TV 채널의 웹사이트 접속을 차단했다.
-17일(현지시간) EFE 통신 등에 따르면 카자흐스탄 정보사회개발부는 이날 극단주의를 선전하는 영상물 등을 웹사이트에 게시했다며 자국 내 차르그라드TV 접속을 차단했다고 밝혔다. 카자흐스탄 당국이 차르그라드TV에 차단 조치 명령을 내린 게시물은 2021년 1월에 제작한 1건과 지난 5월에 제작된 3건 등 모두 4건이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/news-p.v1.20230818.b66a19aefd734650bedaaa41f404aca8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전진당 배신한 태국 탁신계 정당, 쿠데타 세력과 손잡아]]></title>
-            <link>https://www.khan.co.kr/world/asia-australia/article/202308181518001</link>
-            <guid>https://www.khan.co.kr/world/asia-australia/article/202308181518001</guid>
-            <pubDate>Fri, 18 Aug 2023 17:31:53 GMT</pubDate>
-            <content:encoded><![CDATA[탁신 친나왓 전 태국 총리 계열 프아타이당이 친군부 정당과 손을 잡았다. 개혁정책을 이유로 전진당(MFP)에 등을 돌린 프아타이당은 20년 동안 악연이었던 ‘쿠데타 세력의 귀환’을 선택했다.
-방콕포스트 등 현지 매체에 따르면 태국 군부 진영의 핵심 정당 중 하나인 루엄타이쌍찻당(RTSC)은 17일(현지시간) 프아타이당이 구성하는 차기 정부에 참여할 것이라고 밝혔다. RTSC는 지난 5월 총선에서 쁘라윳 짠오차 현 총리를 총리 후보로 내세운 친군부 정당이다. 지난 총선에서 하원 500석 가운데 36석을 얻는 데 그쳤고, 총리직 연장을 노리던 쁘라윳 총리는 정계 은퇴를 선언했다]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/news-p.v1.20230818.906e22970a124c32a4b58d150837ba53.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“한미일 반도체 물자 부족 시 정보공유 …정상회의서 의논한다”]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202308181031001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202308181031001</guid>
-            <pubDate>Fri, 18 Aug 2023 05:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[한·미·일이 반도체 등의 공급망 혼란을 피하고자 관련 물자가 부족한 경우 정보를 신속히 공유하는 ‘조기 경계 메커니즘’을 신설하는 방향으로 조율하고 있다고 요미우리신문이 18일 보도했다.
-요미우리신문은 “첨단기술 개발에서 치열한 경쟁을 벌이는 중국을 염두에 두고 경제 안보를 강화하려는 의도”라며 미국에서 이날 발표될 한·미·일 정상회의 공동성명에 이런 내용이 포함될 것으로 보인다고 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/18/news-p.v1.20230818.803000e8c3de4c90a09a9ac73b729258.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
