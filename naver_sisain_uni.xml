@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 17:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 05:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국은 왜 아무것도 바꿀 수 없는 나라가 되었을까 [기자의 추천 책]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033298?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033298?type=journalists</guid>
+            <pubDate>Tue, 29 Aug 2023 05:32:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/29/33298.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘엔데믹’인데 코로나19 확진자 왜 또 늘어나나?]]></title>
             <link>https://n.news.naver.com/article/308/0000033247?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/17/32370.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한반도 전문기자가 읽어주는 ‘남북관계의 체스판’ [사람IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032332?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032332?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/10/32332.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
