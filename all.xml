@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 17:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 05:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,19 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0514/A0002927289_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[르포] 상인들은 “오염수 안전해” 주민들은 “포기했다”… 두 쪽 난 후쿠시마 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000757709?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000757709?type=journalists</guid>
+            <pubDate>Wed, 30 Aug 2023 05:32:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757709.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오염수 방류로 거칠게 싸우는 중국·일본 "WTO 제소" vs "피해자 코스프레" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000757614?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757614?type=journalists</guid>
             <pubDate>Tue, 29 Aug 2023 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/29/757614.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +322,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000757136?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757136?type=journalists</guid>
             <pubDate>Sun, 27 Aug 2023 05:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/27/757136.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +330,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000756872?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756872?type=journalists</guid>
             <pubDate>Sat, 26 Aug 2023 05:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/25/756872.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +346,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000756728?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756728?type=journalists</guid>
             <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756728.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,7 +354,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000756719?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756719?type=journalists</guid>
             <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756719.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -354,7 +362,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000756688?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756688?type=journalists</guid>
             <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -362,7 +370,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000756671?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756671?type=journalists</guid>
             <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756671.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -378,7 +386,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000756487?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756487?type=journalists</guid>
             <pubDate>Tue, 29 Aug 2023 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/23/756487.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -386,7 +394,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000756435?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756435?type=journalists</guid>
             <pubDate>Fri, 25 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/23/756435.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -394,7 +402,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000756275?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756275?type=journalists</guid>
             <pubDate>Wed, 23 Aug 2023 05:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/22/756275.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -518,19 +526,11 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755204.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[패전 78주년, 올해도 반성 없는 일본… 국회의원 60여 명, 야스쿠니 참배 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000755194?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000755194?type=journalists</guid>
-            <pubDate>Tue, 15 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/15/755194.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한국은 왜 아무것도 바꿀 수 없는 나라가 되었을까 [기자의 추천 책] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033298?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033298?type=journalists</guid>
             <pubDate>Tue, 29 Aug 2023 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/29/33298.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1246,11 +1246,19 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/23/31358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가려씨가 또 운다 [프리스타일] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033307?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033307?type=journalists</guid>
+            <pubDate>Wed, 30 Aug 2023 05:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/30/33307.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어제는 기소 오늘은 사면, 검사 출신 대통령 시절의 풍경 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033297?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033297?type=journalists</guid>
             <pubDate>Tue, 29 Aug 2023 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/29/33297.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1258,7 +1266,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/308/0000033262?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033262?type=journalists</guid>
             <pubDate>Tue, 22 Aug 2023 05:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/22/33262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1812,14 +1820,6 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이해충돌 논란, 윤석열 정부 공직자의 자격을 묻다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030865?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030865?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/17/30865.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
