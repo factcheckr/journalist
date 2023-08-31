@@ -4,9 +4,25 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 17:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 05:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“이제는 4대강이 아니라 물관리를 말해야 한다”]]></title>
+            <link>https://n.news.naver.com/article/308/0000033314?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033314?type=journalists</guid>
+            <pubDate>Thu, 31 Aug 2023 05:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/31/33314.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘포스트 4대강 사업’, 강바닥 파면 홍수 안 나나]]></title>
+            <link>https://n.news.naver.com/article/308/0000033313?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033313?type=journalists</guid>
+            <pubDate>Thu, 31 Aug 2023 05:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/31/33313.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살인은 복잡하다, 거짓과 연민 때문에 [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000033224?type=journalists</link>
@@ -470,22 +486,6 @@
             <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31448.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] “내가 보이면 울어라.”]]></title>
-            <link>https://n.news.naver.com/article/308/0000031391?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031391?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/30/31391.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡플레이 ‘안나’ 사태가 남긴 것]]></title>
-            <link>https://n.news.naver.com/article/308/0000031358?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031358?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/23/31358.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
