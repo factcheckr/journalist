@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 05:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 17:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,27 +286,35 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0514/A0002927289_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후쿠시마 원전 인근 바닷물, 삼중수소 소폭 늘었다… 도쿄전력 “안전 문제없어” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000758375?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000758375?type=journalists</guid>
+            <pubDate>Fri, 01 Sep 2023 17:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758375.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 정계 원로 “간토 학살 사죄해야”… 윤덕민 주일 대사는 ‘학살’ 언급도 안 해 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000758343?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000758343?type=journalists</guid>
+            <pubDate>Fri, 01 Sep 2023 17:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758343.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] "증거 있는데도 조선인 학살 안 했다는 일본...한국도 무관심 자성해야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000758282?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758282?type=journalists</guid>
             <pubDate>Fri, 01 Sep 2023 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758282.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죽창으로 간토 조선인 학살 100년...일본의 부인·한국 무관심에 우익만 기고만장 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000758222?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000758222?type=journalists</guid>
-            <pubDate>Fri, 01 Sep 2023 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758222.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[간토 학살 100년 추도식 일본 곳곳서 열린다...주일한국대사관도 '큰 규모'로 준비 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000758214?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758214?type=journalists</guid>
             <pubDate>Fri, 01 Sep 2023 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758214.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +322,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000758130?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758130?type=journalists</guid>
             <pubDate>Thu, 31 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/31/758130.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +330,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000757842?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757842?type=journalists</guid>
             <pubDate>Wed, 30 Aug 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757842.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,7 +346,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000757614?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757614?type=journalists</guid>
             <pubDate>Tue, 29 Aug 2023 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/29/757614.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,8 +354,16 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000757360?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757360?type=journalists</guid>
             <pubDate>Mon, 28 Aug 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/28/757360.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국, 일본 오염수 방류에 '노 재팬' 전방위 확산... "안 사고, 안 먹고, 안 간다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000757205?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000757205?type=journalists</guid>
+            <pubDate>Fri, 01 Sep 2023 17:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/27/757205.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[간토대지진 조선인 학살 100년, 일본 정부에 책임 묻는 일본인들 [특파원 24시] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -362,7 +378,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000757024?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757024?type=journalists</guid>
             <pubDate>Wed, 30 Aug 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/25/757024.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -370,7 +386,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000756978?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756978?type=journalists</guid>
             <pubDate>Thu, 31 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/25/756978.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -386,7 +402,7 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <link>https://n.news.naver.com/article/469/0000756850?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756850?type=journalists</guid>
             <pubDate>Thu, 24 Aug 2023 17:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756850.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -508,22 +524,6 @@ AFP 통신 등에 따르면 가브리엘 아탈 장관은 27일(현지시간) �
             <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755868.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다, 오염수 방류 "국가적 판단할 최종 단계"... 20일 후쿠시마 제1원전 방문 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000755862?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000755862?type=journalists</guid>
-            <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755862.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기시다, 20일 후쿠시마 원전 시찰... 이르면 22일 방류 시점 결정할 듯" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000755824?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000755824?type=journalists</guid>
-            <pubDate>Sat, 19 Aug 2023 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/19/755824.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국은 왜 아무것도 바꿀 수 없는 나라가 되었을까 [기자의 추천 책] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
