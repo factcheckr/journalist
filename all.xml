@@ -4,11 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 05:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 17:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[소설 <토지> 속 최참판댁 한옥민박 다시 열었어요 (경향신문 ─ 박은하 기자)]]></title>
+            <title><![CDATA[제복 경찰은 공무원증 제시 없이 불심검문…여 이만희 법안 발의 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202309021629001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202309021629001</guid>
+            <pubDate>Sat, 02 Sep 2023 17:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 이만희 의원은 불특정 다수를 향한 이상동기 범죄 예방을 위해 경찰관의 불심검문 요건을 완화한 경찰관 직무집행법 개정안을 발의했다고 2일 밝혔다.
+개정안은 불심검문 때 제복을 착용하고 근무 중인 경찰관이 신분을 표시하는 증표（공무원증）제시를 생략할 수 있도록 규정했다. 이 의원은 현행 불심검문 규정에는 제복을 착용해 신분이 명확하게 인식되는 경찰관도 신분증을 별도로 제시하도록 해 긴급한 상황에서 경찰관의 신속한 대응을 저해할 수 있다 했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.b08af7bf16aa453a9a475c0c119e93c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘보름 만에 또 값 내렸다’···테슬라, 중국 판매 모델 최고 1780만원 인하 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/economy/auto/article/202309021610001</link>
+            <guid>https://www.khan.co.kr/economy/auto/article/202309021610001</guid>
+            <pubDate>Sat, 02 Sep 2023 17:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[미국 전기차 업체 테슬라가 ‘모델 S’와 ‘모델 X’의 중국 내 판매 가격을 보름 만에 추가 인하했다고 계면신문 등 현지 매체가 2일 보도했다.
+테슬라는 전날 자사의 준대형 세단인 모델 S와 준대형 스포츠유틸리티차량(SUV) 모델 X의 중국 내 판매 가격을 인하한다고 밝혔다. 테슬라는 지난달 16일 모델 S와 모델 X 판매 가격을 내린 자 불과 보름 만이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.3e760f32e29248739a2c9b8cf5e35496.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“이번엔 태양으로 간다”···인도, 달 남극 착륙 이어 태양탐사선 발사 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202309021557001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202309021557001</guid>
+            <pubDate>Sat, 02 Sep 2023 17:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최초로 달 남극 착륙에 성공한 인도가 이번에는 태양 관측용 인공위성을 발사했다. 인도의 첫 태양 관측 미션이 성공하면 아시아 국가로선 처음이다.
+인도우주연구기구(ISRO)는 현지시간 2일 오전 11시 50분 ‘아디티아 L1’(Aditya L1) 인공위성을 남부 안드라프라데시주 스리하리코타 우주기지에서 발사했다고 인도 매체들이 보도했다. 아디티아는 산스크리트어로 ‘태양’을 의미한다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.3b4979a380644e07bfc4e89aac2a6eae.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 ‘산넘어 산’…러 방어선 첫 돌파에도 더 강한 방어선 ‘수두룩’ (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202309021518001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202309021518001</guid>
+            <pubDate>Sat, 02 Sep 2023 17:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나가 남부 일부 전선에서 러시아의 방어선을 처음 돌파했다고 밝혔다.
+로이터통신에 따르면 한나 말랴르 우크라이나 국방부 차관은 １일（현지시간） 자국 방송을 통해 자국군이 남부 자포리자 지역에서 진격하고 있다고 밝혔다. 말랴르 차관은 “여러 방향과 특정 지역에서 공세가 벌어지고 있다”면서 “일부 지역에서는 (러시아의) 첫 방어선이 뚫렸다”고 설명했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.989ea90660cf47ba817a527a405b5750.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[소설 ‘토지’ 속 최참판댁 한옥민박 다시 열었어요 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/life/life-general/article/202309021253001</link>
             <guid>https://www.khan.co.kr/life/life-general/article/202309021253001</guid>
             <pubDate>Sat, 02 Sep 2023 05:32:01 GMT</pubDate>
@@ -38,7 +74,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.f6bb4e7c286e44ed9f1398cb2f62d675.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘스파이’로 몰린 노벨평화상 수상자···러, 자국 언론인 ‘외국 대리인’ 지목 (경향신문 ─ 박은하 기자)]]></title>
+            <title><![CDATA[‘스파이’로 지목된 노벨평화상 수상자···러, 자국 유명 언론인 ‘외국 대리인’ 지정 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202309021231001</link>
             <guid>https://www.khan.co.kr/world/europe-russia/article/202309021231001</guid>
             <pubDate>Sat, 02 Sep 2023 05:32:01 GMT</pubDate>
@@ -84,44 +120,6 @@ AFP, 스푸트니크 통신 등에 따르면 러시아 국방부는 2일(현지�
 BBC, CNN에 따르면 알파예드의 가족들은 1일(현지시간) 성명을 내고 지난달 30일 알파예드가 “노령으로 평온히 세상을 떠났다”고 밝혔다.
 알파예드는 1929년 이집트 알렉산드리아에서 태어난 거리에서 탄산음료를 판매하는 것으로 사업을 시작했다. 그는 첫 부인이었던 사우디아라비아 작가 사미라 카슈끄지의 오빠이자 백만장자 무기상인 아드난 카슈끄지에게 고용돼 수입 사업을 한 것을 계기로 무역업에 진출했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.9523101a5fb841bd8410e6fc2f715480.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[중 관영매체 “한국, 양보를 선의로 여기지 마라” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202309021015001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202309021015001</guid>
-            <pubDate>Sat, 02 Sep 2023 05:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[왕이 중국 외교부장이 한국을 향해 ‘전략적 자주’를 강조하며 한미일 협력 강화에 견제구를 던진 데 이어 중국 당국의 입장을 대변하는 관영매체가 전문가를 인용해 ‘한국은 양보를 선의로 여겨서는 안 된다’고 보도했다.
-중국 관영 영자지 글로벌타임스는 2일 왕 부장과 박진 외교부장의 지난달 31일 전화 통화 내용을 소개하며 전문가를 인용해 이번 전화 통화는 한미일 정상회담 이후 내리막길을 걷는 한중 관계에 대한 한국 정부의 불안을 반영한 것이라는 주장을 내놨다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.a8c1bc025e204caab1b88af4b1049268.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[유럽선 광고 없는 페북·인스타 보나···WP “메타, 유료 버전 고려” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202309021004001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202309021004001</guid>
-            <pubDate>Sat, 02 Sep 2023 05:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[유럽인은 이용료를 내는 대신 광고 없는 페이스북과 인스타그램을 보게 될까. 페이스북과 인스타그램이 유럽연합(EU) 지역에서 유료 구독 서비스 출시를 고려하고 있다고 워싱턴포스트(WP)가 전했다.
-WP는 1일(현지시간) 3명의 소식통을 인용해 페이스북 모회사 메타는 EU의 규제에 대응하기 위해 유료 버전 출시를 고려하고 있다고 전했다. 유료 버전은 페이스북과 인스타그램 이용료를 지급하고, 대신 광고는 나타나지 않게 하는 버전이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.8d606a433ebd4eb9b1d305f0f7a2a798.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“사람이 죽었다” 을왕리 해안가서 여성 시신…부검 의뢰 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/national/incident/article/202309020947001</link>
-            <guid>https://www.khan.co.kr/national/incident/article/202309020947001</guid>
-            <pubDate>Sat, 02 Sep 2023 05:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[인천 을왕리해수욕장 인근 해안가에서 신원을 알 수 없는 여성의 시신이 발견돼 해경이 수사에 나섰다고 연합뉴스가 2일 보도했다.
-보도에 따르면 인천해양경찰서는 전날 오전 11시 24분쯤 을왕리해수욕장 인근에 사망한 사람이 있다는 신고가 해경에 접수됐다.
-현장에 출동한 해경은 해수욕장 인근 해안가에 밀려온 여성의 시신을 확인해 인양했다. 이 여성의 시신은 부패 정도가 심하지는 않았으며 상·하의는 모두 착용한 상태였다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.1daab201055e4af1846a85729cbda382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“수리남 마약왕 내가 잡았다” 술 취해 경찰에 행패 20대 벌금형 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/national/incident/article/202309020907001</link>
-            <guid>https://www.khan.co.kr/national/incident/article/202309020907001</guid>
-            <pubDate>Sat, 02 Sep 2023 05:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[술에 취한 채 넷플릭스 시리즈 ‘수리남’에 등장하는 마약왕을 자신이 잡았다고 소란을 피운 20대가 벌금형을 선고받았다.
-연합뉴스는 2일 서울서부지법 형사8단독 김우정 부장판사는 공무집행방해와 경범죄처벌법상 관공서 주취소란 혐의로 기소된 A씨(23)에게 지난달 23일 벌금 300만원을 선고했다고 보도했다.
-판결문에 따르면 지난해 9월23일 “우리 아들이 서울에 있는데 마약 조직이 움직인다고 빨리 경찰서에 전화하라고 한다”는 112 신고가 경찰에 접수됐다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.c94c2181469d44949d2dfbb78b9bd8ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -297,7 +295,7 @@ WP는 1일(현지시간) 3명의 소식통을 인용해 페이스북 모회사 �
             <link>https://n.news.naver.com/article/469/0000758393?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758393?type=journalists</guid>
             <pubDate>Sat, 02 Sep 2023 05:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/02/758393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +303,7 @@ WP는 1일(현지시간) 3명의 소식통을 인용해 페이스북 모회사 �
             <link>https://n.news.naver.com/article/469/0000758343?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758343?type=journalists</guid>
             <pubDate>Fri, 01 Sep 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +335,7 @@ WP는 1일(현지시간) 3명의 소식통을 인용해 페이스북 모회사 �
             <link>https://n.news.naver.com/article/469/0000758130?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758130?type=journalists</guid>
             <pubDate>Thu, 31 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/31/758130.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,7 +343,7 @@ WP는 1일(현지시간) 3명의 소식통을 인용해 페이스북 모회사 �
             <link>https://n.news.naver.com/article/469/0000757842?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757842?type=journalists</guid>
             <pubDate>Wed, 30 Aug 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757842.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,7 +359,7 @@ WP는 1일(현지시간) 3명의 소식통을 인용해 페이스북 모회사 �
             <link>https://n.news.naver.com/article/469/0000757614?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757614?type=journalists</guid>
             <pubDate>Tue, 29 Aug 2023 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/29/757614.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -369,7 +367,7 @@ WP는 1일(현지시간) 3명의 소식통을 인용해 페이스북 모회사 �
             <link>https://n.news.naver.com/article/469/0000757360?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757360?type=journalists</guid>
             <pubDate>Mon, 28 Aug 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/28/757360.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -377,7 +375,7 @@ WP는 1일(현지시간) 3명의 소식통을 인용해 페이스북 모회사 �
             <link>https://n.news.naver.com/article/469/0000757205?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757205?type=journalists</guid>
             <pubDate>Fri, 01 Sep 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/27/757205.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -393,7 +391,7 @@ WP는 1일(현지시간) 3명의 소식통을 인용해 페이스북 모회사 �
             <link>https://n.news.naver.com/article/469/0000757024?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757024?type=journalists</guid>
             <pubDate>Wed, 30 Aug 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/25/757024.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -401,7 +399,7 @@ WP는 1일(현지시간) 3명의 소식통을 인용해 페이스북 모회사 �
             <link>https://n.news.naver.com/article/469/0000756978?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000756978?type=journalists</guid>
             <pubDate>Thu, 31 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/25/756978.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
