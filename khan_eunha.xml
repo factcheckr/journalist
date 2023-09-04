@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 17:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 05:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘적대적 건축’ 대신 ‘모두의 도시’…일 시의원, 벤치 칸막이를 없애다]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202309041425001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202309041425001</guid>
+            <pubDate>Mon, 04 Sep 2023 05:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[일본 가나가와현 히라쓰카시의 기차역인 JR히라쓰카역 서쪽 출입구 앞에는 나무벤치가 있다. 가로 263㎝, 세로 43㎝의 벤치 4개가 가로수를 둘러싸고 있는데, 평상마다 칸막이 역할을 하는 나무 돌기가 설치돼 있다. 노숙인 등이 벤치에 눕지 못하도록 하기 위한 목적이다.
+지난 7월 3일 히라쓰카시는 나무돌기를 없앤 벤치를 새로 설치했다. 벤치는 평평한 상태가 돼 누군가 눕거나 비스듬히 기댈 수 있게 됐다. 도쿄신문은 지방 정부가 나서 벤치 칸막이를 없앤 것은 최초 사례라며 여기에는 에구치 도모코(47·사진) 시의원의 노력이 있었다고 4일 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/04/news-p.v1.20230904.9bda8ce57e894eaab468390cd3af6d19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공습경보 울리고 대피명령 떨어져도…우크라 아이들은 학교에 간다]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202309032147005</link>
@@ -108,15 +117,6 @@
 김민수 대변인은 논평에서 “이 대표가 마지막 검찰소환 조사와 국회 체포동의안 표결 여부 등 사법 리스크를 앞두고 갑작스레 ‘단식 호소인’으로 돌변했다”고 말했다.
 그는 김 대변인은 또 “성남시장 시절 새누리당 이정현 대표의 단식 투쟁을 ‘땡깡’이란 표현을 쓰며 폄훼했던 이 대표가 급하긴 했는지, 유례를 찾을 수 없는 진정한 땡깡 단식에 돌입했다”고 말했다. 그는 “이 대표의 단식은 다른 정치인들의 단식과는 다르다”면서 “정치적 투쟁을 위한 단식이 아닌, 자신의 구속을 피하기 위한 ‘마지막 발버둥’에 불과하기 때문”이라고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.f6bb4e7c286e44ed9f1398cb2f62d675.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스파이’로 지목된 노벨평화상 수상자···러, 자국 유명 언론인 ‘외국 대리인’ 지정]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202309021231001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202309021231001</guid>
-            <pubDate>Sat, 02 Sep 2023 05:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[러시아가 노벨평화상을 받은 자국 언론인 드미트리 무라토프(62)를 이른바 ‘외국 스파이’로 지목했다고 AFP 통신이 보도했다.
-보도에 따르면 러시아 법무부는 1일(현지시간) 무라토프를 ‘외국 대리인’(foreign agent) 명단에 추가했다. 법무부는 “(무라토프가) 러시아 연방의 외교 및 국내 정책에 대한 부정적 입장을 형성하는 의견을 전파하기 위해 외국 플랫폼을 이용했다”고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/02/news-p.v1.20230902.860bf6c4b5de406ba16aef48490caf0d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
