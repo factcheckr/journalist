@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 05:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 17:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 이균용 대법원장 후보자, ‘김학의 사건’ 재정신청 기각했다]]></title>
+            <link>https://n.news.naver.com/article/308/0000033348?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033348?type=journalists</guid>
+            <pubDate>Tue, 05 Sep 2023 17:33:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/05/33348.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문건으로 가늠해보는 ‘이동관 방통위 시대’]]></title>
             <link>https://n.news.naver.com/article/308/0000033333?type=journalists</link>
@@ -574,14 +582,6 @@
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/06/30980.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송영길의 ‘견제론’vs 오세훈의 ‘준비된 미래’]]></title>
-            <link>https://n.news.naver.com/article/308/0000030924?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030924?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
