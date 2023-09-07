@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 17:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 05:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/308/0000033333?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033333?type=journalists</guid>
             <pubDate>Mon, 04 Sep 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/04/33333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000033307?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033307?type=journalists</guid>
             <pubDate>Mon, 04 Sep 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/30/33307.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
