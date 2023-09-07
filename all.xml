@@ -4,11 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 05:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 17:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[“프리고진 죽음은 반란 탓 아니라 아프리카 광산 이권 놓지 않으려 해서” (경향신문 ─ 박은하 기자)]]></title>
+            <title><![CDATA[“중국 화웨이 신형 휴대폰에 SK하이닉스 칩”…SK ‘화들짝’ (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/it/it-general/article/202309072108035</link>
+            <guid>https://www.khan.co.kr/it/it-general/article/202309072108035</guid>
+            <pubDate>Thu, 07 Sep 2023 17:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 기술 수출 규제에 구멍…블룸버그 보도에 “경위 파악 중”출시 당시 중 “포위망 뚫고 승리”…NYT “첨단 기술통제 시험대”
+미국의 전방위적 제재를 뚫고 개발돼 화제를 모은 중국 화웨이의 5G 신형 스마트폰에 SK하이닉스의 메모리 반도체가 사용된 것으로 확인돼 SK하이닉스가 경위 파악에 나섰다. 미국에서는 중국에 대한 반도체 제재 수위를 더욱 높여야 한다는 대중국 강경파들의 목소리가 커지고 있다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[자니스, 창업자의 연습생 성폭력 인정…후지시마 사장 사임 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202309071546001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202309071546001</guid>
+            <pubDate>Thu, 07 Sep 2023 17:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[일본 대형 연예기획사 ‘자니스 사무소’(이하 자니스)의 후지시마 주리 게이코 사장이 과거 회사 창업자가 미성년자 연습생에게 성폭력을 저지른 사실을 인정하며 사임했다고 7일 밝혔다.
+후지시마 사장은 이날 연 기자회견에서 “진심으로 사과드린다”면서 사퇴 의사를 밝혔다. 후지시마 사장은 창업자 고 자니 기타가와의 조카이다.
+후임 사장은 과거 자니스 소속 아이돌 그룹 ‘소년대’ 멤버 출신의 연예인인 히가시야마 노리유키가 맡았다. 함께 기자회견장에 나온 히가시야마 신임 사장은 “소문으로는 들었지만 직접 피해를 들은 적은 없었다”면서도 “보고서 내용을 진지하게 받아들인다”고 밝혔다. 재발방지책 마련도 약속했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/07/news-p.v1.20230907.bfde2f5f28234d72a8baeb6ea4aa9257.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블룸버그 “화웨이 신형 스마트폰에 SK하이닉스 칩” …SK “파악 중” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/economy/industry-trade/article/202309071528001</link>
+            <guid>https://www.khan.co.kr/economy/industry-trade/article/202309071528001</guid>
+            <pubDate>Thu, 07 Sep 2023 17:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 전방위적 제재를 뚫고 개발돼 화제를 모은 중국 화웨이의 5G 신형 스마트폰에 SK하이닉스의 메모리 반도체가 사용됐다고 블룸버그통신이 7일 보도했다.
+블룸버그는 반도체 컨설팅업체 테크인사이트에 의뢰해 화웨이의 ‘메이트 60 프로’를 해체해 분석한 결과, 부품 가운데 SK하이닉스의 스마트폰용 D램인 LPDDR5와 낸드플래시가 포함된 것으로 파악됐다고 전했다. 테크인사이트에 따르면 이 스마트폰의 부품은 거의 전부 중국산으로, SK하이닉스 제품은 이례적인 글로벌 업체 부품이었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/07/news-p.v1.20230907.d337a3461c404ea88a130dc0b34a09c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 피해 취재했을 뿐인데…미얀마 군정, 기자에게 징역 20년형 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/asia-australia/article/202309071439001</link>
+            <guid>https://www.khan.co.kr/world/asia-australia/article/202309071439001</guid>
+            <pubDate>Thu, 07 Sep 2023 17:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[미얀마 군사정권 법원이 지난 5월 미얀마를 강타한 대형 사이클론 모카 피해 현장을 취재한 언론인에게 징역 20년 형을 선고했다.
+7일 현지 독립언론 미얀마나우에 따르면 양곤군사법원은 전날 이 매체 소속 사진기자 싸이 조 타이께(40)에게 징역 20년 형을 선고했다. 이는 2021년 군부 쿠데타 이후 언론인에게 내려진 가장 중형이라고 알려졌다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/07/news-p.v1.20230907.b9adbd3e377640bdba5e588c916ae67e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“프리고진은 반란죄로 암살된 게 아니다” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202309071357001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202309071357001</guid>
             <pubDate>Thu, 07 Sep 2023 05:31:42 GMT</pubDate>
@@ -82,43 +118,6 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
 르몽드와 AFP 통신은 이날 세바스티앙 르코르뉘 프랑스 국방부 장관의 측근들을 인용해 프랑스 군대가 니제르에서 특정 부대를 철수하는 논의가 진행 중이라고 보도했다.
 이들은 쿠데타 이후 “니제르군과의 대테러 협력이 중단돼 프랑스 군이 움직이지 못하고 있다”면서 “프랑스 군사 자원 이동을 용이하게 하기 위해 군인들 간 논의가 현지에서 이뤄지고 있다”고 밝혔다. 다만 이들 관계자는 병력 이동의 유형이나 규모, 구체적 일정은 공개하지 않았다. 군의 완전 철수 여부에 대해서도 언급하지 않았다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/05/news-p.v1.20230905.ea7fa89497f345c7b77857e2b7b1c843.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[G20 개근했던 중국…시진핑 불참에 ‘설설설’ (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202309052120005</link>
-            <guid>https://www.khan.co.kr/world/china/article/202309052120005</guid>
-            <pubDate>Tue, 05 Sep 2023 17:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[시진핑 중국 국가주석(사진)이 오는 9일(현지시간) 인도에서 열리는 주요 20개국(G20) 정상회의에 불참하기로 결정하면서 그 이유를 두고 여러 추측이 나오고 있다. G20 정상회의에 시 주석이 불참하는 것은 이번이 처음이다.
-먼저 의장국 인도와의 갈등이 꼽힌다. 중국은 최근 공개한 2023 표준지도에서 국경·영유권 분쟁을 겪고 있는 지역을 모조리 자국 영토로 표시해 주변국의 반발을 샀다. 특히 인도는 실효지배하고 있는 동부 아루나찰프라데시주와 중국이 실효지배 중인 악사이친 고원이 모두 중국 영토로 표기된 것에 강력하게 반발했다. 홍콩 언론도 시 주석의 불참을 두고 “의장국 인도와 국경 분쟁 등 긴장이 있기 때문”이란 진단을 내놓았다. 중국과 인도 간 관계가 불편한 상황에서 시 주석이 인도에서 열리는 회의에 참석해봤자 인도의 위상만 높여줄 수 있다는 계산에 따라 불참하기로 했다는 것이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/05/2023090601000174600015351.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘늑대가 돌아왔다’ 갈등과 함께…EU 보호정책 전환할까 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/europe-russia/article/202309051640001</link>
-            <guid>https://www.khan.co.kr/world/europe-russia/article/202309051640001</guid>
-            <pubDate>Tue, 05 Sep 2023 17:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[유럽에 늑대가 돌아오면서 사람과 늑대 간의 해묵은 갈등도 함께 돌아왔다. EU는 최근 개체 수가 급증을 이유로 늑대 보호 정책 전환을 시사했다.
-EU집행위원회는 4일(현지시간) 보호종인 늑대 개체 수가 증가해 가축을 방목하는 농가 피해 우려도 커지고 있다며 늑대 보호정책을 재검토하겠다고 밝혔다. EU집행위는 오는 22일까지 늑대 개체 수와 실제 영향과 관련해 지역사회와 전문가들의 의견을 받을 방침이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/05/news-p.v1.20230905.884a22cf70674291be953127a8dfe0b6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[G20 정상회의 개근했던 중국…시진핑, 왜 올해는 불참 선언했나 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202309051055001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202309051055001</guid>
-            <pubDate>Tue, 05 Sep 2023 05:31:44 GMT</pubDate>
-            <content:encoded><![CDATA[시진핑 중국 국가주석이 오는 9일(현지시간) 인도에서 열리는 주요 20개국(G20) 정상회의에 불참하기로 결정하면서 그 이유를 두고 여러 추측이 나오고 있다. 2008년부터 시작된 G20 정상회의에 시 주석이 불참하는 것은 이번이 처음이다.
-G20는 기존 G7에 신흥경제국 12개와 유럽연합(EU)을 더한 개념이다. 1997~1998년 아시아 금융위기 이후 금융·외환 등에 관련된 국제적 위기 대응 시스템이 없다는 지적에 따라 G20 재무장관 회의가 1999년부터 열렸고, 리먼브라더스 파산 사태로 촉발된 글로벌 금융위기를 계기로 2008년부터는 정상회의로 격상됐다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/05/news-p.v1.20230905.0b07f3c7c30040a39d02e6b903bcbcc8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도가 쌀 걸어잠그자···아시아 시장 ‘급체했다’ (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202309041744011</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202309041744011</guid>
-            <pubDate>Mon, 04 Sep 2023 17:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[아시아의 ‘소울푸드’ 쌀이 각국의 식량안보를 위협하는 복병이 됐다.
-기후변화와 세계 최대 쌀 수출국인 인도의 수출 제한으로 쌀 가격이 치솟을 것이란 우려가 현실이 됐다. 아시아 각국이 가격상한제, 수출통제 등의 조치를 취하며 쌀값 잡기에 안간힘을 쓰지만 오히려 가격상승을 부추길 수 있다는 우려가 나온다.
-3일(현지시간) 스트레이츠타임스(ST)에 따르면 말레이시아 페락주 타파에서 중국식 레스토랑을 운영하는 웡초이심은 쌀밥 한 그릇 가격을 약 20센 가량 인상할 계획이다. 말레이시아의 또 다른 유명 레스토랑 주인 모드 아스라즈 아자린 역시 메뉴 가격을 50~80센 가량 인상할 방침이라고 말했다. 이들은 최근 쌀 가격이 급등해 도저히 가격을 올리지 않고 버틸 수 없다고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/04/news-p.v1.20230904.d4150cadaaad4ebba6a671cddb350c7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -294,7 +293,7 @@ G20는 기존 G7에 신흥경제국 12개와 유럽연합(EU)을 더한 개념�
             <link>https://n.news.naver.com/article/469/0000759299?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000759299?type=journalists</guid>
             <pubDate>Thu, 07 Sep 2023 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/07/759299.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,31 +301,15 @@ G20는 기존 G7에 신흥경제국 12개와 유럽연합(EU)을 더한 개념�
             <link>https://n.news.naver.com/article/469/0000759211?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000759211?type=journalists</guid>
             <pubDate>Wed, 06 Sep 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759211.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["수산물은 일본의 보물"...후쿠시마 응원 캠페인에 열심인 기시다 내각 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000759151?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000759151?type=journalists</guid>
-            <pubDate>Wed, 06 Sep 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759151.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사카모토 류이치·무라카미 하루키도 반대...도쿄 '메이지진구가이엔' 재개발 시끌, 왜? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000759016?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000759016?type=journalists</guid>
-            <pubDate>Wed, 06 Sep 2023 05:32:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759016.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오염수 방류 후 중일 마찰, 소강 분위기... 빠른 해결은 난망 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000758742?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758742?type=journalists</guid>
             <pubDate>Mon, 04 Sep 2023 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/04/758742.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -334,16 +317,24 @@ G20는 기존 G7에 신흥경제국 12개와 유럽연합(EU)을 더한 개념�
             <link>https://n.news.naver.com/article/469/0000758719?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758719?type=journalists</guid>
             <pubDate>Mon, 04 Sep 2023 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/04/758719.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[간토 조선인 학살 100년인데... 한일 정상, '침묵'으로 외면 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000758393?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000758393?type=journalists</guid>
-            <pubDate>Sat, 02 Sep 2023 05:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/02/758393.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[후쿠시마 원전 인근 바닷물, 삼중수소 소폭 늘었다… 도쿄전력 “안전 문제없어” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000758375?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000758375?type=journalists</guid>
+            <pubDate>Thu, 07 Sep 2023 17:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758375.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 정계 원로 “간토 학살 사죄해야”… 윤덕민 주일 대사는 ‘학살’ 언급도 안 해 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000758343?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000758343?type=journalists</guid>
+            <pubDate>Thu, 07 Sep 2023 17:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "증거 있는데도 조선인 학살 안 했다는 일본...한국도 무관심 자성해야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -352,6 +343,14 @@ G20는 기존 G7에 신흥경제국 12개와 유럽연합(EU)을 더한 개념�
             <pubDate>Fri, 01 Sep 2023 05:32:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758282.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죽창으로 간토 조선인 학살 100년...일본의 부인·한국 무관심에 우익만 기고만장 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000758222?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000758222?type=journalists</guid>
+            <pubDate>Thu, 07 Sep 2023 17:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758222.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[간토 학살 100년 추도식 일본 곳곳서 열린다...주일한국대사관도 '큰 규모'로 준비 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -366,7 +365,7 @@ G20는 기존 G7에 신흥경제국 12개와 유럽연합(EU)을 더한 개념�
             <link>https://n.news.naver.com/article/469/0000758130?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758130?type=journalists</guid>
             <pubDate>Thu, 31 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/31/758130.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -374,7 +373,7 @@ G20는 기존 G7에 신흥경제국 12개와 유럽연합(EU)을 더한 개념�
             <link>https://n.news.naver.com/article/469/0000757939?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757939?type=journalists</guid>
             <pubDate>Tue, 05 Sep 2023 17:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -382,7 +381,7 @@ G20는 기존 G7에 신흥경제국 12개와 유럽연합(EU)을 더한 개념�
             <link>https://n.news.naver.com/article/469/0000757842?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757842?type=journalists</guid>
             <pubDate>Wed, 30 Aug 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757842.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -774,7 +773,7 @@ G20는 기존 G7에 신흥경제국 12개와 유럽연합(EU)을 더한 개념�
             <link>https://n.news.naver.com/article/308/0000033361?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033361?type=journalists</guid>
             <pubDate>Thu, 07 Sep 2023 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/07/33361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1254,7 +1253,7 @@ G20는 기존 G7에 신흥경제국 12개와 유럽연합(EU)을 더한 개념�
             <link>https://n.news.naver.com/article/308/0000033348?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033348?type=journalists</guid>
             <pubDate>Tue, 05 Sep 2023 17:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/05/33348.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

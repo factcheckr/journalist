@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 05:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 17:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000759299?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000759299?type=journalists</guid>
             <pubDate>Thu, 07 Sep 2023 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/07/759299.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,31 +20,15 @@
             <link>https://n.news.naver.com/article/469/0000759211?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000759211?type=journalists</guid>
             <pubDate>Wed, 06 Sep 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759211.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["수산물은 일본의 보물"...후쿠시마 응원 캠페인에 열심인 기시다 내각]]></title>
-            <link>https://n.news.naver.com/article/469/0000759151?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000759151?type=journalists</guid>
-            <pubDate>Wed, 06 Sep 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759151.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사카모토 류이치·무라카미 하루키도 반대...도쿄 '메이지진구가이엔' 재개발 시끌, 왜?]]></title>
-            <link>https://n.news.naver.com/article/469/0000759016?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000759016?type=journalists</guid>
-            <pubDate>Wed, 06 Sep 2023 05:32:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759016.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오염수 방류 후 중일 마찰, 소강 분위기... 빠른 해결은 난망]]></title>
             <link>https://n.news.naver.com/article/469/0000758742?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758742?type=journalists</guid>
             <pubDate>Mon, 04 Sep 2023 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/04/758742.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,16 +36,24 @@
             <link>https://n.news.naver.com/article/469/0000758719?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758719?type=journalists</guid>
             <pubDate>Mon, 04 Sep 2023 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/04/758719.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[간토 조선인 학살 100년인데... 한일 정상, '침묵'으로 외면]]></title>
-            <link>https://n.news.naver.com/article/469/0000758393?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000758393?type=journalists</guid>
-            <pubDate>Sat, 02 Sep 2023 05:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/02/758393.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[후쿠시마 원전 인근 바닷물, 삼중수소 소폭 늘었다… 도쿄전력 “안전 문제없어”]]></title>
+            <link>https://n.news.naver.com/article/469/0000758375?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000758375?type=journalists</guid>
+            <pubDate>Thu, 07 Sep 2023 17:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758375.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 정계 원로 “간토 학살 사죄해야”… 윤덕민 주일 대사는 ‘학살’ 언급도 안 해]]></title>
+            <link>https://n.news.naver.com/article/469/0000758343?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000758343?type=journalists</guid>
+            <pubDate>Thu, 07 Sep 2023 17:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "증거 있는데도 조선인 학살 안 했다는 일본...한국도 무관심 자성해야"]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 01 Sep 2023 05:32:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758282.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죽창으로 간토 조선인 학살 100년...일본의 부인·한국 무관심에 우익만 기고만장]]></title>
+            <link>https://n.news.naver.com/article/469/0000758222?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000758222?type=journalists</guid>
+            <pubDate>Thu, 07 Sep 2023 17:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758222.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[간토 학살 100년 추도식 일본 곳곳서 열린다...주일한국대사관도 '큰 규모'로 준비]]></title>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000758130?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758130?type=journalists</guid>
             <pubDate>Thu, 31 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/31/758130.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000757939?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757939?type=journalists</guid>
             <pubDate>Tue, 05 Sep 2023 17:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757939.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000757842?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000757842?type=journalists</guid>
             <pubDate>Wed, 30 Aug 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757842.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
