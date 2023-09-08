@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 05:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 17:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,7 +301,7 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <link>https://n.news.naver.com/article/469/0000759211?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000759211?type=journalists</guid>
             <pubDate>Wed, 06 Sep 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -309,7 +309,7 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <link>https://n.news.naver.com/article/469/0000758742?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758742?type=journalists</guid>
             <pubDate>Mon, 04 Sep 2023 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/04/758742.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -317,15 +317,23 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <link>https://n.news.naver.com/article/469/0000758719?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758719?type=journalists</guid>
             <pubDate>Mon, 04 Sep 2023 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/04/758719.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간토 조선인 학살 100년인데... 한일 정상, '침묵'으로 외면 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000758393?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000758393?type=journalists</guid>
+            <pubDate>Fri, 08 Sep 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/02/758393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후쿠시마 원전 인근 바닷물, 삼중수소 소폭 늘었다… 도쿄전력 “안전 문제없어” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000758375?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758375?type=journalists</guid>
             <pubDate>Thu, 07 Sep 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -333,7 +341,7 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <link>https://n.news.naver.com/article/469/0000758343?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758343?type=journalists</guid>
             <pubDate>Thu, 07 Sep 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758343.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -365,7 +373,7 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <link>https://n.news.naver.com/article/469/0000758130?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000758130?type=journalists</guid>
             <pubDate>Thu, 31 Aug 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.08.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/31/758130.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -519,14 +527,6 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <pubDate>Fri, 25 Aug 2023 17:32:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/23/756435.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이달 24일 오염수 방류 시작" 확정...기시다 "국제사회 이해 확실히 확산" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000756275?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000756275?type=journalists</guid>
-            <pubDate>Wed, 23 Aug 2023 05:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/22/756275.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[양평 고속도로 Q&A] 드러난 사실과 남은 의혹들 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1253,7 +1253,7 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <link>https://n.news.naver.com/article/308/0000033348?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033348?type=journalists</guid>
             <pubDate>Tue, 05 Sep 2023 17:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/05/33348.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
