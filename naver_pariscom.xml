@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 17:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 05:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000759299?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000759299?type=journalists</guid>
             <pubDate>Thu, 07 Sep 2023 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/07/759299.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 06 Sep 2023 17:32:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759211.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["수산물은 일본의 보물"...후쿠시마 응원 캠페인에 열심인 기시다 내각]]></title>
+            <link>https://n.news.naver.com/article/469/0000759151?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000759151?type=journalists</guid>
+            <pubDate>Mon, 11 Sep 2023 05:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759151.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오염수 방류 후 중일 마찰, 소강 분위기... 빠른 해결은 난망]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Aug 2023 17:32:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/23/756487.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내년 3월까지 오염수 3만1200톤 흘러나온다...일본 "물고기 잡아 검사할 것"]]></title>
-            <link>https://n.news.naver.com/article/469/0000756435?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000756435?type=journalists</guid>
-            <pubDate>Fri, 25 Aug 2023 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/23/756435.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
