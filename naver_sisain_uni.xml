@@ -4,15 +4,31 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 17:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 05:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]코로나 때는 ‘덕분에’라더니...공공병원 예산 95억 줄었다]]></title>
+            <link>https://n.news.naver.com/article/308/0000033388?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033388?type=journalists</guid>
+            <pubDate>Tue, 12 Sep 2023 05:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/12/33388.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠들어버린 달 남극 탐사차 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033384?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033384?type=journalists</guid>
+            <pubDate>Tue, 12 Sep 2023 05:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/12/33384.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[양평 고속도로 Q&A] 드러난 사실과 남은 의혹들]]></title>
             <link>https://n.news.naver.com/article/308/0000033344?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033344?type=journalists</guid>
             <pubDate>Tue, 05 Sep 2023 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/05/33344.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/22/32389.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산대 배리어 지도 제작하고, 휠체어로 직접 다녀보고 [대학기자상]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032384?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032384?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/21/32384.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위기와 설렘 속에서 ‘배리어’를 저격하다 [대학기자상]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032381?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032381?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/20/32381.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

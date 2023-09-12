@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 17:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 05:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,7 +293,7 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <link>https://n.news.naver.com/article/469/0000759299?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000759299?type=journalists</guid>
             <pubDate>Thu, 07 Sep 2023 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/07/759299.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -529,11 +529,27 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/23/756487.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독]코로나 때는 ‘덕분에’라더니...공공병원 예산 95억 줄었다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033388?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033388?type=journalists</guid>
+            <pubDate>Tue, 12 Sep 2023 05:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/12/33388.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠들어버린 달 남극 탐사차 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033384?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033384?type=journalists</guid>
+            <pubDate>Tue, 12 Sep 2023 05:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/12/33384.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[양평 고속도로 Q&A] 드러난 사실과 남은 의혹들 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033344?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033344?type=journalists</guid>
             <pubDate>Tue, 05 Sep 2023 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/05/33344.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -753,27 +769,11 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/22/32389.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부산대 배리어 지도 제작하고, 휠체어로 직접 다녀보고 [대학기자상] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032384?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032384?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/21/32384.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위기와 설렘 속에서 ‘배리어’를 저격하다 [대학기자상] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032381?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032381?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/20/32381.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뭉쳐야 산다, 해녀들이 모인 이유 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033361?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033361?type=journalists</guid>
             <pubDate>Thu, 07 Sep 2023 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/07/33361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -781,7 +781,7 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <link>https://n.news.naver.com/article/308/0000033352?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033352?type=journalists</guid>
             <pubDate>Wed, 06 Sep 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/06/33352.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1261,7 +1261,7 @@ NHK는 러시아 정부 관계자가 전날 양국 정상회담을 위한 조율
             <link>https://n.news.naver.com/article/308/0000033333?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033333?type=journalists</guid>
             <pubDate>Mon, 04 Sep 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.09.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/04/33333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
