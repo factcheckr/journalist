@@ -4,9 +4,33 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 05:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 17:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기시다 일본 총리, ‘연임 준비용’ 개각 단행… “라이벌 단속·파벌 배려”]]></title>
+            <link>https://n.news.naver.com/article/469/0000760417?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000760417?type=journalists</guid>
+            <pubDate>Thu, 14 Sep 2023 17:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/13/760417.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['전쟁 수준' 사망자 늘어난 일본…유족은 '시신 호텔'에서 화장 기다린다 [클로즈업 재팬]]]></title>
+            <link>https://n.news.naver.com/article/469/0000759839?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000759839?type=journalists</guid>
+            <pubDate>Thu, 14 Sep 2023 17:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/11/759839.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["오염수라 부르면 가짜뉴스" "오염수라고 잘못 말한 것 사죄"...강경한 일본 장관들]]></title>
+            <link>https://n.news.naver.com/article/469/0000759605?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000759605?type=journalists</guid>
+            <pubDate>Thu, 14 Sep 2023 17:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/08/759605.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달 탐사 경쟁 뛰어든 일본, 로켓서 탐사선 분리 성공…내년 초 달 착륙 시도]]></title>
             <link>https://n.news.naver.com/article/469/0000759299?type=journalists</link>
@@ -20,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000759211?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000759211?type=journalists</guid>
             <pubDate>Wed, 06 Sep 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.09.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000759151?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000759151?type=journalists</guid>
             <pubDate>Mon, 11 Sep 2023 05:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.09.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759151.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756719.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[속보] "도쿄전력, 오염수 오늘 오후 1시 방류 확정... 삼중수소 농도, 기상 문제 없어"]]></title>
-            <link>https://n.news.naver.com/article/469/0000756688?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000756688?type=journalists</guid>
-            <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756688.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 북한 '우주발사체' 발사하자 오키나와 피난 명령… 15분 후 해제]]></title>
-            <link>https://n.news.naver.com/article/469/0000756671?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000756671?type=journalists</guid>
-            <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756671.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 오후 1시 희석 오염수 1201톤 바다에 나온다...기상예보 "이상무"]]></title>
-            <link>https://n.news.naver.com/article/469/0000756611?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000756611?type=journalists</guid>
-            <pubDate>Fri, 25 Aug 2023 05:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/23/756611.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
