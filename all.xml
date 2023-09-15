@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 05:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 17:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,27 +284,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0522/A0002929435_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기시다 일본 총리, ‘연임 준비용’ 개각 단행… “라이벌 단속·파벌 배려” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000760417?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000760417?type=journalists</guid>
-            <pubDate>Thu, 14 Sep 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/13/760417.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['전쟁 수준' 사망자 늘어난 일본…유족은 '시신 호텔'에서 화장 기다린다 [클로즈업 재팬] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000759839?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000759839?type=journalists</guid>
-            <pubDate>Thu, 14 Sep 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/11/759839.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[한일 의원들 "후쿠시마 방류 엄격 통제 요구"... 오사카·부산 엑스포 특별결의도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000760831?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000760831?type=journalists</guid>
+            <pubDate>Fri, 15 Sep 2023 17:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/15/760831.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["오염수라 부르면 가짜뉴스" "오염수라고 잘못 말한 것 사죄"...강경한 일본 장관들 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000759605?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000759605?type=journalists</guid>
             <pubDate>Thu, 14 Sep 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/08/759605.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -522,6 +514,14 @@
             <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756719.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] "도쿄전력, 오염수 오늘 오후 1시 방류 확정... 삼중수소 농도, 기상 문제 없어" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000756688?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000756688?type=journalists</guid>
+            <pubDate>Fri, 15 Sep 2023 17:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.08.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756688.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[양평 고속도로 Q&A] 드러난 사실과 남은 의혹들 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
