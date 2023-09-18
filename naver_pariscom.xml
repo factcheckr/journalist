@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 05:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 17:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,16 @@
             <link>https://n.news.naver.com/article/469/0000760831?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000760831?type=journalists</guid>
             <pubDate>Mon, 18 Sep 2023 05:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/15/760831.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 일본 총리, ‘연임 준비용’ 개각 단행… “라이벌 단속·파벌 배려”]]></title>
+            <link>https://n.news.naver.com/article/469/0000760417?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000760417?type=journalists</guid>
+            <pubDate>Mon, 18 Sep 2023 17:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/13/760417.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['전쟁 수준' 사망자 늘어난 일본…유족은 '시신 호텔'에서 화장 기다린다 [클로즈업 재팬]]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756728.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄전력, “희석한 오염수 삼중수소 기준치 크게 밑돌아… 오후 1시 방류 개시”]]></title>
-            <link>https://n.news.naver.com/article/469/0000756719?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000756719?type=journalists</guid>
-            <pubDate>Thu, 24 Aug 2023 05:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/24/756719.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
