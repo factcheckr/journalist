@@ -4,9 +4,28 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 05:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 17:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한·이란 원유대금 문제 일단락…정부 “이자 거론 국제합의 안 맞아”]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202309191825001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202309191825001</guid>
+            <pubDate>Tue, 19 Sep 2023 17:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 대이란 제재로 한국에 묶여 있던 원유 대금이 스위스를 거쳐 카타르 내 이란은행 계좌로 전달됐다. 한국과 이란 간 최대 현안이었던 동결자금 문제가 4년 만에 일단락됐다.
+외교부와 기획재정부는 19일 보도자료를 내고 “대이란 금융제재로 인해 한국에 동결돼있던 이란 자금이 관련국 간의 긴밀한 협조하에 최근 제3국으로 성공적으로 이전됐다”고 밝혔다. 모하마드 레자 파르진 이란 중앙은행 총재도 이날 기자회견을 열고 “한국에 예치돼 있던 우리 동결자금이 스위스를 거쳐 카타르 내 이란 계좌 6곳으로 이체됐다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/19/news-p.v1.20230919.8c8872daa1d14ef58e6a52bb3e008b5f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한·중·일 정상회의 논의 위한 고위급 회의 26일 서울에서 개최]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202309191613001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202309191613001</guid>
+            <pubDate>Tue, 19 Sep 2023 17:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[한·중·일 정상회의 재개를 논의하기 위한 3국 외교부 고위급회의가 오는 26일 서울에서 열린다.
+임수석 외교부 대변인은 19일 정례브리핑에서 “고위급회의에서는 앞으로 3국 간 협의체 추진과 관련된 제반 사항, 3국 정부 간 협력 현황과 추진 방향 등이 집중적으로 논의될 예정”이라며 이같이 밝혔다.
+이번 회의는 3국의 차관보급 고위 당국자들이 참석한다. 정병원 외교부 차관보가 회의를 주재하고 후나코시 다케히로 일본 외무성 외무심의관, 눙룽 중국 외교부 부장조리가 참여한다. 3국 고위급회의 전날인 25일에는 3국의 부국장급 회의도 열릴 예정이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/19/news-p.v1.20230919.bb8cda70b1764f069c96bc3e2ed6acc8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건 본부장, 미 정보조사국 차관보 면담...북러회담 동향 공유]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202309181811001</link>
@@ -97,23 +116,6 @@
             <content:encoded><![CDATA[한·미·일 북핵 수석대표들이 13일 북·러 정상회담을 앞두고 이뤄진 북한의 탄도미사일 발사를 유엔 안보리 결의 위반이라고 규탄했다.
 외교부는 김건 한반도평화교섭본부장,  성 김 미국 대북특별대표, 나마즈 히로유키 일본 북핵수석대표가 이날 “북한의 탄도미사일 도발이 다수 유엔 안보리 결의에 대한 명백한 위반이며, 역내 평화와 안정을 심각히 위협하는 것이라고 규탄했다”고 밝혔다. 또 “북한이 북·러 정상회담 직전에 미사일 도발을 감행한 것에 주목하면서 국제사회가 한목소리로 북한의 안보리 결의 위반 행위에 대해 단호한 입장을 보여야 할 것”이라고 밝혔다. 외교부에 따르면 이들은 북한 단거리 탄도미사일 발사 직후 3자 유선협의를 갖고 대응 방안을 논의했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/13/news-p.v1.20230913.eae7b6f2450445d4b7b0eaa14c2397de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정은·푸틴 만난 보스토치니, 러시아의 ‘과시’와 북한의 ‘야망’이 겹치는 곳]]></title>
-            <link>https://www.khan.co.kr/politics/north-korea/article/202309131518001</link>
-            <guid>https://www.khan.co.kr/politics/north-korea/article/202309131518001</guid>
-            <pubDate>Wed, 13 Sep 2023 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[북·러 정상회담이 열린 보스토치니 우주기지는 ‘우주강국 러시아’를 상징하는 장소로 애국심 고취에 활용돼 왔다. 러시아 입장에선 우주탐사 능력을 과시하고, 북한으로선 정찰위성 기술을 획득이란 야망을 실현할 수 있는 장소인 셈이다.
-러시아어로 동쪽을 의미하는 ‘보스토치니’ 우주기지는 모스크바에서 동쪽으로 6000㎞, 블라디보스토크에서 북쪽으로 1500㎞ 떨어진 아무르주 치올콥스키시 인근에 있다. 러시아 내 6개의 우주기지 가운데 하나로 소련의 첫 우주기지인 카자흐스탄 바이코누르 우주기지 의존도를 줄일 목적으로 만들어졌다. 바이코누르 우주기지는 1954년 세계 최초 인공위성인 스푸트니크 1호가 1954년 발사돼 냉전 시대 우주경쟁의 서막을 연 곳이다. 소련 해체 후 카자흐스탄 영토에 편입돼 러시아는 이 기지를 임대해 사용해 왔다. 인공위성 발사는 저위도일수록 유리한데 바이코누르 우주기지가 옛 소련 영토 내 가장 저위도에 위치해 있다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/13/news-p.v1.20230913.9a68239dc15c41ce8bc71c73bc3cee5b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[북·러 정상회담, ‘동방경제포럼’ 피한 이유 뭘까]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202309122117025</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202309122117025</guid>
-            <pubDate>Tue, 12 Sep 2023 17:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[김정은 북한 국무위원장의 전용열차가 러시아 블라디보스토크를 넘어 북쪽으로 향하고 있는 것으로 알려지면서 블라디미르 푸틴 대통령과의 북·러 정상회담이 당초 예상과 달리 동방경제포럼(EEF)에서 열리지 않을 것으로 보인다.
-크렘린궁도 북·러 정상회담과 관련해 “EEF에서 접촉은 없다”고 밝혔다. 북·러 정상회담과 EEF가 연계되는 것이 북한과 러시아에 모두 달갑지 않은 일이기 때문이란 평가가 나온다.]]></content:encoded>
         </item>
     </channel>
 </rss>
