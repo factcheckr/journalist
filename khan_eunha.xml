@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 17:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 05:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외교부 초치된 러 대사, 한국에 “북·러 무기거래 근거 없는 추측”]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202309201009001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202309201009001</guid>
+            <pubDate>Wed, 20 Sep 2023 05:31:55 GMT</pubDate>
+            <content:encoded><![CDATA[한국 외교부에 초치된 주한 러시아 대사가 “러시아와 북한 간의 군사협력에 관한 주장은 근거 없는 추측”이라는 입장을 한국 측에 전달했다.
+안드레이 쿨릭 주한 러시아 대사가 북러 간 무기 거래 가능성과 관련해 이날 한국 외교부에 초치된 자리에서 한국 측에 이같은 입장을 전달했다고 러시아 대사관이 19일(현지시간) 자국 타스통신에 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/20/news-p.v1.20230920.0545b2b2124040d5858eefcd28611a7c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한·이란 원유대금 문제 일단락…정부 “이자 거론 국제합의 안 맞아”]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202309191825001</link>
@@ -107,15 +116,6 @@
             <content:encoded><![CDATA[김정은 북한 국무위원장이 블라디미르 푸틴 러시아 대통령과 함께 보스토치니 우주기지 내 로켓 발사단지를 시찰하면서 ‘안가라 로켓’의 발사 원리에 깊은 관심을 보였다고 러시아 매체들이 보도했다. 안가라 로켓은 2013년 발사한 나로호의 1단 로켓이다.
 러시아 타스·인테르팍스통신 등에 따르면 13일(현지시간) 오후 1시쯤 보스토치니 우주기지에서 만난 두 정상은 인사를 나눈 뒤 우주기지 내 소유즈-2 로켓 발사 시설과 현재 막바지 공사 중인 최신형 안가라 로켓 발사 시설을 차례로 방문했다. 두 정상은 안가라 로켓을 조립하는 설치·시험동에서는 조립과정과 발사체의 원리에 관한 설명을 들었다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/13/news-p.v1.20230913.4ee9fe7d9d4c4efeabba8753a5fc681d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[한·미·일 북핵 수석대표, 북 탄도미사일 발사 규탄]]></title>
-            <link>https://www.khan.co.kr/politics/north-korea/article/202309131522011</link>
-            <guid>https://www.khan.co.kr/politics/north-korea/article/202309131522011</guid>
-            <pubDate>Wed, 13 Sep 2023 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[한·미·일 북핵 수석대표들이 13일 북·러 정상회담을 앞두고 이뤄진 북한의 탄도미사일 발사를 유엔 안보리 결의 위반이라고 규탄했다.
-외교부는 김건 한반도평화교섭본부장,  성 김 미국 대북특별대표, 나마즈 히로유키 일본 북핵수석대표가 이날 “북한의 탄도미사일 도발이 다수 유엔 안보리 결의에 대한 명백한 위반이며, 역내 평화와 안정을 심각히 위협하는 것이라고 규탄했다”고 밝혔다. 또 “북한이 북·러 정상회담 직전에 미사일 도발을 감행한 것에 주목하면서 국제사회가 한목소리로 북한의 안보리 결의 위반 행위에 대해 단호한 입장을 보여야 할 것”이라고 밝혔다. 외교부에 따르면 이들은 북한 단거리 탄도미사일 발사 직후 3자 유선협의를 갖고 대응 방안을 논의했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/13/news-p.v1.20230913.eae7b6f2450445d4b7b0eaa14c2397de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
