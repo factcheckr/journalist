@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 17:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 05:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,7 +289,7 @@
             <link>https://n.news.naver.com/article/469/0000761856?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000761856?type=journalists</guid>
             <pubDate>Thu, 21 Sep 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/21/761856.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +297,7 @@
             <link>https://n.news.naver.com/article/469/0000761725?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000761725?type=journalists</guid>
             <pubDate>Thu, 21 Sep 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/21/761725.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -529,7 +529,7 @@
             <link>https://n.news.naver.com/article/308/0000033450?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033450?type=journalists</guid>
             <pubDate>Thu, 21 Sep 2023 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/21/33450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -763,6 +763,14 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/24/32400.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마침내 법정으로 간 대기업의 ‘처리수’ 문제 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033456?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033456?type=journalists</guid>
+            <pubDate>Fri, 22 Sep 2023 05:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/22/33456.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭉쳐야 산다, 해녀들이 모인 이유 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1235,14 +1243,6 @@
             <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31479.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘헤결’ 정서경 작가, “‘작은 아씨들’에 굵으면서도 섬세한 이야길 담고 싶다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031466?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031466?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/15/31466.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 이균용 대법원장 후보자, ‘김학의 사건’ 재정신청 기각했다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
