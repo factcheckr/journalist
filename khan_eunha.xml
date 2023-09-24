@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 17:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 05:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정은, 시진핑 9·9절 축전에 답신 …“북·중 앞으로도 협력 긴밀히”]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202309241001001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202309241001001</guid>
+            <pubDate>Sun, 24 Sep 2023 05:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[김정은 북한 국무위원장이 북한 정권 수립(9·9절) 75주년에 시진핑 중국 국가주석이 축전을 보낸 것에 대해 사의를 표했다고 노동신문이 24일 보도했다.
+신문에 따르면 김 위원장은 시 주석에게 지난 21일 보낸 답신에서 사의와 함께 “중국 당과 정부와 인민의 변함없는 지지·성원은 사회주의를 옹호, 고수하고 승리적으로 전진시키기 위한 우리 당과 정부와 인민의 투쟁을 힘있게 고무하고 있다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/24/news-p.v1.20230924.f35c42bf676647bf85222377e227d3d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주한 러시아 대사관, 윤 대통령 유엔 연설에 “미국 선전전 가세 유감”]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202309211643001</link>
@@ -105,15 +114,6 @@
             <content:encoded><![CDATA[김정은 북한 국무위원장과 블라디미르 푸틴 러시아 대통령의 정상회담을 계기로 양국이 농업·건설 부문에서 공동 프로젝트를 진행하기로 했다. 유엔 대북 제재와 코로나19로 규모가 대폭 축소된 북한 노동자의 러시아 파견을 확대하는 방안도 논의됐을 것으로 보인다.
 이번 북·러 정상회담으로 양국 경제협력에 속도가 붙을 것으로 전망된다. 푸틴 대통령은 지난 13일 정상회담 모두 발언에서 “우리는 분명히 경제협력 문제, 인도주의 성격의 문제, 지역 상황에 대해 이야기할 필요가 있다”고 말했다. 회담에는 러시아 부총리를 비롯해 산업, 교통, 자원 부처 수장이 일제히 동석했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/14/news-p.v1.20230914.62f95873abcd4fa3bd7ebd01f87d1e5b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정은, 우크라이나 침공을 ‘성전’이라 했나…러시아의 의도적 오역?]]></title>
-            <link>https://www.khan.co.kr/politics/north-korea/article/202309141434001</link>
-            <guid>https://www.khan.co.kr/politics/north-korea/article/202309141434001</guid>
-            <pubDate>Thu, 14 Sep 2023 17:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[김정은 북한 국무위원장이 지난 13일 블라디미르 푸틴 러시아 대통령과의 정상회담에서 러시아의 우크라이나 침공을 옹호하면서 ‘성전’이라고 표현했다고 주요 외신들이 보도하고 있다. 김 위원장이 사용하지 않은 성전이란 표현이 등장한 이유는 뭘까.
-로이터통신은 이날 김 위원장이 블라디미르 푸틴 러시아 대통령과의 정상회담 이후 만찬에서 “러시아군과 국민은 패권을 주장하고 팽창주의적 환상을 부채질하는 거대한 악의 처단을 위한 성스러운 투쟁에서 큰 승리를 거둘 것”이라고 말했다고 전했다. 파이낸셜타임스 등은 김 위원장의 발언을 인용하며 러시아가 서방과 ‘성스러운 싸움’(sacred fight)을 벌이고 있다고 김 위원장이 말했다고 보도했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/14/news-p.v1.20230914.7b3fa49e2f3646d6ac58f75853519386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
