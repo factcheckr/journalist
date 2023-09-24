@@ -4,9 +4,33 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 05:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 17:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민주당이 다시 시험대에 오른다]]></title>
+            <link>https://n.news.naver.com/article/308/0000033446?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033446?type=journalists</guid>
+            <pubDate>Sun, 24 Sep 2023 17:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/21/33446.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대법원 구성원 14명 중 13명, 윤석열 대통령이 임명한다]]></title>
+            <link>https://n.news.naver.com/article/308/0000033423?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033423?type=journalists</guid>
+            <pubDate>Sun, 24 Sep 2023 17:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/18/33423.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성범죄자 3명 중 1명 감형, 이균용 대법원장 후보자 3년치 판결 분석]]></title>
+            <link>https://n.news.naver.com/article/308/0000033422?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033422?type=journalists</guid>
+            <pubDate>Sun, 24 Sep 2023 17:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/18/33422.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 이균용 대법원장 후보자, ‘김학의 사건’ 재정신청 기각했다]]></title>
             <link>https://n.news.naver.com/article/308/0000033348?type=journalists</link>
@@ -558,78 +582,6 @@
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31046.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 김건희 여사의 잇따른 행보, ‘제2부속실 폐지’ 괜찮나]]></title>
-            <link>https://n.news.naver.com/article/308/0000031045?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031045?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31045.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 비대위가 주목해야 할 세 가지 숫자]]></title>
-            <link>https://n.news.naver.com/article/308/0000031010?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031010?type=journalists</guid>
-            <pubDate>Thu, 21 Sep 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/13/31010.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불꽃'같은 낯선 존재, 박지현의 80일]]></title>
-            <link>https://n.news.naver.com/article/308/0000030980?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030980?type=journalists</guid>
-            <pubDate>Thu, 21 Sep 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/06/30980.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송영길의 ‘견제론’vs 오세훈의 ‘준비된 미래’]]></title>
-            <link>https://n.news.naver.com/article/308/0000030924?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030924?type=journalists</guid>
-            <pubDate>Thu, 21 Sep 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시원 검사는 진짜 ‘간첩 조작’ 몰랐을까]]></title>
-            <link>https://n.news.naver.com/article/308/0000030912?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030912?type=journalists</guid>
-            <pubDate>Thu, 21 Sep 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/25/30912.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이해충돌 논란, 윤석열 정부 공직자의 자격을 묻다]]></title>
-            <link>https://n.news.naver.com/article/308/0000030865?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030865?type=journalists</guid>
-            <pubDate>Thu, 21 Sep 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/17/30865.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인주의자를 위한 국내 최초 ‘북한학 전문’ 동네책방]]></title>
-            <link>https://n.news.naver.com/article/308/0000030852?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030852?type=journalists</guid>
-            <pubDate>Thu, 21 Sep 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/14/30852.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 아무도 잊히지 말자, 우리가 끝낼 때까지]]></title>
-            <link>https://n.news.naver.com/article/308/0000030840?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030840?type=journalists</guid>
-            <pubDate>Thu, 21 Sep 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/12/30840.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박진 검증 위해, 캐나다 등 전세계 사이트 검색 중 [취재 뒷담화]]]></title>
-            <link>https://n.news.naver.com/article/308/0000030836?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030836?type=journalists</guid>
-            <pubDate>Thu, 21 Sep 2023 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/11/30836.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
