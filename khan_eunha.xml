@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 17:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 05:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식민지배가 낳고 총기 밀매가 키운 ‘갱판’…책임지는 선진국이 없다]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202309260600025</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202309260600025</guid>
+            <pubDate>Tue, 26 Sep 2023 05:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[공화국으로 독립했지만 ‘적반하장’ 배상금에 발목 잡혀대지진으로 시스템 붕괴…권력 밀착 갱단 200여개 활개미국 등서 무기류 유입 지속…국제사회 묵인·방조 의혹
+아이티 현대사에서 ‘이보다 더 나쁠 수 없다’는 말은 통하지 않는다. 19세기 프랑스를 상대로 독립투쟁을 벌여 세계 최초의 흑인 공화국으로 출발한 아이티는 20세기에 쿠데타와 독재로 신음하는 국가가 됐다. 허리케인과 대지진 등 자연재해마저 계속 찾아오면서 ‘신이 버린 땅’으로 불렸다. 2021년 7월 조브넬 모이즈 대통령이 암살된 이후 공권력은 아예 무너졌다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/26/2023092201000816200085454.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한·중·일 고위급 협의 시작…박진 “올해 3국 정상회의 위해 힘써달라”]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202309251742011</link>
@@ -105,15 +114,6 @@
             <content:encoded><![CDATA[유네스코 세계유산위원회가 조선인 강제노역 현장인 군함도(하시마) 탄광의 세계유산 등재 후속 조치와 관련해 일본이 관련국과 대화를 지속하라고 결정한 것을 두고 한국 정부는 일본이 역사를 제대로 알리겠다는 약속을 이행하도록 한·일 대화를 계속해 나가겠다고 18일 밝혔다.
 외교부 당국자는 이날 정부서울청사에서 기자들과 만나 “일본이 세계유산위의 결정을 성실히 이행하기를 기대한다”며 “앞으로 희생자 증언 전시와 추모 조치를 개선하고 추가하도록 한·일 양자 차원의 대화를 계속해 나가겠다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/18/news-p.v1.20230918.08b16d3ecb56493e861d03c9509ebf04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전략 따라 ‘거리’ 변했던 78년 북·러관계…북 “새 전성기”]]></title>
-            <link>https://www.khan.co.kr/politics/north-korea/article/202309172113005</link>
-            <guid>https://www.khan.co.kr/politics/north-korea/article/202309172113005</guid>
-            <pubDate>Sun, 17 Sep 2023 17:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[북·러관계는 이번 정상회담을 계기로 큰 전환점을 맞이했다. 러시아는 서방 제재를 뚫고 우크라이나 전쟁을 장기전으로 이끌고 갈 발판을 마련했다. 북·러는 전략적 목표를 공유하며 탈냉전 이후 유례없이 밀착할 것으로 전망된다.
-북한 조선중앙통신은 17일 “조·러(북·러) 두 나라 관계 발전의 역사에 친선 단결과 협조의 새로운 전성기가 열리고 있는 시기”라고 했다. 블라디미르 푸틴 러시아 대통령은 지난 13일 정상회담 만찬에서 김일성·김정일 부자를 기억한다고 언급했으며 “새로운 친구 두 명보다 옛 친구 한 명이 더 좋다”는 러시아 속담을 인용했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/17/2023091801000634800055411.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
