@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 05:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 17:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0602/A0002932945_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기시다, '꽃가루 대책'까지 주문하며 대규모 재정지출 지시...총선 승부수? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000762840?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000762840?type=journalists</guid>
+            <pubDate>Wed, 27 Sep 2023 17:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/27/762840.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아도 일본산 수산물 수입 중단 검토..."중국과 협력하려는 것" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000762769?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762769?type=journalists</guid>
             <pubDate>Wed, 27 Sep 2023 05:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/27/762769.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +305,7 @@
             <link>https://n.news.naver.com/article/469/0000762661?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762661?type=journalists</guid>
             <pubDate>Tue, 26 Sep 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/26/762661.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +313,7 @@
             <link>https://n.news.naver.com/article/469/0000762640?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762640?type=journalists</guid>
             <pubDate>Tue, 26 Sep 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/26/762640.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -313,15 +321,23 @@
             <link>https://n.news.naver.com/article/469/0000762594?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762594?type=journalists</guid>
             <pubDate>Tue, 26 Sep 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/26/762594.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[택시기사 없어서 택시 못 타는 일본...승차공유 서비스 뒤늦게 도입 추진 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000761857?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000761857?type=journalists</guid>
+            <pubDate>Wed, 27 Sep 2023 17:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/21/761857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미야자키 하야오, 지브리 경영권 아들 대신 방송사에 넘겼다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000761856?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000761856?type=journalists</guid>
             <pubDate>Mon, 25 Sep 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/21/761856.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +353,7 @@
             <link>https://n.news.naver.com/article/469/0000761559?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000761559?type=journalists</guid>
             <pubDate>Wed, 20 Sep 2023 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/20/761559.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,7 +361,7 @@
             <link>https://n.news.naver.com/article/469/0000761355?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000761355?type=journalists</guid>
             <pubDate>Tue, 19 Sep 2023 17:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.09.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/19/761355.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -507,22 +523,6 @@
             <pubDate>Thu, 31 Aug 2023 17:32:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/31/758130.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 광어회 먹고 "음~"...기시다, "먹어서 응원하자" 캠페인 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000757939?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000757939?type=journalists</guid>
-            <pubDate>Tue, 05 Sep 2023 17:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757939.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이돌의 대부' 일본 자니즈 창업자, 연습생 수백 명 성착취..."수십 년 계속했다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000757842?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000757842?type=journalists</guid>
-            <pubDate>Wed, 30 Aug 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757842.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부의 나라살림이 ‘역대급’으로 두려운 까닭 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
