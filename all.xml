@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 17:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 05:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0602/A0002932945_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아도 일본산 수산물 수입 중단 검토..."중국과 협력하려는 것" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000762769?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000762769?type=journalists</guid>
+            <pubDate>Wed, 27 Sep 2023 05:32:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/27/762769.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['달러당 149엔' 멈추지 않는 엔저...정부 개입 초읽기 관측 무성 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000762661?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762661?type=journalists</guid>
             <pubDate>Tue, 26 Sep 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/26/762661.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +305,7 @@
             <link>https://n.news.naver.com/article/469/0000762640?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762640?type=journalists</guid>
             <pubDate>Tue, 26 Sep 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/26/762640.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +313,7 @@
             <link>https://n.news.naver.com/article/469/0000762594?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762594?type=journalists</guid>
             <pubDate>Tue, 26 Sep 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/26/762594.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,7 +329,7 @@
             <link>https://n.news.naver.com/article/469/0000761725?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000761725?type=journalists</guid>
             <pubDate>Thu, 21 Sep 2023 05:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/21/761725.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -517,19 +525,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757842.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[르포] 상인들은 “오염수 안전해” 주민들은 “포기했다”… 두 쪽 난 후쿠시마 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000757709?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000757709?type=journalists</guid>
-            <pubDate>Wed, 30 Aug 2023 05:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/08/30/757709.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 정부의 나라살림이 ‘역대급’으로 두려운 까닭 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033450?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033450?type=journalists</guid>
             <pubDate>Thu, 21 Sep 2023 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/21/33450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -769,7 +769,7 @@
             <link>https://n.news.naver.com/article/308/0000033456?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033456?type=journalists</guid>
             <pubDate>Fri, 22 Sep 2023 05:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/22/33456.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1249,7 +1249,7 @@
             <link>https://n.news.naver.com/article/308/0000033473?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033473?type=journalists</guid>
             <pubDate>Mon, 25 Sep 2023 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/25/33473.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1257,7 +1257,7 @@
             <link>https://n.news.naver.com/article/308/0000033446?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033446?type=journalists</guid>
             <pubDate>Sun, 24 Sep 2023 17:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/21/33446.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
