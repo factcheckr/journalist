@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 17:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 05:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,7 +297,7 @@
             <link>https://n.news.naver.com/article/469/0000762769?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762769?type=journalists</guid>
             <pubDate>Wed, 27 Sep 2023 05:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/27/762769.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1245,11 +1245,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31479.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열도 이재명도 제자리걸음 [2023 신뢰도 조사] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033504?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033504?type=journalists</guid>
+            <pubDate>Mon, 02 Oct 2023 05:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/02/33504.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[법을 잘 몰랐다는 대법원장 후보자 [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033473?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033473?type=journalists</guid>
             <pubDate>Mon, 25 Sep 2023 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/25/33473.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1811,14 +1819,6 @@
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/29/31086.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[51명의 검사 징계 내역을 공개합니다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031047?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031047?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31047.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
