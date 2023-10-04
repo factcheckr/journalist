@@ -4,23 +4,15 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 05:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 17:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["기무라 다쿠야 광고·드라마도 중지"... '자니즈 해체' 뒤늦은 결단 배경은]]></title>
-            <link>https://n.news.naver.com/article/469/0000763323?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000763323?type=journalists</guid>
-            <pubDate>Tue, 03 Oct 2023 17:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/03/763323.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[일본 정부가 외면한 ‘미나마타병’ 피해자들, 국가 상대 손배 소송 이겼다]]></title>
             <link>https://n.news.naver.com/article/469/0000762865?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762865?type=journalists</guid>
             <pubDate>Tue, 03 Oct 2023 17:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/27/762865.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000762840?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762840?type=journalists</guid>
             <pubDate>Tue, 03 Oct 2023 17:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/27/762840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000762661?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762661?type=journalists</guid>
             <pubDate>Mon, 02 Oct 2023 17:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.09.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/26/762661.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000762640?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762640?type=journalists</guid>
             <pubDate>Mon, 02 Oct 2023 17:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.09.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/26/762640.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000762594?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000762594?type=journalists</guid>
             <pubDate>Tue, 26 Sep 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.09.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/26/762594.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 07 Sep 2023 17:32:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758343.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] "증거 있는데도 조선인 학살 안 했다는 일본...한국도 무관심 자성해야"]]></title>
+            <link>https://n.news.naver.com/article/469/0000758282?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000758282?type=journalists</guid>
+            <pubDate>Wed, 04 Oct 2023 17:34:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.09.01.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758282.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
