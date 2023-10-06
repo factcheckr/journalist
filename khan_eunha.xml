@@ -4,9 +4,27 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 05:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 17:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국은 이스라엘·팔레스타인 문제에 어떻게 기여할 수 있을까]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310061810011</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310061810011</guid>
+            <pubDate>Fri, 06 Oct 2023 17:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[박진 외교부 장관이 6일 유엔 팔레스타인 난민구호기구(UNRWA)의 필립 라짜리니 집행위원장과 만나 팔레스타인 난민 지원을 확대하겠다고 약속했다.
+박 장관은 이날 오전 서울 종로구 외교부 청사에서 라짜리니 위원장을 만나 중동 정세와 한·UNRWA 협력 등에 대한 의견을 나눴다. 외교부에 따르면 박 장관은 라짜리니 위원장에게 “UNRWA가 약 600만명에 달하는 팔레스타인 난민을 대상으로 교육, 의료, 구호 및 공공서비스 등을 제공하는 등 적극적인 노력을 전개해 온 점을 높이 평가한다”며 “한국이 국제사회 책임있는 국가로서 팔레스타인 난민에 대한 지원을 지속적으로 확대해 나가기 위해 노력할 것”이라고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/06/news-p.v1.20231006.be275acf65f04f5d83b4daf21a0c3379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“북한, 미 대선 트럼프 당선 원한다”]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202310061433001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202310061433001</guid>
+            <pubDate>Fri, 06 Oct 2023 17:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[북한이 내년 미국 대선에서 도널드 트럼프 전 대통령의 당선을 원하며 미국 대선에 영향을 미칠 의도로 행동할 수 있다는 분석이 나왔다.
+정성윤 통일연구원 통일정책연구실장은 6일 파주에서 열린 취재진 워크숍에서 “북한은 내년 대선에서 트럼프 전 대통령이 당선되는 것이 유리하다고 판단할 것”이라고 말했다. 그는 “북한은 트럼프가 당선될 수 있는 분위기 조성에 일조하고, 트럼프가 당선된 이후의 미국과 협상을 염두에 두며 교섭능력 강화책을 준비할 가능성이 크다”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/06/news-p.v1.20231006.f370fd2c518b40bb8ed98af3752ef6c0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[북한, 러 주도 국제포럼 참가…미국 규탄, 국제규범 강조]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202310060951001</link>
@@ -94,24 +112,6 @@
             <content:encoded><![CDATA[2022년 중국 항저우 아시안게임의 막이 오르면서 5년 만에 국제 주요 스포츠행사에 복귀한 북한 선수단의 모습이 곳곳에서 포착됐다.
 북한은 23일 항저우 올림픽 스포츠센터 스타디움에서 열린 2022년 항저우 아시안 게임 개회식에서 출전국가 45개국 중 캄보디아에 이어 7번째로 입장했다. 남자 사격 박명원, 여자 권투 방철미가 기수로 나섰다. 북한 선수단은 남녀 각각 파란색 바지, 치마에 흰색 재킷을 유니폼으로 착용하고, 재킷에는 김일성·김정일 부자의 얼굴 사진 배지와 인공기 배지를 달았다. 선수단은 관중들이 환호하자 밝은 표정으로 손에 쥔 인공기를 들어 올리며 화답했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/24/news-p.v1.20230924.c1ab58f188e947cab33b6649bae058e2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정은, 시진핑 9·9절 축전에 답신 …“북·중 앞으로도 협력 긴밀히”]]></title>
-            <link>https://www.khan.co.kr/politics/north-korea/article/202309241001001</link>
-            <guid>https://www.khan.co.kr/politics/north-korea/article/202309241001001</guid>
-            <pubDate>Sun, 24 Sep 2023 05:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[김정은 북한 국무위원장이 북한 정권 수립(9·9절) 75주년에 시진핑 중국 국가주석이 축전을 보낸 것에 대해 사의를 표했다고 북한 공식매체인 노동신문이 24일 보도했다.
-신문에 따르면 김 위원장은 시 주석에게 지난 21일 보낸 답신에서 사의와 함께 “중국 당과 정부와 인민의 변함없는 지지·성원은 사회주의를 옹호, 고수하고 승리적으로 전진시키기 위한 우리 당과 정부와 인민의 투쟁을 힘있게 고무하고 있다”고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/24/news-p.v1.20230924.f35c42bf676647bf85222377e227d3d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주한 러시아 대사관, 윤 대통령 유엔 연설에 “미국 선전전 가세 유감”]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202309211643001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202309211643001</guid>
-            <pubDate>Thu, 21 Sep 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[주한 러시아 대사관이 21일 북 ·러 군사협력에 대해 경고한 윤석열 대통령의 유엔총회 기조연설에 대해 “깊은 유감”이라고 밝혔다.
-주한 러시아 대사관은 이날 페이스북 계정에 올린 글에서 윤 대통령 연설에 대해 “미국 정부가 발의하고 미국과 한국 언론이 뒤쫓은 러·북 협력 폄훼 선전전에 가세한 것은 깊은 유감을 불러일으킨다”고 주장했다. 대사관은 “우리는 이를 미국 주도의 서방 집단이 벌이는 공격적인 대러시아 하이브리드 전쟁의 맥락에서 전개되는 도발적이고 대결적인 성명으로 간주한다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/21/news-p.v1.20230921.f4a7836b47a445f6bec6aa79ed5430ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
