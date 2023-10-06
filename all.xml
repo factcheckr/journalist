@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 17:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 05:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 러 주도 국제포럼 참가…미국 규탄, 국제규범 강조 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202310060951001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202310060951001</guid>
+            <pubDate>Fri, 06 Oct 2023 05:32:09 GMT</pubDate>
+            <content:encoded><![CDATA[북한 중앙재판소 대표단이 러시아가 주최한 국제 법률포럼에 참가해 기업활동 보호 등의 문제를 논의하고 미국을 규탄했다.
+6일 조선중앙통신에 따르면 러시아 최고재판소가 주최한 제12차 아시아태평양 지역 국제법률연단(포럼)이 5일 화상회의로 열렸다. 포럼에는 북한, 중국, 라오스, 카자흐스탄, 키르기스스탄 등 16개국의 최고 법원 관계자들이 참가했다. 북한에서는 최근영 중앙재판소장을 단장으로 하는 중앙재판소 대표단이 참가했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/06/news-p.v1.20231006.9830a4e348014c229ee219b049f0ee6e.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[한·일 외교차관 전략대회 9년만에 개최…“양국 소통채널 복원 계속될 것” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310051643001</link>
@@ -103,15 +112,6 @@
             <content:encoded><![CDATA[주한 러시아 대사관이 21일 북 ·러 군사협력에 대해 경고한 윤석열 대통령의 유엔총회 기조연설에 대해 “깊은 유감”이라고 밝혔다.
 주한 러시아 대사관은 이날 페이스북 계정에 올린 글에서 윤 대통령 연설에 대해 “미국 정부가 발의하고 미국과 한국 언론이 뒤쫓은 러·북 협력 폄훼 선전전에 가세한 것은 깊은 유감을 불러일으킨다”고 주장했다. 대사관은 “우리는 이를 미국 주도의 서방 집단이 벌이는 공격적인 대러시아 하이브리드 전쟁의 맥락에서 전개되는 도발적이고 대결적인 성명으로 간주한다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/21/news-p.v1.20230921.f4a7836b47a445f6bec6aa79ed5430ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외교부, 강순남 북한 국방상 등 독자 대북제재 대상 지정 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202309211635001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202309211635001</guid>
-            <pubDate>Thu, 21 Sep 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[한국 정부가 21일 김정은 북한 국무위원장의 러시아 방문을 수행한 강순남 북한 국방상 등 개인 10명과 기관 2곳을 독자제재 대상으로 추가했다.
-외교부는 이날 러시아 등 3국과의 무기 거래에 관여한 개인 4명과 기관 2곳, 북한 핵·미사일 개발에 관여한 북한 군·당 고위인사 3명, 러시아 등지에서 불법 금융 거래에 관여한 북한인 3명을 독자 제재대상으로 지정했다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/21/news-p.v1.20230921.3bdbf2148c454e16a5b8aba25f6f1188.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -287,7 +287,7 @@
             <link>https://n.news.naver.com/article/469/0000763643?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763643?type=journalists</guid>
             <pubDate>Thu, 05 Oct 2023 17:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1247,7 +1247,7 @@
             <link>https://n.news.naver.com/article/308/0000033508?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033508?type=journalists</guid>
             <pubDate>Tue, 03 Oct 2023 05:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/03/33508.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1255,7 +1255,7 @@
             <link>https://n.news.naver.com/article/308/0000033504?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033504?type=journalists</guid>
             <pubDate>Mon, 02 Oct 2023 05:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/02/33504.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
