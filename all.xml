@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 05:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 17:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,11 +283,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0615/A0002936929_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김대중-오부치 선언 25주년… "과거사, 중장기 로드맵 마련해 풀어야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000764092?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000764092?type=journalists</guid>
+            <pubDate>Sun, 08 Oct 2023 17:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/08/764092.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후쿠시마 오염수 7800톤 2차 방류 시작…중국 "일본은 불량국가" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000763643?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763643?type=journalists</guid>
             <pubDate>Thu, 05 Oct 2023 17:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -295,7 +303,7 @@
             <link>https://n.news.naver.com/article/469/0000763461?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763461?type=journalists</guid>
             <pubDate>Thu, 05 Oct 2023 17:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -513,14 +521,6 @@
             <pubDate>Fri, 08 Sep 2023 17:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/02/758393.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 원전 인근 바닷물, 삼중수소 소폭 늘었다… 도쿄전력 “안전 문제없어” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000758375?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000758375?type=journalists</guid>
-            <pubDate>Thu, 07 Sep 2023 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/01/758375.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부의 나라살림이 ‘역대급’으로 두려운 까닭 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
