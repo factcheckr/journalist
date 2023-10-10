@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 17:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 05:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국정원 “선관위 투·개표 해킹 가능···실제 침투 사례는 발견 못해” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/election/article/202310101200021</link>
+            <guid>https://www.khan.co.kr/politics/election/article/202310101200021</guid>
+            <pubDate>Tue, 10 Oct 2023 05:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원이 중앙선거관리위원회의 보안관리 실태를 점검한 결과 심각한 부실이 드러났다고 10일 밝혔다. 국정원은 기술적으로 해킹을 통해 투·개표 조작이 가능하다고 주장했으나 실제 해커가 선관위 내부망에 침투한 사례는 발견하지 못했다고 밝혔다. 선관위는 해킹을 통한 선거부정은 불가능하다며 국정원 발표가 선거불복을 조장할 수 있다고 반박했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/10/news-p.v1.20231010.6ee4d7df77ce46188c68e5cebeb10bdc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국은 이스라엘·팔레스타인 문제에 어떻게 기여할 수 있을까 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310061810011</link>
@@ -103,15 +111,6 @@
             <pubDate>Mon, 25 Sep 2023 17:31:50 GMT</pubDate>
             <content:encoded><![CDATA[아이티 현대사에서 ‘이보다 더 나쁠 수 없다’는 말은 통하지 않는다. 19세기 프랑스를 상대로 독립투쟁을 벌여 세계 최초의 흑인 공화국으로 출발한 아이티는 20세기에 쿠데타와 독재로 신음하는 국가가 됐다. 허리케인과 대지진 등 자연재해마저 계속 찾아오면서 ‘신이 버린 땅’으로 불렸다. 2021년 7월 조브넬 모이즈 대통령이 암살된 이후 공권력은 아예 무너졌다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/25/news-p.v1.20230921.247bd1dd13bf4d9e8bf536aafb5a3932.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘밝은 표정’ ‘김일성 배지 착용’…5년만에 국제 스포츠무대 나온 북한 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/north-korea/article/202309241615001</link>
-            <guid>https://www.khan.co.kr/politics/north-korea/article/202309241615001</guid>
-            <pubDate>Sun, 24 Sep 2023 17:31:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 중국 항저우 아시안게임의 막이 오르면서 5년 만에 국제 주요 스포츠행사에 복귀한 북한 선수단의 모습이 곳곳에서 포착됐다.
-북한은 23일 항저우 올림픽 스포츠센터 스타디움에서 열린 2022년 항저우 아시안 게임 개회식에서 출전국가 45개국 중 캄보디아에 이어 7번째로 입장했다. 남자 사격 박명원, 여자 권투 방철미가 기수로 나섰다. 북한 선수단은 남녀 각각 파란색 바지, 치마에 흰색 재킷을 유니폼으로 착용하고, 재킷에는 김일성·김정일 부자의 얼굴 사진 배지와 인공기 배지를 달았다. 선수단은 관중들이 환호하자 밝은 표정으로 손에 쥔 인공기를 들어 올리며 화답했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/24/news-p.v1.20230924.c1ab58f188e947cab33b6649bae058e2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -523,6 +522,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/02/758393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독]전국 응급실 70%, 소아환자 진료 불가 또는 제한적··· (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033533?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033533?type=journalists</guid>
+            <pubDate>Tue, 10 Oct 2023 05:32:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/10/33533.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 정부의 나라살림이 ‘역대급’으로 두려운 까닭 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033450?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033450?type=journalists</guid>
@@ -753,14 +760,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/25/32407.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년 언론인 22명 ‘청년 정치’를 파헤치다 [대학기자상] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032400?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032400?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/24/32400.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마침내 법정으로 간 대기업의 ‘처리수’ 문제 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1247,7 +1246,7 @@
             <link>https://n.news.naver.com/article/308/0000033508?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033508?type=journalists</guid>
             <pubDate>Tue, 03 Oct 2023 05:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/03/33508.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1255,7 +1254,7 @@
             <link>https://n.news.naver.com/article/308/0000033504?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033504?type=journalists</guid>
             <pubDate>Mon, 02 Oct 2023 05:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/02/33504.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
