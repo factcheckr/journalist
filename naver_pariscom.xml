@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 05:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 17:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,23 +12,31 @@
             <link>https://n.news.naver.com/article/469/0000764092?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764092?type=journalists</guid>
             <pubDate>Sun, 08 Oct 2023 17:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/08/764092.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후쿠시마 오염수 7800톤 2차 방류 시작…중국 "일본은 불량국가"]]></title>
-            <link>https://n.news.naver.com/article/469/0000763643?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000763643?type=journalists</guid>
-            <pubDate>Thu, 05 Oct 2023 17:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763643.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA['철도 왕국' 일본 명성, 인구 감소로 휘청...결국 정부가 나섰다]]></title>
+            <link>https://n.news.naver.com/article/469/0000763502?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000763502?type=journalists</guid>
+            <pubDate>Tue, 10 Oct 2023 17:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763502.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춤추는 엔·달러 환율...150엔 돌파 후 일시 급락…정부 시장개입 효과?]]></title>
+            <link>https://n.news.naver.com/article/469/0000763461?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000763461?type=journalists</guid>
+            <pubDate>Tue, 10 Oct 2023 17:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["기무라 다쿠야 광고·드라마도 중지"... '자니즈 해체' 뒤늦은 결단 배경은]]></title>
             <link>https://n.news.naver.com/article/469/0000763323?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763323?type=journalists</guid>
             <pubDate>Mon, 09 Oct 2023 17:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/03/763323.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Sep 2023 17:32:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/04/758719.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간토 조선인 학살 100년인데... 한일 정상, '침묵'으로 외면]]></title>
-            <link>https://n.news.naver.com/article/469/0000758393?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000758393?type=journalists</guid>
-            <pubDate>Fri, 08 Sep 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/02/758393.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,31 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 05:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 17:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상 해커에도 뚫린 선관위…국정원 “투·개표 조작 가능”]]></title>
+            <link>https://www.khan.co.kr/politics/election/article/202310102116005</link>
+            <guid>https://www.khan.co.kr/politics/election/article/202310102116005</guid>
+            <pubDate>Tue, 10 Oct 2023 17:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원이 중앙선거관리위원회의 보안관리 실태를 점검한 결과 심각한 부실이 드러났다고 10일 밝혔다. 국정원은 기술적으로 해킹을 통해 투·개표 조작이 가능하다면서도 실제 해커가 선관위 내부망에 침투한 사례는 발견하지 못했다고 밝혔다. 선관위는 해킹을 통한 선거부정은 불가능하다며 국정원 발표가 선거불복을 조장할 수 있다고 반박했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[외교부 “이스라엘 체류 국민 191명, 오늘 대한항공편 귀국길 올라”]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310101625001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310101625001</guid>
+            <pubDate>Tue, 10 Oct 2023 17:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[외교부는 10일 팔레스타인 무장 정파 하마스와 이스라엘군의 무력 충돌이 일어나고 있는 이스라엘에서 한국인 여행객이나 교민 피해는 접수되지 않았다고 밝혔다. 이스라엘에 머무르던 단기체류자 200명가량은 이날 귀국길에 오른다.
+이날 외교부에 따르면 현지시간으로 10일 오후 1시45분 단기 체류자 191명이 대한항공 항공편을 타고 현지를 출발해 한국시간 11일 오전 한국에 도착할 예정이다. 단기 체류자 27명은 육로를 통해 인접국 요르단으로 이동할 예정이다. 외교부는 또한 제3국적 항공사를 이용해 이스라엘로 입국한 30명이 오는 12일 터키항공을 이용해 출국한다고 전했다. 단기 체류자 250명 가량이 순차적으로 이스라엘을 떠나는 것이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/10/news-p.v1.20231010.824d75ceb5f54c70976bcd598ea7e0c4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[국정원 “선관위 투·개표 해킹 가능···실제 침투 사례는 발견 못해”]]></title>
             <link>https://www.khan.co.kr/politics/election/article/202310101200021</link>
             <guid>https://www.khan.co.kr/politics/election/article/202310101200021</guid>
             <pubDate>Tue, 10 Oct 2023 05:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[국가정보원이 중앙선거관리위원회의 보안관리 실태를 점검한 결과 심각한 부실이 드러났다고 10일 밝혔다. 국정원은 기술적으로 해킹을 통해 투·개표 조작이 가능하다고 주장했으나 실제 해커가 선관위 내부망에 침투한 사례는 발견하지 못했다고 밝혔다. 선관위는 해킹을 통한 선거부정은 불가능하다며 국정원 발표가 선거불복을 조장할 수 있다고 반박했다.]]></content:encoded>
+            <content:encoded><![CDATA[국가정보원이 중앙선거관리위원회의 보안관리 실태를 점검한 결과 심각한 부실이 드러났다고 10일 밝혔다. 국정원은 기술적으로 해킹을 통해 투·개표 조작이 가능하다면서도 실제 해커가 선관위 내부망에 침투한 사례는 발견하지 못했다고 밝혔다. 선관위는 해킹을 통한 선거부정은 불가능하다며 국정원 발표가 선거불복을 조장할 수 있다고 반박했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/10/news-p.v1.20231010.6ee4d7df77ce46188c68e5cebeb10bdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -94,23 +110,6 @@
             <content:encoded><![CDATA[공화국으로 독립했지만 ‘적반하장’ 배상금에 발목 잡혀대지진으로 시스템 붕괴…권력 밀착 갱단 200여개 활개미국 등서 무기류 유입 지속…국제사회 묵인·방조 의혹
 아이티 현대사에서 ‘이보다 더 나쁠 수 없다’는 말은 통하지 않는다. 19세기 프랑스를 상대로 독립투쟁을 벌여 세계 최초의 흑인 공화국으로 출발한 아이티는 20세기에 쿠데타와 독재로 신음하는 국가가 됐다. 허리케인과 대지진 등 자연재해마저 계속 찾아오면서 ‘신이 버린 땅’으로 불렸다. 2021년 7월 조브넬 모이즈 대통령이 암살된 이후 공권력은 아예 무너졌다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/26/2023092201000816200085454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한·중·일 고위급 협의 시작…박진 “올해 3국 정상회의 위해 힘써달라”]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202309251742011</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202309251742011</guid>
-            <pubDate>Mon, 25 Sep 2023 17:31:50 GMT</pubDate>
-            <content:encoded><![CDATA[박진 외교부 장관은 25일 한·중·일 정상회의 개최 준비를 하는 3국 차관보급 인사들에게 “제9차 3국 정상회의 의장국으로서 올해 안에 정상회의 개최가 가능하도록 고위급회의 대표들이 긴밀하게 협력해달라”고 말했다.
-박 장관은 이날 오후 서울 종로구 외교부 청사에서 한·중·일 3국 고위급회의 대표인 정병원 외교부 차관보, 후나코시 다케히로 일본 외무성 외무심의관, 눙룽 중국 외교부 부장조리를 접견하고 “오랫동안 정체된 3국 협의체 재활성화에 대한 대중의 관심이 크다”며 이같이 말했다. 박 장관은 또 “3국 국민들이 체감할 수 있는 실질적인 결과를 만들어 내는 것이 중요하다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/25/news-p.v1.20230925.a716eae86fb84fa89a3ba5007f17eeb1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[신이 아닌 인간이 버린 땅 아이티…‘총기식민지’를 끊어내려면]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202309251659001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202309251659001</guid>
-            <pubDate>Mon, 25 Sep 2023 17:31:50 GMT</pubDate>
-            <content:encoded><![CDATA[아이티 현대사에서 ‘이보다 더 나쁠 수 없다’는 말은 통하지 않는다. 19세기 프랑스를 상대로 독립투쟁을 벌여 세계 최초의 흑인 공화국으로 출발한 아이티는 20세기에 쿠데타와 독재로 신음하는 국가가 됐다. 허리케인과 대지진 등 자연재해마저 계속 찾아오면서 ‘신이 버린 땅’으로 불렸다. 2021년 7월 조브넬 모이즈 대통령이 암살된 이후 공권력은 아예 무너졌다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/25/news-p.v1.20230921.247bd1dd13bf4d9e8bf536aafb5a3932.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
