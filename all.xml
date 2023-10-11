@@ -4,9 +4,38 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 17:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 05:33:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[항저우 아시안게임 10위 북한…선수단장 “괜찮은 성적” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202310110725001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202310110725001</guid>
+            <pubDate>Wed, 11 Oct 2023 05:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[지난 8일 막을 내린 중국 항저우 아시안게임에서 북한 선수단을 이끈 오광혁 체육성 부상은 불리한 상황에서도 성과가 좋았다고 말했다.
+오광혁 부상은 11일 보도된 재일본조선인총연합회(조선총련) 기관지인 조선신보와의 인터뷰에서 “우리는 조선(북한)의 체육 기술 발전 실태를 세계만방에 시위하고 종목별 경기들마다에서 존엄 높은 공화국기를 휘날리며 조선 사람의 위용을 떨쳤다”며 “조국 인민들에게 크나큰 승리의 신심과 용기를 안겨주었다”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/11/news-p.v1.20231011.66adde377235450ba86d56f63f3a107b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내일이 총선이라면 어느 당에?…“국민의 힘” 32.6% “민주” 31.3% 응답 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/election/article/202310110653001</link>
+            <guid>https://www.khan.co.kr/politics/election/article/202310110653001</guid>
+            <pubDate>Wed, 11 Oct 2023 05:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[‘내일이 선거일이라면 어느 정당 소속 후보에게 투표할 것인가’라는 질문에 국민의힘과 더불어민주당이 오차범위 내 접전을 벌이고 있다는 여론조사 결과가 11일 나왔다.
+연합뉴스와 연합뉴스TV가 공동으로 여론조사 업체 메트릭스에 의뢰해 지난 7~8일 전국 만 18세 이상 남녀 1000명을 대상으로 실시한 정례 여론조사 결과, 내일이 총선이라면 국민의힘 후보를 뽑겠다는 응답은 32.6%, 민주당 후보에 투표하겠다는 응답은 31.3%였다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/11/news-p.v1.20231011.2e80385436c3461e8428d156a4933215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 서울 강서구청장 보궐선거 본투표…사전투표율 22.64% (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/election/article/202310110637001</link>
+            <guid>https://www.khan.co.kr/politics/election/article/202310110637001</guid>
+            <pubDate>Wed, 11 Oct 2023 05:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[서울 강서구청장 보궐선거 본투표가 11일 실시된다.
+투표는 이날 오전 6시부터 오후 8시까지 강서구 내 투표소 131곳에서 진행된다. 사전투표를 포함한 최종 투표 결과는 자정께 나올 것으로 예상된다.
+앞서 사전 투표는 6∼7일 이틀간 진행됐다. 투표율은 22.64%를 기록했다. 역대 지방선거와 재보궐선거 사전투표율 중 가장 높은 수치이다.
+이번 강서구청장 보궐선거 후보는 민주당 진교훈·국민의힘 김태우·정의당 권수정·진보당 권혜인·녹색당 김유리·자유통일당 고영일(이상 기호순) 등 모두 6명이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/11/news-p.v1.20231011.cb0ad26709464799b8fe01776a66f0e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상 해커에도 뚫린 선관위…국정원 “투·개표 조작 가능” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/election/article/202310102116005</link>
@@ -83,33 +112,6 @@
             <pubDate>Tue, 03 Oct 2023 17:32:00 GMT</pubDate>
             <content:encoded><![CDATA[이종암·이강훈·엄순봉 선생을 ‘10월의 독립운동가’로 선정했다고 국가보훈부가 3일 밝혔다. 이종암 선생(왼쪽 사진)은 1919년 의열단을 창립했다. 최고지도부 역할을 맡았던 1925년 체포돼 복역 중 병사했다. 이강훈(오른쪽)·엄순봉 선생은 아나키스트 비밀결사 남화한인청년연맹과 한·중·일 아나키스트 무장단체 항일구국연맹에서 활동했다. 엄순봉 선생은 1938년 사형당했으며 이강훈 선생은 옥고를 치르다 1945년 풀려났다. 세 사람 모두 독립훈장 건국장이 추서됐다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/03/2023100401000020100004031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박진, 추석 연휴 영·프 출장 “한국이 가진 것 나누는 엑스포 될 것” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310031514001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310031514001</guid>
-            <pubDate>Tue, 03 Oct 2023 17:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[박진 외교부 장관이 지난달 27일부터 지난 2일까지 4박6일 일정으로 영국·프랑스 출장길에 올라 안보 협력을 논의하고 2030 부산세계박람회(엑스포) 유치를 위한 외교 활동을 벌였다.
-3일 외교부에 따르면 지난달 27일 출국한 박 장관은 런던에서 첫 일정으로 한국전쟁 참전 기념비에 헌화한 뒤 한·영 외교장관 전략대화를 열었다. 두 외교장관은 한국의 2024~2025년 유엔 안전보장이사회 비상임이사국 수임과 관련한 양국 간 협력 방안과 최근 북·러 정상회담 개최 관련 동향을 비롯한 한반도 정세에 관해 의견을 교환했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/03/news-p.v1.20231003.2ed468f85bfd414793f8872463ddaf56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정은은 왜 우크라이나 전쟁을 ‘성전’이라고 말했을까 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/north-korea/article/202309290716001</link>
-            <guid>https://www.khan.co.kr/politics/north-korea/article/202309290716001</guid>
-            <pubDate>Fri, 29 Sep 2023 05:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[“김정은, 러시아의 우크라이나 ‘성전’ 지지를 약속하다.”
-파이낸셜타임스(FT)가 지난 13일 보스토치니 우주기지에서 열린 블라디미르 푸틴 러시아 대통령과 김정은 북한 국무위원장의 정상회담을 보도하며 내보낸 제목이다. FT뿐만 아니라 로이터통신, 가디언, CNN 등 영어권 주요 외신들이 김 위원장이 러시아의 우크라이나 침공을 옹호하면서 ‘성전’이라고 표현했다고 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/29/news-p.v1.20230925.0b6a00a6a07048ca9296be1cd57c8bf2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식민지배가 낳고 총기 밀매가 키운 ‘갱판’…책임지는 선진국이 없다 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202309260600025</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202309260600025</guid>
-            <pubDate>Tue, 26 Sep 2023 05:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[공화국으로 독립했지만 ‘적반하장’ 배상금에 발목 잡혀대지진으로 시스템 붕괴…권력 밀착 갱단 200여개 활개미국 등서 무기류 유입 지속…국제사회 묵인·방조 의혹
-아이티 현대사에서 ‘이보다 더 나쁠 수 없다’는 말은 통하지 않는다. 19세기 프랑스를 상대로 독립투쟁을 벌여 세계 최초의 흑인 공화국으로 출발한 아이티는 20세기에 쿠데타와 독재로 신음하는 국가가 됐다. 허리케인과 대지진 등 자연재해마저 계속 찾아오면서 ‘신이 버린 땅’으로 불렸다. 2021년 7월 조브넬 모이즈 대통령이 암살된 이후 공권력은 아예 무너졌다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/26/2023092201000816200085454.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -287,6 +289,14 @@
             <pubDate>Sun, 08 Oct 2023 17:33:41 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/08/764092.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후쿠시마 오염수 7800톤 2차 방류 시작…중국 "일본은 불량국가" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000763643?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000763643?type=journalists</guid>
+            <pubDate>Wed, 11 Oct 2023 05:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['철도 왕국' 일본 명성, 인구 감소로 휘청...결국 정부가 나섰다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -513,19 +523,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/04/758742.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[민단, 윤미향 의원직 사퇴 요구... 재일동포 사회 '이견'도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000758719?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000758719?type=journalists</guid>
-            <pubDate>Mon, 04 Sep 2023 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/04/758719.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독]전국 응급실 70%, 소아환자 진료 불가 또는 제한적··· (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033533?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033533?type=journalists</guid>
             <pubDate>Tue, 10 Oct 2023 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/10/33533.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1245,7 +1247,7 @@
             <link>https://n.news.naver.com/article/308/0000033508?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033508?type=journalists</guid>
             <pubDate>Tue, 03 Oct 2023 05:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/03/33508.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
