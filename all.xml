@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 05:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 17:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,19 +283,27 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0630/A0002941102_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김대중-오부치 선언 25주년… "과거사, 중장기 로드맵 마련해 풀어야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000764092?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000764092?type=journalists</guid>
-            <pubDate>Sun, 08 Oct 2023 17:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/08/764092.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[기시다의 실용주의 균형 외교..."이스라엘·팔레스타인 정상과 각각 통화" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000764505?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000764505?type=journalists</guid>
+            <pubDate>Wed, 11 Oct 2023 17:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/11/764505.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["중국의 대만 침공 걱정돼서"...일본, 토마호크 미사일 1년 빨리 산다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000763717?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000763717?type=journalists</guid>
+            <pubDate>Wed, 11 Oct 2023 17:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후쿠시마 오염수 7800톤 2차 방류 시작…중국 "일본은 불량국가" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000763643?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763643?type=journalists</guid>
             <pubDate>Wed, 11 Oct 2023 05:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,7 +311,7 @@
             <link>https://n.news.naver.com/article/469/0000763502?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763502?type=journalists</guid>
             <pubDate>Tue, 10 Oct 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763502.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -311,7 +319,7 @@
             <link>https://n.news.naver.com/article/469/0000763461?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763461?type=journalists</guid>
             <pubDate>Tue, 10 Oct 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -319,7 +327,7 @@
             <link>https://n.news.naver.com/article/469/0000763323?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763323?type=journalists</guid>
             <pubDate>Mon, 09 Oct 2023 17:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/03/763323.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -513,14 +521,6 @@
             <pubDate>Tue, 12 Sep 2023 17:32:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759016.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오염수 방류 후 중일 마찰, 소강 분위기... 빠른 해결은 난망 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000758742?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000758742?type=journalists</guid>
-            <pubDate>Mon, 04 Sep 2023 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/04/758742.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독]전국 응급실 70%, 소아환자 진료 불가 또는 제한적··· (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
