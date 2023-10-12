@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 17:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 05:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,8 +287,16 @@
             <link>https://n.news.naver.com/article/469/0000764505?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764505?type=journalists</guid>
             <pubDate>Wed, 11 Oct 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/11/764505.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김대중-오부치 선언 25주년… "과거사, 중장기 로드맵 마련해 풀어야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000764092?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000764092?type=journalists</guid>
+            <pubDate>Thu, 12 Oct 2023 05:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/08/764092.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["중국의 대만 침공 걱정돼서"...일본, 토마호크 미사일 1년 빨리 산다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -515,19 +523,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759151.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사카모토 류이치·무라카미 하루키도 반대...도쿄 '메이지진구가이엔' 재개발 시끌, 왜? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000759016?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000759016?type=journalists</guid>
-            <pubDate>Tue, 12 Sep 2023 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759016.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독]전국 응급실 70%, 소아환자 진료 불가 또는 제한적··· (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033533?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033533?type=journalists</guid>
             <pubDate>Tue, 10 Oct 2023 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/10/33533.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
