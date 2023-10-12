@@ -4,23 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 05:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 17:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미스터 엔 "엔저는 끝물...일본 경제 호조로 엔·달러 120엔 간다"[인터뷰]]]></title>
+            <link>https://n.news.naver.com/article/469/0000764620?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000764620?type=journalists</guid>
+            <pubDate>Thu, 12 Oct 2023 17:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/12/764620.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다의 실용주의 균형 외교..."이스라엘·팔레스타인 정상과 각각 통화"]]></title>
             <link>https://n.news.naver.com/article/469/0000764505?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764505?type=journalists</guid>
             <pubDate>Wed, 11 Oct 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/11/764505.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이스라엘 편들지 않고 미국과 차별화...기시다 '중동 균형 외교', 왜?]]></title>
+            <link>https://n.news.naver.com/article/469/0000764362?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000764362?type=journalists</guid>
+            <pubDate>Thu, 12 Oct 2023 17:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/10/764362.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김대중-오부치 선언 25주년… "과거사, 중장기 로드맵 마련해 풀어야"]]></title>
             <link>https://n.news.naver.com/article/469/0000764092?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764092?type=journalists</guid>
             <pubDate>Thu, 12 Oct 2023 05:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/08/764092.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000763717?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763717?type=journalists</guid>
             <pubDate>Wed, 11 Oct 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000763643?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763643?type=journalists</guid>
             <pubDate>Wed, 11 Oct 2023 05:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000763502?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763502?type=journalists</guid>
             <pubDate>Tue, 10 Oct 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763502.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000763461?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000763461?type=journalists</guid>
             <pubDate>Tue, 10 Oct 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 13 Sep 2023 17:33:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/07/759299.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 리창·일본 기시다, 아세안 정상회의서 오염수 문제로 신경전]]></title>
-            <link>https://n.news.naver.com/article/469/0000759211?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000759211?type=journalists</guid>
-            <pubDate>Wed, 06 Sep 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759211.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["수산물은 일본의 보물"...후쿠시마 응원 캠페인에 열심인 기시다 내각]]></title>
-            <link>https://n.news.naver.com/article/469/0000759151?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000759151?type=journalists</guid>
-            <pubDate>Mon, 11 Sep 2023 05:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/06/759151.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
