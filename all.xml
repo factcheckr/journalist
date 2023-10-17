@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 17:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 05:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,16 +288,8 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000765355?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765355?type=journalists</guid>
             <pubDate>Mon, 16 Oct 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/16/765355.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아도 일본산 수산물 수입 전면 중단..."중국과 더 밀착 위해" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000765349?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000765349?type=journalists</guid>
-            <pubDate>Mon, 16 Oct 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/16/765349.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "한국 스타트업과 일본 대기업 만나면 성장 잠재력 커서 '윈윈'이죠" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -312,15 +304,23 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000764905?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764905?type=journalists</guid>
             <pubDate>Fri, 13 Oct 2023 17:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/13/764905.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한국 드라마 보면 공개 처형...처형 참관한 북한 주민, 실어증 걸리기도" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000764739?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000764739?type=journalists</guid>
+            <pubDate>Tue, 17 Oct 2023 05:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/12/764739.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스터 엔 "엔저는 끝물...일본 경제 호조로 엔·달러 120엔 간다"[인터뷰] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000764620?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764620?type=journalists</guid>
             <pubDate>Thu, 12 Oct 2023 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/12/764620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +528,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/308/0000033533?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033533?type=journalists</guid>
             <pubDate>Tue, 10 Oct 2023 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/10/33533.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1244,6 +1244,14 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31479.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘김학의 사건’ 검사, 이번에도 넘어갈까? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033554?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033554?type=journalists</guid>
+            <pubDate>Tue, 17 Oct 2023 05:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/17/33554.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘가장 신뢰하는 정치인’을 물었더니 [2023 신뢰도 조사] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033508?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033508?type=journalists</guid>
@@ -1810,14 +1818,6 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31118.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검사가 아니었어도 이렇게 끝났을까 [프리스타일] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031110?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031110?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/05/31110.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
