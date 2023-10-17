@@ -4,9 +4,37 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 05:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 17:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[필리핀에서 납치된 한국인 구출 “건강 양호” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310171749001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310171749001</guid>
+            <pubDate>Tue, 17 Oct 2023 17:31:55 GMT</pubDate>
+            <content:encoded><![CDATA[필리핀에서 최근 한국인 1명이 납치됐다가 안전하게 구출됐다고 외교부가 17일 밝혔다.
+외교부는 지난달 27일쯤 필리핀에서 납치됐던 교민 1명이 16일 필리핀 경찰 납치수사국에 의해 안전하게 구출된 것으로 확인했다고 전했다. 교민의 건강상태는 양호한 것으로 전해졌다.
+용의자 중 1명은 필리핀 경찰이 현장에서 체포했다다. 현재 현지 당국의 수사가 진행 중이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/17/news-p.v1.20231017.e6e308cb5fa448e5a5b5b734d653b09e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바쁜 왕이…한·중·일 외교장관 회의 11월 개최 가능할까 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310171723011</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310171723011</guid>
+            <pubDate>Tue, 17 Oct 2023 17:31:55 GMT</pubDate>
+            <content:encoded><![CDATA[한·중·일 3국 정상회의 개최를 위한 3국 외교장관 회의에 왕이 중국 공산당 중앙정치국 위원 겸 외교부장의 바쁜 일정이 변수가 될 전망이다.
+17일 외교부에 따르면 외교부는 한·중·일 외교장관 회의 개최를 위해 중·일 외교당국과 일정과 의제 등을 조율하고 있다. 한·중·일 외교당국은 지난달 서울에서 각국 차관보가 참석하는 고위급회의를 열고 ‘상호 편리한 가장 빠른 시기’에 3국 정상회의를 열기로 합의했다. 한국은 3국 정상회의를 준비를 위한 외교장관 회의를 수개월 내 부산에서 열자고 제안했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/17/news-p.v1.20231017.a695c18dd0fa4849bd184500022ce3ed.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부 “기시다, 야스쿠니 공물 봉납 유감” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202310171506001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202310171506001</guid>
+            <pubDate>Tue, 17 Oct 2023 17:31:55 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 17일 기시다 후미오 일본 총리가 야스쿠니 신사에 공물을 봉납한 것에 대해 “깊은 실망과 유감을 표한다”고 밝혔다.
+임수석 외교부 대변인은 이날 정례브리핑에서 기시다 총리의 야스쿠니 신사 공물 봉납에 대한 입장을 묻자 “정부는 일본의 과거 침략 전쟁을 미화하고 전쟁 범죄자를 합사한 야스쿠니 신사에 일본의 책임 있는 지도급 인사들이 또다시 공물을 봉납하거나 참배를 되풀이한 데 대해 깊은 실망과 유감을 표한다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/17/news-p.v1.20231017.bd99fea30b2e45e38113c4f4ef02be18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한·미·일 북핵 수석대표 16~17일 회동…‘북·러 무기 거래’ 대응 주목 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310161326001</link>
@@ -87,32 +115,6 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <guid>https://www.khan.co.kr/politics/election/article/202310102116005</guid>
             <pubDate>Tue, 10 Oct 2023 17:32:19 GMT</pubDate>
             <content:encoded><![CDATA[국가정보원이 중앙선거관리위원회의 보안관리 실태를 점검한 결과 심각한 부실이 드러났다고 10일 밝혔다. 국정원은 기술적으로 해킹을 통해 투·개표 조작이 가능하다면서도 실제 해커가 선관위 내부망에 침투한 사례는 발견하지 못했다고 밝혔다. 선관위는 해킹을 통한 선거부정은 불가능하다며 국정원 발표가 선거불복을 조장할 수 있다고 반박했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[외교부 “이스라엘 체류 국민 191명, 오늘 대한항공편 귀국길 올라” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310101625001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310101625001</guid>
-            <pubDate>Tue, 10 Oct 2023 17:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[외교부는 10일 팔레스타인 무장 정파 하마스와 이스라엘군의 무력 충돌이 일어나고 있는 이스라엘에서 한국인 여행객이나 교민 피해는 접수되지 않았다고 밝혔다. 이스라엘에 머무르던 단기체류자 200명가량은 이날 귀국길에 오른다.
-이날 외교부에 따르면 현지시간으로 10일 오후 1시45분 단기 체류자 191명이 대한항공 항공편을 타고 현지를 출발해 한국시간 11일 오전 한국에 도착할 예정이다. 단기 체류자 27명은 육로를 통해 인접국 요르단으로 이동할 예정이다. 외교부는 또한 제3국적 항공사를 이용해 이스라엘로 입국한 30명이 오는 12일 터키항공을 이용해 출국한다고 전했다. 단기 체류자 250명 가량이 순차적으로 이스라엘을 떠나는 것이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/10/news-p.v1.20231010.824d75ceb5f54c70976bcd598ea7e0c4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국정원 “선관위 투·개표 해킹 가능···실제 침투 사례는 발견 못해” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/election/article/202310101200021</link>
-            <guid>https://www.khan.co.kr/politics/election/article/202310101200021</guid>
-            <pubDate>Tue, 10 Oct 2023 05:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[국가정보원이 중앙선거관리위원회의 보안관리 실태를 점검한 결과 심각한 부실이 드러났다고 10일 밝혔다. 국정원은 기술적으로 해킹을 통해 투·개표 조작이 가능하다면서도 실제 해커가 선관위 내부망에 침투한 사례는 발견하지 못했다고 밝혔다. 선관위는 해킹을 통한 선거부정은 불가능하다며 국정원 발표가 선거불복을 조장할 수 있다고 반박했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/10/news-p.v1.20231010.6ee4d7df77ce46188c68e5cebeb10bdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국은 이스라엘·팔레스타인 문제에 어떻게 기여할 수 있을까 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310061810011</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310061810011</guid>
-            <pubDate>Fri, 06 Oct 2023 17:31:48 GMT</pubDate>
-            <content:encoded><![CDATA[박진 외교부 장관이 6일 유엔 팔레스타인 난민구호기구(UNRWA)의 필립 라짜리니 집행위원장과 만나 팔레스타인 난민 지원을 확대하겠다고 약속했다.
-박 장관은 이날 오전 서울 종로구 외교부 청사에서 라짜리니 위원장을 만나 중동 정세와 한·UNRWA 협력 등에 대한 의견을 나눴다. 외교부에 따르면 박 장관은 라짜리니 위원장에게 “UNRWA가 약 600만명에 달하는 팔레스타인 난민을 대상으로 교육, 의료, 구호 및 공공서비스 등을 제공하는 등 적극적인 노력을 전개해 온 점을 높이 평가한다”며 “한국이 국제사회 책임있는 국가로서 팔레스타인 난민에 대한 지원을 지속적으로 확대해 나가기 위해 노력할 것”이라고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/06/news-p.v1.20231006.be275acf65f04f5d83b4daf21a0c3379.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -284,11 +286,19 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0630/A0002941102_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[변함없는 기시다...'A급 전범 합사' 야스쿠니 신사 공물 또 봉납 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000765538?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000765538?type=journalists</guid>
+            <pubDate>Tue, 17 Oct 2023 17:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/17/765538.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“뭘 해도 안 돼”…기시다 내각 출범 2년 ‘지지율 또 최저’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000765355?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765355?type=journalists</guid>
             <pubDate>Mon, 16 Oct 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/16/765355.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +306,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000764966?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764966?type=journalists</guid>
             <pubDate>Fri, 13 Oct 2023 17:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/13/764966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,14 +316,6 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <pubDate>Fri, 13 Oct 2023 17:33:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/13/764905.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국 드라마 보면 공개 처형...처형 참관한 북한 주민, 실어증 걸리기도" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000764739?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000764739?type=journalists</guid>
-            <pubDate>Tue, 17 Oct 2023 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/12/764739.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스터 엔 "엔저는 끝물...일본 경제 호조로 엔·달러 120엔 간다"[인터뷰] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -328,15 +330,23 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000764505?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764505?type=journalists</guid>
             <pubDate>Wed, 11 Oct 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/11/764505.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["걔 마이크 주지 마"...연예기획사 자니즈가 성착취 보도 막은 '치밀한' 방법 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000764456?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000764456?type=journalists</guid>
+            <pubDate>Tue, 17 Oct 2023 17:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/11/764456.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘 편들지 않고 미국과 차별화...기시다 '중동 균형 외교', 왜? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000764362?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764362?type=journalists</guid>
             <pubDate>Thu, 12 Oct 2023 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/10/764362.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -514,14 +524,6 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <pubDate>Mon, 18 Sep 2023 05:32:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/15/760831.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유네스코, '군함도' 일본 비판 뺀 결정문 채택... 다음은 사도광산 등재? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000760796?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000760796?type=journalists</guid>
-            <pubDate>Thu, 21 Sep 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/15/760796.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독]전국 응급실 70%, 소아환자 진료 불가 또는 제한적··· (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1248,7 +1250,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/308/0000033554?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033554?type=journalists</guid>
             <pubDate>Tue, 17 Oct 2023 05:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/17/33554.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
