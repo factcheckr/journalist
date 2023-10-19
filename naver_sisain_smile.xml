@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 17:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 05:32:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강서 선거 “윤 대통령의 패배” 평가 나오는 이유]]></title>
+            <link>https://n.news.naver.com/article/308/0000033569?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033569?type=journalists</guid>
+            <pubDate>Thu, 19 Oct 2023 05:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/19/33569.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘김학의 사건’ 검사, 이번에도 넘어갈까?]]></title>
             <link>https://n.news.naver.com/article/308/0000033554?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033554?type=journalists</guid>
             <pubDate>Tue, 17 Oct 2023 05:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/17/33554.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -574,14 +582,6 @@
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행보마다 사고, 사라지지 않는 김건희 리스크]]></title>
-            <link>https://n.news.naver.com/article/308/0000031118?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031118?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31118.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

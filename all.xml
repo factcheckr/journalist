@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 17:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 05:32:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한·미 정부 “북한 IT 인력 고용 않도록 주의하라” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202310191126001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202310191126001</guid>
+            <pubDate>Thu, 19 Oct 2023 05:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[한·미 양국이 19일 국내외 기업과 개인이 국적과 신분을 위장한 북한 정보기술(IT) 인력을 고용하거나 이들의 활동을 돕지 않도록 주의를 당부하는 주의보를 공동 발령했다.
+한국 외교부, 국가정보원, 경찰청과 미국 국무부, 연방수사국(FBI)은 주의보에서 “북한 IT 인력들은 해외 각지에 체류하면서 국적과 신분을 위장해 전 세계 IT 기업들로부터 일감을 수주하여 매년 수억달러에 달하는 외화를 벌어들이고 있다”며 “이들의 수익 상당 부분은 북한 정권의 핵·미사일 개발 및 통치자금으로 사용되고 있다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/19/news-p.v1.20231019.abec625d286b45e6a6fbfd4c7b3e73e8.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[필리핀에서 납치된 한국인 구출 “건강 양호” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310171749001</link>
@@ -108,13 +117,6 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
 앞서 사전 투표는 6∼7일 이틀간 진행됐다. 투표율은 22.64%를 기록했다. 역대 지방선거와 재보궐선거 사전투표율 중 가장 높은 수치이다.
 이번 강서구청장 보궐선거 후보는 민주당 진교훈·국민의힘 김태우·정의당 권수정·진보당 권혜인·녹색당 김유리·자유통일당 고영일(이상 기호순) 등 모두 6명이다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/11/news-p.v1.20231011.cb0ad26709464799b8fe01776a66f0e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상 해커에도 뚫린 선관위…국정원 “투·개표 조작 가능” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/election/article/202310102116005</link>
-            <guid>https://www.khan.co.kr/politics/election/article/202310102116005</guid>
-            <pubDate>Tue, 10 Oct 2023 17:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[국가정보원이 중앙선거관리위원회의 보안관리 실태를 점검한 결과 심각한 부실이 드러났다고 10일 밝혔다. 국정원은 기술적으로 해킹을 통해 투·개표 조작이 가능하다면서도 실제 해커가 선관위 내부망에 침투한 사례는 발견하지 못했다고 밝혔다. 선관위는 해킹을 통한 선거부정은 불가능하다며 국정원 발표가 선거불복을 조장할 수 있다고 반박했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -330,7 +332,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000764620?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764620?type=journalists</guid>
             <pubDate>Thu, 12 Oct 2023 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/12/764620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,7 +348,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000764456?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000764456?type=journalists</guid>
             <pubDate>Tue, 17 Oct 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/11/764456.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -530,7 +532,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/308/0000033567?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033567?type=journalists</guid>
             <pubDate>Wed, 18 Oct 2023 05:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/18/33567.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -538,7 +540,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/308/0000033566?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033566?type=journalists</guid>
             <pubDate>Wed, 18 Oct 2023 05:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/18/33566.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,6 +766,14 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <pubDate>Thu, 13 Apr 2023 05:32:59 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/13/32495.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘예고된 미래’ 우리 옆의 녹색일자리 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033571?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033571?type=journalists</guid>
+            <pubDate>Thu, 19 Oct 2023 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/19/33571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마침내 법정으로 간 대기업의 ‘처리수’ 문제 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1238,19 +1248,19 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/22/31492.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[생략한 이야기 오래 남는 기사 [프리스타일] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031479?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031479?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31479.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[강서 선거 “윤 대통령의 패배” 평가 나오는 이유 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033569?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033569?type=journalists</guid>
+            <pubDate>Thu, 19 Oct 2023 05:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/19/33569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘김학의 사건’ 검사, 이번에도 넘어갈까? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033554?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033554?type=journalists</guid>
             <pubDate>Tue, 17 Oct 2023 05:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/17/33554.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1812,14 +1822,6 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행보마다 사고, 사라지지 않는 김건희 리스크 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031118?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031118?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31118.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
