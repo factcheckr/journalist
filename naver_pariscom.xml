@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 05:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 17:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후쿠시마 원전 잔해 제거 '산 너머 산'... 로봇 팔 투입 가능할까]]></title>
+            <link>https://n.news.naver.com/article/469/0000766271?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000766271?type=journalists</guid>
+            <pubDate>Sun, 22 Oct 2023 17:34:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/22/766271.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[증세 좋아해 별명이 '증세 안경'인 기시다, 선거 앞두고 '소득세 감세' 던졌다]]></title>
             <link>https://n.news.naver.com/article/469/0000766108?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766108?type=journalists</guid>
             <pubDate>Fri, 20 Oct 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/20/766108.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000766071?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766071?type=journalists</guid>
             <pubDate>Fri, 20 Oct 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/20/766071.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,23 +36,15 @@
             <link>https://n.news.naver.com/article/469/0000765958?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765958?type=journalists</guid>
             <pubDate>Thu, 19 Oct 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765958.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혐한 발언 일삼아 ‘인권 침해’ 인정된 일본 의원, 사과 않고 ‘노코멘트’]]></title>
-            <link>https://n.news.naver.com/article/469/0000765957?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000765957?type=journalists</guid>
-            <pubDate>Thu, 19 Oct 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IAEA, 오염수 방류 후 첫 수산물 조사…한국·중국 전문가도 참여]]></title>
             <link>https://n.news.naver.com/article/469/0000765889?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765889?type=journalists</guid>
             <pubDate>Thu, 19 Oct 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765889.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000765538?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765538?type=journalists</guid>
             <pubDate>Tue, 17 Oct 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/17/765538.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,8 +60,16 @@
             <link>https://n.news.naver.com/article/469/0000765355?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765355?type=journalists</guid>
             <pubDate>Fri, 20 Oct 2023 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/16/765355.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아도 일본산 수산물 수입 전면 중단..."중국과 더 밀착 위해"]]></title>
+            <link>https://n.news.naver.com/article/469/0000765349?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000765349?type=journalists</guid>
+            <pubDate>Sun, 22 Oct 2023 17:34:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/16/765349.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "한국 스타트업과 일본 대기업 만나면 성장 잠재력 커서 '윈윈'이죠"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Sep 2023 17:32:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/24/762248.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[택시기사 없어서 택시 못 타는 일본...승차공유 서비스 뒤늦게 도입 추진]]></title>
-            <link>https://n.news.naver.com/article/469/0000761857?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000761857?type=journalists</guid>
-            <pubDate>Wed, 27 Sep 2023 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/21/761857.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
