@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 17:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000766481?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766481?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000766478?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766478?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766478.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000766432?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766432?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766432.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,19 +40,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766308.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후쿠시마 원전 잔해 제거 '산 너머 산'... 로봇 팔 투입 가능할까]]></title>
-            <link>https://n.news.naver.com/article/469/0000766271?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000766271?type=journalists</guid>
-            <pubDate>Sun, 22 Oct 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/22/766271.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[증세 좋아해 별명이 '증세 안경'인 기시다, 선거 앞두고 '소득세 감세' 던졌다]]></title>
             <link>https://n.news.naver.com/article/469/0000766108?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766108?type=journalists</guid>
             <pubDate>Fri, 20 Oct 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/20/766108.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000766071?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766071?type=journalists</guid>
             <pubDate>Fri, 20 Oct 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/20/766071.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000765958?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765958?type=journalists</guid>
             <pubDate>Thu, 19 Oct 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,15 +68,23 @@
             <link>https://n.news.naver.com/article/469/0000765889?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765889?type=journalists</guid>
             <pubDate>Thu, 19 Oct 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765889.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후쿠시마 바다 삼중수소 최고치…도쿄전력 “안전엔 영향 없어”]]></title>
+            <link>https://n.news.naver.com/article/469/0000765703?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000765703?type=journalists</guid>
+            <pubDate>Tue, 24 Oct 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/18/765703.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[변함없는 기시다...'A급 전범 합사' 야스쿠니 신사 공물 또 봉납]]></title>
             <link>https://n.news.naver.com/article/469/0000765538?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765538?type=journalists</guid>
             <pubDate>Tue, 17 Oct 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/17/765538.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000765355?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765355?type=journalists</guid>
             <pubDate>Fri, 20 Oct 2023 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/16/765355.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000765349?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765349?type=journalists</guid>
             <pubDate>Sun, 22 Oct 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/16/765349.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

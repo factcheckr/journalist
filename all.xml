@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 17:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외교부 “언론인 포함 이집트·가자 국경 방문 자제 권고” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310241708001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310241708001</guid>
+            <pubDate>Tue, 24 Oct 2023 17:31:51 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 언론인을 포함한 한국 국민에게 이스라엘 및 팔레스타인 가자지구와 국경을 접한 이집트 시나이반도 방문을 자제할 것을 권고했다.
+외교부 당국자는 24일 기자들과 만나 “이집트 시나이반도를 방문할 계획이 있는 국민들은 계획을 취소하거나 연기할 것을 권고한다”고 말했다.
+이 당국자는 “일부 매체가 이집트 시나이반도에서 취재를 희망한다는 문의가 들어오고 있다”고 밝힌 뒤 “이집트 당국은 2018년 2월부터 시나이반도 중북부 지역에서 대테러작전을 수행하고 있다. 이 지역은 생각보다 치안이 불안한 지역”이라고 말했다. 이 당국자는 “외국인은 특히 시나이반도에서 활동하는 무장세력에게 공격하기 쉬운 타깃이 되고 있으며 이집트 정부 역시 시나이반도 지역 대부분에 여행경보 3단계, 즉 전원 출국을 권고하고 있다”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/24/news-p.v1.20231024.947a76b56f0541299c6b469665779071.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[한덕수 “국방력·한미동맹 바탕, 북한 대화의 장 이끌겠다” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202310221531001</link>
@@ -108,15 +118,6 @@
 15일 국제적십자위원회(ICRC) 한국사무소에 따르면 한국은 ICRC의 ‘2023년 기부자 지원 그룹’(DSG) 일원으로 최근 합류해 내년 6월 말까지 활동한다.
 DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상인 고액 기여자 모임이다. 한국은 지난해 1050만스위스프랑(약 150억원)을 ICRC 본부와 사업 현장에 기부했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/15/news-p.v1.20231015.f00c8496414f4ab8b3d61790404f7c72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스라엘 교민·일본인 등 태운 군 수송기 무사 도착…일본 외무상 “감사” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310151000001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310151000001</guid>
-            <pubDate>Sun, 15 Oct 2023 05:31:52 GMT</pubDate>
-            <content:encoded><![CDATA[이스라엘에서 한국인 163명과 일본인 등 외국인 57명을 태우고 출발한 군 수송기가 14일 성남 서울공항에 무사히 도착했다.
-15일 외교부와 국방부에 따르면 한국 교민 등 220명을 태운 공군의 KC-330 ‘시그너스’ 다목적 공중급유 수송기가 전날 오후 10시 45분쯤 활주로에 착륙했다. 수송기에는 한국인 장기 체류자 81명과 단기 여행객 82명, 일본인과 일부 일본인의 타 국적 배우자 등 51명, 싱가포르인 6명이 탑승해 함께 이스라엘을 빠져나왔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/15/news-p.v1.20231015.e9600afb293d4ad89c24a6edd86061a4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -292,7 +293,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000766481?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766481?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +301,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000766478?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766478?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766478.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +309,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000766432?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766432?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766432.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,19 +321,11 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766308.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후쿠시마 원전 잔해 제거 '산 너머 산'... 로봇 팔 투입 가능할까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000766271?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000766271?type=journalists</guid>
-            <pubDate>Sun, 22 Oct 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/22/766271.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[증세 좋아해 별명이 '증세 안경'인 기시다, 선거 앞두고 '소득세 감세' 던졌다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000766108?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766108?type=journalists</guid>
             <pubDate>Fri, 20 Oct 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/20/766108.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +333,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000766071?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766071?type=journalists</guid>
             <pubDate>Fri, 20 Oct 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/20/766071.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +341,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000765958?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765958?type=journalists</guid>
             <pubDate>Thu, 19 Oct 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,15 +349,23 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000765889?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765889?type=journalists</guid>
             <pubDate>Thu, 19 Oct 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765889.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후쿠시마 바다 삼중수소 최고치…도쿄전력 “안전엔 영향 없어” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000765703?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000765703?type=journalists</guid>
+            <pubDate>Tue, 24 Oct 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/18/765703.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[변함없는 기시다...'A급 전범 합사' 야스쿠니 신사 공물 또 봉납 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000765538?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765538?type=journalists</guid>
             <pubDate>Tue, 17 Oct 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/17/765538.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -372,7 +373,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000765355?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765355?type=journalists</guid>
             <pubDate>Fri, 20 Oct 2023 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/16/765355.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -380,7 +381,7 @@ DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상�
             <link>https://n.news.naver.com/article/469/0000765349?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000765349?type=journalists</guid>
             <pubDate>Sun, 22 Oct 2023 17:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/16/765349.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
