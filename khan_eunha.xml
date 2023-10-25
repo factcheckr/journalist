@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 05:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 17:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유엔 특별총회 26일 ‘이스라엘·하마스’ 전쟁 논의…한국정부는 어떤 의견?]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310251704001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310251704001</guid>
+            <pubDate>Wed, 25 Oct 2023 17:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[이스라엘과 하마스의 전쟁에 대해 논의하는 유엔 긴급 특별총회 본회의가 26일(현지시간) 열린다. 국제사회의 여론을 확인할 수 있는 자리로 한국 정부도 투표 등을 통해 견해를 밝힌다.
+이스라엘과 팔레스타인 문제를 논의하기 위한 유엔 긴급 특별총회가 열리는 것은 2018년 6월 이후 5년 만이다. 지난해에는 러시아·우크라이나 전쟁을 논의하기 위한 특별총회가 여러 차례 소집됐다. 이스라엘·팔레스타인 문제는 일반총회 등에서 지속적으로 논의됐다. 긴급 특별총회는 193개 유엔 회원국이 투표권을 갖고 있으며 중요 안건은 회원국 3분의 2 이상이 출석·투표해 다수결로 결정된다. 특정 국가의 거부권은 인정되지 않는다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/25/news-p.v1.20231025.e80bd749a30e4c06b7ddee10bec09350.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[외교부 “언론인 포함 이집트·가자 국경 방문 자제 권고”]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310241708001</link>
@@ -108,16 +117,6 @@
             <content:encoded><![CDATA[이스라엘에서 한국인 163명과 일본인 등 외국인 57명을 태우고 출발한 군 수송기가 지난 14일 성남 서울공항에 무사히 도착했다.
 15일 외교부와 국방부에 따르면 한국 교민 등 220명을 태운 공군의 KC-330 ‘시그너스’ 다목적 공중 급유 수송기가 전날 오후 10시45분쯤 활주로에 착륙했다. 수송기에는 한국인 장기 체류자 81명과 단기 여행객 82명, 일본인과 일부 일본인의 타 국적 배우자 등 51명, 싱가포르인 6명이 탑승해 함께 이스라엘을 빠져나왔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/15/2023101601000424600044251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국, 국제적십자위원회 고액 기부자 대열 첫 합류]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310151038001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310151038001</guid>
-            <pubDate>Sun, 15 Oct 2023 05:31:52 GMT</pubDate>
-            <content:encoded><![CDATA[한국이 국제적십자위원회의 고액 기부자 그룹에 처음 합류했다.
-15일 국제적십자위원회(ICRC) 한국사무소에 따르면 한국은 ICRC의 ‘2023년 기부자 지원 그룹’(DSG) 일원으로 최근 합류해 내년 6월 말까지 활동한다.
-DSG는 연간 현금성 기여가 1000만스위스프랑(약 140억원) 이상인 고액 기여자 모임이다. 한국은 지난해 1050만스위스프랑(약 150억원)을 ICRC 본부와 사업 현장에 기부했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/15/news-p.v1.20231015.f00c8496414f4ab8b3d61790404f7c72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
