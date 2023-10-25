@@ -4,17 +4,9 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 17:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 05:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후쿠시마 오염수 2차 방류 완료..."삼중수소 농도 올라갔지만 안전하다"]]></title>
-            <link>https://n.news.naver.com/article/469/0000766481?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000766481?type=journalists</guid>
-            <pubDate>Mon, 23 Oct 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766481.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA["윤 대통령과의 개인적 신뢰관계"...기시다가 국회 연설서 강조한 까닭은]]></title>
             <link>https://n.news.naver.com/article/469/0000766478?type=journalists</link>
@@ -36,8 +28,16 @@
             <link>https://n.news.naver.com/article/469/0000766308?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766308?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 05:33:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766308.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후쿠시마 원전 잔해 제거 '산 너머 산'... 로봇 팔 투입 가능할까]]></title>
+            <link>https://n.news.naver.com/article/469/0000766271?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000766271?type=journalists</guid>
+            <pubDate>Wed, 25 Oct 2023 05:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/22/766271.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[증세 좋아해 별명이 '증세 안경'인 기시다, 선거 앞두고 '소득세 감세' 던졌다]]></title>
