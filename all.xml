@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 17:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 05:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,7 +308,7 @@
             <link>https://n.news.naver.com/article/469/0000766308?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766308?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 05:33:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766308.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,11 +528,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/26/762661.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어젯밤, 우리 아이가 응급실을 찾지 못한 이유 [소아응급 실태조사] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033615?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033615?type=journalists</guid>
+            <pubDate>Thu, 26 Oct 2023 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/26/33615.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“윤석열 정부에선 ‘공공병원’이란 단어가 사라졌다” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033567?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033567?type=journalists</guid>
             <pubDate>Wed, 18 Oct 2023 05:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/18/33567.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -540,7 +548,7 @@
             <link>https://n.news.naver.com/article/308/0000033566?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033566?type=journalists</guid>
             <pubDate>Wed, 18 Oct 2023 05:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/18/33566.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -760,19 +768,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/01/32615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[406개 판결문으로 본 ‘법원으로 간 학폭’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032495?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032495?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/13/32495.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[우리 모두 실패했다, 특히 경찰은 더욱 [이태원 참사 1주기] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033617?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033617?type=journalists</guid>
+            <pubDate>Thu, 26 Oct 2023 05:33:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/26/33617.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘예고된 미래’ 우리 옆의 녹색일자리 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033571?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033571?type=journalists</guid>
             <pubDate>Wed, 25 Oct 2023 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/19/33571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1288,19 +1296,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/30/31391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쿠팡플레이 ‘안나’ 사태가 남긴 것 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031358?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031358?type=journalists</guid>
-            <pubDate>Tue, 24 Oct 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/23/31358.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[그럼에도 정치를 사랑하는 마음 [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033578?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033578?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/20/33578.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1308,7 +1308,7 @@
             <link>https://n.news.naver.com/article/308/0000033569?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033569?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/19/33569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
