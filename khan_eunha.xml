@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 05:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 17:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외교부, 해외 탈북민보호 예산 1억6000만원 싹둑]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202310301650001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202310301650001</guid>
+            <pubDate>Mon, 30 Oct 2023 17:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[외교부가 해외 북한이탈주민(탈북민)을 보호하고 국내로 데려오는 데 사용되는 내년도 예산을 올해 예산보다 1억6000만원 이상을 감액해 국회에 제출한 것으로 확인됐다.
+30일 김상희 더불어민주당 의원실에 따르면 외교부는 정부가 국회에 제출한 예산 요구안에서 ‘2024년 민족공동체 해외협력사업’ 예산에 14억5400만원을 편성했다. 올해 해당 예산 16억1500만원에서 1억6100만원(10%)이 줄어들었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/30/news-p.v1.20231030.f66cacc645be4b12bb31d42bf225c474.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국, 유엔 채택 이스라엘·하마스 휴전 결의안 기권…왜?]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202310291449001</link>
@@ -107,16 +116,6 @@
             <content:encoded><![CDATA[한·미 양국이 19일 국내외 기업과 개인이 국적과 신분을 위장한 북한 정보기술(IT) 인력을 고용하거나 이들의 활동을 돕지 않도록 주의를 당부하는 주의보를 공동 발령했다.
 한국 외교부, 국가정보원, 경찰청과 미국 국무부, 연방수사국(FBI)은 주의보에서 “북한 IT 인력들은 해외 각지에 체류하면서 국적과 신분을 위장해 전 세계 IT 기업들로부터 일감을 수주하여 매년 수억달러에 달하는 외화를 벌어들이고 있다”며 “이들의 수익 상당 부분은 북한 정권의 핵·미사일 개발 및 통치자금으로 사용되고 있다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/19/news-p.v1.20231019.abec625d286b45e6a6fbfd4c7b3e73e8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[필리핀에서 납치된 한국인 구출 “건강 양호”]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310171749001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310171749001</guid>
-            <pubDate>Tue, 17 Oct 2023 17:31:55 GMT</pubDate>
-            <content:encoded><![CDATA[필리핀에서 최근 한국인 1명이 납치됐다가 안전하게 구출됐다고 외교부가 17일 밝혔다.
-외교부는 지난달 27일쯤 필리핀에서 납치됐던 교민 1명이 16일 필리핀 경찰 납치수사국에 의해 안전하게 구출된 것으로 확인했다고 전했다. 교민의 건강상태는 양호한 것으로 전해졌다.
-용의자 중 1명은 필리핀 경찰이 현장에서 체포했다다. 현재 현지 당국의 수사가 진행 중이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/17/news-p.v1.20231017.e6e308cb5fa448e5a5b5b734d653b09e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

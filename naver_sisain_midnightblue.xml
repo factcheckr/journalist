@@ -4,9 +4,33 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 05:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 17:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 모두 실패했다, 특히 경찰은 더욱 [이태원 참사 1주기]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033617?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033617?type=journalists</guid>
+            <pubDate>Mon, 30 Oct 2023 17:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/26/33617.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아무도 사과하지 않아서’ 이태원에 남았다 [이태원 참사 1주기]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033610?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033610?type=journalists</guid>
+            <pubDate>Mon, 30 Oct 2023 17:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/25/33610.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“이제는 참사가 제 잘못이 아니라는 걸 알아요” [이태원 참사 1주기]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033603?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033603?type=journalists</guid>
+            <pubDate>Mon, 30 Oct 2023 17:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/24/33603.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘엄마’가 ‘유가족’이 된 1년 [이태원 참사 1주기]]]></title>
             <link>https://n.news.naver.com/article/308/0000033596?type=journalists</link>
@@ -462,78 +486,6 @@
             <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/20/31624.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보호아동이 ‘어른’ 되려면 시설부터 바뀌어야 한다]]></title>
-            <link>https://n.news.naver.com/article/308/0000031623?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031623?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/19/31623.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 출생통보제 왜 필요할까요?]]></title>
-            <link>https://n.news.naver.com/article/308/0000031554?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031554?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/06/31554.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년 만에 돌아온 ‘사랑의 시인’]]></title>
-            <link>https://n.news.naver.com/article/308/0000031518?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031518?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/29/31518.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸그룹 초강세 ‘여덕’이 이끈다]]></title>
-            <link>https://n.news.naver.com/article/308/0000031492?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031492?type=journalists</guid>
-            <pubDate>Tue, 24 Oct 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/22/31492.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생략한 이야기 오래 남는 기사 [프리스타일]]]></title>
-            <link>https://n.news.naver.com/article/308/0000031479?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031479?type=journalists</guid>
-            <pubDate>Tue, 24 Oct 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/19/31479.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘헤결’ 정서경 작가, “‘작은 아씨들’에 굵으면서도 섬세한 이야길 담고 싶다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000031466?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031466?type=journalists</guid>
-            <pubDate>Tue, 24 Oct 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/15/31466.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큰 개는 다 위험해? 편견이 낳은 입마개 논란]]></title>
-            <link>https://n.news.naver.com/article/308/0000031449?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031449?type=journalists</guid>
-            <pubDate>Tue, 24 Oct 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31449.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시의 빈틈 살피러 반려견 순찰대가 간다]]></title>
-            <link>https://n.news.naver.com/article/308/0000031448?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031448?type=journalists</guid>
-            <pubDate>Tue, 24 Oct 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/09/31448.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] “내가 보이면 울어라.”]]></title>
-            <link>https://n.news.naver.com/article/308/0000031391?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031391?type=journalists</guid>
-            <pubDate>Tue, 24 Oct 2023 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/30/31391.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
