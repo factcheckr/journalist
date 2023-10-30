@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 17:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 05:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이탄희의 작심 선언 “직 걸고 선거제 퇴행 막겠다”]]></title>
+            <link>https://n.news.naver.com/article/308/0000033633?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033633?type=journalists</guid>
+            <pubDate>Mon, 30 Oct 2023 05:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/30/33633.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그럼에도 정치를 사랑하는 마음 [사람IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000033578?type=journalists</link>
@@ -574,14 +582,6 @@
             <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/10/31292.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 해외 순방 체면 구긴 바이든 대통령]]></title>
-            <link>https://n.news.naver.com/article/308/0000031219?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031219?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/26/31219.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
