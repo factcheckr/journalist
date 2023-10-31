@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 17:34:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 정부 “인도적 교전 중단 필요”…시민사회 “휴전 요구해야”]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310311622001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310311622001</guid>
+            <pubDate>Tue, 31 Oct 2023 17:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[한국 정부는 이스라엘군의 지상작전 개시로 날로 격화되고 있는 이스라엘과 하마스 전쟁과 관련해 ‘인도적 교전 중단’이 필요하다는 입장을 재차 밝혔다.
+외교부는 31일 박진 장관이 전날 투르크메니스탄 출장길에 경유지로 들른 이스탄불에서 사메 슈크리 이집트 외교장관과 전화통화에서 1만명에 육박하는 사망자가 발생하고 있는 가자지구 현실에 대한 우려를 표하며 “인도적 일시 교전중단이 필요하다”는 입장에 서로 공감했다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/31/news-p.v1.20231031.3dc204a6fc1f46faa57c17216b913953_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외교부, 해외 탈북민보호 예산 1억6000만원 싹둑]]></title>
             <link>https://www.khan.co.kr/politics/north-korea/article/202310301650001</link>
@@ -107,15 +116,6 @@
 외교부는 현재 레바논에는 한국인 170명이 머무르고 있다고 추산하고 있다. 유엔 레바논 평화유지군(UNIFIL)에 파견된 동명부대원을 제외한 수치다.
 외교부는 전날 이스라엘과 헤즈볼라 간 무력충돌 위험을 들어 레바논 전역에 ‘출국권고’에 해당하는 3단계 여행경보를 발령했다. 레바논은 이스라엘과 남부 국경을 접하고 있으며 시아파 무장조직 헤즈볼라가 활동하고 있다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/20/news-p.v1.20231020.46d306657051494c81e0eeed88b328c0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[한·미 정부 “북한 IT 인력 고용 않도록 주의하라”]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202310191126001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202310191126001</guid>
-            <pubDate>Thu, 19 Oct 2023 05:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[한·미 양국이 19일 국내외 기업과 개인이 국적과 신분을 위장한 북한 정보기술(IT) 인력을 고용하거나 이들의 활동을 돕지 않도록 주의를 당부하는 주의보를 공동 발령했다.
-한국 외교부, 국가정보원, 경찰청과 미국 국무부, 연방수사국(FBI)은 주의보에서 “북한 IT 인력들은 해외 각지에 체류하면서 국적과 신분을 위장해 전 세계 IT 기업들로부터 일감을 수주하여 매년 수억달러에 달하는 외화를 벌어들이고 있다”며 “이들의 수익 상당 부분은 북한 정권의 핵·미사일 개발 및 통치자금으로 사용되고 있다”고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/19/news-p.v1.20231019.abec625d286b45e6a6fbfd4c7b3e73e8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 17:34:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 정부 “인도적 교전 중단 필요”…시민사회 “휴전 요구해야” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310311622001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310311622001</guid>
+            <pubDate>Tue, 31 Oct 2023 17:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[한국 정부는 이스라엘군의 지상작전 개시로 날로 격화되고 있는 이스라엘과 하마스 전쟁과 관련해 ‘인도적 교전 중단’이 필요하다는 입장을 재차 밝혔다.
+외교부는 31일 박진 장관이 전날 투르크메니스탄 출장길에 경유지로 들른 이스탄불에서 사메 슈크리 이집트 외교장관과 전화통화에서 1만명에 육박하는 사망자가 발생하고 있는 가자지구 현실에 대한 우려를 표하며 “인도적 일시 교전중단이 필요하다”는 입장에 서로 공감했다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/31/news-p.v1.20231031.3dc204a6fc1f46faa57c17216b913953_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외교부, 해외 탈북민보호 예산 1억6000만원 싹둑 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/north-korea/article/202310301650001</link>
@@ -109,15 +118,6 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/20/news-p.v1.20231020.46d306657051494c81e0eeed88b328c0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[한·미 정부 “북한 IT 인력 고용 않도록 주의하라” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202310191126001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202310191126001</guid>
-            <pubDate>Thu, 19 Oct 2023 05:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[한·미 양국이 19일 국내외 기업과 개인이 국적과 신분을 위장한 북한 정보기술(IT) 인력을 고용하거나 이들의 활동을 돕지 않도록 주의를 당부하는 주의보를 공동 발령했다.
-한국 외교부, 국가정보원, 경찰청과 미국 국무부, 연방수사국(FBI)은 주의보에서 “북한 IT 인력들은 해외 각지에 체류하면서 국적과 신분을 위장해 전 세계 IT 기업들로부터 일감을 수주하여 매년 수억달러에 달하는 외화를 벌어들이고 있다”며 “이들의 수익 상당 부분은 북한 정권의 핵·미사일 개발 및 통치자금으로 사용되고 있다”고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/19/news-p.v1.20231019.abec625d286b45e6a6fbfd4c7b3e73e8.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202202210300055</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202202210300055</guid>
@@ -207,6 +207,14 @@
 성소수자에 대한 차별금지 조항에 반대하는 사람들이 내놓는 어처구니없는 논거 중 하나가 ‘한국에는 성소수자 차별이 없다’는 것이다. 뻔뻔하게도 구체적인 근거까지 내놓는다. 국가인권위원회에 성소수자 차별에 관한 진정 건수가 거의 없고, 외국과는 달리 한국에선 폭력이나 차별 사례도 별로 없지 않냐는 것이다. 잘 안 보이는 것과 없는 것은 완전히 다른 문제다. 안타깝게도 성소수자는 공식적으로 가시화되거나 정책 수립을 위한 인구집단으로 인정된 바가 없다. 인구주택총조사 등에서 성적지향이나 성별 정체성에 대한 통계를 체계적으로 수집한 적도 없고 교육, 노동, 보건의료, 가족 등의 정책 수립을 위한 실태조사에 성소수자 관련 조사를 포함시킨 적도 없다. 수사당국에서 소수자 대상 범죄 통계를 따로 집계하지도 않는다. 차별의 현실을 밝혀내려는 시도조차 하지 않았으니 차별이 입증될 수도 없다. 이런 상황에서 차별이 없다니 어안이 벙벙할 뿐이다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[직장 성추행 피해자의 변신, 이 여성이 흥미로운 이유 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002972724</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002972724</guid>
+            <pubDate>Tue, 31 Oct 2023 17:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/1027/A0002972724_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['케이팝' 남다르게 보는 사람들... 그들이 받은 심각한 악플 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002970884</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002970884</guid>
@@ -279,19 +287,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0719/A0002946062_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스포츠 브라를 입은 남자가 이상한가요? (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002944655</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002944655</guid>
-            <pubDate>Tue, 18 Jul 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0714/A0002944655_T.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[찾아가는 원격 의료에 의약품 드론 배송도... 인구 감소 지역까지 촘촘한 일본 의료 [클로즈업 재팬] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000767503?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000767503?type=journalists</guid>
+            <pubDate>Tue, 31 Oct 2023 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/30/767503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후쿠시마 오염수 2차 방류 완료..."삼중수소 농도 올라갔지만 안전하다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000766481?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766481?type=journalists</guid>
             <pubDate>Sun, 29 Oct 2023 17:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -299,7 +307,7 @@
             <link>https://n.news.naver.com/article/469/0000766478?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766478?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766478.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -307,7 +315,7 @@
             <link>https://n.news.naver.com/article/469/0000766432?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000766432?type=journalists</guid>
             <pubDate>Mon, 23 Oct 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766432.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -517,14 +525,6 @@
             <pubDate>Mon, 30 Oct 2023 05:33:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/03/763323.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 정부가 외면한 ‘미나마타병’ 피해자들, 국가 상대 손배 소송 이겼다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000762865?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000762865?type=journalists</guid>
-            <pubDate>Mon, 30 Oct 2023 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/09/27/762865.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어젯밤, 우리 아이가 응급실을 찾지 못한 이유 [소아응급 실태조사] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
