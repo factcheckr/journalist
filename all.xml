@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 17:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국정원 “북, 러시아에 포탄 100만발 이상 반출” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202311012152025</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202311012152025</guid>
+            <pubDate>Wed, 01 Nov 2023 17:32:04 GMT</pubDate>
+            <content:encoded><![CDATA[국회 정보위 비공개 국감8월부터 10여차례 수송 파악‘팔 포괄적 지지’ 지시 정황도
+북한이 러시아의 우크라이나 전쟁을 지원하기 위해 100만발 이상의 포탄을 반출한 것으로 보인다고 국가정보원이 1일 밝혔다.
+국회 정보위원회 국민의힘 간사 유상범 의원은 이날 비공개로 진행된 국정원 국정감사 결과 브리핑에서 “국정원은 북한이 지난 8월부터 러시아 선박 등을 이용해 포탄 등 각종 무기를 10여차례 수송한 것으로 파악했다”고 말했다. 국정원은 “나진항을 출발한 선박에 실린 물품은 러시아 보스토치니, 두나이 등을 거쳐 우크라이나 인근 티호레츠크 탄약고에 도착한 것으로 확인했다”면서 “반출된 포탄이 100만발 이상으로 파악 중이고, 이는 러시아·우크라이나 전쟁에서 두 달 동안 사용 가능한 양”이라고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국정원 “북한, 러시아에 포탄 100만발 반출…우크라이나전 두 달 치 소모량” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202311011928001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202311011928001</guid>
+            <pubDate>Wed, 01 Nov 2023 17:32:04 GMT</pubDate>
+            <content:encoded><![CDATA[북한이 러시아의 우크라이나 전쟁을 지원하기 위해 100만발 이상의 포탄을 반출한 것으로 보인다고 국가정보원이 1일 밝혔다.
+국회 정보위원회 국민의힘 간사 유상범 의원은 이날 비공개로 진행된 국정원 국정감사 결과 브리핑에서 “국정원은 북한이 지난 8월부터 러시아 선박 등을 이용해 포탄 등 각종 무기를 10여 차례 이상 수송한 것으로 파악했다”고 밝혔다. 유 의원에 따르면 국정원은 “나진항을 출발한 선박에 실린 물품은 러시아 보스토치니, 두나이 등을 거쳐 우크라이나 인근 티호레츠크 탄약고에 도착한 것으로 확인했다”고 보고했다. 그러면서 “이같이 반출된 포탄이 100만발 이상인 것으로 파악 중이고, 이는 러시아·우크라이나 전쟁에서 두 달 동안 사용 가능한 양이라고 보고 있다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/01/news-p.v1.20231101.c026e44986cd49149587fd6c1497615e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 정부 “인도적 교전 중단 필요”…시민사회 “휴전 요구해야” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310311622001</link>
@@ -97,25 +115,6 @@
             <content:encoded><![CDATA[박진 외교부 장관이 20일 아키바 토르 주한 이스라엘대사에게 이스라엘과 하마스의 무력충돌의 빠른 종식을 기원하고 국제인도법을 준수해야 한다고 당부했다.
 외교부에 따르면 박 장관은 이날 외교부에서 토르 대사를 접견한 자리에서 이스라엘과 하마스의 무력충돌로 인한 피해자와 유가족에게 애도를 표했다. 박 장관은 또 현재 가자 지구에 억류된 인질들의 무사한 석방을 기원했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/20/news-p.v1.20231020.14663dc089c74bf88d2abf3fc9f0a585.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[유엔총회 의장 “가자지구 난민 인도적 지원 문제 최우선” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202310201718001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202310201718001</guid>
-            <pubDate>Fri, 20 Oct 2023 17:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[데니스 프랜시스 유엔총회 의장이 이스라엘과 하마스 전쟁과 관련해 가자지구 난민에 대한 인도주의적 지원과 양측 민간인 보호가 가장 시급한 과제라고 20일 밝혔다.
-전·현직 유엔총회 의장들로 구성된 유엔총회의장협의회(UNCPGA) 회의 참석차 한국을 방문한 프랜시스 의장은 이날 서울 중구 롯데호텔에서 기자간담회를 열고 “가자지구 난민들의 인도주의적 위기 상황이 매우 심각한 상황”이라고 말했다. 그는 “가자지구 난민들이 이틀에 한 끼를 먹는다는 언론 보도까지 나오고 있다”며 “인도주의 지원이 시급히 이뤄져야 한다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/20/news-p.v1.20231020.47b97638c70041029a46162839eab222.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[레바논에서도 일부 교민 출국…현지 170명 체류 추산 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310201442001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310201442001</guid>
-            <pubDate>Fri, 20 Oct 2023 17:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[이스라엘과 헤즈볼라 간 무력충돌 위험을 피하기 위해 레바논에 체류하던 한국인 일부가 출국했다고 외교부가 20일 밝혔다.
-외교부는 현재 레바논에는 한국인 170명이 머무르고 있다고 추산하고 있다. 유엔 레바논 평화유지군(UNIFIL)에 파견된 동명부대원을 제외한 수치다.
-외교부는 전날 이스라엘과 헤즈볼라 간 무력충돌 위험을 들어 레바논 전역에 ‘출국권고’에 해당하는 3단계 여행경보를 발령했다. 레바논은 이스라엘과 남부 국경을 접하고 있으며 시아파 무장조직 헤즈볼라가 활동하고 있다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/20/news-p.v1.20231020.46d306657051494c81e0eeed88b328c0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -287,12 +286,36 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0719/A0002946062_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본은행, 장기금리 1% 넘겨도 허용키로…완화 정책 '틀'은 유지 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000767808?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000767808?type=journalists</guid>
+            <pubDate>Wed, 01 Nov 2023 17:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/31/767808.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[찾아가는 원격 의료에 의약품 드론 배송도... 인구 감소 지역까지 촘촘한 일본 의료 [클로즈업 재팬] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000767503?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000767503?type=journalists</guid>
             <pubDate>Tue, 31 Oct 2023 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/30/767503.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["성전환 수술 안 받아도 호적상 성별 변경 가능"...일본 최고법원이 결정 바꾼 이유는 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000767039?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000767039?type=journalists</guid>
+            <pubDate>Wed, 01 Nov 2023 17:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/26/767039.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 후쿠시마 원전 청소 중 오염수 샜다… "2명 병원 이송" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000767028?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000767028?type=journalists</guid>
+            <pubDate>Wed, 01 Nov 2023 17:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/26/767028.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후쿠시마 오염수 2차 방류 완료..."삼중수소 농도 올라갔지만 안전하다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -503,35 +526,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763643.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['철도 왕국' 일본 명성, 인구 감소로 휘청...결국 정부가 나섰다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000763502?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000763502?type=journalists</guid>
-            <pubDate>Tue, 10 Oct 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763502.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤추는 엔·달러 환율...150엔 돌파 후 일시 급락…정부 시장개입 효과? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000763461?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000763461?type=journalists</guid>
-            <pubDate>Tue, 10 Oct 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763461.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기무라 다쿠야 광고·드라마도 중지"... '자니즈 해체' 뒤늦은 결단 배경은 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000763323?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000763323?type=journalists</guid>
-            <pubDate>Mon, 30 Oct 2023 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/03/763323.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘의대 정원 확대’라는 소문난 잔치의 끝은? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033651?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033651?type=journalists</guid>
             <pubDate>Wed, 01 Nov 2023 05:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/01/33651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -771,7 +770,7 @@
             <link>https://n.news.naver.com/article/308/0000033647?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033647?type=journalists</guid>
             <pubDate>Wed, 01 Nov 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/01/33647.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

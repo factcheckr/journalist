@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 17:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본은행, 장기금리 1% 넘겨도 허용키로…완화 정책 '틀'은 유지]]></title>
+            <link>https://n.news.naver.com/article/469/0000767808?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000767808?type=journalists</guid>
+            <pubDate>Wed, 01 Nov 2023 17:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/31/767808.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찾아가는 원격 의료에 의약품 드론 배송도... 인구 감소 지역까지 촘촘한 일본 의료 [클로즈업 재팬]]]></title>
             <link>https://n.news.naver.com/article/469/0000767503?type=journalists</link>
@@ -14,6 +22,22 @@
             <pubDate>Tue, 31 Oct 2023 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/30/767503.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["성전환 수술 안 받아도 호적상 성별 변경 가능"...일본 최고법원이 결정 바꾼 이유는]]></title>
+            <link>https://n.news.naver.com/article/469/0000767039?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000767039?type=journalists</guid>
+            <pubDate>Wed, 01 Nov 2023 17:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/26/767039.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 후쿠시마 원전 청소 중 오염수 샜다… "2명 병원 이송"]]></title>
+            <link>https://n.news.naver.com/article/469/0000767028?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000767028?type=journalists</guid>
+            <pubDate>Wed, 01 Nov 2023 17:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/26/767028.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후쿠시마 오염수 2차 방류 완료..."삼중수소 농도 올라갔지만 안전하다"]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 11 Oct 2023 05:33:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763643.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['철도 왕국' 일본 명성, 인구 감소로 휘청...결국 정부가 나섰다]]></title>
-            <link>https://n.news.naver.com/article/469/0000763502?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000763502?type=journalists</guid>
-            <pubDate>Tue, 10 Oct 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763502.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤추는 엔·달러 환율...150엔 돌파 후 일시 급락…정부 시장개입 효과?]]></title>
-            <link>https://n.news.naver.com/article/469/0000763461?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000763461?type=journalists</guid>
-            <pubDate>Tue, 10 Oct 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/04/763461.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기무라 다쿠야 광고·드라마도 중지"... '자니즈 해체' 뒤늦은 결단 배경은]]></title>
-            <link>https://n.news.naver.com/article/469/0000763323?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000763323?type=journalists</guid>
-            <pubDate>Mon, 30 Oct 2023 05:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/03/763323.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
