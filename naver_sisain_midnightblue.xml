@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 17:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 05:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“혼자 고민하지 마. 명우형한테 오면 돼” [사람IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033647?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033647?type=journalists</guid>
+            <pubDate>Wed, 01 Nov 2023 05:32:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/01/33647.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 모두 실패했다, 특히 경찰은 더욱 [이태원 참사 1주기]]]></title>
             <link>https://n.news.naver.com/article/308/0000033617?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033617?type=journalists</guid>
             <pubDate>Mon, 30 Oct 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/26/33617.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000033610?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033610?type=journalists</guid>
             <pubDate>Mon, 30 Oct 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/25/33610.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000033603?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033603?type=journalists</guid>
             <pubDate>Mon, 30 Oct 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/24/33603.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/09/31739.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 ‘열여덟 살 어른’의 죽음이 우리에게 남긴 숙제]]></title>
-            <link>https://n.news.naver.com/article/308/0000031624?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031624?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/20/31624.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
