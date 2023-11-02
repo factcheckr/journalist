@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 17:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 05:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 올해 들어 중국에서 위스키·와인 수입 역대 최대]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202311021027001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202311021027001</guid>
+            <pubDate>Thu, 02 Nov 2023 05:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[올해 북한의 대중국 위스키와 와인 수입액이 역대 최대인 것으로 나타났다고 미국의소리(VOA)가 2일 보도했다.
+VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용을 분석한 결과 올해 들어 지난 9월까지 북한은 중국에서 17만1000ℓ, 287만달러어치의 위스키를 수입했다. 지난해 같은 기간 수입량 7만ℓ, 108만달러어치를보다 각각 두 배 이상 늘었다. 관련 자료를 확인할 수 있는 2010년 이후 최대치이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/02/news-p.v1.20231102.d377f1dae58e426f88d2f709272dcb96.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국정원 “북, 러시아에 포탄 100만발 이상 반출”]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202311012152025</link>
@@ -106,15 +115,6 @@
             <content:encoded><![CDATA[한덕수 국무총리가 22일 이북도민 체육대회에 참석해 “강한 국방력과 굳건한 한·미동맹을 바탕으로 북핵 억지력을 확보해 나가고 북한을 대화의 장으로 인도하고자 한다”고 말했다.
 한 총리는 이날 서울 용산구 효창운동장에서 열린 ‘제41회 대통령기 이북도민 체육대회’ 축사에서 “남북관계를 원칙과 상식을 기반으로 풀어갈 것”이라며 이같이 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/22/news-p.v1.20231022.15d6f5c199654fbfa4623d84aa7ea224.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[박진, 이스라엘 대사 만나 국제인도법 준수 당부]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310201720001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310201720001</guid>
-            <pubDate>Fri, 20 Oct 2023 17:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[박진 외교부 장관이 20일 아키바 토르 주한 이스라엘대사에게 이스라엘과 하마스의 무력충돌의 빠른 종식을 기원하고 국제인도법을 준수해야 한다고 당부했다.
-외교부에 따르면 박 장관은 이날 외교부에서 토르 대사를 접견한 자리에서 이스라엘과 하마스의 무력충돌로 인한 피해자와 유가족에게 애도를 표했다. 박 장관은 또 현재 가자 지구에 억류된 인질들의 무사한 석방을 기원했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/20/news-p.v1.20231020.14663dc089c74bf88d2abf3fc9f0a585.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
