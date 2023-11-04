@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 05:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 17:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,7 +290,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768278?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768278?type=journalists</guid>
             <pubDate>Thu, 02 Nov 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768278.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +298,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768201?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768201?type=journalists</guid>
             <pubDate>Thu, 02 Nov 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768201.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
