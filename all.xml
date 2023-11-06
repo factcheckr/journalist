@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 05:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 17:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,11 +286,19 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0719/A0002946062_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[400명 사는 일본 산골에 '고향 기부' 연 84억 원… '부익부 빈익빈' 실태 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000768791?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000768791?type=journalists</guid>
+            <pubDate>Mon, 06 Nov 2023 17:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/06/768791.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 외무장관, 이스라엘·팔레스타인 방문… “사태 진정 위해 외교 노력” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000768278?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768278?type=journalists</guid>
             <pubDate>Thu, 02 Nov 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768278.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,8 +306,16 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768201?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768201?type=journalists</guid>
             <pubDate>Mon, 06 Nov 2023 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768201.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본은행, 장기금리 1% 넘겨도 허용키로…완화 정책 '틀'은 유지 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000767808?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000767808?type=journalists</guid>
+            <pubDate>Mon, 06 Nov 2023 17:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/31/767808.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찾아가는 원격 의료에 의약품 드론 배송도... 인구 감소 지역까지 촘촘한 일본 의료 [클로즈업 재팬] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -508,22 +524,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <pubDate>Thu, 12 Oct 2023 17:32:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/10/764362.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김대중-오부치 선언 25주년… "과거사, 중장기 로드맵 마련해 풀어야" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000764092?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000764092?type=journalists</guid>
-            <pubDate>Thu, 12 Oct 2023 05:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/08/764092.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["중국의 대만 침공 걱정돼서"...일본, 토마호크 미사일 1년 빨리 산다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000763717?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000763717?type=journalists</guid>
-            <pubDate>Wed, 11 Oct 2023 17:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/05/763717.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘의대 정원 확대’라는 소문난 잔치의 끝은? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
