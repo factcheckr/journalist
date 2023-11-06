@@ -4,17 +4,9 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 17:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 05:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[기시다, 필리핀 국회서 첫 연설... 중국 겨냥 안보협력 '준동맹급 격상']]></title>
-            <link>https://n.news.naver.com/article/469/0000768595?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000768595?type=journalists</guid>
-            <pubDate>Sun, 05 Nov 2023 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/05/768595.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[일본 외무장관, 이스라엘·팔레스타인 방문… “사태 진정 위해 외교 노력”]]></title>
             <link>https://n.news.naver.com/article/469/0000768278?type=journalists</link>
@@ -24,11 +16,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768278.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후쿠시마 오염수 3차 해양 방류 시작…이번에도 7800톤]]></title>
+            <link>https://n.news.naver.com/article/469/0000768201?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000768201?type=journalists</guid>
+            <pubDate>Mon, 06 Nov 2023 05:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768201.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[찾아가는 원격 의료에 의약품 드론 배송도... 인구 감소 지역까지 촘촘한 일본 의료 [클로즈업 재팬]]]></title>
             <link>https://n.news.naver.com/article/469/0000767503?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000767503?type=journalists</guid>
             <pubDate>Sun, 05 Nov 2023 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/30/767503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
