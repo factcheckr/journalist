@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 05:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 17:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시그프리드 헤커 “미, 북핵 문제 이념적 접근 재앙적 결과 초래” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202311071948001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202311071948001</guid>
+            <pubDate>Tue, 07 Nov 2023 17:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 핵 과학자인 시그프리드 헤커 박사가 7일 “북한은 존재해선 안 되는 국가와 같은 이념적 접근이 북핵 문제 해결에 재앙과 같은 결과를 불러왔다”고 말했다.
+헤커 박사는 이날 서울 이화여대에서 열린 초청 강연에서 “미국은 1990년대부터 2020년대에 이르기까지 정부가 북핵과 관련해 결정을 해야 할 변곡점마다 엇나간 선택을 했다”며 이같이 말했다. 헤커 박사는 “북핵 문제는 단기적으로 해결이 어렵다”며 “우리는 잃어버린 기회를 다시 찾아와야 한다”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/07/news-p.v1.20231107.55f328948f014c3f9a9dbc958e844061.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[이종석 헌재소장 인사청문회 13일 열린다 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202311052201001</link>
@@ -106,15 +115,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <content:encoded><![CDATA[박진 외교부 장관은 이스라엘과 하마스 간 전쟁 와중에 이뤄진 윤석열 대통령의 사우디아라비아, 카타르 순방 결과에 대해 “글로벌 중추국가로서 위상을 확인하고 ‘제2의 중동특수’를 통해 경제 돌파구를 마련하는 큰 의미가 있다”고 말했다.
 박 장관은 26일 연합뉴스TV에 출연해 사우디가 우리 최대 원유공급국, 카타르가 제2 천연가스 공급국이라는 점을 거론하며 윤 대통령의 사우디, 카타르 순방이 “에너지 수급 안정화라는 점에서 대단히 큰 의의가 있다”고 말했다. 이어 “‘제2의 중동특수’를 통해 우리 일자리를 창출하고 경제 돌파구를 마련하는 큰 의미가 있다고 본다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/26/news-p.v1.20231026.adda854006574ea8a6cb5878330bfe47.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“고려 불상이라도 훔쳐오면 안 돼”...대법서 일본 소유권 인정 ‘반환 추진’ (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310261632001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310261632001</guid>
-            <pubDate>Thu, 26 Oct 2023 17:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[한국 절도단이 일본의 사찰에서 훔쳐 국내로 들여온 불상의 소유권이 일본에 있다는 대법원 판결에 따라 향후 불상을 일본으로 반환하는 작업이 이뤄질 것으로 보인다.
-2012년 10월 무렵 한국인 절도범들이 일본 쓰시마(대마도) 소재 사찰 간논지에서 높이 50.5㎝, 무게 38.6㎏의 금동관음보살좌상을 훔쳐 국내로 들여왔다. 절도범들은 불상을 22억원에 처분하려다 경찰에 적발됐다. 불상은 몰수돼 현재 대전국립문화재연구소에서 보관 중이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/26/news-p.v1.20231026.8794224bfd5c4b93a57e20e3a5bfffad_P2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -290,7 +290,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768791?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768791?type=journalists</guid>
             <pubDate>Mon, 06 Nov 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/06/768791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +298,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768278?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768278?type=journalists</guid>
             <pubDate>Thu, 02 Nov 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768278.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +306,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768201?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768201?type=journalists</guid>
             <pubDate>Mon, 06 Nov 2023 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768201.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +314,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000767808?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000767808?type=journalists</guid>
             <pubDate>Mon, 06 Nov 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/31/767808.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -530,7 +530,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/308/0000033681?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033681?type=journalists</guid>
             <pubDate>Tue, 07 Nov 2023 05:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/07/33681.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -770,7 +770,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/308/0000033679?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033679?type=journalists</guid>
             <pubDate>Tue, 07 Nov 2023 05:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/07/33679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
