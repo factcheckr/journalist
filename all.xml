@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 17:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 05:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,7 +290,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768791?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768791?type=journalists</guid>
             <pubDate>Mon, 06 Nov 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/06/768791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -322,7 +322,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000767503?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000767503?type=journalists</guid>
             <pubDate>Sun, 05 Nov 2023 17:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/30/767503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,11 +526,19 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/10/764362.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[두 달 사이, 증액에서 삭감으로 뒤바뀐 R&D 예산안 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033681?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033681?type=journalists</guid>
+            <pubDate>Tue, 07 Nov 2023 05:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/07/33681.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘의대 정원 확대’라는 소문난 잔치의 끝은? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033651?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033651?type=journalists</guid>
             <pubDate>Wed, 01 Nov 2023 05:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/01/33651.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -758,19 +766,19 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/09/32646.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고용노동부의 ‘놀라웠던’ 보도자료 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032624?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032624?type=journalists</guid>
-            <pubDate>Wed, 03 May 2023 05:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/03/32624.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[‘우리의 친구가 되어줘서 고마워’ [기자들의 시선] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033679?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033679?type=journalists</guid>
+            <pubDate>Tue, 07 Nov 2023 05:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/07/33679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“혼자 고민하지 마. 명우형한테 오면 돼” [사람IN] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033647?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033647?type=journalists</guid>
             <pubDate>Wed, 01 Nov 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/01/33647.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1238,19 +1246,11 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/10/31744.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“재난 책임자가 사과할 때, 시민들은 다시 힘을 얻는다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031739?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031739?type=journalists</guid>
-            <pubDate>Tue, 09 May 2023 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/09/31739.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이탄희의 작심 선언 “직 걸고 선거제 퇴행 막겠다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033633?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033633?type=journalists</guid>
             <pubDate>Mon, 30 Oct 2023 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.10.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/30/33633.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
