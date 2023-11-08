@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 05:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 17:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대북제재 뚫는 북한 ‘코인 해킹’…한·미 해법은?]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202311081703001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202311081703001</guid>
+            <pubDate>Wed, 08 Nov 2023 17:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[북한의 3차 정찰위성 발사를 앞두고 한·미 당국이 북핵 자금줄 차단을 위한 공조를 한층 더 강화하기로 했다. 양국은 특히 북한의 해킹을 통한 가상자산 탈취를 막는 데 집중할 계획이다.
+8일 외교부에 따르면 이준일 북핵기획단장과 정 박 미 국무부 대북특별부대표는 6~7일(현지시간) 워싱턴에서 양국 실무협상단을 이끌고 북한의 핵개발 동향과 대응방안을 논의했다. 한·미 양측은 북한이 최근 해외 공관을 연이어 폐쇄한 것을 주목했다. 북한은 최근 스페인·앙골라·우간다 주재 대사관과 홍콩 주재 총영사관을 폐쇄해 53개이던 해외공관을 49개로 줄였다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/08/news-p.v1.20231108.edc8329cdfe6447da82b21efeee3724e.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[핵 과학자 헤커 박사 “미국, 북핵 관련 결정 ‘변곡점’마다 엇나간 선택”]]></title>
             <link>https://www.khan.co.kr/people/people-general/article/202311080600005</link>
@@ -108,15 +117,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <content:encoded><![CDATA[한국이 지난 27일(현지시간) 유엔 총회에서 실시된 이스라엘과 하마스 간 무력 충돌 중단 요구 결의안 투표에서 기권했다.
 유엔 회원국들은 이날 미국 뉴욕 유엔본부에서 열린 긴급 총회에서 이스라엘과 하마스 간 인도주의적 휴전을 요구하는 결의안을 승인했다. 요르단이 주도한 이 결의안에는 가자지구에 대한 인도주의적 접근을 위해 이스라엘과 하마스의 즉각적인 휴전을 촉구하는 내용이 담겼다. 결의안에는 가자에 대한 인도적 지원을 “계속적으로 방해하지 않는다”는 내용도 담겼다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/29/news-p.v1.20231029.e1e7f6b16ac047acac03a7388f898adc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주한미국대사관, 이태원 참사 1주년 애도]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310291406001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310291406001</guid>
-            <pubDate>Sun, 29 Oct 2023 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[주한미국대사관이 이태원 참사 1주년을 맞아 “희생자 및 유가족과 마음을 함께 해 왔다”며 “떠난 사람들을 영원히 잊지 않겠다”며 애도를 표했다.
-주한미국대사관은 29일 페이스북에 필립 골드버그 대사의 이름으로 애도문을 게재했다. 골드버그 대사는 애도문에서 “이태원 참사 이후 지난 1년간 우리는 희생자들 및 유가족분들과 마음을 함께 해왔습니다”라고 밝혔다. 골드버그 대사는 “비통한 그날 밤의 1주기를 맞아 주한미국대사관을 대표해 다시 한번 깊은 애도를 표하며 떠나신 분들을 영원히 잊지 않을 것임을 거듭 강조하고자 합니다”라고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/29/news-p.v1.20231029.b2e6540cb1d24b659e0bb21d7d208388_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
