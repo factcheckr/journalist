@@ -4,9 +4,20 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 17:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 05:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핵 과학자 헤커 박사 “미국, 북핵 관련 결정 ‘변곡점’마다 엇나간 선택”]]></title>
+            <link>https://www.khan.co.kr/people/people-general/article/202311080600005</link>
+            <guid>https://www.khan.co.kr/people/people-general/article/202311080600005</guid>
+            <pubDate>Wed, 08 Nov 2023 05:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[냉전 붕괴 때 김일성 ‘이중 전략’미와 관계 개선 노력하며 핵개발“양자택일” 미, 협상 기회 놓쳐
+국제사회 대북제재 일변도 행동북을 한국 아닌 중국과 밀착시켜
+세계적 핵 과학자인 시그프리드 헤커 박사가 7일 “북한은 존재해선 안 되는 국가라는 식의 이념적 접근이 북핵 문제 해결에 재앙과 같은 결과를 불러왔다”고 말했다.
+헤커 박사는 이날 서울 이화여대에서 열린 초청 강연에서 “미국은 1990년대부터 2020년대에 이르기까지 정부가 북핵과 관련해 결정을 해야 할 변곡점마다 엇나간 선택을 했다”며 이같이 말했다. 헤커 박사는 “북핵 문제는 단기적으로 해결하기 어렵다”며 “우리는 잃어버린 기회를 다시 찾아와야 한다”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/08/2023110801000269700025331.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시그프리드 헤커 “미, 북핵 문제 이념적 접근 재앙적 결과 초래”]]></title>
             <link>https://www.khan.co.kr/politics/north-korea/article/202311071948001</link>
@@ -106,15 +117,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <content:encoded><![CDATA[주한미국대사관이 이태원 참사 1주년을 맞아 “희생자 및 유가족과 마음을 함께 해 왔다”며 “떠난 사람들을 영원히 잊지 않겠다”며 애도를 표했다.
 주한미국대사관은 29일 페이스북에 필립 골드버그 대사의 이름으로 애도문을 게재했다. 골드버그 대사는 애도문에서 “이태원 참사 이후 지난 1년간 우리는 희생자들 및 유가족분들과 마음을 함께 해왔습니다”라고 밝혔다. 골드버그 대사는 “비통한 그날 밤의 1주기를 맞아 주한미국대사관을 대표해 다시 한번 깊은 애도를 표하며 떠나신 분들을 영원히 잊지 않을 것임을 거듭 강조하고자 합니다”라고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/29/news-p.v1.20231029.b2e6540cb1d24b659e0bb21d7d208388_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박진 “제2 중동특수 경제 돌파구 마련…지역 안정 위해 역할 할 것”]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202310261649001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202310261649001</guid>
-            <pubDate>Thu, 26 Oct 2023 17:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[박진 외교부 장관은 이스라엘과 하마스 간 전쟁 와중에 이뤄진 윤석열 대통령의 사우디아라비아, 카타르 순방 결과에 대해 “글로벌 중추국가로서 위상을 확인하고 ‘제2의 중동특수’를 통해 경제 돌파구를 마련하는 큰 의미가 있다”고 말했다.
-박 장관은 26일 연합뉴스TV에 출연해 사우디가 우리 최대 원유공급국, 카타르가 제2 천연가스 공급국이라는 점을 거론하며 윤 대통령의 사우디, 카타르 순방이 “에너지 수급 안정화라는 점에서 대단히 큰 의의가 있다”고 말했다. 이어 “‘제2의 중동특수’를 통해 우리 일자리를 창출하고 경제 돌파구를 마련하는 큰 의미가 있다고 본다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/26/news-p.v1.20231026.adda854006574ea8a6cb5878330bfe47.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
