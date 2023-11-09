@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 05:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 17:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,35 +288,51 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0719/A0002946062_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['지지율 바닥' 기시다, 연내 중의원 해산·임기 연장 포기..."내년 기약" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000769405?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000769405?type=journalists</guid>
+            <pubDate>Thu, 09 Nov 2023 17:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/09/769405.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한미일 '북한 미사일 정보' 공유 시스템, 이달 중 완성" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000769361?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000769361?type=journalists</guid>
+            <pubDate>Thu, 09 Nov 2023 17:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/09/769361.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["윤 대통령·기시다, 17일 미국 스탠퍼드대서 공동 강연 조율 중" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000769208?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769208?type=journalists</guid>
             <pubDate>Wed, 08 Nov 2023 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769208.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인재 경쟁력 순위' 한국 24위, 일본 26위...10년 만에 첫 역전 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000769163?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000769163?type=journalists</guid>
-            <pubDate>Thu, 09 Nov 2023 05:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["한중일 외교장관 회의, 이달 26일 부산서 개최 최종 조율" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000769132?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769132?type=journalists</guid>
             <pubDate>Wed, 08 Nov 2023 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769132.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간 나오토 전 일본 총리, “차기 총선 출마도, 세습도 안 한다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000768808?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000768808?type=journalists</guid>
+            <pubDate>Thu, 09 Nov 2023 17:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/06/768808.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[400명 사는 일본 산골에 '고향 기부' 연 84억 원… '부익부 빈익빈' 실태 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000768791?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768791?type=journalists</guid>
             <pubDate>Mon, 06 Nov 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/06/768791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +340,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768595?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768595?type=journalists</guid>
             <pubDate>Wed, 08 Nov 2023 05:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/05/768595.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +348,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768278?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768278?type=journalists</guid>
             <pubDate>Thu, 02 Nov 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768278.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +356,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768267?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768267?type=journalists</guid>
             <pubDate>Wed, 08 Nov 2023 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768267.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +364,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768201?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768201?type=journalists</guid>
             <pubDate>Mon, 06 Nov 2023 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768201.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -510,22 +526,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <pubDate>Fri, 13 Oct 2023 17:33:47 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/13/764966.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“‘조국으로 돌아가라’는 혐오 표현”… 재일코리안 차별 글 게시자에 배상 판결 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000764905?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000764905?type=journalists</guid>
-            <pubDate>Fri, 13 Oct 2023 17:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/13/764905.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한국 좋다’ 일본인 늘었는데 ‘일본 좋다’ 한국인 줄어든 이유 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000764806?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000764806?type=journalists</guid>
-            <pubDate>Wed, 18 Oct 2023 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/12/764806.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘의사 유인 수요’라는 자기 얼굴에 먹칠하기 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
