@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 17:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 05:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에브리타임에서 ‘썰린 글’ 살려내다 [사람IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033702?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033702?type=journalists</guid>
+            <pubDate>Fri, 10 Nov 2023 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/10/33702.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이탄희의 작심 선언 “직 걸고 선거제 퇴행 막겠다”]]></title>
             <link>https://n.news.naver.com/article/308/0000033633?type=journalists</link>
@@ -622,14 +630,6 @@
             <pubDate>Thu, 02 Nov 2023 17:32:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.06.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/29/31086.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[51명의 검사 징계 내역을 공개합니다]]></title>
-            <link>https://n.news.naver.com/article/308/0000031047?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031047?type=journalists</guid>
-            <pubDate>Thu, 02 Nov 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31047.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
