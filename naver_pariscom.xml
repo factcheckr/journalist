@@ -4,23 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 05:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 17:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[태평양 도서국들, 후쿠시마 오염수에 “강한 우려” 표명]]></title>
-            <link>https://n.news.naver.com/article/469/0000770067?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000770067?type=journalists</guid>
-            <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770067.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[계속 힘 빠지는 기시다...'포스트 기시다' 명단까지 돈다]]></title>
+            <link>https://n.news.naver.com/article/469/0000770253?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000770253?type=journalists</guid>
+            <pubDate>Tue, 14 Nov 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/14/770253.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["기사 1건 클릭에 1원"... 일본 포털이 언론사에 내는 뉴스 사용료 공식 깨질까]]></title>
             <link>https://n.news.naver.com/article/469/0000770027?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770027?type=journalists</guid>
             <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000769683?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769683?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769683.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000769669?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769669?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769669.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,16 +44,8 @@
             <link>https://n.news.naver.com/article/469/0000769664?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769664?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769664.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지지율 바닥' 기시다, 연내 중의원 해산·임기 연장 포기..."내년 기약"]]></title>
-            <link>https://n.news.naver.com/article/469/0000769405?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000769405?type=journalists</guid>
-            <pubDate>Thu, 09 Nov 2023 17:32:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/09/769405.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769664.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["한미일 '북한 미사일 정보' 공유 시스템, 이달 중 완성"]]></title>
@@ -64,11 +56,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/09/769361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[G7 "가자지구 '교전 중지' 지지… 하마스 제재할 것"]]></title>
+            <link>https://n.news.naver.com/article/469/0000769211?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000769211?type=journalists</guid>
+            <pubDate>Tue, 14 Nov 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769211.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["윤 대통령·기시다, 17일 미국 스탠퍼드대서 공동 강연 조율 중"]]></title>
             <link>https://n.news.naver.com/article/469/0000769208?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769208?type=journalists</guid>
             <pubDate>Wed, 08 Nov 2023 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769208.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000769163?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769163?type=journalists</guid>
             <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,15 +84,23 @@
             <link>https://n.news.naver.com/article/469/0000769132?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769132?type=journalists</guid>
             <pubDate>Wed, 08 Nov 2023 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769132.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 지지율 바닥인데 "총리 내려와" 얘기는 잠잠...왜?]]></title>
+            <link>https://n.news.naver.com/article/469/0000769073?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000769073?type=journalists</guid>
+            <pubDate>Tue, 14 Nov 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[간 나오토 전 일본 총리, “차기 총선 출마도, 세습도 안 한다”]]></title>
             <link>https://n.news.naver.com/article/469/0000768808?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768808?type=journalists</guid>
             <pubDate>Thu, 09 Nov 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/06/768808.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://n.news.naver.com/article/469/0000768791?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768791?type=journalists</guid>
             <pubDate>Mon, 06 Nov 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/06/768791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 19 Oct 2023 17:32:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765958.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혐한 발언 일삼아 ‘인권 침해’ 인정된 일본 의원, 사과 않고 ‘노코멘트’]]></title>
-            <link>https://n.news.naver.com/article/469/0000765957?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000765957?type=journalists</guid>
-            <pubDate>Wed, 25 Oct 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

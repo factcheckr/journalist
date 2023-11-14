@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 05:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 17:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한·미·일 외교장관 회의 14일 개최…북핵 문제 등 논의 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202311141548001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202311141548001</guid>
+            <pubDate>Tue, 14 Nov 2023 17:31:30 GMT</pubDate>
+            <content:encoded><![CDATA[한·미·일 외교장관 회의가 14일(현지시간) 오전 미국 샌프란시스코에서 열린다.
+이날 외교부에 따르면 아시아태평양경제협력체(APEC) 회의가 열리는 샌프란시스코에서 박진 외교부 장관, 토니 블링컨 미국 국무장관, 가미카와 요코 일본 외무상이 만난다. 한국시간으로는 15일 새벽이다.
+세 장관이 만나는 것은 지난 9월 유엔 총회 계기에 뉴욕에서 약식 3자 회의를 한 지 2개월 만이다. 블링컨 미 국무장관은 지난 9일 서울에서 열린 한·미 외교장관 회담 이후 기자회견에서 “상호 편리한 시기에 만나게 다시 될 것”이라 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/14/news-p.v1.20231114.33117308f4674661abff0e2f1987e3d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 국방장관 “한국 측과 협의”…9·19 군사합의 효력정지 미국 속내는? (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202311131921001</link>
@@ -108,15 +118,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <content:encoded><![CDATA[국회 정보위 비공개 국감8월부터 10여차례 수송 파악‘팔 포괄적 지지’ 지시 정황도
 북한이 러시아의 우크라이나 전쟁을 지원하기 위해 100만발 이상의 포탄을 반출한 것으로 보인다고 국가정보원이 1일 밝혔다.
 국회 정보위원회 국민의힘 간사 유상범 의원은 이날 비공개로 진행된 국정원 국정감사 결과 브리핑에서 “국정원은 북한이 지난 8월부터 러시아 선박 등을 이용해 포탄 등 각종 무기를 10여차례 수송한 것으로 파악했다”고 말했다. 국정원은 “나진항을 출발한 선박에 실린 물품은 러시아 보스토치니, 두나이 등을 거쳐 우크라이나 인근 티호레츠크 탄약고에 도착한 것으로 확인했다”면서 “반출된 포탄이 100만발 이상으로 파악 중이고, 이는 러시아·우크라이나 전쟁에서 두 달 동안 사용 가능한 양”이라고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국정원 “북한, 러시아에 포탄 100만발 반출…우크라이나전 두 달 치 소모량” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202311011928001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202311011928001</guid>
-            <pubDate>Wed, 01 Nov 2023 17:32:04 GMT</pubDate>
-            <content:encoded><![CDATA[북한이 러시아의 우크라이나 전쟁을 지원하기 위해 100만발 이상의 포탄을 반출한 것으로 보인다고 국가정보원이 1일 밝혔다.
-국회 정보위원회 국민의힘 간사 유상범 의원은 이날 비공개로 진행된 국정원 국정감사 결과 브리핑에서 “국정원은 북한이 지난 8월부터 러시아 선박 등을 이용해 포탄 등 각종 무기를 10여 차례 이상 수송한 것으로 파악했다”고 밝혔다. 유 의원에 따르면 국정원은 “나진항을 출발한 선박에 실린 물품은 러시아 보스토치니, 두나이 등을 거쳐 우크라이나 인근 티호레츠크 탄약고에 도착한 것으로 확인했다”고 보고했다. 그러면서 “이같이 반출된 포탄이 100만발 이상인 것으로 파악 중이고, 이는 러시아·우크라이나 전쟁에서 두 달 동안 사용 가능한 양이라고 보고 있다”고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/01/news-p.v1.20231101.c026e44986cd49149587fd6c1497615e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -288,19 +289,19 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0719/A0002946062_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태평양 도서국들, 후쿠시마 오염수에 “강한 우려” 표명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000770067?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000770067?type=journalists</guid>
-            <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770067.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[계속 힘 빠지는 기시다...'포스트 기시다' 명단까지 돈다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000770253?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000770253?type=journalists</guid>
+            <pubDate>Tue, 14 Nov 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/14/770253.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["기사 1건 클릭에 1원"... 일본 포털이 언론사에 내는 뉴스 사용료 공식 깨질까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000770027?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770027?type=journalists</guid>
             <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +309,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769683?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769683?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769683.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +317,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769669?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769669?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769669.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,16 +325,8 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769664?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769664?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769664.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지지율 바닥' 기시다, 연내 중의원 해산·임기 연장 포기..."내년 기약" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000769405?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000769405?type=journalists</guid>
-            <pubDate>Thu, 09 Nov 2023 17:32:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/09/769405.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769664.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["한미일 '북한 미사일 정보' 공유 시스템, 이달 중 완성" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -344,11 +337,19 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/09/769361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[G7 "가자지구 '교전 중지' 지지… 하마스 제재할 것" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000769211?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000769211?type=journalists</guid>
+            <pubDate>Tue, 14 Nov 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769211.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["윤 대통령·기시다, 17일 미국 스탠퍼드대서 공동 강연 조율 중" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000769208?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769208?type=journalists</guid>
             <pubDate>Wed, 08 Nov 2023 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769208.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,7 +357,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769163?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769163?type=journalists</guid>
             <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,15 +365,23 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769132?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769132?type=journalists</guid>
             <pubDate>Wed, 08 Nov 2023 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769132.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 지지율 바닥인데 "총리 내려와" 얘기는 잠잠...왜? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000769073?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000769073?type=journalists</guid>
+            <pubDate>Tue, 14 Nov 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769073.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[간 나오토 전 일본 총리, “차기 총선 출마도, 세습도 안 한다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000768808?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768808?type=journalists</guid>
             <pubDate>Thu, 09 Nov 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/06/768808.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -380,7 +389,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000768791?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000768791?type=journalists</guid>
             <pubDate>Mon, 06 Nov 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/06/768791.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -518,14 +527,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <pubDate>Thu, 19 Oct 2023 17:32:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765958.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혐한 발언 일삼아 ‘인권 침해’ 인정된 일본 의원, 사과 않고 ‘노코멘트’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000765957?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000765957?type=journalists</guid>
-            <pubDate>Wed, 25 Oct 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘의사 유인 수요’라는 자기 얼굴에 먹칠하기 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
