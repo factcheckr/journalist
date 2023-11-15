@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 05:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 17:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[평양서 ‘북·러경제공동위’ 부문별 회담…러 천연자원부 장관 참석 (경향신문 ─ 박은하 기자)]]></title>
+            <title><![CDATA[북·러 경협 본격화되나…평양서 ‘북·러경제공동위’ 부문별 회담 열려 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/north-korea/article/202311150749001</link>
             <guid>https://www.khan.co.kr/politics/north-korea/article/202311150749001</guid>
             <pubDate>Wed, 15 Nov 2023 05:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[평양에서 북·러 경제각료들이 참여하는 회담이 진행되고 있다. 북·러 정상회담 합의 이행을 위한 후속 조치로 보인다.
-북한 공식매체 조선중앙통신은 15일 평양에서 북한과 러시아의 ‘10차 북·러 경제공동위원회’(조로 정부간 무역, 경제 및 과학기술협조위원회)의 부문별 회담이 진행 중이라고 보도했다. 통신은 “쌍방의 실무 일군(간부)들이 참가한 회담들에서는 이번 회의 의정서에 반영할 여러 분야에서의 협조 실현을 위한 실천적 문제들이 진지하게 토의되고 있다”고 전했다.]]></content:encoded>
+            <content:encoded><![CDATA[북한과 러시아가 평양에서 10차 북·러 경제공동위원회의 부문별 회담을 진행했다. 경제협력을 비롯해 지난 9월 러시아에서 열린 북·러 정상회담 후속조치를 논의한 것으로 보인다.
+북한 공식매체 조선중앙통신은 15일 평양에서 ‘10차 북·러 경제공동위원회’(조로 정부간 무역, 경제 및 과학기술협조위원회)의 부문별 회담이 진행되고 있다며 “쌍방의 실무 일군(간부)들이 참가한 회담들에서는 이번 회의 의정서에 반영할 여러 분야에서의 협조 실현을 위한 실천적 문제들이 진지하게 토의되고 있다”고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/15/news-p.v1.20231115.96d52a64292e400dbe1bff9d01cf642f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -289,11 +289,19 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0719/A0002946062_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 7~9월 경제성장률 -0.5%... 마이너스 전환 이유는? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000770430?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000770430?type=journalists</guid>
+            <pubDate>Wed, 15 Nov 2023 17:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/15/770430.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["기사 1건 클릭에 1원"... 일본 포털이 언론사에 내는 뉴스 사용료 공식 깨질까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000770027?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770027?type=journalists</guid>
             <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -301,7 +309,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769683?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769683?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769683.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -309,7 +317,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769669?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769669?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769669.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -317,7 +325,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769664?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769664?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769664.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -325,7 +333,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769405?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769405?type=journalists</guid>
             <pubDate>Wed, 15 Nov 2023 05:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/09/769405.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -341,7 +349,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769211?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769211?type=journalists</guid>
             <pubDate>Tue, 14 Nov 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -349,7 +357,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769208?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769208?type=journalists</guid>
             <pubDate>Wed, 08 Nov 2023 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769208.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -357,7 +365,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769163?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769163?type=journalists</guid>
             <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -365,7 +373,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769132?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769132?type=journalists</guid>
             <pubDate>Wed, 08 Nov 2023 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/08/769132.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -519,14 +527,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <pubDate>Thu, 26 Oct 2023 17:33:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/20/765990.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄전력 "3차 방류 오염수서 방사성 물질 5종 미량 검출" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000765958?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000765958?type=journalists</guid>
-            <pubDate>Thu, 19 Oct 2023 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/19/765958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘의사 유인 수요’라는 자기 얼굴에 먹칠하기 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
