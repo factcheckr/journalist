@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 05:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 17:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,11 +289,19 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0719/A0002946062_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시진핑·기시다, 오염수 입장 평행선…그래도 “대화로 풀자” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000770860?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000770860?type=journalists</guid>
+            <pubDate>Fri, 17 Nov 2023 17:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/17/770860.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["올해 인상분보다 많이"...임금 인상에 올인하는 기시다, 왜? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000770660?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770660?type=journalists</guid>
             <pubDate>Thu, 16 Nov 2023 17:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/16/770660.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -301,7 +309,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000770620?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770620?type=journalists</guid>
             <pubDate>Thu, 16 Nov 2023 17:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/16/770620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -309,7 +317,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000770430?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770430?type=journalists</guid>
             <pubDate>Wed, 15 Nov 2023 17:32:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/15/770430.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -317,7 +325,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000770027?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770027?type=journalists</guid>
             <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -325,7 +333,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769683?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769683?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769683.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -333,7 +341,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769669?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769669?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769669.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -341,7 +349,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769664?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769664?type=journalists</guid>
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769664.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -349,7 +357,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000769405?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000769405?type=journalists</guid>
             <pubDate>Wed, 15 Nov 2023 05:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/09/769405.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -519,14 +527,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <pubDate>Sat, 28 Oct 2023 17:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/22/766271.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[증세 좋아해 별명이 '증세 안경'인 기시다, 선거 앞두고 '소득세 감세' 던졌다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000766108?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000766108?type=journalists</guid>
-            <pubDate>Fri, 20 Oct 2023 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/20/766108.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘의사 유인 수요’라는 자기 얼굴에 먹칠하기 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1249,6 +1249,30 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/10/31744.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘압수수색 시대’를 살아가는 시민들의 필독서 [기자의 추천 책] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033731?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033731?type=journalists</guid>
+            <pubDate>Fri, 17 Nov 2023 17:33:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/15/33731.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김학의 사건’ 검사들이 처벌을 피해갔다 [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033720?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033720?type=journalists</guid>
+            <pubDate>Fri, 17 Nov 2023 17:33:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/13/33720.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꾸준히 취재하고 구체적으로 써달라 [시사IN 독자위원회] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033707?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033707?type=journalists</guid>
+            <pubDate>Fri, 17 Nov 2023 17:33:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/11/33707.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에브리타임에서 ‘썰린 글’ 살려내다 [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033702?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033702?type=journalists</guid>
@@ -1847,78 +1871,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <pubDate>Thu, 02 Nov 2023 17:32:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행보마다 사고, 사라지지 않는 김건희 리스크 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031118?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031118?type=journalists</guid>
-            <pubDate>Thu, 02 Nov 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/06/31118.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검사가 아니었어도 이렇게 끝났을까 [프리스타일] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031110?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031110?type=journalists</guid>
-            <pubDate>Thu, 02 Nov 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/05/31110.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 성동구에 꽂힌 유일한 파란 깃발, 그는 어떻게 승리했나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031086?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031086?type=journalists</guid>
-            <pubDate>Mon, 13 Nov 2023 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/29/31086.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[51명의 검사 징계 내역을 공개합니다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031047?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031047?type=journalists</guid>
-            <pubDate>Mon, 13 Nov 2023 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31047.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부 5년의 ‘검찰개혁’을 묻다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031046?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031046?type=journalists</guid>
-            <pubDate>Mon, 13 Nov 2023 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31046.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 김건희 여사의 잇따른 행보, ‘제2부속실 폐지’ 괜찮나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031045?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031045?type=journalists</guid>
-            <pubDate>Mon, 13 Nov 2023 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/21/31045.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 비대위가 주목해야 할 세 가지 숫자 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031010?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031010?type=journalists</guid>
-            <pubDate>Mon, 13 Nov 2023 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/13/31010.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불꽃'같은 낯선 존재, 박지현의 80일 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030980?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030980?type=journalists</guid>
-            <pubDate>Mon, 13 Nov 2023 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.06.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/06/06/30980.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송영길의 ‘견제론’vs 오세훈의 ‘준비된 미래’ (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000030924?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000030924?type=journalists</guid>
-            <pubDate>Mon, 13 Nov 2023 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.05.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/05/27/30924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
