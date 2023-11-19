@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 05:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 17:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,7 +293,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000770860?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770860?type=journalists</guid>
             <pubDate>Fri, 17 Nov 2023 17:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/17/770860.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -301,7 +301,7 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000770660?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770660?type=journalists</guid>
             <pubDate>Thu, 16 Nov 2023 17:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/16/770660.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -309,23 +309,31 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <link>https://n.news.naver.com/article/469/0000770620?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770620?type=journalists</guid>
             <pubDate>Thu, 16 Nov 2023 17:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/16/770620.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 7~9월 경제성장률 -0.5%... 마이너스 전환 이유는? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000770430?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000770430?type=journalists</guid>
-            <pubDate>Wed, 15 Nov 2023 17:32:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/15/770430.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[개각 두 달 만에 체납·성매매 등으로 차관급 3명 사임…기시다, 또 타격 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000770085?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000770085?type=journalists</guid>
+            <pubDate>Sun, 19 Nov 2023 17:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770085.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태평양 도서국들, 후쿠시마 오염수에 “강한 우려” 표명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000770067?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000770067?type=journalists</guid>
+            <pubDate>Sun, 19 Nov 2023 17:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770067.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["기사 1건 클릭에 1원"... 일본 포털이 언론사에 내는 뉴스 사용료 공식 깨질까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000770027?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000770027?type=journalists</guid>
             <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -519,14 +527,6 @@ VOA가 중국 해관총서와 한국무역협회의 북·중 무역 세부내용
             <pubDate>Mon, 23 Oct 2023 05:33:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766308.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 원전 잔해 제거 '산 너머 산'... 로봇 팔 투입 가능할까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000766271?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000766271?type=journalists</guid>
-            <pubDate>Sat, 28 Oct 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/22/766271.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘의사 유인 수요’라는 자기 얼굴에 먹칠하기 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
