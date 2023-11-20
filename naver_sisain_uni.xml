@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 17:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 05:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 신임 사장의 속전속결 인사 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033760?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033760?type=journalists</guid>
+            <pubDate>Mon, 20 Nov 2023 05:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/20/33760.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘의사 유인 수요’라는 자기 얼굴에 먹칠하기 [프리스타일]]]></title>
             <link>https://n.news.naver.com/article/308/0000033689?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 17 May 2023 05:33:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/17/32692.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1000년의 변화, 변곡점에 도달한 인류 [기자의 추천 책]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032686?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032686?type=journalists</guid>
-            <pubDate>Tue, 16 May 2023 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/16/32686.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

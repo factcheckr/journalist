@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 17:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 05:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 16 Nov 2023 17:31:57 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/16/770620.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 7~9월 경제성장률 -0.5%... 마이너스 전환 이유는?]]></title>
+            <link>https://n.news.naver.com/article/469/0000770430?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000770430?type=journalists</guid>
+            <pubDate>Mon, 20 Nov 2023 05:32:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/15/770430.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개각 두 달 만에 체납·성매매 등으로 차관급 3명 사임…기시다, 또 타격]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 Oct 2023 17:32:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766432.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["지상전 해도 '하마스 궤멸'은 불가능... 오히려 보복의 연쇄만 불러"]]></title>
-            <link>https://n.news.naver.com/article/469/0000766308?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000766308?type=journalists</guid>
-            <pubDate>Mon, 23 Oct 2023 05:33:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766308.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
