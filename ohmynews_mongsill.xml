@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 17:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 05:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성직자에게 '동성애' 묻는 건 폭력? 신부님, 주위를 보십시오]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002978578</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002978578</guid>
+            <pubDate>Tue, 21 Nov 2023 05:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/1117/A0002978578_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[직장 성추행 피해자의 변신, 이 여성이 흥미로운 이유]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002972724</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 31 Jul 2023 05:32:12 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0728/A0002948397_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["혹시 스레드 쓰시나요?" 이 질문이 무겁게 다가온 이유]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002946062</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002946062</guid>
-            <pubDate>Sun, 23 Jul 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0719/A0002946062_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

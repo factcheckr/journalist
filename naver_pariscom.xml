@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 17:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 05:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 "북한, 22일∼내달 1일 사이 위성 발사 계획 통보"]]></title>
+            <link>https://n.news.naver.com/article/469/0000771305?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000771305?type=journalists</guid>
+            <pubDate>Tue, 21 Nov 2023 05:32:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/21/771305.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 외무장관 25, 26일 한국행..."한중일 외교장관 회의 참석"]]></title>
             <link>https://n.news.naver.com/article/469/0000771242?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000771242?type=journalists</guid>
             <pubDate>Mon, 20 Nov 2023 17:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/20/771242.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Nov 2023 17:33:28 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/26/767028.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 오염수 2차 방류 완료..."삼중수소 농도 올라갔지만 안전하다"]]></title>
-            <link>https://n.news.naver.com/article/469/0000766481?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000766481?type=journalists</guid>
-            <pubDate>Sun, 29 Oct 2023 17:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/23/766481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
