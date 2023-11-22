@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 17:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 05:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[북한 위성 발사에 일본 오키나와에 한때 피난 경보... "궤도 돌입 확인 안 돼"]]></title>
+            <title><![CDATA[일본 최초 여성 총리로? '포스트 기시다'로 거론되는 가미카와 외무장관]]></title>
+            <link>https://n.news.naver.com/article/469/0000771496?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000771496?type=journalists</guid>
+            <pubDate>Wed, 22 Nov 2023 05:33:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/22/771496.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 위성 발사에 일본 오키나와 한때 피난 경보... "궤도 돌입 확인 안 돼"]]></title>
             <link>https://n.news.naver.com/article/469/0000771483?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000771483?type=journalists</guid>
             <pubDate>Tue, 21 Nov 2023 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/22/771483.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000771305?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000771305?type=journalists</guid>
             <pubDate>Tue, 21 Nov 2023 05:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/21/771305.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Nov 2023 05:32:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/02/768201.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본은행, 장기금리 1% 넘겨도 허용키로…완화 정책 '틀'은 유지]]></title>
-            <link>https://n.news.naver.com/article/469/0000767808?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000767808?type=journalists</guid>
-            <pubDate>Mon, 06 Nov 2023 17:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/10/31/767808.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
