@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 17:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 05:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그것이 알고 싶다 ‘R&D 예산 삭감 미스터리’]]></title>
+            <link>https://n.news.naver.com/article/308/0000033781?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033781?type=journalists</guid>
+            <pubDate>Thu, 23 Nov 2023 05:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/23/33781.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 신임 사장의 속전속결 인사 [기자들의 시선]]]></title>
             <link>https://n.news.naver.com/article/308/0000033760?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033760?type=journalists</guid>
             <pubDate>Mon, 20 Nov 2023 05:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/20/33760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 May 2023 05:32:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/24/32730.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두가 피를 말리는 ‘소아과 전쟁’]]></title>
-            <link>https://n.news.naver.com/article/308/0000032692?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032692?type=journalists</guid>
-            <pubDate>Wed, 17 May 2023 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/17/32692.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
