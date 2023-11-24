@@ -4,17 +4,9 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 17:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[전국에 ‘빈대 경보’, 정부 대책은?]]></title>
-            <link>https://n.news.naver.com/article/308/0000033758?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033758?type=journalists</guid>
-            <pubDate>Mon, 20 Nov 2023 05:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/20/33758.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[‘우리의 친구가 되어줘서 고마워’ [기자들의 시선]]]></title>
             <link>https://n.news.naver.com/article/308/0000033679?type=journalists</link>
@@ -486,6 +478,62 @@
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/14/31761.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘여성’ 운전자 말고 ‘그냥’ 운전자를 위해]]></title>
+            <link>https://n.news.naver.com/article/308/0000031744?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031744?type=journalists</guid>
+            <pubDate>Fri, 24 Nov 2023 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.11.10.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/10/31744.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“재난 책임자가 사과할 때, 시민들은 다시 힘을 얻는다”]]></title>
+            <link>https://n.news.naver.com/article/308/0000031739?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031739?type=journalists</guid>
+            <pubDate>Fri, 24 Nov 2023 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.11.09.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/09/31739.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두 ‘열여덟 살 어른’의 죽음이 우리에게 남긴 숙제]]></title>
+            <link>https://n.news.naver.com/article/308/0000031624?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031624?type=journalists</guid>
+            <pubDate>Fri, 24 Nov 2023 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.10.20.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/20/31624.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보호아동이 ‘어른’ 되려면 시설부터 바뀌어야 한다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031623?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031623?type=journalists</guid>
+            <pubDate>Fri, 24 Nov 2023 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.10.19.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/19/31623.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 출생통보제 왜 필요할까요?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031554?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031554?type=journalists</guid>
+            <pubDate>Fri, 24 Nov 2023 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.10.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/06/31554.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10년 만에 돌아온 ‘사랑의 시인’]]></title>
+            <link>https://n.news.naver.com/article/308/0000031518?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031518?type=journalists</guid>
+            <pubDate>Fri, 24 Nov 2023 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.29.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/29/31518.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걸그룹 초강세 ‘여덕’이 이끈다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031492?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031492?type=journalists</guid>
+            <pubDate>Fri, 24 Nov 2023 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.22.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/22/31492.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
