@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 17:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 05:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민주당, 왜 실패했고 무엇으로 도전하는가?]]></title>
+            <link>https://n.news.naver.com/article/308/0000033804?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033804?type=journalists</guid>
+            <pubDate>Tue, 28 Nov 2023 05:32:26 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/28/33804.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘압수수색 시대’를 살아가는 시민들의 필독서 [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000033731?type=journalists</link>
@@ -622,14 +630,6 @@
             <pubDate>Thu, 02 Nov 2023 17:32:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.07.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/26/31219.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 미국 엘리트의  솔직한 심경]]></title>
-            <link>https://n.news.naver.com/article/308/0000031196?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031196?type=journalists</guid>
-            <pubDate>Thu, 02 Nov 2023 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
