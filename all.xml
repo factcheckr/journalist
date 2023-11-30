@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 17:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 05:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -311,7 +311,7 @@
             <link>https://n.news.naver.com/article/469/0000771966?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000771966?type=journalists</guid>
             <pubDate>Fri, 24 Nov 2023 17:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/24/771966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -351,7 +351,7 @@
             <link>https://n.news.naver.com/article/469/0000771496?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000771496?type=journalists</guid>
             <pubDate>Wed, 22 Nov 2023 05:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/22/771496.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -527,7 +527,7 @@
             <link>https://n.news.naver.com/article/308/0000033781?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033781?type=journalists</guid>
             <pubDate>Thu, 23 Nov 2023 05:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/23/33781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -767,7 +767,7 @@
             <link>https://n.news.naver.com/article/308/0000033785?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033785?type=journalists</guid>
             <pubDate>Sun, 26 Nov 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/24/33785.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -775,7 +775,7 @@
             <link>https://n.news.naver.com/article/308/0000033784?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033784?type=journalists</guid>
             <pubDate>Sun, 26 Nov 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/24/33784.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1247,7 +1247,7 @@
             <link>https://n.news.naver.com/article/308/0000033804?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033804?type=journalists</guid>
             <pubDate>Tue, 28 Nov 2023 05:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/28/33804.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
