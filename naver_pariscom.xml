@@ -4,31 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 05:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 17:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["자식 대신 로봇이 빨래 개고 약도 챙겨 주네"...일본 로봇전시회가 선보인 미래]]></title>
-            <link>https://n.news.naver.com/article/469/0000773075?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000773075?type=journalists</guid>
-            <pubDate>Thu, 30 Nov 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/30/773075.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[“화려한 ‘K드라마’와 다른 ‘K북’만의 매력에 빠졌어요”]]></title>
             <link>https://n.news.naver.com/article/469/0000772211?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000772211?type=journalists</guid>
             <pubDate>Sun, 26 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/26/772211.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 언론 "일본, 엑스포 개최지로 부산 지지해 윤석열 정부에 힘 실어 준다"]]></title>
+            <link>https://n.news.naver.com/article/469/0000772160?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000772160?type=journalists</guid>
+            <pubDate>Sat, 02 Dec 2023 17:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/26/772160.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위안부 소송 패소에 일본 “또 사법 리스크… 한일 관계 영향은 제한적”]]></title>
             <link>https://n.news.naver.com/article/469/0000772032?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000772032?type=journalists</guid>
             <pubDate>Fri, 24 Nov 2023 17:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/24/772032.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000772000?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000772000?type=journalists</guid>
             <pubDate>Fri, 24 Nov 2023 17:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/24/772000.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
