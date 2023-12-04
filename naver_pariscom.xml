@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 05:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 17:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["몰려오는 부자들에게 방값 많이 받자" 일본, 고급 호텔 신축 러시]]></title>
+            <link>https://n.news.naver.com/article/469/0000773589?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000773589?type=journalists</guid>
+            <pubDate>Mon, 04 Dec 2023 17:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/04/773589.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 자민당, 아베파 정치자금 수사에 '흔들'... 도쿄지검 특수부 총력 수사]]></title>
             <link>https://n.news.naver.com/article/469/0000773429?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773429?type=journalists</guid>
             <pubDate>Sun, 03 Dec 2023 17:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/03/773429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000773075?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773075?type=journalists</guid>
             <pubDate>Sun, 03 Dec 2023 17:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/30/773075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000772211?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000772211?type=journalists</guid>
             <pubDate>Sun, 26 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/26/772211.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769683.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호소다 전 일본 국회의장, 건강 문제 사임 20여일 만에 사망]]></title>
-            <link>https://n.news.naver.com/article/469/0000769669?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000769669?type=journalists</guid>
-            <pubDate>Fri, 10 Nov 2023 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/10/769669.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
