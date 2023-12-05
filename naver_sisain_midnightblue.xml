@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 17:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 05:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[썰렁하고 집요한 사슴문답식 말장난 [기자의 추천 책]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033844?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033844?type=journalists</guid>
+            <pubDate>Tue, 05 Dec 2023 05:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/05/33844.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마약중독 재활센터는 왜 문을 닫았나?]]></title>
             <link>https://n.news.naver.com/article/308/0000033785?type=journalists</link>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/22/31806.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 한 장의 사진 이후 기후위기 보도가 바뀌다]]></title>
-            <link>https://n.news.naver.com/article/308/0000031799?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031799?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/21/31799.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
