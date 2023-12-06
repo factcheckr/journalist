@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 05:32:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 17:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아베파 비자금 스캔들'로 흔들리는 기시다 "연말 모금 중단하라"]]></title>
+            <link>https://n.news.naver.com/article/469/0000774025?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000774025?type=journalists</guid>
+            <pubDate>Wed, 06 Dec 2023 17:32:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/06/774025.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기념사진도 나왔는데 "기억에 없다"... 기시다, 통일교 간부 만남 '발뺌' 통할까]]></title>
             <link>https://n.news.naver.com/article/469/0000773781?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773781?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 17:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/05/773781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,15 +28,23 @@
             <link>https://n.news.naver.com/article/469/0000773429?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773429?type=journalists</guid>
             <pubDate>Sun, 03 Dec 2023 17:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/03/773429.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["자식 대신 로봇이 빨래 개고 약도 챙겨 주네"...일본 로봇전시회가 선보인 미래]]></title>
+            <link>https://n.news.naver.com/article/469/0000773075?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000773075?type=journalists</guid>
+            <pubDate>Wed, 06 Dec 2023 17:32:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/30/773075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 오사카 엑스포 유치한 일본은 다른 고민..."세금 아깝다" 개최 포기 여론]]></title>
             <link>https://n.news.naver.com/article/469/0000772863?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000772863?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 17:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/29/772863.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000772838?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000772838?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 17:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/29/772838.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 19 Nov 2023 17:32:16 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770085.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태평양 도서국들, 후쿠시마 오염수에 “강한 우려” 표명]]></title>
-            <link>https://n.news.naver.com/article/469/0000770067?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000770067?type=journalists</guid>
-            <pubDate>Sun, 19 Nov 2023 17:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770067.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기사 1건 클릭에 1원"... 일본 포털이 언론사에 내는 뉴스 사용료 공식 깨질까]]></title>
-            <link>https://n.news.naver.com/article/469/0000770027?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000770027?type=journalists</guid>
-            <pubDate>Mon, 13 Nov 2023 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 05:32:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 17:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유엔 ‘포괄적핵실험금지’ 결의안…북한 나홀로 반대]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202312061659011</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202312061659011</guid>
+            <pubDate>Wed, 06 Dec 2023 17:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[유엔총회가 북한에 핵무기 개발 중단과 폐기를 요구하는 내용이 포함된 결의안 3건을 채택됐다. 이 가운데 포괄적핵실험금지조약(CTBT) 관련 결의안에는 북한만이 반대표를 행사했다.
+유엔총회는 지난 4일(현지시간) 본회의를 열고 CTBT 추가 서명과 비준을 요구하는 결의안(45호)을 찬성 181표, 반대 1표, 기권 4표로 채택했다. 중국, 러시아도 찬성했으며 인도, 모리셔스, 사우디아라비아, 시리아는 기권했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/06/news-p.v1.20231206.0d3498cbcf6246dfa359184c2949407c.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[한국은 ‘기후 손실과 피해 기금’ 공여에 동참할까]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202312051727001</link>
@@ -105,16 +114,6 @@
 외교부는 박진 외교부 장관, 가미카와 요코 일본 외무대신, 왕이 중국 외교부장 겸 정치국 위원이 참석하는 제10차 한·중·일 외교장관 회의가 오는 26일 부산에서 열린다고 24일 밝혔다. 한·중·일 외교장관 회의가 열리는 것은 2019년 8월 이후 4년 3개월여 만이다.
 한·중·일 외교장관은 이번 회의에서 3국 정상회의 개최 등 역내 협력 방안, 국제 현안 등을 논의할 예정이다. 한·중·일 지난 9월 서울에서 열린 차관보급 고위관리회의(SOB)에서 정상회의를 ‘상호 편리한 가장 빠른 시기에’ 개최하자고 합의한 바 있다. 이번 회의를 통해 일정을 얼마나 구체화할지에 관심이 쏠린다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/24/news-p.v1.20231124.30909bd0659f429f876ee8e1acbd2049.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[당정, 오늘 청년 청약저축 금리 우대 방안 논의]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202311240806001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202311240806001</guid>
-            <pubDate>Fri, 24 Nov 2023 05:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘과 정부는 24일 국회에서 청년층 ‘내 집 마련’ 지원을 위한 협의회를 열고 청약통장 혜택 확대를 논의한다.
-당정은 협의회에서 청년 우대형 주택청약 종합저축 가입요건 완화와 금리 확대 방안을 집중적으로 논의할 예정이다.
-현재 청년 우대형 종합저축은 19세 이상 34세 이하·총급여 3000만원까지 가입할 수 있고, 우대금리 1.5%포인트(p)를 받아 가입 기간에 따라 최대 4.3%까지 금리를 받을 수 있다. 당정은 청년 우대형 주택청약 종합저축 금리를 최대 4.5%까지 올리는 방안을 검토하는 것으로 알려졌다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/24/news-p.v1.20231124.4901270e013e4f4bb50d5d7652c560d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
