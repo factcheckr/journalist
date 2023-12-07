@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 05:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 17:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 정찰위성 만리경-1호 선전화 공개]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202312071437001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202312071437001</guid>
+            <pubDate>Thu, 07 Dec 2023 17:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[북한이 군사정찰위성인 ‘만리경-1호’를 주제로 한 ‘선전화’를 공개했다.
+북한 공식매체 조선중앙통신과 노동당 기관지 노동신문은 7일 조선노동당출판사·만수대창작사·중앙미술창작사가 만리경-1호의 선전화를 제작했다고 보도했다.
+선전화는 사회주의 체제 선전 미술품을 말한다. 북한 당국은 중요한 행사나 시책이 있을 때마다 선전화를 그려 당의 메시지를 전달하는 수단으로 활용한다. 선전화는 짧은 글귀와 그림으로 구성되며 조선노동당출판사나 만수대창작사에 속한 예술가들이 제작한다. 북한 사회의 변화상을 연구하는 자료로도 활용된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/07/news-p.v1.20231207.644ff84e5b264f8086c81c248f23f1fc_P2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유엔 ‘포괄적핵실험금지’ 결의안…북한 나홀로 반대]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202312061659011</link>
@@ -104,16 +114,6 @@
             <content:encoded><![CDATA[일본 정부가 일본군 위안부 피해자들에게 각 2억원씩 배상해야 한다는 국내 법원 판결에 대해 외교부가 ‘2015년 한·일 위안부 합의를 존중한다’는 원론적 입장을 내놓았다.
 외교부 당국자는 24일 위안부 피해자 손해배상 청구소송 항소심 승소 판결에 대해 “상세한 내용을 파악 중”이라며 “2015년 (한·일 간) 위안부 합의를 양국 간 공식 합의로서 존중한다는 입장”이라고 밝혔다. 외교부의 입장은 2021년 1월 1심 판결 때와 같다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/24/news-p.v1.20231124.f181321ffefc4d3cad8c3dda7320914d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한·중·일 외교장관 회의 26일 부산에서 개최…정상회의 일정 나올까]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202311241125001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202311241125001</guid>
-            <pubDate>Fri, 24 Nov 2023 05:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[한·중·일 외교장관 회의가 26일 부산에서 열린다.
-외교부는 박진 외교부 장관, 가미카와 요코 일본 외무대신, 왕이 중국 외교부장 겸 정치국 위원이 참석하는 제10차 한·중·일 외교장관 회의가 오는 26일 부산에서 열린다고 24일 밝혔다. 한·중·일 외교장관 회의가 열리는 것은 2019년 8월 이후 4년 3개월여 만이다.
-한·중·일 외교장관은 이번 회의에서 3국 정상회의 개최 등 역내 협력 방안, 국제 현안 등을 논의할 예정이다. 한·중·일 지난 9월 서울에서 열린 차관보급 고위관리회의(SOB)에서 정상회의를 ‘상호 편리한 가장 빠른 시기에’ 개최하자고 합의한 바 있다. 이번 회의를 통해 일정을 얼마나 구체화할지에 관심이 쏠린다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/24/news-p.v1.20231124.30909bd0659f429f876ee8e1acbd2049.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

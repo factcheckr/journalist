@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 05:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 17:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘아베파 비자금 의혹’ 일본 기시다 내각 2인자도 덮치나]]></title>
+            <link>https://n.news.naver.com/article/469/0000774185?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000774185?type=journalists</guid>
+            <pubDate>Thu, 07 Dec 2023 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/07/774185.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아베파 비자금 스캔들'로 흔들리는 기시다 "연말 모금 중단하라"]]></title>
             <link>https://n.news.naver.com/article/469/0000774025?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774025?type=journalists</guid>
             <pubDate>Wed, 06 Dec 2023 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/06/774025.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000773781?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773781?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 17:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/05/773781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000773429?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773429?type=journalists</guid>
             <pubDate>Sun, 03 Dec 2023 17:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/03/773429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000773075?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773075?type=journalists</guid>
             <pubDate>Wed, 06 Dec 2023 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/30/773075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000772863?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000772863?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 17:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/29/772863.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000772838?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000772838?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 17:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.11.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/29/772838.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 17:32:57 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/14/770253.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개각 두 달 만에 체납·성매매 등으로 차관급 3명 사임…기시다, 또 타격]]></title>
-            <link>https://n.news.naver.com/article/469/0000770085?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000770085?type=journalists</guid>
-            <pubDate>Sun, 19 Nov 2023 17:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/13/770085.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
