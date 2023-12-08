@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 17:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 05:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0811/A0002951971_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 '3자녀 가구 대학 무상화' 추진에...'환영' vs '불공평' 의견 팽팽 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000774329?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000774329?type=journalists</guid>
+            <pubDate>Fri, 08 Dec 2023 05:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774329.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘아베파 비자금 의혹’ 일본 기시다 내각 2인자도 덮치나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000774185?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774185?type=journalists</guid>
             <pubDate>Thu, 07 Dec 2023 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/07/774185.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -515,14 +523,6 @@
             <pubDate>Mon, 20 Nov 2023 05:32:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/15/770430.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계속 힘 빠지는 기시다...'포스트 기시다' 명단까지 돈다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000770253?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000770253?type=journalists</guid>
-            <pubDate>Mon, 20 Nov 2023 17:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/14/770253.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그것이 알고 싶다 ‘R&D 예산 삭감 미스터리’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -765,11 +765,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/24/32730.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[플라스틱 빨대, 죽지도 않고 돌아오다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033860?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033860?type=journalists</guid>
+            <pubDate>Fri, 08 Dec 2023 05:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/08/33860.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[썰렁하고 집요한 사슴문답식 말장난 [기자의 추천 책] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033844?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033844?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/05/33844.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1237,19 +1245,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/23/31811.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기후위기 통해 생태 민주주의까지, 신생언론 ‘스플란!’의 실험 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031806?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031806?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/22/31806.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2030 엑스포 유치 29표, 왜 예측 못했나? [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033837?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033837?type=journalists</guid>
             <pubDate>Mon, 04 Dec 2023 05:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/04/33837.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
