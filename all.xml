@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 05:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 17:32:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본군 위안부 배상 판결 확정에 원론 반복…외교적 해법도 손 놓은 정부 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202312101804001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202312101804001</guid>
+            <pubDate>Sun, 10 Dec 2023 17:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[일본군 ‘위안부’ 피해자에게 일본 정부가 배상해야 한다는 국내 법원 판결이 확정됐다. 이에 외교부는 위안부 문제를 사법적으로 풀어가지 않겠다는 입장을 밝혔다. 2015년 한·일 위안부 합의를 존중하면서 외교적 틀에서 해결을 모색하겠다는 취지로 해석된다. 하지만 외교부의 외교적 해법 모색은 말뿐이며 과거사 문제에 대해 사실상 손을 높고 있다는 비판이 제기된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/10/news-p.v1.20231210.0cc996b50d984e2e91080ed2f4c0ff10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한, 정찰위성 만리경-1호 선전화 공개 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/north-korea/article/202312071437001</link>
@@ -105,15 +113,6 @@
             <content:encoded><![CDATA[김정은 북한 국무위원장이 국가항공우주기술총국을 방문해 군사정찰위성을 보유하는 것은 “추호도 양보할 수 없고 순간도 멈출 수 없는 정당방위권의 당당한 행사”라고 말했다.
 북한 공식 매체 조선중앙통신은 24일 김 위원장이 전날 군사정찰위성 ‘만리경-1호’를 탑재한 운반로켓 ‘천리마-1형’ 발사 성공을 이끈 국가항공우주기술총국을 방문해 과학자, 기술자, 간부 등을 격려했다고 보도했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/24/2023112501000881100089251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위안부 피해자 2심 승소···외교부 “한·일 위안부 합의 존중” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202311241718011</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202311241718011</guid>
-            <pubDate>Fri, 24 Nov 2023 17:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[일본 정부가 일본군 위안부 피해자들에게 각 2억원씩 배상해야 한다는 국내 법원 판결에 대해 외교부가 ‘2015년 한·일 위안부 합의를 존중한다’는 원론적 입장을 내놓았다.
-외교부 당국자는 24일 위안부 피해자 손해배상 청구소송 항소심 승소 판결에 대해 “상세한 내용을 파악 중”이라며 “2015년 (한·일 간) 위안부 합의를 양국 간 공식 합의로서 존중한다는 입장”이라고 밝혔다. 외교부의 입장은 2021년 1월 1심 판결 때와 같다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/24/news-p.v1.20231124.f181321ffefc4d3cad8c3dda7320914d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -285,11 +284,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0811/A0002951971_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자민당 최대 계파 ‘아베파’ 몰락하나… 지도부 요직 박탈 위기, 검찰 수사까지 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000774535?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000774535?type=journalists</guid>
+            <pubDate>Sun, 10 Dec 2023 17:31:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/10/774535.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[니혼게이자이 유료 구독자 100만 돌파... 비영어권 신문 첫 기록 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000774415?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774415?type=journalists</guid>
             <pubDate>Fri, 08 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774415.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,7 +304,7 @@
             <link>https://n.news.naver.com/article/469/0000774409?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774409?type=journalists</guid>
             <pubDate>Fri, 08 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774409.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +312,7 @@
             <link>https://n.news.naver.com/article/469/0000774407?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774407?type=journalists</guid>
             <pubDate>Fri, 08 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774407.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -313,7 +320,7 @@
             <link>https://n.news.naver.com/article/469/0000774185?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774185?type=journalists</guid>
             <pubDate>Thu, 07 Dec 2023 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/07/774185.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,7 +328,7 @@
             <link>https://n.news.naver.com/article/469/0000774025?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774025?type=journalists</guid>
             <pubDate>Wed, 06 Dec 2023 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/06/774025.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,7 +336,7 @@
             <link>https://n.news.naver.com/article/469/0000773781?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773781?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 17:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/05/773781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,7 +344,7 @@
             <link>https://n.news.naver.com/article/469/0000773589?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773589?type=journalists</guid>
             <pubDate>Fri, 08 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/04/773589.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,7 +352,7 @@
             <link>https://n.news.naver.com/article/469/0000773429?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773429?type=journalists</guid>
             <pubDate>Sun, 03 Dec 2023 17:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/03/773429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +360,7 @@
             <link>https://n.news.naver.com/article/469/0000773395?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773395?type=journalists</guid>
             <pubDate>Sat, 09 Dec 2023 17:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/03/773395.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -515,14 +522,6 @@
             <pubDate>Fri, 24 Nov 2023 05:32:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/20/771083.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 연립여당 기반 '창가학회' 이케다 명예회장 별세... 정치권 영향에 촉각 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000771051?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000771051?type=journalists</guid>
-            <pubDate>Tue, 21 Nov 2023 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/19/771051.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그것이 알고 싶다 ‘R&D 예산 삭감 미스터리’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
