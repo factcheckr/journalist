@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 17:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 05:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,8 +288,16 @@
             <link>https://n.news.naver.com/article/469/0000774535?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774535?type=journalists</guid>
             <pubDate>Sun, 10 Dec 2023 17:31:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/10/774535.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["기시다, 내각 2인자 관방장관 경질할 듯"... '비자금 의혹' 파장 어디까지 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000774465?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000774465?type=journalists</guid>
+            <pubDate>Mon, 11 Dec 2023 05:33:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/09/774465.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[니혼게이자이 유료 구독자 100만 돌파... 비영어권 신문 첫 기록 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -516,12 +524,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/20/771242.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['외국인 노동자에게 선택받는 나라' 되겠단 일본...비결 있었다 [클로즈업 재팬] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000771083?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000771083?type=journalists</guid>
-            <pubDate>Fri, 24 Nov 2023 05:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/20/771083.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[[단독] mRNA 백신 사업단, 예산 못 받아 1단계에서 종료된다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033868?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033868?type=journalists</guid>
+            <pubDate>Mon, 11 Dec 2023 05:33:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/11/33868.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그것이 알고 싶다 ‘R&D 예산 삭감 미스터리’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -756,19 +764,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/29/32752.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[26년 차 소아과 의사의 ‘작심 고언’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032730?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032730?type=journalists</guid>
-            <pubDate>Wed, 24 May 2023 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/24/32730.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[플라스틱 빨대, 죽지도 않고 돌아오다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033860?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033860?type=journalists</guid>
             <pubDate>Fri, 08 Dec 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/08/33860.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -776,7 +776,7 @@
             <link>https://n.news.naver.com/article/308/0000033844?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033844?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/05/33844.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1248,7 +1248,7 @@
             <link>https://n.news.naver.com/article/308/0000033837?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033837?type=journalists</guid>
             <pubDate>Mon, 04 Dec 2023 05:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/04/33837.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
