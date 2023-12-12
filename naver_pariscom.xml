@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 17:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 05:32:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000774721?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774721?type=journalists</guid>
             <pubDate>Mon, 11 Dec 2023 17:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/11/774721.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000774465?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774465?type=journalists</guid>
             <pubDate>Mon, 11 Dec 2023 05:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/09/774465.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 08 Dec 2023 17:32:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774407.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 '3자녀 가구 대학 무상화' 추진에...'환영' vs '불공평' 의견 팽팽]]></title>
+            <link>https://n.news.naver.com/article/469/0000774329?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000774329?type=journalists</guid>
+            <pubDate>Tue, 12 Dec 2023 05:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘아베파 비자금 의혹’ 일본 기시다 내각 2인자도 덮치나]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Nov 2023 05:32:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/21/771305.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“정권 유지 위태로운 수준”...위기의 기시다, 지지율 또 떨어졌다]]></title>
-            <link>https://n.news.naver.com/article/469/0000771262?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000771262?type=journalists</guid>
-            <pubDate>Tue, 21 Nov 2023 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/20/771262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
