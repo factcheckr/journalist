@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 17:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 05:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,19 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0811/A0002951971_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“냉전 시대 회귀하나”...통일부 '조선학교 교류 조사'에 재일동포사회 우려 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000774975?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000774975?type=journalists</guid>
+            <pubDate>Wed, 13 Dec 2023 05:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/774975.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["아베파 비자금 규모 5억엔"... 기시다, 내각서 아베파 모두 몰아낼까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000774970?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774970?type=journalists</guid>
             <pubDate>Tue, 12 Dec 2023 17:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/774970.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +304,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000774925?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774925?type=journalists</guid>
             <pubDate>Tue, 12 Dec 2023 17:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/12/774925.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,7 +320,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000774465?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774465?type=journalists</guid>
             <pubDate>Mon, 11 Dec 2023 05:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/09/774465.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +352,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000774329?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774329?type=journalists</guid>
             <pubDate>Tue, 12 Dec 2023 05:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774329.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -516,19 +524,11 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/22/771483.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[속보] 일본, 오키나와 '피난 경보' 해제... 북한 정찰위성 태평양으로 지나간 듯 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000771480?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000771480?type=journalists</guid>
-            <pubDate>Mon, 27 Nov 2023 17:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/21/771480.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] mRNA 백신 사업단, 예산 못 받아 1단계에서 종료된다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033868?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033868?type=journalists</guid>
             <pubDate>Mon, 11 Dec 2023 05:33:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/11/33868.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -768,7 +768,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/308/0000033860?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033860?type=journalists</guid>
             <pubDate>Fri, 08 Dec 2023 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/08/33860.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -776,7 +776,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/308/0000033844?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033844?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.12.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/05/33844.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
