@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 05:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 17:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 내년 한국 총선·미국 대선 겨냥 …“군사행동·심리전 가능” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202312131839001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202312131839001</guid>
+            <pubDate>Wed, 13 Dec 2023 17:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[미국 대선이 열리는 내년 북한과 러시아의 결속이 더욱 강화될 것이라고 통일연구원 전문가들이 전망했다. 러시아와 북한이 순차적으로 핵실험을 할 수 있으며, 북한은 한국 총선을 염두에 둔 국지적 군사행동에 나설 수 있다는 진단도 나왔다.
+통일연구원이 13일 개최한 ‘2024 한반도 전세전망’ 세미나에서 현승수 연구위원은 “러시아가 내년 30년 만의 핵실험을 시도할 것”이라며 “북한이 공조 차원에서 7차 핵실험을 할 가능성이 다분히 있다”고 말했다. 현 연구위원은 내년 3월 재선이 확실시되는 블라디미르 푸틴 러시아 대통령이 우크라이나 전쟁과 관련해 러시아의 압도적 군사력을 과시할 동기가 있다고 봤다. 서방의 우크라이나 지원 여론이 흔들리는 상황에서 러시아가 각국 여론에 쐐기를 박는 행동에 나설 동기가 있다는 것이다. 그는 북한이 이를 기회로 삼을 것이라고 내다봤다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/13/news-p.v1.20231213.bc9fef95a6b94723b9caa9fa6e35ec5e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국제기구 북한 인도주의 활동, 내년에도 어렵다 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/north-korea/article/202312121406001</link>
@@ -105,14 +114,6 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202311292113025</guid>
             <pubDate>Wed, 29 Nov 2023 17:31:43 GMT</pubDate>
             <content:encoded><![CDATA[사우디아라비아가 압도적인 지지를 받으며 2030 세계박람회(엑스포) 개최권을 따낸 비결로 ‘오일머니’의 힘이 꼽힌다. 하지만 한국은 단지 오일머니 때문에 사우디에 밀렸다고 보긴 어렵다는 평가가 나온다. 저개발국가 대상 외교가 대표적이다. 한국이 ‘발전 경험 공유’라는 공여국 중심 캠페인을 펼친 반면, 사우디는 ‘부채 해결’ 등 저개발국가들이 현재 원하는 내용에 공명하는 전략을 내세웠다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부산 엑스포 유치 실패…패인이 과연 오일머니 탓일까 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202311291723001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202311291723001</guid>
-            <pubDate>Wed, 29 Nov 2023 17:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[사우디아라비아가 압도적인 지지를 받으며 2030 세계박람회(엑스포) 개최권을 따낸 비결로 ‘오일머니’의 힘이 꼽힌다. 하지만 엑스포 유치 과정을 보면 한국은 단지 오일머니 때문에 사우디에게 밀렸다고 보기 어렵다는 평가가 나온다. 다수의 저개발국가 대상 외교가 대표적이다. 한국이 ‘발전 경험 공유’라는 공여국 중심적 캠페인을 펼친 반면, 사우디는 ‘부채 해결’ 등 저개발 국가들이 현재 원하는 내용에 공명하는 전략을 내세웠다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/29/news-p.v1.20231129.a75df143a41e48e2b08ba295ea05a3e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -284,19 +285,27 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0811/A0002951971_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“냉전 시대 회귀하나”...통일부 '조선학교 교류 조사'에 재일동포사회 우려 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000774975?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000774975?type=journalists</guid>
-            <pubDate>Wed, 13 Dec 2023 05:33:02 GMT</pubDate>
+            <title><![CDATA[일본 자민당 정치자금 의혹, 기시다파까지 번졌다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000775139?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000775139?type=journalists</guid>
+            <pubDate>Wed, 13 Dec 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/775139.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성추행 피해 묵살당했던 일본 자위대원, 결국 이겼다… 가해자 유죄 판결 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000775106?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000775106?type=journalists</guid>
+            <pubDate>Wed, 13 Dec 2023 17:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/774975.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/775106.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["아베파 비자금 규모 5억엔"... 기시다, 내각서 아베파 모두 몰아낼까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000774970?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774970?type=journalists</guid>
             <pubDate>Tue, 12 Dec 2023 17:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/774970.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,15 +313,23 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000774925?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774925?type=journalists</guid>
             <pubDate>Tue, 12 Dec 2023 17:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/12/774925.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["하루 7시간 앉아 있으면 유방암 위험 급상승... 운동해도 소용없어" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000774721?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000774721?type=journalists</guid>
+            <pubDate>Wed, 13 Dec 2023 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/11/774721.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자민당 최대 계파 ‘아베파’ 몰락하나… 지도부 요직 박탈 위기, 검찰 수사까지 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000774535?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774535?type=journalists</guid>
             <pubDate>Sun, 10 Dec 2023 17:31:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/10/774535.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +345,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000774415?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774415?type=journalists</guid>
             <pubDate>Fri, 08 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774415.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +353,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000774409?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774409?type=journalists</guid>
             <pubDate>Fri, 08 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774409.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +361,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000774407?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774407?type=journalists</guid>
             <pubDate>Fri, 08 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774407.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -360,7 +377,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000774185?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774185?type=journalists</guid>
             <pubDate>Thu, 07 Dec 2023 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/07/774185.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -368,7 +385,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000774025?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774025?type=journalists</guid>
             <pubDate>Wed, 06 Dec 2023 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/06/774025.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -376,7 +393,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000774005?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774005?type=journalists</guid>
             <pubDate>Tue, 12 Dec 2023 17:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/06/774005.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -384,7 +401,7 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <link>https://n.news.naver.com/article/469/0000773781?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000773781?type=journalists</guid>
             <pubDate>Tue, 05 Dec 2023 17:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.12.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/05/773781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -506,22 +523,6 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <pubDate>Wed, 22 Nov 2023 17:31:58 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/22/771683.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 최초 여성 총리로? '포스트 기시다'로 거론되는 가미카와 외무장관 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000771496?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000771496?type=journalists</guid>
-            <pubDate>Wed, 22 Nov 2023 05:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/22/771496.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 위성 발사에 일본 오키나와 한때 피난 경보... "궤도 돌입 확인 안 돼" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000771483?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000771483?type=journalists</guid>
-            <pubDate>Tue, 21 Nov 2023 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/22/771483.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] mRNA 백신 사업단, 예산 못 받아 1단계에서 종료된다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>

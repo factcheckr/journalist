@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 05:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 17:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 내년 한국 총선·미국 대선 겨냥 …“군사행동·심리전 가능”]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202312131839001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202312131839001</guid>
+            <pubDate>Wed, 13 Dec 2023 17:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[미국 대선이 열리는 내년 북한과 러시아의 결속이 더욱 강화될 것이라고 통일연구원 전문가들이 전망했다. 러시아와 북한이 순차적으로 핵실험을 할 수 있으며, 북한은 한국 총선을 염두에 둔 국지적 군사행동에 나설 수 있다는 진단도 나왔다.
+통일연구원이 13일 개최한 ‘2024 한반도 전세전망’ 세미나에서 현승수 연구위원은 “러시아가 내년 30년 만의 핵실험을 시도할 것”이라며 “북한이 공조 차원에서 7차 핵실험을 할 가능성이 다분히 있다”고 말했다. 현 연구위원은 내년 3월 재선이 확실시되는 블라디미르 푸틴 러시아 대통령이 우크라이나 전쟁과 관련해 러시아의 압도적 군사력을 과시할 동기가 있다고 봤다. 서방의 우크라이나 지원 여론이 흔들리는 상황에서 러시아가 각국 여론에 쐐기를 박는 행동에 나설 동기가 있다는 것이다. 그는 북한이 이를 기회로 삼을 것이라고 내다봤다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/13/news-p.v1.20231213.bc9fef95a6b94723b9caa9fa6e35ec5e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국제기구 북한 인도주의 활동, 내년에도 어렵다]]></title>
             <link>https://www.khan.co.kr/politics/north-korea/article/202312121406001</link>
@@ -105,14 +114,6 @@ OCHA가 12일 공개한 2024년 국제 인도적 지원 계획을 보면 북한 
             <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202311292113025</guid>
             <pubDate>Wed, 29 Nov 2023 17:31:43 GMT</pubDate>
             <content:encoded><![CDATA[사우디아라비아가 압도적인 지지를 받으며 2030 세계박람회(엑스포) 개최권을 따낸 비결로 ‘오일머니’의 힘이 꼽힌다. 하지만 한국은 단지 오일머니 때문에 사우디에 밀렸다고 보긴 어렵다는 평가가 나온다. 저개발국가 대상 외교가 대표적이다. 한국이 ‘발전 경험 공유’라는 공여국 중심 캠페인을 펼친 반면, 사우디는 ‘부채 해결’ 등 저개발국가들이 현재 원하는 내용에 공명하는 전략을 내세웠다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부산 엑스포 유치 실패…패인이 과연 오일머니 탓일까]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202311291723001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202311291723001</guid>
-            <pubDate>Wed, 29 Nov 2023 17:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[사우디아라비아가 압도적인 지지를 받으며 2030 세계박람회(엑스포) 개최권을 따낸 비결로 ‘오일머니’의 힘이 꼽힌다. 하지만 엑스포 유치 과정을 보면 한국은 단지 오일머니 때문에 사우디에게 밀렸다고 보기 어렵다는 평가가 나온다. 다수의 저개발국가 대상 외교가 대표적이다. 한국이 ‘발전 경험 공유’라는 공여국 중심적 캠페인을 펼친 반면, 사우디는 ‘부채 해결’ 등 저개발 국가들이 현재 원하는 내용에 공명하는 전략을 내세웠다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/29/news-p.v1.20231129.a75df143a41e48e2b08ba295ea05a3e7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
