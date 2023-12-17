@@ -4,15 +4,31 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 05:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 17:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본은행, ‘금융완화 출구’ 포석 놓을까… 엔화 상승 속 관심]]></title>
+            <link>https://n.news.naver.com/article/469/0000775676?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000775676?type=journalists</guid>
+            <pubDate>Sun, 17 Dec 2023 17:32:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/17/775676.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄지검, '비자금 의혹' 아베파 의원 조사 시작… 몇 명이나 기소할까]]></title>
+            <link>https://n.news.naver.com/article/469/0000775659?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000775659?type=journalists</guid>
+            <pubDate>Sun, 17 Dec 2023 17:32:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/17/775659.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아베파 축출 개각 단행에도… 이미 힘 빠진 기시다, 사태수습 난망]]></title>
             <link>https://n.news.naver.com/article/469/0000775350?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000775350?type=journalists</guid>
             <pubDate>Thu, 14 Dec 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/14/775350.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000775139?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000775139?type=journalists</guid>
             <pubDate>Wed, 13 Dec 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/775139.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,23 +44,15 @@
             <link>https://n.news.naver.com/article/469/0000775106?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000775106?type=journalists</guid>
             <pubDate>Wed, 13 Dec 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/775106.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아베파 비자금 규모 5억엔"... 기시다, 내각서 아베파 모두 몰아낼까]]></title>
-            <link>https://n.news.naver.com/article/469/0000774970?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000774970?type=journalists</guid>
-            <pubDate>Tue, 12 Dec 2023 17:32:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/774970.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/775106.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['아동수당 고교생도 지급, 3자녀 대학 무상화'...저출생 대책 팔 걷은 일본]]></title>
             <link>https://n.news.naver.com/article/469/0000774925?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774925?type=journalists</guid>
             <pubDate>Tue, 12 Dec 2023 17:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/12/774925.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,15 +60,23 @@
             <link>https://n.news.naver.com/article/469/0000774721?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774721?type=journalists</guid>
             <pubDate>Wed, 13 Dec 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/11/774721.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["마을이 키우고 일하는 법 바꿨더니..." 출생률 2~3배 급상승 일본 사례 공통점은? [클로즈업 재팬]]]></title>
+            <link>https://n.news.naver.com/article/469/0000774611?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000774611?type=journalists</guid>
+            <pubDate>Sun, 17 Dec 2023 17:32:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/11/774611.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자민당 최대 계파 ‘아베파’ 몰락하나… 지도부 요직 박탈 위기, 검찰 수사까지]]></title>
             <link>https://n.news.naver.com/article/469/0000774535?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000774535?type=journalists</guid>
             <pubDate>Sun, 10 Dec 2023 17:31:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/10/774535.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 29 Nov 2023 17:32:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/23/771891.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["일본 정부가 배상하라"... 이제야 활짝 웃은 이용수 할머니]]></title>
-            <link>https://n.news.naver.com/article/469/0000771875?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000771875?type=journalists</guid>
-            <pubDate>Wed, 29 Nov 2023 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/23/771875.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남북한은 성공했다는데...일본 "북한 위성 궤도 진입 성공, 아직 모른다"]]></title>
-            <link>https://n.news.naver.com/article/469/0000771821?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000771821?type=journalists</guid>
-            <pubDate>Thu, 23 Nov 2023 17:31:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/11/23/771821.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
