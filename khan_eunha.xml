@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 17:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 05:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘17만’ 학교 밖 청소년, 수능 모의평가 응시 편리해진다]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202312221428011</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202312221428011</guid>
+            <pubDate>Fri, 22 Dec 2023 05:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[졸업이나 중퇴·비진학 등 학교에 다니지 않는 청소년들도 온라인으로 대학수학능력 모의평가 응시를 신청할 수 있게 될 전망이다.
+국민권익위원회는 22일 학교에 다니지 않는 청소년(비재학생)이 보다 편리하게 수능 모의평가 신청·접수할 수 있도록 하는 방안을 교육부, 여성가족부와 시·도교육청 등에 권고했다고 밝혔다.
+권익위는 우선 비재학생의 수능 모의평가 신청·접수 절차를 온라인 방식으로 개선하라고 권고했다. 응시료 납부 수단도 현금 외 신용카드나 가상계좌 등으로 다양화해야 한다고 권고했다. 현재 비재학생이 6월·9월 수능 모의평가에 응시하려면 출신 학교나 교육청에 방문해 직접 응시 원서를 내야 한다. 이 경우 응시료는 현금으로만 납부할 수 있으며, 성적증명서도 직접 방문해 유료로 발급받아야 한다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/22/news-p.v1.20231222.ae22ed15235042aa81c393f305032558.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일제 강제동원 피해자 ‘2차 손배소’도 승소]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202312212052015</link>
@@ -108,15 +118,6 @@
 윤재옥 원내대표 겸 당대표 권한대행이 연석회의에서 중진 의견을 수렴해 향후 당 수습 방안에 반영하겠다는 계획이다. 이날 예정된 최고위원회의도 예정대로 열린다.
 윤 원내대표는 전날 취재진에게 “당이 상당히 어려운 상황이고, 이 상황을 지혜롭게 정리할 필요가 있다”며 “내일 중진 의견을 수렴하고 최고위도 정상 개최해 회의 결과를 토대로 정리된 입장을 말씀드리겠다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/14/news-p.v1.20231214.138429c3e75945558117254ce96f2fa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 “한·미·일의 미사일경보정보 공유는 북침 속셈”]]></title>
-            <link>https://www.khan.co.kr/politics/north-korea/article/202312140751001</link>
-            <guid>https://www.khan.co.kr/politics/north-korea/article/202312140751001</guid>
-            <pubDate>Thu, 14 Dec 2023 05:31:27 GMT</pubDate>
-            <content:encoded><![CDATA[북한이 한·미·일의 미사일경보정보 실시간 공유 체계에 대해 군사적 망동이라고 비난했다.
-노동당 기관지 노동신문은 14일 ‘선제타격을 노린 정보공유놀음’ 제하의 6면 기사에서 “미국 주도하에 벌어지고 있는 3자 간의 미사일경보정보 공유 놀음은 명백히 지역 정세를 더욱 험악한 대결 국면으로 몰아가기 위한 위험천만한 군사적 망동”이라고 주장했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/14/news-p.v1.20231214.eb7f3c7bfe0e405da226d8d80aeee611.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
