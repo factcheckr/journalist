@@ -4,9 +4,17 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 05:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 17:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학교 밖 청소년, 모의평가 온라인 신청 가능해진다]]></title>
+            <link>https://www.khan.co.kr/national/education/article/202312222101005</link>
+            <guid>https://www.khan.co.kr/national/education/article/202312222101005</guid>
+            <pubDate>Fri, 22 Dec 2023 17:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[졸업이나 중퇴·비진학 등 학교에 다니지 않는 청소년들도 온라인으로 대학수학능력 모의평가 응시를 신청할 수 있게 될 것으로 전망된다.
+국민권익위원회는 22일 학교에 다니지 않는 청소년(비재학생)이 보다 편리하게 수능 모의평가 신청·접수할 수 있도록 하는 방안을 교육부, 여성가족부와 시·도교육청 등에 권고했다고 밝혔다. 권익위는 우선 비재학생의 수능 모의평가 신청·접수 절차를 온라인 방식으로 개선하라고 권고했다.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘17만’ 학교 밖 청소년, 수능 모의평가 응시 편리해진다]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202312221428011</link>
@@ -108,16 +116,6 @@
             <content:encoded><![CDATA[네덜란드를 국빈 방문 중인 윤석열 대통령의 배우자 김건희 여사가 13일(현지시간) “개 식용 금지는 대통령의 약속”이라고 말했다.
 김 여사는 이날 암스테르담 동물보호재단에서 열린 간담회에서 “반려동물을 가족처럼 여기는 사회적 분위기가 더욱 확산하고 있는 만큼, 여야가 함께 개 식용 종식을 위해 발의한 특별법이 조속히 국회에서 통과되기를 바란다”며 이같이 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/14/news-p.v1.20231214.364f437face8462cb7f3c24a73c157e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘, 김기현 사퇴 수습 논의···비대위 전환 선언할 듯]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202312140759001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202312140759001</guid>
-            <pubDate>Thu, 14 Dec 2023 05:31:27 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘은 14일 오전 3선 이상 중진의원 연석회의를 열고 김기현 대표 사퇴 이후 당 수습방안을 논의한다. 비상대책위원회 체제 전환을 논의할 것으로 보인다.
-윤재옥 원내대표 겸 당대표 권한대행이 연석회의에서 중진 의견을 수렴해 향후 당 수습 방안에 반영하겠다는 계획이다. 이날 예정된 최고위원회의도 예정대로 열린다.
-윤 원내대표는 전날 취재진에게 “당이 상당히 어려운 상황이고, 이 상황을 지혜롭게 정리할 필요가 있다”며 “내일 중진 의견을 수렴하고 최고위도 정상 개최해 회의 결과를 토대로 정리된 입장을 말씀드리겠다”고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/14/news-p.v1.20231214.138429c3e75945558117254ce96f2fa4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
