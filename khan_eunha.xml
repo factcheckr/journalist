@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 05:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 17:32:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노동신문 등장한 1989년 영화…“김정은식 감성정치”]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202312261638001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202312261638001</guid>
+            <pubDate>Tue, 26 Dec 2023 17:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[“저는… 여태 남편의 사랑 속에서 제 하나의 행복만을 즐기는…사회에 있어도 좋고 없어도 좋은 그런 인간으로 살아왔어요. 하지만 이제부터는…저도 생의 흔적을 남기고 싶습니다.”
+“오직 당과 혁명을 위하여 한생을 깡그리 다 바친 사람만이 생의 고귀한 흔적을 후대 앞에 남길 수 있는 거요.”
+“저는 이런 성장 과정에 비로소 개인을 위한 삶은 그게 부귀영화라 해도 그 가치는 바늘값만도 못하며 오직 사회와 집단을 위해 바친 삶만이 참으로 천금같이 귀중하다는 걸 생활의 진실을 통해 체험할 수 있었습니다.”]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/26/news-p.v1.20231226.74b89132747f43aa950407b8c96bf6eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안덕근 산업부 장관 후보자 다음달 3일 인사청문회]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202312260807001</link>
@@ -108,15 +118,6 @@
             <content:encoded><![CDATA[조태열 외교부 장관 내정자(68)는 주유엔대사를 지낸 정통 외교관 출신이다. 다자외교 경험이 풍부하며 경제·통상 문제에도 정통하다고 평가받는다.
 조 내정자는 1955년 경북 출생으로 서울대 법과대학을 졸업하고 1979년 외무고시 제13회로 외교부에 입부했다. 외교통상부 통상2과장과 통상정책기획담당 심의관·지역통상국장, 주제네바대표부 차석대사, 외교통상부 통상교섭조정관, 주스페인대사, 외교통상부 개발협력대사 등으로 일했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/19/rcv.YNA.20231219.PYH2023121913060001300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러 연해주지사, 북 총리 만나고 마식령 스키장 방문]]></title>
-            <link>https://www.khan.co.kr/politics/north-korea/article/202312151456001</link>
-            <guid>https://www.khan.co.kr/politics/north-korea/article/202312151456001</guid>
-            <pubDate>Fri, 15 Dec 2023 17:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[북한을 방문한 올레크 코제먀코 러시아 연해주지사가 14일 김덕훈 북한 내각총리를 만났다. 북한 대표도 주말쯤 연해주를 답방할 계획이다.
-북한 공식매체 조선중앙통신은 15일 김 총리가 전날 평양 만수대의사당에서 의례 방문을 온 러시아 연해주 대표단 단장 코제먀코 주지사를 만났다고 보도했다. 통신은 “담화는 동지적이며 친선적인 분위기 속에서 진행됐다”고 전했다. 구체적인 대화 내용은 공개하지 않았다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/15/news-p.v1.20231215.da63a56560cd4b1ba1ee8e7ff99efaeb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
