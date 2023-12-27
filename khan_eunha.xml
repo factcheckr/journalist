@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 05:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 17:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탈북민 고용률·남한생활 만족도 높아져…6명 중 1명은 차별 경험]]></title>
+            <link>https://www.khan.co.kr/politics/north-korea/article/202312271605001</link>
+            <guid>https://www.khan.co.kr/politics/north-korea/article/202312271605001</guid>
+            <pubDate>Wed, 27 Dec 2023 17:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[국내 거주하는 북한이탈주민의 고용률이 3년 연속 상승하며 일반 국민과의 격차를 좁혔다. 반면 6명 중 1명꼴로 탈북민이라는 이유로 차별을 경험한 것으로 나타났다.
+남북하나재단이 27일 발표한 ‘2023 북한이탈주민 실태조사’ 결과를 보면 만15세 이상 탈북민의 고용률은 지난 5월 기준 60.5%로 전년보다 1.5%포인트 상승했다. 탈북민 고용률은 2020년(54.4%) 이후 4년 연속 상승을 이어갔으며 재단이 2011년 실태조사를 실시한 이래 가장 높은 수치를 기록했다. 만15세 이상 전체 고용률(63.5%)보다는 3.0%포인트 낮았지만 지난해(3.8%포인트)보다 격차가 줄었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/27/news-p.v1.20231227.138f0f66acc64fc7894151bf7e9f1435.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노동신문 등장한 1989년 영화…“김정은식 감성정치”]]></title>
             <link>https://www.khan.co.kr/politics/north-korea/article/202312261638001</link>
@@ -109,15 +118,6 @@
             <content:encoded><![CDATA[김태효 국가안보실 제1차장이 “한국이 세계 최강의 핵무기 국가인 미국과 일체형이 돼서 언제라도 그것(핵무기)을 사용할 수 있는 실전 배치 시스템으로 간다는 것은 북한에 악몽이 될 것”이라고 말했다.
 김 차장은 19일 SBS &lt;편상욱의 뉴스브리핑&gt;에 출연해 “북한은 약 30년 동안 핵 프로그램을 고집하고 여러 가지 중단·폐기에 관한 합의를 하고도 번번이 깨면서까지 여기에 왔다. 핵이 없는 대한민국을 ‘핵 볼모’로 잡아놓고 대한민국의 정치·사회적인 모든 분열과 균열까지 도모할 수 있는 지렛대로 활용하겠다는 것이 북한의 핵 작전”이라며 이 같이 말했다. 정부가 미국의 핵무기가 한반도에 언제라도 실전 배치될 수 있는 시스템을 추진하면 ‘핵 작전’이 좌절돼 북한에 악몽이 될 것이라는 의미이다]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/19/news-p.v1.20231219.5d1a84d3c09e4bf69997d3dd3912bfe3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조태열 외교장관 내정자···정통 외교관 출신, 부친은 조지훈]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202312191707001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202312191707001</guid>
-            <pubDate>Tue, 19 Dec 2023 17:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[조태열 외교부 장관 내정자(68)는 주유엔대사를 지낸 정통 외교관 출신이다. 다자외교 경험이 풍부하며 경제·통상 문제에도 정통하다고 평가받는다.
-조 내정자는 1955년 경북 출생으로 서울대 법과대학을 졸업하고 1979년 외무고시 제13회로 외교부에 입부했다. 외교통상부 통상2과장과 통상정책기획담당 심의관·지역통상국장, 주제네바대표부 차석대사, 외교통상부 통상교섭조정관, 주스페인대사, 외교통상부 개발협력대사 등으로 일했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/19/rcv.YNA.20231219.PYH2023121913060001300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
