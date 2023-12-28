@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 17:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 05:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 언론 "한중일 정상회의 내년 2월 이후 개최 검토"]]></title>
+            <link>https://n.news.naver.com/article/469/0000777488?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000777488?type=journalists</guid>
+            <pubDate>Thu, 28 Dec 2023 05:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/28/777488.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘위안부 사죄 담화’ 고노 “당시 총리도 강제성 인정”]]></title>
             <link>https://n.news.naver.com/article/469/0000777412?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777412?type=journalists</guid>
             <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000777361?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777361?type=journalists</guid>
             <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000777318?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777318?type=journalists</guid>
             <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000776093?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000776093?type=journalists</guid>
             <pubDate>Mon, 25 Dec 2023 17:31:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.12.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/20/776093.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Dec 2023 05:33:16 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/09/774465.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[니혼게이자이 유료 구독자 100만 돌파... 비영어권 신문 첫 기록]]></title>
-            <link>https://n.news.naver.com/article/469/0000774415?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000774415?type=journalists</guid>
-            <pubDate>Fri, 08 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/08/774415.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
