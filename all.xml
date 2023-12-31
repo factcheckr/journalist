@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 05:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 17:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,7 +294,7 @@
             <link>https://n.news.naver.com/article/469/0000777627?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777627?type=journalists</guid>
             <pubDate>Thu, 28 Dec 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/28/777627.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -310,7 +310,7 @@
             <link>https://n.news.naver.com/article/469/0000777412?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777412?type=journalists</guid>
             <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,7 +318,7 @@
             <link>https://n.news.naver.com/article/469/0000777361?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777361?type=journalists</guid>
             <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -326,16 +326,32 @@
             <link>https://n.news.naver.com/article/469/0000777318?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777318?type=journalists</guid>
             <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['엔저'에 일본 1인당 GDP 21위로 하락...한국 22위, 세계 1위는 룩셈부르크 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000777137?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000777137?type=journalists</guid>
-            <pubDate>Tue, 26 Dec 2023 17:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/26/777137.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[재일동포 첫 J리그 팀 주장 '센다이의 전설' 량용기 은퇴 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000776962?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000776962?type=journalists</guid>
+            <pubDate>Sun, 31 Dec 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/25/776962.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["도와줘, 살인자다" 김대중 납치사건 일본 수사기록 추가 공개 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000776957?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000776957?type=journalists</guid>
+            <pubDate>Sun, 31 Dec 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/25/776957.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 간토대학살 기록 또 발견…“살기 품은 군중에 조선인 모조리 살해” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000776915?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000776915?type=journalists</guid>
+            <pubDate>Sun, 31 Dec 2023 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/25/776915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본, 자국산 패트리엇 미국 수출 공식 결정... '우크라 우회 지원' (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -512,22 +528,6 @@
             <pubDate>Wed, 13 Dec 2023 17:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/11/774721.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["마을이 키우고 일하는 법 바꿨더니..." 출생률 2~3배 급상승 일본 사례 공통점은? [클로즈업 재팬] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000774611?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000774611?type=journalists</guid>
-            <pubDate>Sun, 17 Dec 2023 17:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/11/774611.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자민당 최대 계파 ‘아베파’ 몰락하나… 지도부 요직 박탈 위기, 검찰 수사까지 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000774535?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000774535?type=journalists</guid>
-            <pubDate>Sun, 10 Dec 2023 17:31:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/10/774535.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하늘과 바람과 별, 그리고 물리학자 김상욱 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
