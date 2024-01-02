@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 17:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 05:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[궤도 진입 1년, 다누리가 본 달의 모습은 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033991?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033991?type=journalists</guid>
+            <pubDate>Tue, 02 Jan 2024 05:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33991.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하늘과 바람과 별, 그리고 물리학자 김상욱]]></title>
             <link>https://n.news.naver.com/article/308/0000033936?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 21 Jun 2023 05:33:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/21/32883.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍제천 풀꽃 지식부터 지역 재난방송까지, 서대문공동체라디오의 꿈 [사람IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032843?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032843?type=journalists</guid>
-            <pubDate>Thu, 15 Jun 2023 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/15/32843.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
