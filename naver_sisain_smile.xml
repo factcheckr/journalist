@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 05:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 17:48:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“한국 야당 지도자가 칼에 찔리다” [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033992?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033992?type=journalists</guid>
+            <pubDate>Tue, 02 Jan 2024 17:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33992.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정치가 실패하면 사랑이 무너진다 [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000033990?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033990?type=journalists</guid>
             <pubDate>Tue, 02 Jan 2024 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33990.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -622,14 +630,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/03/31539.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신뢰도 조사] 가장 신뢰하는 정치인은 이재명]]></title>
-            <link>https://n.news.naver.com/article/308/0000031461?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031461?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/13/31461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

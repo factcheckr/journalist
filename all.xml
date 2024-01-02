@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 05:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 17:48:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년 한반도는 ‘살얼음판’…충돌 관리 방안이 안 보인다 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202401021433001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202401021433001</guid>
+            <pubDate>Tue, 02 Jan 2024 17:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024년은 한반도의 군사적 긴장이 고조되는 한 해가 될 전망이다. 북한은 전술핵 무기 개발에 박차를 가하고 국지적 군사행동에 나설 가능성도 제기된다. 한·미는 북한 핵공격을 가정한 연합훈련을 실시한다. 우발적 충돌 가능성은 높아졌지만 위기를 관리하려는 지도자의 메시지나 시스템은 보이지 않는다.
+북한의 행보와 관련해서 가장 주목되는 점은 선거 일정이다. 북한의 시선은 최종적으로 11월 미국 대선을 향하고 있다. 북한은 도널드 트럼프 공화당 후보의 당선을 염두에 두고 향후 미국을 상대로 비핵화를 전제로 하지 않는 경제제재 완화를 얻어내려는 구상을 하고 있다고 국내외 전문가들은 분석한다. 이에 따라 북한은 ‘핵 개발은 포기하지 않는다’는 메시지가 담긴 행동을 한 해 내내 벌일 것이라는 전망이 나온다. 통일부 당국자도 2일 기자들과 만나 북한의 대남사업기구 정리 등을 언급하며 “북한이 향후 어떤 형식으로든 한반도 긴장 조성에 나설 가능성이 크다”고 전망했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/02/news-p.v1.20240102.62855ad0e0fe418b941d2612aff72a18.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[한국, 올해부터 2년간 ‘유엔 안보리 비상임이사국’ (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202401012120015</link>
@@ -112,16 +121,6 @@
 국민권익위원회는 22일 학교에 다니지 않는 청소년(비재학생)이 보다 편리하게 수능 모의평가 신청·접수할 수 있도록 하는 방안을 교육부, 여성가족부와 시·도교육청 등에 권고했다고 밝혔다. 권익위는 우선 비재학생의 수능 모의평가 신청·접수 절차를 온라인 방식으로 개선하라고 권고했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘17만’ 학교 밖 청소년, 수능 모의평가 응시 편리해진다 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202312221428011</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202312221428011</guid>
-            <pubDate>Fri, 22 Dec 2023 05:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[졸업이나 중퇴·비진학 등 학교에 다니지 않는 청소년들도 온라인으로 대학수학능력 모의평가 응시를 신청할 수 있게 될 전망이다.
-국민권익위원회는 22일 학교에 다니지 않는 청소년(비재학생)이 보다 편리하게 수능 모의평가 신청·접수할 수 있도록 하는 방안을 교육부, 여성가족부와 시·도교육청 등에 권고했다고 밝혔다.
-권익위는 우선 비재학생의 수능 모의평가 신청·접수 절차를 온라인 방식으로 개선하라고 권고했다. 응시료 납부 수단도 현금 외 신용카드나 가상계좌 등으로 다양화해야 한다고 권고했다. 현재 비재학생이 6월·9월 수능 모의평가에 응시하려면 출신 학교나 교육청에 방문해 직접 응시 원서를 내야 한다. 이 경우 응시료는 현금으로만 납부할 수 있으며, 성적증명서도 직접 방문해 유료로 발급받아야 한다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/22/news-p.v1.20231222.ae22ed15235042aa81c393f305032558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202202210300055</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202202210300055</guid>
@@ -211,6 +210,14 @@
 성소수자에 대한 차별금지 조항에 반대하는 사람들이 내놓는 어처구니없는 논거 중 하나가 ‘한국에는 성소수자 차별이 없다’는 것이다. 뻔뻔하게도 구체적인 근거까지 내놓는다. 국가인권위원회에 성소수자 차별에 관한 진정 건수가 거의 없고, 외국과는 달리 한국에선 폭력이나 차별 사례도 별로 없지 않냐는 것이다. 잘 안 보이는 것과 없는 것은 완전히 다른 문제다. 안타깝게도 성소수자는 공식적으로 가시화되거나 정책 수립을 위한 인구집단으로 인정된 바가 없다. 인구주택총조사 등에서 성적지향이나 성별 정체성에 대한 통계를 체계적으로 수집한 적도 없고 교육, 노동, 보건의료, 가족 등의 정책 수립을 위한 실태조사에 성소수자 관련 조사를 포함시킨 적도 없다. 수사당국에서 소수자 대상 범죄 통계를 따로 집계하지도 않는다. 차별의 현실을 밝혀내려는 시도조차 하지 않았으니 차별이 입증될 수도 없다. 이런 상황에서 차별이 없다니 어안이 벙벙할 뿐이다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[여러 번의 부고를 겪고 나니 알게 된 게 있다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002989769</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002989769</guid>
+            <pubDate>Tue, 02 Jan 2024 17:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/1229/A0002989769_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[교회에서 쫓겨난 목사... 정작 '문제적' 목사들은 잘 산다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002986446</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002986446</guid>
@@ -283,20 +290,28 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0908/A0002959969_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세계적 수영 선수의 뉴스위크 기고글이 던진 파장 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002955785</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002955785</guid>
-            <pubDate>Mon, 28 Aug 2023 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0825/A0002955785_T.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[일본 강진 55명 희생됐지만…예상보다 인명 피해 적은 이유는? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000778318?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000778318?type=journalists</guid>
+            <pubDate>Tue, 02 Jan 2024 17:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/02/778318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 강진으로 최소 6명 사망... 빌딩 쓰러지고 부상자 속출 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000778185?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000778185?type=journalists</guid>
             <pubDate>Tue, 02 Jan 2024 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/02/778185.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새해 첫날 일본 이시카와현에 진도 7 강진 발생… 쓰나미 경보도 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000778115?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000778115?type=journalists</guid>
+            <pubDate>Tue, 02 Jan 2024 17:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/01/778115.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[20억 유권자 투표장 이끌 '슈퍼 선거의 해'... 50개국 리더십이 요동친다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -311,7 +326,7 @@
             <link>https://n.news.naver.com/article/469/0000777991?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777991?type=journalists</guid>
             <pubDate>Mon, 01 Jan 2024 17:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/31/777991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -319,7 +334,7 @@
             <link>https://n.news.naver.com/article/469/0000777627?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777627?type=journalists</guid>
             <pubDate>Thu, 28 Dec 2023 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/28/777627.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -335,7 +350,7 @@
             <link>https://n.news.naver.com/article/469/0000777412?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777412?type=journalists</guid>
             <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,7 +358,7 @@
             <link>https://n.news.naver.com/article/469/0000777361?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777361?type=journalists</guid>
             <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -351,7 +366,7 @@
             <link>https://n.news.naver.com/article/469/0000777318?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777318?type=journalists</guid>
             <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -359,7 +374,7 @@
             <link>https://n.news.naver.com/article/469/0000777137?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777137?type=journalists</guid>
             <pubDate>Mon, 01 Jan 2024 17:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/26/777137.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -367,7 +382,7 @@
             <link>https://n.news.naver.com/article/469/0000776962?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000776962?type=journalists</guid>
             <pubDate>Sun, 31 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.12.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/25/776962.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,7 +390,7 @@
             <link>https://n.news.naver.com/article/469/0000776957?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000776957?type=journalists</guid>
             <pubDate>Sun, 31 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.12.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/25/776957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -515,27 +530,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/775139.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성추행 피해 묵살당했던 일본 자위대원, 결국 이겼다… 가해자 유죄 판결 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000775106?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000775106?type=journalists</guid>
-            <pubDate>Wed, 13 Dec 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/775106.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“냉전 시대 회귀하나”...통일부 '조선학교 교류 조사'에 재일동포사회 우려 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000774975?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000774975?type=journalists</guid>
-            <pubDate>Tue, 19 Dec 2023 17:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/774975.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[궤도 진입 1년, 다누리가 본 달의 모습은 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033991?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033991?type=journalists</guid>
             <pubDate>Tue, 02 Jan 2024 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1251,11 +1250,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/29/31843.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“한국 야당 지도자가 칼에 찔리다” [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033992?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033992?type=journalists</guid>
+            <pubDate>Tue, 02 Jan 2024 17:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33992.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정치가 실패하면 사랑이 무너진다 [기자의 추천 책] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000033990?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033990?type=journalists</guid>
             <pubDate>Tue, 02 Jan 2024 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33990.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1865,14 +1872,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/03/31539.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신뢰도 조사] 가장 신뢰하는 정치인은 이재명 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031461?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031461?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/13/31461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

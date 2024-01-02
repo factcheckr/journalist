@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 05:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 17:48:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년 한반도는 ‘살얼음판’…충돌 관리 방안이 안 보인다]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202401021433001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202401021433001</guid>
+            <pubDate>Tue, 02 Jan 2024 17:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024년은 한반도의 군사적 긴장이 고조되는 한 해가 될 전망이다. 북한은 전술핵 무기 개발에 박차를 가하고 국지적 군사행동에 나설 가능성도 제기된다. 한·미는 북한 핵공격을 가정한 연합훈련을 실시한다. 우발적 충돌 가능성은 높아졌지만 위기를 관리하려는 지도자의 메시지나 시스템은 보이지 않는다.
+북한의 행보와 관련해서 가장 주목되는 점은 선거 일정이다. 북한의 시선은 최종적으로 11월 미국 대선을 향하고 있다. 북한은 도널드 트럼프 공화당 후보의 당선을 염두에 두고 향후 미국을 상대로 비핵화를 전제로 하지 않는 경제제재 완화를 얻어내려는 구상을 하고 있다고 국내외 전문가들은 분석한다. 이에 따라 북한은 ‘핵 개발은 포기하지 않는다’는 메시지가 담긴 행동을 한 해 내내 벌일 것이라는 전망이 나온다. 통일부 당국자도 2일 기자들과 만나 북한의 대남사업기구 정리 등을 언급하며 “북한이 향후 어떤 형식으로든 한반도 긴장 조성에 나설 가능성이 크다”고 전망했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/02/news-p.v1.20240102.62855ad0e0fe418b941d2612aff72a18.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[한국, 올해부터 2년간 ‘유엔 안보리 비상임이사국’]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202401012120015</link>
@@ -110,16 +119,6 @@
             <pubDate>Fri, 22 Dec 2023 17:31:39 GMT</pubDate>
             <content:encoded><![CDATA[졸업이나 중퇴·비진학 등 학교에 다니지 않는 청소년들도 온라인으로 대학수학능력 모의평가 응시를 신청할 수 있게 될 것으로 전망된다.
 국민권익위원회는 22일 학교에 다니지 않는 청소년(비재학생)이 보다 편리하게 수능 모의평가 신청·접수할 수 있도록 하는 방안을 교육부, 여성가족부와 시·도교육청 등에 권고했다고 밝혔다. 권익위는 우선 비재학생의 수능 모의평가 신청·접수 절차를 온라인 방식으로 개선하라고 권고했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘17만’ 학교 밖 청소년, 수능 모의평가 응시 편리해진다]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202312221428011</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202312221428011</guid>
-            <pubDate>Fri, 22 Dec 2023 05:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[졸업이나 중퇴·비진학 등 학교에 다니지 않는 청소년들도 온라인으로 대학수학능력 모의평가 응시를 신청할 수 있게 될 전망이다.
-국민권익위원회는 22일 학교에 다니지 않는 청소년(비재학생)이 보다 편리하게 수능 모의평가 신청·접수할 수 있도록 하는 방안을 교육부, 여성가족부와 시·도교육청 등에 권고했다고 밝혔다.
-권익위는 우선 비재학생의 수능 모의평가 신청·접수 절차를 온라인 방식으로 개선하라고 권고했다. 응시료 납부 수단도 현금 외 신용카드나 가상계좌 등으로 다양화해야 한다고 권고했다. 현재 비재학생이 6월·9월 수능 모의평가에 응시하려면 출신 학교나 교육청에 방문해 직접 응시 원서를 내야 한다. 이 경우 응시료는 현금으로만 납부할 수 있으며, 성적증명서도 직접 방문해 유료로 발급받아야 한다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/22/news-p.v1.20231222.ae22ed15235042aa81c393f305032558.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
