@@ -4,31 +4,15 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 17:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 05:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[“한국 야당 지도자가 칼에 찔리다” [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033992?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033992?type=journalists</guid>
-            <pubDate>Tue, 02 Jan 2024 17:48:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33992.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정치가 실패하면 사랑이 무너진다 [기자의 추천 책]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033990?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033990?type=journalists</guid>
-            <pubDate>Tue, 02 Jan 2024 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33990.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이재명의 시간 [2023 올해의 사진]]]></title>
             <link>https://n.news.naver.com/article/308/0000033958?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033958?type=journalists</guid>
             <pubDate>Wed, 27 Dec 2023 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/27/33958.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -630,6 +614,70 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/03/31539.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신뢰도 조사] 가장 신뢰하는 정치인은 이재명]]></title>
+            <link>https://n.news.naver.com/article/308/0000031461?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031461?type=journalists</guid>
+            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.13.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/13/31461.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신뢰도 조사] 신뢰도 가장 낮은 현직 대통령 윤석열]]></title>
+            <link>https://n.news.naver.com/article/308/0000031457?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031457?type=journalists</guid>
+            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.12.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/12/31457.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열‧이준석 갈등은 2024 총선 공천권 샅바싸움?]]></title>
+            <link>https://n.news.naver.com/article/308/0000031422?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031422?type=journalists</guid>
+            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.09.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/05/31422.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미중 사이 갈팡질팡, 윤석열 외교 정책은 어디에]]></title>
+            <link>https://n.news.naver.com/article/308/0000031363?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031363?type=journalists</guid>
+            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/24/31363.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열vs이준석의 3차전 엔드게임, 퇴로가 없다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031305?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031305?type=journalists</guid>
+            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.12.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/12/31305.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은퇴를 생각할 나이, ‘다시 시작’ 버튼을 눌렀다]]></title>
+            <link>https://n.news.naver.com/article/308/0000031292?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031292?type=journalists</guid>
+            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.08.10.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/10/31292.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] 해외 순방 체면 구긴 바이든 대통령]]></title>
+            <link>https://n.news.naver.com/article/308/0000031219?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031219?type=journalists</guid>
+            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.26.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/26/31219.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 미국 엘리트의  솔직한 심경]]></title>
+            <link>https://n.news.naver.com/article/308/0000031196?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031196?type=journalists</guid>
+            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.07.22.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/22/31196.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

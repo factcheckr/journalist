@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 17:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 05:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“매몰자 다수” “아이 2명 깔려”...일본 강진 현장 게시판엔 '구해달라' 호소문]]></title>
+            <link>https://n.news.naver.com/article/469/0000778450?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000778450?type=journalists</guid>
+            <pubDate>Wed, 03 Jan 2024 05:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>46분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/03/778450.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 강진 55명 희생됐지만…예상보다 인명 피해 적은 이유는?]]></title>
             <link>https://n.news.naver.com/article/469/0000778318?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000778318?type=journalists</guid>
             <pubDate>Tue, 02 Jan 2024 17:47:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/02/778318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000778185?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000778185?type=journalists</guid>
             <pubDate>Tue, 02 Jan 2024 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/02/778185.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000778049?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000778049?type=journalists</guid>
             <pubDate>Mon, 01 Jan 2024 05:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/01/778049.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -46,6 +54,14 @@
             <pubDate>Mon, 01 Jan 2024 17:33:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/31/777991.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공식 데뷔도 안했는데... 뉴진스, 연말연시  일본 방송가 뒤흔들다]]></title>
+            <link>https://n.news.naver.com/article/469/0000777966?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000777966?type=journalists</guid>
+            <pubDate>Wed, 03 Jan 2024 05:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/31/777966.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본, 강제동원 추가 판결에 “극히 유감”…한국 외교관 초치 항의]]></title>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000777488?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777488?type=journalists</guid>
             <pubDate>Thu, 28 Dec 2023 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/28/777488.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 17 Dec 2023 17:32:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/17/775659.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아베파 축출 개각 단행에도… 이미 힘 빠진 기시다, 사태수습 난망]]></title>
-            <link>https://n.news.naver.com/article/469/0000775350?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000775350?type=journalists</guid>
-            <pubDate>Thu, 14 Dec 2023 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/14/775350.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 자민당 정치자금 의혹, 기시다파까지 번졌다]]></title>
-            <link>https://n.news.naver.com/article/469/0000775139?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000775139?type=journalists</guid>
-            <pubDate>Wed, 13 Dec 2023 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/13/775139.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

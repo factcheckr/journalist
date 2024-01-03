@@ -4,9 +4,16 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 17:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 05:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 세계관을 묻는다]]></title>
+            <link>https://weekly.khan.co.kr/khnm.html?mode=view&amp;art_id=202401030600021&amp;dept=115</link>
+            <guid>https://weekly.khan.co.kr/khnm.html?mode=view&amp;art_id=202401030600021&amp;dept=115</guid>
+            <pubDate>Wed, 03 Jan 2024 05:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 1월 1일부터 한국은 유엔 안전보장이사회 비상임이사국이다. 임기는 2년. 5개의 상임이사국(미국·러시아·중국·영국·프랑스)과 10개의 비상임이사국으로 이뤄진 안보리에서 비상임이사국의 역할은 미미했다. 하지만 우크라이나 전쟁 이후 안보리 내 강대국들이 거부권을 남발하며 극한 대립에 빠져들면서, 비상임이사국의 존재감이 부상하고 있다. 안보리의 첫 가자지구 교전 중단 결의안 역시 비상임이사국 몰타가 제출했으며 브라질이 중재한 결과다.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2024년 한반도는 ‘살얼음판’…충돌 관리 방안이 안 보인다]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202401021433001</link>
@@ -111,14 +118,6 @@
 자동응답시스템(ARS) 투표를 통해 한 지명자 임명안이 가결되면 공식적으로 한 지명자가 비대위원장으로 임명된다. 투표 결과는 이날 오후 1시쯤 발표된다.
 국민의힘 한동훈 비대위 공식 출범을 위해서는 비대위원장 임명 이후에도 최대 15명인 비대위원 인선이 완료돼야 한다. 이르면 28일 최고위원회의 의결과 29일 상임전국위원회의 의결을 거쳐 비대위원이 임명될 것으로 보인다. 한 전 장관은 비대위원장직을 수락한 이후 비대위원 후보군과 접촉을 이어가고 있는 것으로 전해졌다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/26/news-p.v1.20231226.6335c06c271e48749f26aa3bc73d77e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학교 밖 청소년, 모의평가 온라인 신청 가능해진다]]></title>
-            <link>https://www.khan.co.kr/national/education/article/202312222101005</link>
-            <guid>https://www.khan.co.kr/national/education/article/202312222101005</guid>
-            <pubDate>Fri, 22 Dec 2023 17:31:39 GMT</pubDate>
-            <content:encoded><![CDATA[졸업이나 중퇴·비진학 등 학교에 다니지 않는 청소년들도 온라인으로 대학수학능력 모의평가 응시를 신청할 수 있게 될 것으로 전망된다.
-국민권익위원회는 22일 학교에 다니지 않는 청소년(비재학생)이 보다 편리하게 수능 모의평가 신청·접수할 수 있도록 하는 방안을 교육부, 여성가족부와 시·도교육청 등에 권고했다고 밝혔다. 권익위는 우선 비재학생의 수능 모의평가 신청·접수 절차를 온라인 방식으로 개선하라고 권고했다.]]></content:encoded>
         </item>
     </channel>
 </rss>
