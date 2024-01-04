@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 05:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 17:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘김건희 특검법’ 정부 이송, 거부권 강행할까? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034004?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034004?type=journalists</guid>
+            <pubDate>Thu, 04 Jan 2024 17:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/04/34004.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정치가 실패하면 사랑이 무너진다 [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000033990?type=journalists</link>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/10/31292.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] 해외 순방 체면 구긴 바이든 대통령]]></title>
-            <link>https://n.news.naver.com/article/308/0000031219?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031219?type=journalists</guid>
-            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.07.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/07/26/31219.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 05:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 17:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외교부, 이란 케르만 폭탄 공격에 “강력히 규탄”]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202401041846001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202401041846001</guid>
+            <pubDate>Thu, 04 Jan 2024 17:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[외교부가 3일 이란 케르만에서 발생한 폭탄 공격과 관련해 대변인 명의의 성명을 내고 “강력히 규탄한다”고 밝혔다.
+외교부는 “약 100명의 사망자와 다수의 부상자가 발생한 데에 깊은 우려를 표한다”며 “희생자와 유가족에 깊은 위로와 애도를 표하며, 부상자들의 조속한 회복을 기원한다”고 밝혔다. 아울러 “정부는 테러 공격은 어떤 이유로도 정당화될 수 없다는 입장을 재확인한다”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/04/news-p.v1.20240104.1af6aab0b88d4bf1813845beeeff4958.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조태열 외교장관 후보 “강제징용, ‘제3자 변제 해법’ 흔들림 없이 추진”]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202401031814001</link>
@@ -106,16 +115,6 @@
 “오직 당과 혁명을 위하여 한생을 깡그리 다 바친 사람만이 생의 고귀한 흔적을 후대 앞에 남길 수 있는 거요.”
 “저는 이런 성장 과정에 비로소 개인을 위한 삶은 그게 부귀영화라 해도 그 가치는 바늘값만도 못하며 오직 사회와 집단을 위해 바친 삶만이 참으로 천금같이 귀중하다는 걸 생활의 진실을 통해 체험할 수 있었습니다.”]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/26/news-p.v1.20231226.74b89132747f43aa950407b8c96bf6eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안덕근 산업부 장관 후보자 다음달 3일 인사청문회]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202312260807001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202312260807001</guid>
-            <pubDate>Tue, 26 Dec 2023 05:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[안덕근 산업통상자원부 장관 후보자에 대한 국회 인사청문회가 다음 달 3일 열린다.
-국회 산업통상자원중소벤처기업위원회는 26일 전체회의를 열어 이 같은 내용의 안 후보자 인사청문회 실시계획서를 채택하기로 했다.
-안 후보자는 서울대 국제대학원 교수를 지냈고, 윤석열 정부 초대 통상교섭본부장을 맡았다. 바이오, 디지털, 식량안보, 핵심광물 등 신통상 의제를 중심으로 세계 각국과 경제동반자협정(EPA), 무역투자촉진프레임워크(TIPF) 등을 체결한 것이 주요 성과로 꼽힌다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/26/news-p.v1.20231226.63b5589d815543c5afe4af09d49c9672.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
