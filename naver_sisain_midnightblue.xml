@@ -4,9 +4,25 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 17:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 05:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기후위기 대응에도 오일머니 작용했나?]]></title>
+            <link>https://n.news.naver.com/article/308/0000034007?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034007?type=journalists</guid>
+            <pubDate>Fri, 05 Jan 2024 05:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34007.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동물원이 아닌 생추어리가 필요한 까닭 [사람IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034005?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034005?type=journalists</guid>
+            <pubDate>Fri, 05 Jan 2024 05:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34005.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한전이 민간에 송전망 사업을 개방하려는 이유]]></title>
             <link>https://n.news.naver.com/article/308/0000033926?type=journalists</link>
@@ -470,22 +486,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/16/31933.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선]  트럼프의 우울한 연말을 만든 이 사람]]></title>
-            <link>https://n.news.naver.com/article/308/0000031910?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031910?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/12/31910.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“좋은 기후위기 기사 응원해줘야 한다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000031843?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031843?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/29/31843.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

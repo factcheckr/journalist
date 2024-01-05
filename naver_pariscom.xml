@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 17:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 05:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포] 물 한 통 건네자 "이렇게 귀한 것을…" '방재 대국' 일본 강진에 우왕좌왕]]></title>
+            <link>https://n.news.naver.com/article/469/0000778770?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000778770?type=journalists</guid>
+            <pubDate>Fri, 05 Jan 2024 05:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/05/778770.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“매몰자 다수” “아이 2명 깔려”...일본 강진 현장 게시판엔 '구해달라' 호소문]]></title>
             <link>https://n.news.naver.com/article/469/0000778450?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000778450?type=journalists</guid>
             <pubDate>Wed, 03 Jan 2024 05:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/03/778450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000778185?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000778185?type=journalists</guid>
             <pubDate>Tue, 02 Jan 2024 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/02/778185.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000778049?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000778049?type=journalists</guid>
             <pubDate>Mon, 01 Jan 2024 05:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/01/778049.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000777488?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000777488?type=journalists</guid>
             <pubDate>Thu, 28 Dec 2023 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2023.12.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/28/777488.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 18 Dec 2023 05:33:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/18/775753.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 방위성 "북한 탄도미사일 발사... 장거리 미사일 가능성"]]></title>
-            <link>https://n.news.naver.com/article/469/0000775737?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000775737?type=journalists</guid>
-            <pubDate>Mon, 18 Dec 2023 05:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/18/775737.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
