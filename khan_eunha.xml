@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 17:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 05:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정은의 일 지진 위로, 축구 …한반도 긴장 높아지지만 북·일은 ‘물밑관리’]]></title>
+            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202401081701001</link>
+            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202401081701001</guid>
+            <pubDate>Tue, 09 Jan 2024 05:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[북한이 올해 들어 사흘 연속 서해 북방한계선(NLL) 북방으로 해상 포격을 하는 등 한반도의 군사적 긴장을 높이는 행보를 이어가고 있지만 일본에 대해서는 대조적 태도를 보이고 있다. 일본이 북핵 문제 등에서 한·미·일 공조를 진행하면서도 북·일관계 개선에 독자 노력을 기울여온 결과라는 분석이 나온다.
+8일 일본 언론에 따르면 하야시 요시마사 관방장관은 김정은 북한 국무위원장이 이사카와현 노토반도 대지진과 관련해 기시다 후미오 총리에게 위로 전문을 보낸 것에 대해 “감사의 뜻을 표한다”고 밝혔다. 김 위원장은 지난 6일 조선중앙통신에 공개된 위문 전문에서 기시다 총리를 ‘각하’라고 부르며 지진과 관련해 “심심한 동정과 위문을 표한다”고 밝혔다. 북한 최고 지도자가 일본의 재해에 반응한 것은 이례적인 일이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/08/news-p.v1.20240108.020b87ec7ed54c94a848fc08a4558ef4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한·미·일 첫 인도·태평양 대화…‘남중국해 영유권 주장’ 중국에 경고]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202401072048005</link>
@@ -105,14 +114,6 @@
 한국 정부는 지금까지 독도가 분쟁지역으로 거론되는 것 자체가 한국의 영토주권에 대한 부정이며 독도 영유권을 주장하는 일본 정부의 노림수에 말려드는 것이란 입장을 갖고 대응해왔다.
 국방부의 ‘독도 분쟁지역’ 표기는 이 같은 기존 정부 입장을 180도 뒤집은 것이다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/28/2023122901001038800098841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘독도가 분쟁지역이란 언급 자체가 영토주권 부정’이란 기존 정부 입장 뒤집은 국방부]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202312281704001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202312281704001</guid>
-            <pubDate>Thu, 28 Dec 2023 17:31:53 GMT</pubDate>
-            <content:encoded><![CDATA[독도 관련 한국 정부의 공식 입장은 독도는 역사적·지리적·국제법적으로 명백한 한국의 영토이며 영유권 분쟁은 존재하지 않는다는 것이다. 한국 정부는 지금까지 독도가 분쟁지역으로 거론되는 것 자체가 한국의 영토주권에 대한 부정이며 독도 영유권을 주장하는 일본 정부의 노림수에 말려드는 것이란 입장을 갖고 대응해 왔다. 국방부의 ‘독도 분쟁지역’ 표기는 이같은 기존 정부 입장을 180도 뒤집는 것이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/28/news-p.v1.20231228.3c28e7caa37040f1b5b59efa4aa15094.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

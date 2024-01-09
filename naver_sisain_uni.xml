@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 17:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 05:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공병원에는 ○○이 있다 [기자의 추천 책]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034028?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034028?type=journalists</guid>
+            <pubDate>Tue, 09 Jan 2024 05:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/09/34028.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난자를 얼리시겠다고요? 그 전에 알아둬야 할 것들]]></title>
             <link>https://n.news.naver.com/article/308/0000034006?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034006?type=journalists</guid>
             <pubDate>Fri, 05 Jan 2024 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34006.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000033991?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033991?type=journalists</guid>
             <pubDate>Tue, 02 Jan 2024 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 05:35:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/14/33030.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수도권 6600병상이 온다, 지역 의료 붕괴가 가속화된다]]></title>
-            <link>https://n.news.naver.com/article/308/0000032944?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032944?type=journalists</guid>
-            <pubDate>Fri, 30 Jun 2023 05:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/30/32944.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

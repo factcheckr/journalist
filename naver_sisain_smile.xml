@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 17:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 05:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,16 @@
             <link>https://n.news.naver.com/article/308/0000034026?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034026?type=journalists</guid>
             <pubDate>Mon, 08 Jan 2024 17:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/08/34026.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김건희 특검법’ 정부 이송, 거부권 강행할까? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034004?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034004?type=journalists</guid>
+            <pubDate>Tue, 09 Jan 2024 05:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/04/34004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“한국 야당 지도자가 칼에 찔리다” [김은지의 뉴스IN]]]></title>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000033990?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033990?type=journalists</guid>
             <pubDate>Wed, 03 Jan 2024 17:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33990.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.08.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/24/31363.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열vs이준석의 3차전 엔드게임, 퇴로가 없다]]></title>
-            <link>https://n.news.naver.com/article/308/0000031305?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031305?type=journalists</guid>
-            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.08.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/08/12/31305.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
