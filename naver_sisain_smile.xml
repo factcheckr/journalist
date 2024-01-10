@@ -4,23 +4,31 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 05:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 17:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[탈당 이낙연, 이준석·금태섭과 빅텐트? 독자신당? [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034026?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034026?type=journalists</guid>
-            <pubDate>Mon, 08 Jan 2024 17:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/08/34026.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[‘원칙과 상식’ 탈당, 윤영찬은 왜 민주당에 남았나? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034043?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034043?type=journalists</guid>
+            <pubDate>Wed, 10 Jan 2024 17:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34043.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김건희 특검법’ 정부 이송, 거부권 강행할까? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034004?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034004?type=journalists</guid>
+            <pubDate>Wed, 10 Jan 2024 17:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/04/34004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘썰전’ 박성태·‘보수 참칭’ 장성철이 점치는 한동훈 앞날은 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000033998?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033998?type=journalists</guid>
             <pubDate>Tue, 09 Jan 2024 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/03/33998.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/308/0000033992?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000033992?type=journalists</guid>
             <pubDate>Mon, 08 Jan 2024 17:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33992.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.09.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/12/31457.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열‧이준석 갈등은 2024 총선 공천권 샅바싸움?]]></title>
-            <link>https://n.news.naver.com/article/308/0000031422?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031422?type=journalists</guid>
-            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/05/31422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
