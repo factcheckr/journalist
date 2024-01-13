@@ -4,17 +4,9 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 05:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 17:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["다음은 누가 체포되나"...아베파 의원 첫 체포에 불안한 자민당]]></title>
-            <link>https://n.news.naver.com/article/469/0000779263?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000779263?type=journalists</guid>
-            <pubDate>Mon, 08 Jan 2024 17:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/08/779263.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[영화 다양성 지킴이 일본의 ‘미니 시어터’, 위기 속 부활의 몸짓 [클로즈업 재팬]]]></title>
             <link>https://n.news.naver.com/article/469/0000779115?type=journalists</link>
@@ -24,11 +16,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/08/779115.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 강진 발생 124시간 지나 90대 여성 구출...사망은 100명 넘어]]></title>
+            <link>https://n.news.naver.com/article/469/0000779078?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000779078?type=journalists</guid>
+            <pubDate>Sat, 13 Jan 2024 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/07/779078.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 검찰, '비자금 조성' 자민당 아베파 4선 의원 첫 체포]]></title>
             <link>https://n.news.naver.com/article/469/0000779075?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000779075?type=journalists</guid>
             <pubDate>Sun, 07 Jan 2024 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/07/779075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000778888?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000778888?type=journalists</guid>
             <pubDate>Thu, 11 Jan 2024 17:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/05/778888.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
