@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 05:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 17:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기시다, 강진 2주 만에 첫 현장 방문…지진 직접 피해 아닌 사망자도 증가]]></title>
+            <link>https://n.news.naver.com/article/469/0000780249?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000780249?type=journalists</guid>
+            <pubDate>Sun, 14 Jan 2024 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/14/780249.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["다음은 누가 체포되나"...아베파 의원 첫 체포에 불안한 자민당]]></title>
             <link>https://n.news.naver.com/article/469/0000779263?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000779263?type=journalists</guid>
             <pubDate>Sun, 14 Jan 2024 05:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/08/779263.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000779078?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000779078?type=journalists</guid>
             <pubDate>Sat, 13 Jan 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/07/779078.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000779075?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000779075?type=journalists</guid>
             <pubDate>Sun, 07 Jan 2024 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/07/779075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Dec 2023 17:32:58 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/22/776631.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 강제동원 2차소송 판결에 "결코 받아들일 수 없어"]]></title>
-            <link>https://n.news.naver.com/article/469/0000776400?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000776400?type=journalists</guid>
-            <pubDate>Thu, 21 Dec 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/21/776400.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
