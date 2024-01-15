@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 17:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 05:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,7 +287,7 @@
             <link>https://n.news.naver.com/article/469/0000780249?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780249?type=journalists</guid>
             <pubDate>Sun, 14 Jan 2024 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/14/780249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -303,7 +303,7 @@
             <link>https://n.news.naver.com/article/469/0000779115?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000779115?type=journalists</guid>
             <pubDate>Mon, 08 Jan 2024 05:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/08/779115.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -767,7 +767,7 @@
             <link>https://n.news.naver.com/article/308/0000034045?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034045?type=journalists</guid>
             <pubDate>Thu, 11 Jan 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/11/34045.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1241,6 +1241,14 @@
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/23/31966.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“미투 이후 우리 사회 무엇이 달라졌나” [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034076?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034076?type=journalists</guid>
+            <pubDate>Mon, 15 Jan 2024 05:34:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘원칙과 상식’ 탈당, 윤영찬은 왜 민주당에 남았나? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
@@ -1905,14 +1913,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/03/31539.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신뢰도 조사] 가장 신뢰하는 정치인은 이재명 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031461?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031461?type=journalists</guid>
-            <pubDate>Wed, 03 Jan 2024 05:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.09.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/09/13/31461.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
