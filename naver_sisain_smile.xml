@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 17:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 05:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한동훈표’ 공천에 윤석열은 있다? 없다? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034087?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034087?type=journalists</guid>
+            <pubDate>Wed, 17 Jan 2024 05:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34087.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“미투 이후 우리 사회 무엇이 달라졌나” [기자들의 시선]]]></title>
             <link>https://n.news.naver.com/article/308/0000034076?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034076?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 05:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/308/0000034029?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034029?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 17:34:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/09/34029.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.10.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/31/31682.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘라임 사건’ 김봉현은 어떻게 무죄를 받았나 [프리스타일]]]></title>
-            <link>https://n.news.naver.com/article/308/0000031612?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031612?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/18/31612.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

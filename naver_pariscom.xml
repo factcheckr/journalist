@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 17:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 05:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬데믹 시기에도 계속된 '탈일본'... 일본인 해외영주자 증가, 이유는?]]></title>
+            <link>https://n.news.naver.com/article/469/0000780739?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000780739?type=journalists</guid>
+            <pubDate>Wed, 17 Jan 2024 05:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780739.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기시다, 강진 2주 만에 첫 현장 방문…지진 직접 피해 아닌 사망자도 증가]]></title>
             <link>https://n.news.naver.com/article/469/0000780249?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 31 Dec 2023 17:32:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/25/776957.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 간토대학살 기록 또 발견…“살기 품은 군중에 조선인 모조리 살해”]]></title>
-            <link>https://n.news.naver.com/article/469/0000776915?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000776915?type=journalists</guid>
-            <pubDate>Sun, 31 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/25/776915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
