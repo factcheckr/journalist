@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 05:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 17:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/308/0000034087?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034087?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34087.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -24,11 +24,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반복되는 한동훈의 ‘인사 참사’? 이유 알려드림 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034053?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034053?type=journalists</guid>
+            <pubDate>Wed, 17 Jan 2024 17:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/11/34053.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘원칙과 상식’ 탈당, 윤영찬은 왜 민주당에 남았나? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034043?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034043?type=journalists</guid>
             <pubDate>Tue, 16 Jan 2024 17:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/308/0000034034?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034034?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 17:34:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/09/34034.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/02/31693.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외신 한 컷] ‘총칼 대신 투표용지’ 민주주의는 어디로…]]></title>
-            <link>https://n.news.naver.com/article/308/0000031682?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031682?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/31/31682.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

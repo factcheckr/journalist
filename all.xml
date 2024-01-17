@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 05:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 17:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,19 +284,35 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0922/A0002964079_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['품질인증 부정' 일본 다이하쓰, 시정 명령에 리콜까지 "존망의 위기" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000780828?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000780828?type=journalists</guid>
+            <pubDate>Wed, 17 Jan 2024 17:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780828.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팬데믹 시기에도 계속된 '탈일본'... 일본인 해외영주자 증가, 이유는? (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000780739?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780739?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 05:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780739.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 닛케이지수 6일째 상승 파죽지세…한국 증시와 다른 이유는 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000780449?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000780449?type=journalists</guid>
+            <pubDate>Wed, 17 Jan 2024 17:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/15/780449.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기시다, 강진 2주 만에 첫 현장 방문…지진 직접 피해 아닌 사망자도 증가 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000780249?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780249?type=journalists</guid>
             <pubDate>Tue, 16 Jan 2024 05:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/14/780249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +320,7 @@
             <link>https://n.news.naver.com/article/469/0000779503?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000779503?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 17:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/09/779503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,7 +328,7 @@
             <link>https://n.news.naver.com/article/469/0000779424?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000779424?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 17:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/09/779424.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -506,22 +522,6 @@
             <pubDate>Mon, 01 Jan 2024 17:33:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/26/777137.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재일동포 첫 J리그 팀 주장 '센다이의 전설' 량용기 은퇴 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000776962?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000776962?type=journalists</guid>
-            <pubDate>Sun, 31 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/25/776962.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["도와줘, 살인자다" 김대중 납치사건 일본 수사기록 추가 공개 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000776957?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000776957?type=journalists</guid>
-            <pubDate>Sun, 31 Dec 2023 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/25/776957.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[습격당한 한국 정치, 피의자는 누구인가 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1248,7 +1248,7 @@
             <link>https://n.news.naver.com/article/308/0000034087?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034087?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34087.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1260,11 +1260,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반복되는 한동훈의 ‘인사 참사’? 이유 알려드림 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034053?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034053?type=journalists</guid>
+            <pubDate>Wed, 17 Jan 2024 17:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/11/34053.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘원칙과 상식’ 탈당, 윤영찬은 왜 민주당에 남았나? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034043?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034043?type=journalists</guid>
             <pubDate>Tue, 16 Jan 2024 17:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1272,7 +1280,7 @@
             <link>https://n.news.naver.com/article/308/0000034034?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034034?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 17:34:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/09/34034.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1906,14 +1914,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/02/31693.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외신 한 컷] ‘총칼 대신 투표용지’ 민주주의는 어디로… (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031682?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031682?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.10.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/10/31/31682.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
