@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 17:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 05:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0922/A0002964079_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“15년 전 ‘디지털 유료화’ 수백억 투자...최고위층 결단이 100만 구독자 결실” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000780923?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000780923?type=journalists</guid>
+            <pubDate>Thu, 18 Jan 2024 05:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/780923.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['품질인증 부정' 일본 다이하쓰, 시정 명령에 리콜까지 "존망의 위기" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000780828?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780828?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 17:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +304,7 @@
             <link>https://n.news.naver.com/article/469/0000780739?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780739?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 05:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780739.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -516,19 +524,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['엔저'에 일본 1인당 GDP 21위로 하락...한국 22위, 세계 1위는 룩셈부르크 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000777137?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000777137?type=journalists</guid>
-            <pubDate>Mon, 01 Jan 2024 17:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/26/777137.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[핫초코 들이부은 최초 발견, 낄낄대며 읽는 연구 후기 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034099?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034099?type=journalists</guid>
+            <pubDate>Thu, 18 Jan 2024 05:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/18/34099.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[습격당한 한국 정치, 피의자는 누구인가 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034035?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034035?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -536,7 +544,7 @@
             <link>https://n.news.naver.com/article/308/0000034037?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034037?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34037.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -756,19 +764,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33150.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울-양평 고속도로는 대통령 처가로 향한다? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033101?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033101?type=journalists</guid>
-            <pubDate>Tue, 25 Jul 2023 05:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/25/33101.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오늘도 죽음을 생각하는 여성들에게 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034081?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034081?type=journalists</guid>
             <pubDate>Tue, 16 Jan 2024 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34081.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -776,7 +776,7 @@
             <link>https://n.news.naver.com/article/308/0000034045?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034045?type=journalists</guid>
             <pubDate>Thu, 11 Jan 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/11/34045.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1256,7 +1256,7 @@
             <link>https://n.news.naver.com/article/308/0000034076?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034076?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 05:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
