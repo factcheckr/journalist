@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 05:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 17:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,35 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0922/A0002964079_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본공산당 위원장에 여성 취임… 102년 역사상 처음 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000781065?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000781065?type=journalists</guid>
+            <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781065.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본항공, 승무원 출신 여성 사장 임명... 파격 인사에 환영 목소리 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000781059?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000781059?type=journalists</guid>
+            <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781059.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니클로도 '짝퉁'에 뿔났다…Z세대 열광 'SHEIN'에 소송 잇따르는 이유 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000781005?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000781005?type=journalists</guid>
+            <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781005.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“15년 전 ‘디지털 유료화’ 수백억 투자...최고위층 결단이 100만 구독자 결실” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000780923?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780923?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 05:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/780923.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,7 +320,7 @@
             <link>https://n.news.naver.com/article/469/0000780828?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780828?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 17:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,7 +336,7 @@
             <link>https://n.news.naver.com/article/469/0000780449?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780449?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 17:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/15/780449.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +344,7 @@
             <link>https://n.news.naver.com/article/469/0000780249?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780249?type=journalists</guid>
             <pubDate>Tue, 16 Jan 2024 05:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/14/780249.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -500,35 +524,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/28/777488.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘위안부 사죄 담화’ 고노 “당시 총리도 강제성 인정” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000777412?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000777412?type=journalists</guid>
-            <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777412.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김진표 의장, 기시다 총리에 간토대지진 학살 진상 규명 협조 요청 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000777361?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000777361?type=journalists</guid>
-            <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777361.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“후쿠시마 오염수 발생량 20% 감소”… 방류 완료 시기 빨라지나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000777318?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000777318?type=journalists</guid>
-            <pubDate>Wed, 27 Dec 2023 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/27/777318.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[핫초코 들이부은 최초 발견, 낄낄대며 읽는 연구 후기 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034099?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034099?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/18/34099.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1248,7 +1248,7 @@
             <link>https://n.news.naver.com/article/308/0000034087?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034087?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34087.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1264,7 +1264,7 @@
             <link>https://n.news.naver.com/article/308/0000034053?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034053?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/11/34053.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1272,7 +1272,7 @@
             <link>https://n.news.naver.com/article/308/0000034043?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034043?type=journalists</guid>
             <pubDate>Tue, 16 Jan 2024 17:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
