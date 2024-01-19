@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 17:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 05:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,11 +284,19 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0922/A0002964079_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["기시다파 해산 검토" 자민당 계파 검찰 수사에 파격 카드 내놓은 기시다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000781084?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000781084?type=journalists</guid>
+            <pubDate>Fri, 19 Jan 2024 05:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781084.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본공산당 위원장에 여성 취임… 102년 역사상 처음 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000781065?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781065?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -296,23 +304,15 @@
             <link>https://n.news.naver.com/article/469/0000781059?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781059?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781059.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니클로도 '짝퉁'에 뿔났다…Z세대 열광 'SHEIN'에 소송 잇따르는 이유 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000781005?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000781005?type=journalists</guid>
-            <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781005.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“15년 전 ‘디지털 유료화’ 수백억 투자...최고위층 결단이 100만 구독자 결실” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000780923?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780923?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 05:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/780923.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,8 +328,16 @@
             <link>https://n.news.naver.com/article/469/0000780739?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780739?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 05:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780739.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다, 트럼프 접촉 시도…"공화당 경선 승리 가능성 높아" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000780520?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000780520?type=journalists</guid>
+            <pubDate>Fri, 19 Jan 2024 05:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/16/780520.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 닛케이지수 6일째 상승 파죽지세…한국 증시와 다른 이유는 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -516,19 +524,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/28/777627.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 언론 "한중일 정상회의 내년 2월 이후 개최 검토" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000777488?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000777488?type=journalists</guid>
-            <pubDate>Thu, 28 Dec 2023 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2023/12/28/777488.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[핫초코 들이부은 최초 발견, 낄낄대며 읽는 연구 후기 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034099?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034099?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/18/34099.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -768,7 +768,7 @@
             <link>https://n.news.naver.com/article/308/0000034081?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034081?type=journalists</guid>
             <pubDate>Tue, 16 Jan 2024 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34081.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -776,7 +776,7 @@
             <link>https://n.news.naver.com/article/308/0000034045?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034045?type=journalists</guid>
             <pubDate>Thu, 11 Jan 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/11/34045.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1256,7 +1256,7 @@
             <link>https://n.news.naver.com/article/308/0000034076?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034076?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 05:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
