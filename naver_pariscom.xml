@@ -4,23 +4,15 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 05:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 17:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[기시다 승부수 통했나... 일본 자민당 아베파 해산 결정]]></title>
-            <link>https://n.news.naver.com/article/469/0000781231?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000781231?type=journalists</guid>
-            <pubDate>Fri, 19 Jan 2024 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781231.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA['인물란, 기고자 성별 비율도 공개'… 한국보다 앞선 일본 언론사 성평등 정책]]></title>
             <link>https://n.news.naver.com/article/469/0000781228?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781228?type=journalists</guid>
             <pubDate>Fri, 19 Jan 2024 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781228.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000781065?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781065?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000781059?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781059?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781059.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000780828?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780828?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 17:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000780449?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780449?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 17:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/15/780449.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,8 +84,16 @@
             <link>https://n.news.naver.com/article/469/0000780249?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780249?type=journalists</guid>
             <pubDate>Tue, 16 Jan 2024 05:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/14/780249.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 규슈 스와노세섬 화산 폭발적 분화… 연기 500ｍ 이상 치솟아]]></title>
+            <link>https://n.news.naver.com/article/469/0000780193?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000780193?type=journalists</guid>
+            <pubDate>Sat, 20 Jan 2024 17:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/14/780193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘어둠의 쇼군’ 다나카 가쿠에이 저택 화재… 1970·80년대 일본 권력의 상징이 전소]]></title>
