@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 17:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 05:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,7 +296,7 @@
             <link>https://n.news.naver.com/article/469/0000781084?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781084?type=journalists</guid>
             <pubDate>Fri, 19 Jan 2024 05:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781084.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +320,7 @@
             <link>https://n.news.naver.com/article/469/0000780923?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780923?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 05:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/780923.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +336,7 @@
             <link>https://n.news.naver.com/article/469/0000780739?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780739?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 05:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780739.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +344,7 @@
             <link>https://n.news.naver.com/article/469/0000780520?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780520?type=journalists</guid>
             <pubDate>Fri, 19 Jan 2024 05:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/16/780520.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -368,7 +368,7 @@
             <link>https://n.news.naver.com/article/469/0000780193?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780193?type=journalists</guid>
             <pubDate>Sat, 20 Jan 2024 17:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/14/780193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -528,7 +528,7 @@
             <link>https://n.news.naver.com/article/308/0000034099?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034099?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/18/34099.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,11 +764,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33150.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[명동 퇴근길 대란, 광역버스 탓만 할 것인가 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034123?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034123?type=journalists</guid>
+            <pubDate>Mon, 22 Jan 2024 05:33:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/22/34123.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘도 죽음을 생각하는 여성들에게 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034081?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034081?type=journalists</guid>
             <pubDate>Tue, 16 Jan 2024 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34081.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1236,14 +1244,6 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/01/32035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다정한 광기로 만드는 책다운 책 [2022 행복한 책꽂이] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032018?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032018?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/29/32018.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘빅텐트’ 말고 ‘큰 집’? 이낙연과 이준석, 제3지대 주도권 누가 쥘까? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034078?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034078?type=journalists</guid>
@@ -1256,7 +1256,7 @@
             <link>https://n.news.naver.com/article/308/0000034076?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034076?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 05:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
