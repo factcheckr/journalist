@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 17:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 05:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,7 +288,7 @@
             <link>https://n.news.naver.com/article/469/0000781576?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781576?type=journalists</guid>
             <pubDate>Mon, 22 Jan 2024 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/22/781576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +304,7 @@
             <link>https://n.news.naver.com/article/469/0000781084?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781084?type=journalists</guid>
             <pubDate>Fri, 19 Jan 2024 05:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781084.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +328,7 @@
             <link>https://n.news.naver.com/article/469/0000780923?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780923?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 05:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/780923.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +344,7 @@
             <link>https://n.news.naver.com/article/469/0000780739?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780739?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 05:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780739.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +352,7 @@
             <link>https://n.news.naver.com/article/469/0000780520?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780520?type=journalists</guid>
             <pubDate>Fri, 19 Jan 2024 05:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/16/780520.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -524,11 +524,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/01/778049.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘납북귀환 어부’ 유가족 두 번 울리는 법원 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034131?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034131?type=journalists</guid>
+            <pubDate>Tue, 23 Jan 2024 05:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/23/34131.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[핫초코 들이부은 최초 발견, 낄낄대며 읽는 연구 후기 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034099?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034099?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/18/34099.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -756,19 +764,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33152.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양평 고속도로에 대해 국토부가 '말하지 않은 것' (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033150?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033150?type=journalists</guid>
-            <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33150.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[명동 퇴근길 대란, 광역버스 탓만 할 것인가 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034123?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034123?type=journalists</guid>
             <pubDate>Mon, 22 Jan 2024 05:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/22/34123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -776,7 +776,7 @@
             <link>https://n.news.naver.com/article/308/0000034081?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034081?type=journalists</guid>
             <pubDate>Tue, 16 Jan 2024 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34081.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1264,7 +1264,7 @@
             <link>https://n.news.naver.com/article/308/0000034076?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034076?type=journalists</guid>
             <pubDate>Mon, 15 Jan 2024 05:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
