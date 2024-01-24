@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 05:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 17:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,23 +288,15 @@
             <link>https://n.news.naver.com/article/469/0000781902?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781902?type=journalists</guid>
             <pubDate>Wed, 24 Jan 2024 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/24/781902.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큰 지진 났는데 원전 괜찮아? 노토반도 시카 원전 재가동 논란 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000781821?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000781821?type=journalists</guid>
-            <pubDate>Wed, 24 Jan 2024 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/24/781821.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일 자민당 ‘아베파 등 해산’에도 기시다 지지율 최저… “정치개혁 진의 의구심” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000781576?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781576?type=journalists</guid>
             <pubDate>Mon, 22 Jan 2024 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/22/781576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -312,24 +304,32 @@
             <link>https://n.news.naver.com/article/469/0000781228?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781228?type=journalists</guid>
             <pubDate>Fri, 19 Jan 2024 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781228.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기시다파 해산 검토" 자민당 계파 검찰 수사에 파격 카드 내놓은 기시다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000781084?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000781084?type=journalists</guid>
-            <pubDate>Fri, 19 Jan 2024 05:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781084.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781228.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본공산당 위원장에 여성 취임… 102년 역사상 처음 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000781065?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781065?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781065.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본항공, 승무원 출신 여성 사장 임명... 파격 인사에 환영 목소리 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000781059?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000781059?type=journalists</guid>
+            <pubDate>Wed, 24 Jan 2024 17:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781059.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니클로도 '짝퉁'에 뿔났다…Z세대 열광 'SHEIN'에 소송 잇따르는 이유 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000781005?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000781005?type=journalists</guid>
+            <pubDate>Wed, 24 Jan 2024 17:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781005.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“15년 전 ‘디지털 유료화’ 수백억 투자...최고위층 결단이 100만 구독자 결실” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
@@ -344,7 +344,7 @@
             <link>https://n.news.naver.com/article/469/0000780875?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780875?type=journalists</guid>
             <pubDate>Tue, 23 Jan 2024 17:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780875.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +352,7 @@
             <link>https://n.news.naver.com/article/469/0000780828?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780828?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 17:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1244,27 +1244,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/01/32035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김건희, 윤석열·한동훈 봉합 승인? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034136?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034136?type=journalists</guid>
-            <pubDate>Tue, 23 Jan 2024 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/23/34136.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준석이 분석하는 ‘윤석열-한동훈’ 쇼인가? 충돌인가? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034127?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034127?type=journalists</guid>
-            <pubDate>Tue, 23 Jan 2024 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/22/34127.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[순천 대신 고향앞으로? 천하람 대구 출마설 나오는 이유 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034095?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034095?type=journalists</guid>
             <pubDate>Tue, 23 Jan 2024 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/17/34095.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1280,7 +1264,7 @@
             <link>https://n.news.naver.com/article/308/0000034087?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034087?type=journalists</guid>
             <pubDate>Mon, 22 Jan 2024 17:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34087.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1866,6 +1850,70 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/21/31955.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과거처럼 싫진 않지만 과거를 잊을 순 없다 [2022 한국인의 대일본 인식 ①] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031952?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031952?type=journalists</guid>
+            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.12.20.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/20/31952.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국vs일본 축구, 당신이 응원하는 나라는? [2022 한국인의 대일본 인식 ②] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031951?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031951?type=journalists</guid>
+            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.12.20.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/20/31951.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] ‘유우성 보복 기소’ 사건 전현직 검사들 무혐의 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031872?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031872?type=journalists</guid>
+            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.12.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/05/31872.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자의 추천 책] 산책과 허무의 상관관계에 대하여 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031861?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031861?type=journalists</guid>
+            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.12.02.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/02/31861.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지휘 책임 없다는 이상민 장관, 고생 많았다는 윤석열 대통령 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031839?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031839?type=journalists</guid>
+            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.11.28.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/28/31839.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그의 국제 뉴스엔 ‘한국 최초’가 붙었다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031824?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031824?type=journalists</guid>
+            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.11.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/25/31824.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 시선] ‘파랑새’ 잡은 일론 머스크, 트위터 앞날은? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031730?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031730?type=journalists</guid>
+            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.11.08.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/08/31730.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박은정 검사는 왜 검찰 조사를 받나 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000031729?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000031729?type=journalists</guid>
+            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2022.11.07.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/07/31729.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
