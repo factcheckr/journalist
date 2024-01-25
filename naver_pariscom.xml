@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 05:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 17:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 정부, 강제동원 배상 추가 판결에 또 "극히 유감, 수용 못 해"]]></title>
+            <link>https://n.news.naver.com/article/469/0000782223?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000782223?type=journalists</guid>
+            <pubDate>Thu, 25 Jan 2024 17:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782223.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘정책 집단’으로 명칭 바꿔 자민당 계파 존속… 기시다 개혁안 한계]]></title>
             <link>https://n.news.naver.com/article/469/0000781902?type=journalists</link>
@@ -20,23 +28,39 @@
             <link>https://n.news.naver.com/article/469/0000781576?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781576?type=journalists</guid>
             <pubDate>Mon, 22 Jan 2024 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/22/781576.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 승부수 통했나... 일본 자민당 아베파 해산 결정]]></title>
+            <link>https://n.news.naver.com/article/469/0000781231?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000781231?type=journalists</guid>
+            <pubDate>Thu, 25 Jan 2024 17:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781231.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['인물란, 기고자 성별 비율도 공개'… 한국보다 앞선 일본 언론사 성평등 정책]]></title>
             <link>https://n.news.naver.com/article/469/0000781228?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781228?type=journalists</guid>
             <pubDate>Fri, 19 Jan 2024 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781228.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["기시다파 해산 검토" 자민당 계파 검찰 수사에 파격 카드 내놓은 기시다]]></title>
+            <link>https://n.news.naver.com/article/469/0000781084?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000781084?type=journalists</guid>
+            <pubDate>Thu, 25 Jan 2024 17:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781084.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본공산당 위원장에 여성 취임… 102년 역사상 처음]]></title>
             <link>https://n.news.naver.com/article/469/0000781065?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781065?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000781059?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781059?type=journalists</guid>
             <pubDate>Wed, 24 Jan 2024 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781059.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000781005?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781005?type=journalists</guid>
             <pubDate>Wed, 24 Jan 2024 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781005.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000780875?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780875?type=journalists</guid>
             <pubDate>Tue, 23 Jan 2024 17:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780875.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +100,7 @@
             <link>https://n.news.naver.com/article/469/0000780828?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000780828?type=journalists</guid>
             <pubDate>Wed, 17 Jan 2024 17:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 04 Jan 2024 05:32:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/02/778345.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 강진 55명 희생됐지만…예상보다 인명 피해 적은 이유는?]]></title>
-            <link>https://n.news.naver.com/article/469/0000778318?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000778318?type=journalists</guid>
-            <pubDate>Tue, 02 Jan 2024 17:47:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/02/778318.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 강진으로 최소 6명 사망... 빌딩 쓰러지고 부상자 속출]]></title>
-            <link>https://n.news.naver.com/article/469/0000778185?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000778185?type=journalists</guid>
-            <pubDate>Tue, 02 Jan 2024 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/02/778185.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 첫날 ‘진도 7 강진’에 깜짝 놀란 일본… 쓰나미 경보에 피난도]]></title>
-            <link>https://n.news.naver.com/article/469/0000778138?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000778138?type=journalists</guid>
-            <pubDate>Thu, 04 Jan 2024 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/01/778138.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
