@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 05:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 17:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도쿄서 의인 이수현 추도 행사... "한일 우호의 꿈 잘 키워가길"]]></title>
+            <link>https://n.news.naver.com/article/469/0000782443?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000782443?type=journalists</guid>
+            <pubDate>Fri, 26 Jan 2024 17:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/26/782443.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 정부, 강제동원 배상 추가 판결에 또 "극히 유감, 수용 못 해"]]></title>
             <link>https://n.news.naver.com/article/469/0000782223?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782223?type=journalists</guid>
             <pubDate>Thu, 25 Jan 2024 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782223.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000781576?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781576?type=journalists</guid>
             <pubDate>Mon, 22 Jan 2024 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/22/781576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000781231?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781231?type=journalists</guid>
             <pubDate>Thu, 25 Jan 2024 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781231.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000781228?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781228?type=journalists</guid>
             <pubDate>Fri, 19 Jan 2024 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/19/781228.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000781065?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781065?type=journalists</guid>
             <pubDate>Thu, 18 Jan 2024 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781065.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000781059?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781059?type=journalists</guid>
             <pubDate>Wed, 24 Jan 2024 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781059.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000781005?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781005?type=journalists</guid>
             <pubDate>Wed, 24 Jan 2024 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/781005.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 Jan 2024 17:32:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/03/778432.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 하네다공항 항공기 충돌 5명 사망…"여객기 탑승자 379명은 전원 탈출"]]></title>
-            <link>https://n.news.naver.com/article/469/0000778345?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000778345?type=journalists</guid>
-            <pubDate>Thu, 04 Jan 2024 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/02/778345.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
