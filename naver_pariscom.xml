@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 05:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 17:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000782443?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782443?type=journalists</guid>
             <pubDate>Fri, 26 Jan 2024 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/26/782443.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,8 +20,16 @@
             <link>https://n.news.naver.com/article/469/0000782223?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782223?type=journalists</guid>
             <pubDate>Thu, 25 Jan 2024 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782223.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 미사일 대비용? 도쿄에 '장기 체류' 지하 대피소 생긴다]]></title>
+            <link>https://n.news.naver.com/article/469/0000782182?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000782182?type=journalists</guid>
+            <pubDate>Sun, 28 Jan 2024 17:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘정책 집단’으로 명칭 바꿔 자민당 계파 존속… 기시다 개혁안 한계]]></title>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000781576?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781576?type=journalists</guid>
             <pubDate>Mon, 22 Jan 2024 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/22/781576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 Jan 2024 05:33:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/03/778450.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돋보인 '90초 룰'...일본 항공기 충돌 후 화재에도 379명 무사 대피]]></title>
-            <link>https://n.news.naver.com/article/469/0000778432?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000778432?type=journalists</guid>
-            <pubDate>Tue, 09 Jan 2024 17:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/03/778432.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
