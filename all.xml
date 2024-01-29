@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 05:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 17:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“파리 봉쇄할 것”…프랑스 농민들, 주요 도로 점거 시위 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/europe-russia/article/202401292149025</link>
+            <guid>https://www.khan.co.kr/world/europe-russia/article/202401292149025</guid>
+            <pubDate>Mon, 29 Jan 2024 17:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[정부의 농업정책에 반발해 이달 중순부터 전국에서 시위를 벌이고 있는 프랑스 농민들이 수도 파리를 봉쇄하겠다고 예고했다. 유럽 내 각국 정부의 농업·환경 정책 등에 대한 농민들의 불만이 터져나오면서 시위가 전 유럽으로 확산될 가능성도 제기된다.
+28일(현지시간) AFP·로이터 통신 등에 따르면 프랑스전국농민연맹(FNSEA)은 29일 오후 2시부터 파리로 향하는 모든 간선도로를 트랙터로 무기한 봉쇄하겠다고 선언했다. FNSEA는 “수도로 향하는 모든 주요 도로는 농민들이 차지할 것”이라며 “수도에 대한 무기한 포위 공격을 시작하겠다”고 밝혔다. 제랄드 다르마냉 내무장관은 성명을 내고 경찰 1만5000명을 투입해 농민들의 공항 봉쇄, 파리 진입을 저지하겠다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/29/2024013001000935800090533.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍콩법원, 부동산 개발업체 헝다 청산 명령 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/china/article/202401291127001</link>
@@ -17,12 +26,12 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/29/news-p.v1.20240129.73298d87b0184c7fb4e1561322772008.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[프랑스 농민들 ‘경유 면세폐지’ 등에 파리 봉쇄 예고 (경향신문 ─ 박은하 기자)]]></title>
+            <title><![CDATA[트랙터 끌고 거리로 나온 프랑스 농민들, 파리 봉쇄 예고…왜? (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/europe-russia/article/202401290914001</link>
             <guid>https://www.khan.co.kr/world/europe-russia/article/202401290914001</guid>
             <pubDate>Mon, 29 Jan 2024 05:31:25 GMT</pubDate>
-            <content:encoded><![CDATA[정부 농업정책에 반발해 트랙터 시위를 벌여온 프랑스 농민들이 수도 파리를 봉쇄하겠다고 예고했다.
-AFP통신 등은 28일(현지시간) 프랑스 전국농민연맹(FNSEA)은 오는 29일 오후 2시부터 파리로 향하는 모든 간선도로를 무기한 차단하겠다고 밝혔다. 프랑스 남서부 로트에가론 지역 농민들은 트랙터를 몰고 상경해 파리 근교 렁지스에 있는 식품 도매시장을 봉쇄하기로 했다.]]></content:encoded>
+            <content:encoded><![CDATA[정부의 농업정책에 반발해 이달 중순부터 전국에서 시위를 벌이고 있는 프랑스 농민들이 수도 파리를 봉쇄하겠다고 예고했다. 유럽 내 각국 정부의 농업·환경정책 등에 대한 농민들의 불만이 터져나오면서 시위가 전 유럽으로 확산될 가능성도 제기된다.
+28일(현지시간) AFP·로이터통신 등에 따르면 프랑스전국농민연맹(FNSEA)은 오는 29일 오후 2시부터 파리로 향하는 모든 간선도로를 트랙터로 무기한 봉쇄하겠다고 선언했다. FNSEA는 “수도로 향하는 모든 주요 도로는 농민들이 차지할 것”이라면서 “수도에 대한 무기한 포위 공격을 시작하겠다”고 밝혔다. 이날 남서부 로트에가론 지역에서 트랙터를 몰고 상경한 농민들은 파리 근교 렁지스에 있는 식품 도매시장을 봉쇄하겠다고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/29/news-p.v1.20240129.ec71b3f899a548adbed59ae70eacc752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -106,15 +115,6 @@ WP는 27일(현지시간) 트럼프 선거 캠프 인사 3명의 말을 인용�
 드미트리 페스코프 크렘린궁 대변인은 최 외무상과 세르게이 라브로프 러시아 외교장관이 이날 저녁 양국 외무장관 회담 결과를 푸틴 대통령에게 직접 보고할 예정이라고 밝혔다. 한국시간으로 17일 이른 새벽이 될 전망이다.
 스푸트니크 통신과 워싱턴포스트 등에 따르면 최 외무상과 라브로프 장관은 이날 낮 12시부터 모스크바 외교부 리셉션하우스에서 양국 협력과 한반도 정세 등을 주제로 회담했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/16/news-p.v1.20240116.ae2da2a8652746c7bca52f952f79c299.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프VS바이든 ‘재대결’ 성큼…바이든 “이번 대선 극우와의 싸움” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202401161623001</link>
-            <guid>https://www.khan.co.kr/world/america/article/202401161623001</guid>
-            <pubDate>Tue, 16 Jan 2024 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[도널드 트럼프 전 대통령이 공화당 아이오와주 코커스(당원대회)에서 압승을 거둠에 따라 오는 11월 미국 대선이 ‘바이든 대 트럼프’의 재대결로 치러질 가능성이 더욱 높아졌다. 여론조사에서 트럼프 전 대통령에게 밀리고 있는 바이든 대통령은 아이오와 코커스 결과가 나온 후 “이번 대선은 극우와의 싸움”이라고 규정했다.
-트럼프 전 대통령은 바이든 대통령을 상대로 우세를 굳혀가고 있다. 15일(현지시간) 미 정치전문매체 더힐에 따르면, 영국 이코노미스트와 여론조사기관 유고브가 실시한 여론조사에서 본인의 선호와 관계없이 ‘실제로 누가 대선에서 승리할 것이라고 예상하느냐’는 질문에 응답자의 44％가 트럼프 전 대통령이라고 답했다. 바이든 대통령이 대선에서 승리할 것이라고 답한 비율은 35％에 그쳤다. 응답자 21％는 잘 모르겠다고 답했다. 다만 실제로 지지하는 후보를 고르라는 질문에는 바이든 대통령과 트럼프 전 대통령이 각각 43％로 동률을 기록했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/16/news-p.v1.20240116.9ed118717a294e03a1b16418280ae87c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -286,11 +286,27 @@ WP는 27일(현지시간) 트럼프 선거 캠프 인사 3명의 말을 인용�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0921/A0002963826_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반 세기 도피 생활한 '전범 기업 테러범', 자수 나흘 만에 숨져 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000782849?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000782849?type=journalists</guid>
+            <pubDate>Mon, 29 Jan 2024 17:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/29/782849.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조선인 추도비 철거 군마현지사, 뒤에선 한국 관광객 유치 행보 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000782786?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000782786?type=journalists</guid>
+            <pubDate>Mon, 29 Jan 2024 17:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/29/782786.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도쿄서 의인 이수현 추도 행사... "한일 우호의 꿈 잘 키워가길" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000782443?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782443?type=journalists</guid>
             <pubDate>Fri, 26 Jan 2024 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/26/782443.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -298,7 +314,7 @@ WP는 27일(현지시간) 트럼프 선거 캠프 인사 3명의 말을 인용�
             <link>https://n.news.naver.com/article/469/0000782238?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782238?type=journalists</guid>
             <pubDate>Mon, 29 Jan 2024 05:31:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782238.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +322,7 @@ WP는 27일(현지시간) 트럼프 선거 캠프 인사 3명의 말을 인용�
             <link>https://n.news.naver.com/article/469/0000782223?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782223?type=journalists</guid>
             <pubDate>Thu, 25 Jan 2024 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782223.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -314,7 +330,7 @@ WP는 27일(현지시간) 트럼프 선거 캠프 인사 3명의 말을 인용�
             <link>https://n.news.naver.com/article/469/0000782182?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782182?type=journalists</guid>
             <pubDate>Sun, 28 Jan 2024 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -330,7 +346,7 @@ WP는 27일(현지시간) 트럼프 선거 캠프 인사 3명의 말을 인용�
             <link>https://n.news.naver.com/article/469/0000781576?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781576?type=journalists</guid>
             <pubDate>Mon, 22 Jan 2024 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/22/781576.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -508,22 +524,6 @@ WP는 27일(현지시간) 트럼프 선거 캠프 인사 3명의 말을 인용�
             <pubDate>Thu, 11 Jan 2024 17:32:09 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/05/778770.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[르포] "무서워 집 못 들어가" 7.6 강진에 초토화된 일본 와지마...주민들은 떨면서 차박 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000778580?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000778580?type=journalists</guid>
-            <pubDate>Wed, 10 Jan 2024 17:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/04/778580.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불타는 일본 항공기서 379명 모두 무사… '90초 룰'의 기적 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000778567?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000778567?type=journalists</guid>
-            <pubDate>Sat, 06 Jan 2024 05:31:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/03/778567.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘납북귀환 어부’ 유가족 두 번 울리는 법원 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1246,11 +1246,19 @@ WP는 27일(현지시간) 트럼프 선거 캠프 인사 3명의 말을 인용�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/01/32035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김건희, 윤석열·한동훈 봉합 승인? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034136?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034136?type=journalists</guid>
+            <pubDate>Mon, 29 Jan 2024 17:32:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/23/34136.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이준석이 분석하는 ‘윤석열-한동훈’ 쇼인가? 충돌인가? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034127?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034127?type=journalists</guid>
             <pubDate>Sun, 28 Jan 2024 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/22/34127.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1908,14 +1916,6 @@ WP는 27일(현지시간) 트럼프 선거 캠프 인사 3명의 말을 인용�
             <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/25/31824.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] ‘파랑새’ 잡은 일론 머스크, 트위터 앞날은? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000031730?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031730?type=journalists</guid>
-            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/08/31730.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

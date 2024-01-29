@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 05:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 17:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김건희, 윤석열·한동훈 봉합 승인? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034136?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034136?type=journalists</guid>
+            <pubDate>Mon, 29 Jan 2024 17:32:48 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/23/34136.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이준석이 분석하는 ‘윤석열-한동훈’ 쇼인가? 충돌인가? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034127?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034127?type=journalists</guid>
             <pubDate>Sun, 28 Jan 2024 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/22/34127.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.11.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/25/31824.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자들의 시선] ‘파랑새’ 잡은 일론 머스크, 트위터 앞날은?]]></title>
-            <link>https://n.news.naver.com/article/308/0000031730?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031730?type=journalists</guid>
-            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.11.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/11/08/31730.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
