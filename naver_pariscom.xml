@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 05:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 17:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000783031?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783031?type=journalists</guid>
             <pubDate>Tue, 30 Jan 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/30/783031.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000783000?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783000?type=journalists</guid>
             <pubDate>Tue, 30 Jan 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/30/783000.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000782849?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782849?type=journalists</guid>
             <pubDate>Mon, 29 Jan 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/29/782849.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000782786?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782786?type=journalists</guid>
             <pubDate>Mon, 29 Jan 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/29/782786.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,15 +44,23 @@
             <link>https://n.news.naver.com/article/469/0000782443?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782443?type=journalists</guid>
             <pubDate>Fri, 26 Jan 2024 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/26/782443.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 달 탐사선 정밀 착륙 성공했지만… 선체는 거꾸로 뒤집혔다]]></title>
+            <link>https://n.news.naver.com/article/469/0000782238?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000782238?type=journalists</guid>
+            <pubDate>Wed, 31 Jan 2024 17:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782238.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 정부, 강제동원 배상 추가 판결에 또 "극히 유감, 수용 못 해"]]></title>
             <link>https://n.news.naver.com/article/469/0000782223?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782223?type=journalists</guid>
             <pubDate>Thu, 25 Jan 2024 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782223.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000782182?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782182?type=journalists</guid>
             <pubDate>Sun, 28 Jan 2024 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 Jan 2024 17:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/07/779078.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 검찰, '비자금 조성' 자민당 아베파 4선 의원 첫 체포]]></title>
-            <link>https://n.news.naver.com/article/469/0000779075?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000779075?type=journalists</guid>
-            <pubDate>Sun, 07 Jan 2024 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/07/779075.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
