@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 05:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 17:32:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열의 9번째 거부권, 이태원참사특별법 다시 국회로 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034187?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034187?type=journalists</guid>
+            <pubDate>Thu, 01 Feb 2024 17:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/30/34187.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김용남·이언주 작심 폭로, 국민의힘은 ‘건희의힘’? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034154?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034154?type=journalists</guid>
             <pubDate>Wed, 31 Jan 2024 17:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/25/34154.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034145?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034145?type=journalists</guid>
             <pubDate>Tue, 30 Jan 2024 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/24/34145.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/05/31872.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자의 추천 책] 산책과 허무의 상관관계에 대하여]]></title>
-            <link>https://n.news.naver.com/article/308/0000031861?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031861?type=journalists</guid>
-            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/02/31861.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
