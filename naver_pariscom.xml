@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 17:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 05:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자의 눈] 한국엔 ‘시정하라’더니… 제 잘못은 방관하는 일본]]></title>
+            <link>https://n.news.naver.com/article/469/0000783368?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000783368?type=journalists</guid>
+            <pubDate>Thu, 01 Feb 2024 05:32:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/01/783368.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 외무장관, 11년째 “독도는 일본 땅” 망언 되풀이]]></title>
             <link>https://n.news.naver.com/article/469/0000783031?type=journalists</link>
@@ -76,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000781902?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781902?type=journalists</guid>
             <pubDate>Wed, 24 Jan 2024 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/24/781902.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000781821?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781821?type=journalists</guid>
             <pubDate>Tue, 30 Jan 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/24/781821.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Jan 2024 05:32:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/08/779115.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 강진 발생 124시간 지나 90대 여성 구출...사망은 100명 넘어]]></title>
-            <link>https://n.news.naver.com/article/469/0000779078?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000779078?type=journalists</guid>
-            <pubDate>Sat, 13 Jan 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/07/779078.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

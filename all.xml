@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 17:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 05:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,6 +287,14 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0921/A0002963826_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기자의 눈] 한국엔 ‘시정하라’더니… 제 잘못은 방관하는 일본 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000783368?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000783368?type=journalists</guid>
+            <pubDate>Thu, 01 Feb 2024 05:32:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/01/783368.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 외무장관, 11년째 “독도는 일본 땅” 망언 되풀이 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000783031?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783031?type=journalists</guid>
@@ -355,7 +363,7 @@
             <link>https://n.news.naver.com/article/469/0000781902?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781902?type=journalists</guid>
             <pubDate>Wed, 24 Jan 2024 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/24/781902.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -363,7 +371,7 @@
             <link>https://n.news.naver.com/article/469/0000781821?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000781821?type=journalists</guid>
             <pubDate>Tue, 30 Jan 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/24/781821.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -517,14 +525,6 @@
             <pubDate>Mon, 08 Jan 2024 05:32:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/08/779115.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 강진 발생 124시간 지나 90대 여성 구출...사망은 100명 넘어 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000779078?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000779078?type=journalists</guid>
-            <pubDate>Sat, 13 Jan 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/07/779078.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘납북귀환 어부’ 유가족 두 번 울리는 법원 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -765,6 +765,14 @@
             <pubDate>Tue, 01 Aug 2023 05:32:49 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/01/33152.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“이제 그만 드시개” 개식용, 찬반 논란은 끝났지만 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034199?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034199?type=journalists</guid>
+            <pubDate>Thu, 01 Feb 2024 05:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/01/34199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명동 퇴근길 대란, 광역버스 탓만 할 것인가 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1237,14 +1245,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/04/32054.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노동자들의 절박함을 ‘쇼’로 전달한다고? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032035?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032035?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/01/32035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김용남·이언주 작심 폭로, 국민의힘은 ‘건희의힘’? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
