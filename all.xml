@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 05:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 17:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,23 +291,15 @@
             <link>https://n.news.naver.com/article/469/0000783716?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783716?type=journalists</guid>
             <pubDate>Fri, 02 Feb 2024 17:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/02/783716.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결국 조선인 추도비 산산조각 부순 군마현…일본 시민도 분노 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000783523?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000783523?type=journalists</guid>
-            <pubDate>Thu, 01 Feb 2024 17:31:51 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/01/783523.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/02/783716.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전기차 부진 일본, 자동차 수출 1위 중국에 내줬다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000783480?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783480?type=journalists</guid>
             <pubDate>Thu, 01 Feb 2024 17:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/01/783480.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -323,7 +315,7 @@
             <link>https://n.news.naver.com/article/469/0000783031?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783031?type=journalists</guid>
             <pubDate>Tue, 30 Jan 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/30/783031.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,7 +323,7 @@
             <link>https://n.news.naver.com/article/469/0000783000?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783000?type=journalists</guid>
             <pubDate>Tue, 30 Jan 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/30/783000.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -339,7 +331,7 @@
             <link>https://n.news.naver.com/article/469/0000782849?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782849?type=journalists</guid>
             <pubDate>Mon, 29 Jan 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/29/782849.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -347,15 +339,23 @@
             <link>https://n.news.naver.com/article/469/0000782786?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782786?type=journalists</guid>
             <pubDate>Mon, 29 Jan 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/29/782786.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[50년 숨어 살다 자수한 폭탄 테러범… 그들은 왜 '전범 기업'을 노렸나 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000782581?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000782581?type=journalists</guid>
+            <pubDate>Sat, 03 Feb 2024 17:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/28/782581.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도쿄서 의인 이수현 추도 행사... "한일 우호의 꿈 잘 키워가길" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000782443?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782443?type=journalists</guid>
             <pubDate>Fri, 26 Jan 2024 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/26/782443.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1259,7 +1259,7 @@
             <link>https://n.news.naver.com/article/308/0000034187?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034187?type=journalists</guid>
             <pubDate>Thu, 01 Feb 2024 17:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/30/34187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
