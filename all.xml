@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 17:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 05:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,6 +287,14 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0921/A0002963826_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘위안부상 폭파’ 주장 자민당 혐한 의원, 조선인 추도비 철거에 “정말 잘됐다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000783840?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000783840?type=journalists</guid>
+            <pubDate>Sun, 04 Feb 2024 05:32:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>40분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/04/783840.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 군마현 추도비 철거 완료... 현 지사는 "외교 문제 발전 안 했다"며 정당화 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000783716?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783716?type=journalists</guid>
@@ -307,7 +315,7 @@
             <link>https://n.news.naver.com/article/469/0000783368?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783368?type=journalists</guid>
             <pubDate>Thu, 01 Feb 2024 05:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/01/783368.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -517,14 +525,6 @@
             <pubDate>Sat, 20 Jan 2024 17:32:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/14/780193.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘어둠의 쇼군’ 다나카 가쿠에이 저택 화재… 1970·80년대 일본 권력의 상징이 전소 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000779503?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000779503?type=journalists</guid>
-            <pubDate>Mon, 15 Jan 2024 17:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/09/779503.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘납북귀환 어부’ 유가족 두 번 울리는 법원 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -771,7 +771,7 @@
             <link>https://n.news.naver.com/article/308/0000034199?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034199?type=journalists</guid>
             <pubDate>Thu, 01 Feb 2024 05:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/01/34199.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1251,7 +1251,7 @@
             <link>https://n.news.naver.com/article/308/0000034212?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034212?type=journalists</guid>
             <pubDate>Fri, 02 Feb 2024 05:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/02/34212.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
