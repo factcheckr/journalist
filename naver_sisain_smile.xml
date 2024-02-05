@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 05:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 17:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/02/34212.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열의 9번째 거부권, 이태원참사특별법 다시 국회로 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034187?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034187?type=journalists</guid>
+            <pubDate>Mon, 05 Feb 2024 17:33:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/30/34187.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘K-디올백’ 외신 진출, 윤석열·한동훈의 대책은? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034178?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034178?type=journalists</guid>
             <pubDate>Sun, 04 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/29/34178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/20/31952.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국vs일본 축구, 당신이 응원하는 나라는? [2022 한국인의 대일본 인식 ②]]]></title>
-            <link>https://n.news.naver.com/article/308/0000031951?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031951?type=journalists</guid>
-            <pubDate>Wed, 24 Jan 2024 17:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/20/31951.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
