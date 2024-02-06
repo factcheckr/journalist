@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 05:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 17:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000784053?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784053?type=journalists</guid>
             <pubDate>Mon, 05 Feb 2024 17:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/05/784053.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000784027?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784027?type=journalists</guid>
             <pubDate>Mon, 05 Feb 2024 17:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/05/784027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000783871?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783871?type=journalists</guid>
             <pubDate>Sun, 04 Feb 2024 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/04/783871.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,19 +40,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/04/783840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본 군마현 추도비 철거 완료... 현 지사는 "외교 문제 발전 안 했다"며 정당화]]></title>
-            <link>https://n.news.naver.com/article/469/0000783716?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000783716?type=journalists</guid>
-            <pubDate>Tue, 06 Feb 2024 05:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/02/783716.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[전기차 부진 일본, 자동차 수출 1위 중국에 내줬다]]></title>
             <link>https://n.news.naver.com/article/469/0000783480?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783480?type=journalists</guid>
             <pubDate>Thu, 01 Feb 2024 17:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/01/783480.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -64,11 +56,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/01/783368.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[건강보험증도, 휴대폰도 없었다… ‘일본 전범 기업 폭파범’ 50년 수배 어떻게 피했나]]></title>
+            <link>https://n.news.naver.com/article/469/0000783198?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000783198?type=journalists</guid>
+            <pubDate>Tue, 06 Feb 2024 17:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/31/783198.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 외무장관, 11년째 “독도는 일본 땅” 망언 되풀이]]></title>
             <link>https://n.news.naver.com/article/469/0000783031?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783031?type=journalists</guid>
             <pubDate>Tue, 30 Jan 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/30/783031.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000783000?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783000?type=journalists</guid>
             <pubDate>Mon, 05 Feb 2024 17:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/30/783000.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000782849?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782849?type=journalists</guid>
             <pubDate>Mon, 29 Jan 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/29/782849.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://n.news.naver.com/article/469/0000782786?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000782786?type=journalists</guid>
             <pubDate>Mon, 29 Jan 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/29/782786.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
