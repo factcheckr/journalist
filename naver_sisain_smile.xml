@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 05:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 17:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/02/34212.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[민주당 복당 논쟁 ‘태풍의 눈’ 이언주의 진심은?  [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034206?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034206?type=journalists</guid>
+            <pubDate>Wed, 07 Feb 2024 17:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/01/34206.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘윤석열 검찰 수정관실’이 고발 사주 주범? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034196?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034196?type=journalists</guid>
             <pubDate>Tue, 06 Feb 2024 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/31/34196.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000034187?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034187?type=journalists</guid>
             <pubDate>Mon, 05 Feb 2024 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/30/34187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2022.12.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/30/32023.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[격화된 미·중 대립 속 한·일 관계 전략은? [2022 한국인의 대일본 인식 ③]]]></title>
-            <link>https://n.news.naver.com/article/308/0000031955?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000031955?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/21/31955.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
