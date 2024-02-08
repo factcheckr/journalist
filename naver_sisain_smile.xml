@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 05:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 17:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 대표가 마주한 고차방정식 ‘통합형비례정당’  [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034244?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034244?type=journalists</guid>
+            <pubDate>Thu, 08 Feb 2024 17:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/06/34244.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노회찬처럼 말하고 싶다면 [사람IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034212?type=journalists</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034206?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034206?type=journalists</guid>
             <pubDate>Wed, 07 Feb 2024 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/01/34206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000034196?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034196?type=journalists</guid>
             <pubDate>Tue, 06 Feb 2024 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/31/34196.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.01.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/10/32080.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022. 5.10~2027. 5.9 [2022 올해의 사진]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032023?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032023?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2022.12.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2022/12/30/32023.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

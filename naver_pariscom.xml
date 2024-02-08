@@ -4,23 +4,15 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 05:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 17:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[“새 인생 시작됐다” 감격… 일본서 성전환수술 없이 성별 변경 인정]]></title>
-            <link>https://n.news.naver.com/article/469/0000784626?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000784626?type=journalists</guid>
-            <pubDate>Thu, 08 Feb 2024 05:32:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>34분전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/08/784626.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[TSMC, ‘대만 집중 탈피’ 가속화… 일본 구마모토에 제2공장 연내 착공]]></title>
             <link>https://n.news.naver.com/article/469/0000784536?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784536?type=journalists</guid>
             <pubDate>Wed, 07 Feb 2024 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/07/784536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +20,7 @@
             <link>https://n.news.naver.com/article/469/0000784053?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784053?type=journalists</guid>
             <pubDate>Mon, 05 Feb 2024 17:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/05/784053.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/469/0000784027?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784027?type=journalists</guid>
             <pubDate>Mon, 05 Feb 2024 17:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/05/784027.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000783871?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783871?type=journalists</guid>
             <pubDate>Sun, 04 Feb 2024 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/04/783871.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -56,11 +48,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/04/783840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 군마현 추도비 철거 완료... 현 지사는 "외교 문제 발전 안 했다"며 정당화]]></title>
+            <link>https://n.news.naver.com/article/469/0000783716?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000783716?type=journalists</guid>
+            <pubDate>Thu, 08 Feb 2024 17:32:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/02/783716.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[결국 조선인 추도비 산산조각 부순 군마현…일본 시민도 분노]]></title>
             <link>https://n.news.naver.com/article/469/0000783523?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783523?type=journalists</guid>
             <pubDate>Wed, 07 Feb 2024 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/01/783523.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000783480?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783480?type=journalists</guid>
             <pubDate>Thu, 01 Feb 2024 17:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/01/783480.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://n.news.naver.com/article/469/0000783198?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783198?type=journalists</guid>
             <pubDate>Tue, 06 Feb 2024 17:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.01.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/31/783198.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
