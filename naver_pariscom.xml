@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 17:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 05:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“새 인생 시작됐다” 감격… 일본서 성전환수술 없이 성별 변경 인정]]></title>
+            <link>https://n.news.naver.com/article/469/0000784626?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000784626?type=journalists</guid>
+            <pubDate>Thu, 08 Feb 2024 05:32:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>34분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/08/784626.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TSMC, ‘대만 집중 탈피’ 가속화… 일본 구마모토에 제2공장 연내 착공]]></title>
             <link>https://n.news.naver.com/article/469/0000784536?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784536?type=journalists</guid>
             <pubDate>Wed, 07 Feb 2024 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/07/784536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/469/0000783840?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783840?type=journalists</guid>
             <pubDate>Sun, 04 Feb 2024 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/04/783840.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000783368?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000783368?type=journalists</guid>
             <pubDate>Thu, 01 Feb 2024 05:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/01/783368.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Jan 2024 05:32:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/18/780923.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본은 제2의 제주도? 작년 일본 간 한국인 700만명]]></title>
-            <link>https://n.news.naver.com/article/469/0000780875?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000780875?type=journalists</guid>
-            <pubDate>Tue, 23 Jan 2024 17:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/17/780875.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
