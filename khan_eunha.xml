@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 05:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 17:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“미국은 나토 지지”…트럼프가 들쑤시고 바이든이 정리]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202402132126015</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202402132126015</guid>
+            <pubDate>Tue, 13 Feb 2024 17:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[조 바이든 미국 행정부는 동맹보다 미국의 이익을 우선시하는 도널드 트럼프 전 대통령의 발언에 불안해하는 북대서양조약기구(나토) 동맹이 미국의 안보에도 중요하다는 입장을 재확인했다.
+매슈 밀러 국무부 대변인은 12일(현지시간) 브리핑에서 트럼프 전 대통령의 최근 나토 관련 발언에 대해 “나토 동맹은 미국민들에게 실제로 안보를 제공한다”며 “나토는 미국이 주기만 하는 동맹이 아니라 우리 모두 많은 것을 얻는 동맹”이라고 말했다. 그는 “나토가 한 회원국의 방어를 위해 (집단적으로) 나선 유일한 전례는 9·11 테러 이후 미국을 방어하기 위해서였다”면서 미국민과 의회가 나토를 폭넓게 지지하고 있다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/13/2024021401000339700030731.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바이든 정부 “미국도 나토에서 이익 얻어”…트럼프 반박]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202402130728001</link>
@@ -105,15 +114,6 @@
 러시아 중앙선거관리위원회가 공개한 대통령 후보 정보에 따르면, 푸틴 대통령은 2017∼2022년 소득이 6759만1875루블(약 10억370만원)이라고 신고했다.
 오는 3월 15∼17일 열리는 러시아 대통령 선거에서 5선에 도전하는 푸틴 대통령은 전날 중앙선관위에 무소속 후보로 등록됐다. 대선 후보는 선거 연도 이전 6년간의 소득과 재산 정보를 공개해야 한다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/31/news-p.v1.20240131.c8d5aabbea064dd9917dcc58e8eb7a5c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든, 요르단 미군 사망에 “어떻게 대응할지 결정”]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202401310904001</link>
-            <guid>https://www.khan.co.kr/world/america/article/202401310904001</guid>
-            <pubDate>Wed, 31 Jan 2024 05:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[조 바이든 미국 대통령은 요르단 주둔 미군에 대한 친이란 무장세력의 드론 공격에 어떤 형태로 대응할지 결정했다고 밝혔다. 요르단 주둔 미군 피격 사망의 공격주체로 거론된 이라크 내 친이란 민병대 카타이브 헤즈볼라가 앞으로 미군을 상대로 군사작전을 하지 않겠다고 선언했다.
-바이든 대통령은 30일(현지시간) 백악관에서 기자들과 만나 미군에 대한 공격에 어떻게 대응할지 결정했느냐는 질문에 “그렇다”고 답했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/31/news-p.v1.20240131.a46b17305c3144148bf82dc805b79152.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
