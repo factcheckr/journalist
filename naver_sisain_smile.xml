@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 05:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 17:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[설 특집] 윤석열 대통령 ‘극안티층’은 누구일까 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034272?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034272?type=journalists</guid>
+            <pubDate>Thu, 15 Feb 2024 17:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/09/34272.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사과 없이 명품 백이 ‘파우치’로 둔갑한 윤석열 대담 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034262?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034262?type=journalists</guid>
             <pubDate>Wed, 14 Feb 2024 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/08/34262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034253?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034253?type=journalists</guid>
             <pubDate>Tue, 13 Feb 2024 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/07/34253.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.02.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/07/32183.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[522호 법정을 들어서면 늘 유우성씨가 있다 [프리스타일]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032162?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032162?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/01/32162.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

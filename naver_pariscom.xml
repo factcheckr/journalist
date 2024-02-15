@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 05:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 17:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000785402?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785402?type=journalists</guid>
             <pubDate>Wed, 14 Feb 2024 17:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785402.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,23 +28,15 @@
             <link>https://n.news.naver.com/article/469/0000785196?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785196?type=journalists</guid>
             <pubDate>Tue, 13 Feb 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785196.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 증시 '활활'… 34년 만에 버블기 최고치 돌파 눈앞]]></title>
-            <link>https://n.news.naver.com/article/469/0000785163?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000785163?type=journalists</guid>
-            <pubDate>Thu, 15 Feb 2024 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본서 결제액 가장 많은 앱은 카카오 웹툰 앱… 세계 1위는 ‘틱톡’]]></title>
             <link>https://n.news.naver.com/article/469/0000785148?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785148?type=journalists</guid>
             <pubDate>Tue, 13 Feb 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785148.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,8 +44,16 @@
             <link>https://n.news.naver.com/article/469/0000784833?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784833?type=journalists</guid>
             <pubDate>Sat, 10 Feb 2024 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/10/784833.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고이케 도쿄도지사 광폭 행보에 ‘일본 첫 여성 총리 탄생하나’ 관심 솔솔]]></title>
+            <link>https://n.news.naver.com/article/469/0000784725?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000784725?type=journalists</guid>
+            <pubDate>Thu, 15 Feb 2024 17:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/09/784725.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“새 인생 시작됐다” 감격… 일본서 성전환수술 없이 성별 변경 인정]]></title>
@@ -68,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000784536?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784536?type=journalists</guid>
             <pubDate>Wed, 07 Feb 2024 17:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/07/784536.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000784480?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784480?type=journalists</guid>
             <pubDate>Tue, 13 Feb 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/07/784480.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 05:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 17:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“여성살해 멈춰라” 케냐 여성들의 ‘다크 발렌타인’ 데이]]></title>
+            <link>https://www.khan.co.kr/world/mideast-africa/article/202402151655001</link>
+            <guid>https://www.khan.co.kr/world/mideast-africa/article/202402151655001</guid>
+            <pubDate>Thu, 15 Feb 2024 17:31:39 GMT</pubDate>
+            <content:encoded><![CDATA[많은 세계인들이 꽃과 초콜릿으로 사랑을 기념하는 발렌타인데이에 케냐에서 여성을 대상으로 한 폭력을 규탄하는 집회가 열렸다.
+AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비대학 광장에는 검은 옷을 입고 촛불과 빨간 장미를 든 여성 수백명이 모였다. 많은 이들은 스와힐리어로 “관 위의 꽃은 아름답지 않다”고 적힌 셔츠를 입고 나타났다. 이들은 범죄로 희생된 여성을 애도하고 정부에 젠더 기반 폭력과 여성살해(페미사이드)가 급증한 현실에 대해 국가비상사태를 선포하고 여성살해 무관용 원칙 선언 등 대응책을 마련하라 요구했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/15/news-p.v1.20240215.c770e49d145a49f0ac43446468ef28df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작년 글로벌 군비지출 급증, 2조달러 넘어…나토가 주도]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202402142159025</link>
@@ -104,15 +113,6 @@
             <content:encoded><![CDATA[농업 정책에 반대하는 유럽 농민들의 시위가 확산하는 가운데 벨기에 농민들이 30일(현지시간) 유럽 주요 물류항인 벨기에 제이브뤼허항 진입로를 트랙터로 가로막았다.
 로이터통신과 가디언 등에 따르면 앤트워프 인근에서 일주일째 시위를 벌이던 400명의 농민 가운데 일부가 이날 제이브뤼허항 진입로를 봉쇄했다. 항만으로 향하는 5개의 도로는 “잠시 장관, 평생 농부”, “빵, 고기, 감자튀김 좋아하세요? 농부 없이는 얻을 수 없습니다” 등의 구호가 적힌 트랙터들이 점령했다. 앤트워프-제이브뤼허항 항만청은 “트럭이 한 대도 다닐 수 없다”며 “경찰과 항만당국이 트럭이 안전하게 대기할 방법을 논의하고 있다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/31/news-p.v1.20240131.7f0656e6ceb04981884c4f47c20fc2a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 경찰 ‘인종 프로파일링’ 혐의에 소송 제기]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202401311428011</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202401311428011</guid>
-            <pubDate>Wed, 31 Jan 2024 05:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[해외에 뿌리를 둔 일본 거주자 3명이 경찰이 인종 프로파일링을 하고 있다며 중앙정부와 지방정부를 상대로 손해배상 소송을 제기했다.
-31일 교도통신 등에 따르면 일본 영주권자 또는 귀화 시민인 원고 3명은 인종이나 외모를 이유로 경찰의 수색과 심문을 여러 차례 받았다며 지난 29일 도쿄지방법원에 중앙정부, 도쿄도, 아이치현을 상대로 1인당 330만엔(약2983만원)의 손해배상을 청구했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/31/news-p.v1.20240131.77eaa230ae1b46ef8d42f5e39994ad16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
