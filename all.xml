@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 05:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 17:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,43 +284,51 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/1006/A0002967202_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["티켓 사기 힘든데..." 기시다 '오타니 개막전' 방한설에 일본 부글부글 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000785721?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000785721?type=journalists</guid>
-            <pubDate>Fri, 16 Feb 2024 05:33:11 GMT</pubDate>
+            <title><![CDATA[일본 정부, 김여정 ‘기시다 방북 가능’ 발언에 신중 반응… 미국은 지지 표명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000785810?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000785810?type=journalists</guid>
+            <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/16/785721.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/16/785810.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔화 가치 달러당 150엔대 급락… 일본 재무성 구두 개입 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000785402?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000785402?type=journalists</guid>
-            <pubDate>Wed, 14 Feb 2024 17:32:00 GMT</pubDate>
+            <title><![CDATA[일본 작년 경제성장률, 25년 만에 한국보다 높았다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000785534?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000785534?type=journalists</guid>
+            <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785402.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/15/785534.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신입사원 설명회에 "부모님 모셔오세요"… 일본 기업 '오야카쿠' 확산 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000785300?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000785300?type=journalists</guid>
-            <pubDate>Wed, 14 Feb 2024 17:32:00 GMT</pubDate>
+            <title><![CDATA[“일본 기시다, 다음 달 20일 방한 윤 대통령과 정상회담 검토” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000785333?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000785333?type=journalists</guid>
+            <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785300.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘인증시험 부정’ 다이하쓰, CEO 교체… 공장 일부 재가동 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000785196?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785196?type=journalists</guid>
             <pubDate>Tue, 13 Feb 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785196.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 증시 '활활'… 34년 만에 버블기 최고치 돌파 눈앞 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000785163?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000785163?type=journalists</guid>
+            <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본서 결제액 가장 많은 앱은 카카오 웹툰 앱… 세계 1위는 ‘틱톡’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000785148?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785148?type=journalists</guid>
             <pubDate>Tue, 13 Feb 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785148.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +336,7 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <link>https://n.news.naver.com/article/469/0000784833?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784833?type=journalists</guid>
             <pubDate>Sat, 10 Feb 2024 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/10/784833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -514,14 +522,6 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <pubDate>Thu, 25 Jan 2024 17:32:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782223.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 미사일 대비용? 도쿄에 '장기 체류' 지하 대피소 생긴다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000782182?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000782182?type=journalists</guid>
-            <pubDate>Sun, 28 Jan 2024 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령 추천 방심위원장은 총선만 보고 간다? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1248,7 +1248,7 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <link>https://n.news.naver.com/article/308/0000034272?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034272?type=journalists</guid>
             <pubDate>Thu, 15 Feb 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/09/34272.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
