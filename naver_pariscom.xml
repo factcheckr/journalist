@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 05:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 17:32:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신형 로켓 H3 성공 일본, '스페이스X 다음'을 노린다]]></title>
+            <link>https://n.news.naver.com/article/469/0000786024?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000786024?type=journalists</guid>
+            <pubDate>Sun, 18 Feb 2024 17:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/18/786024.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 정부, 김여정 ‘기시다 방북 가능’ 발언에 신중 반응… 미국은 지지 표명]]></title>
             <link>https://n.news.naver.com/article/469/0000785810?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785810?type=journalists</guid>
             <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/16/785810.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,15 +36,23 @@
             <link>https://n.news.naver.com/article/469/0000785333?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785333?type=journalists</guid>
             <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785333.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신입사원 설명회에 "부모님 모셔오세요"… 일본 기업 '오야카쿠' 확산]]></title>
+            <link>https://n.news.naver.com/article/469/0000785300?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000785300?type=journalists</guid>
+            <pubDate>Sun, 18 Feb 2024 17:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785300.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘인증시험 부정’ 다이하쓰, CEO 교체… 공장 일부 재가동]]></title>
             <link>https://n.news.naver.com/article/469/0000785196?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785196?type=journalists</guid>
             <pubDate>Tue, 13 Feb 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785196.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000785163?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785163?type=journalists</guid>
             <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://n.news.naver.com/article/469/0000785148?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785148?type=journalists</guid>
             <pubDate>Tue, 13 Feb 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785148.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://n.news.naver.com/article/469/0000784833?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000784833?type=journalists</guid>
             <pubDate>Sat, 10 Feb 2024 17:32:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/10/784833.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 26 Jan 2024 17:32:52 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/26/782443.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 달 탐사선 정밀 착륙 성공했지만… 선체는 거꾸로 뒤집혔다]]></title>
-            <link>https://n.news.naver.com/article/469/0000782238?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000782238?type=journalists</guid>
-            <pubDate>Wed, 31 Jan 2024 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782238.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 정부, 강제동원 배상 추가 판결에 또 "극히 유감, 수용 못 해"]]></title>
-            <link>https://n.news.naver.com/article/469/0000782223?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000782223?type=journalists</guid>
-            <pubDate>Thu, 25 Jan 2024 17:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/25/782223.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
