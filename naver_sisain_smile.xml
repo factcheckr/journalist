@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 17:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이낙연·이준석 ‘개혁신당’ 깜짝 합당 막전막후 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034290?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034290?type=journalists</guid>
+            <pubDate>Mon, 19 Feb 2024 17:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/13/34290.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[설 특집] 윤석열 대통령 ‘극안티층’은 누구일까 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034272?type=journalists</link>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.02.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/08/32190.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정치개혁 공론화, 선거제도 바꾸어낼까]]></title>
-            <link>https://n.news.naver.com/article/308/0000032183?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032183?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/07/32183.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
