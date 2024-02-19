@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 17:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 05:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이태원 참사 혐의 공직자, 첫 실형 선고 받았다 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034319?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034319?type=journalists</guid>
+            <pubDate>Mon, 19 Feb 2024 05:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/19/34319.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해를 버티게 해줄 그의 이야기 [설날엔 드라마]]]></title>
             <link>https://n.news.naver.com/article/308/0000034285?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034285?type=journalists</guid>
             <pubDate>Mon, 12 Feb 2024 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34285.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034284?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034284?type=journalists</guid>
             <pubDate>Mon, 12 Feb 2024 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34284.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.02.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/06/32176.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“좀 더 짚어줬으면, 사례가 뒷받침됐으면” [시사IN 독자위원회]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032137?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032137?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/25/32137.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

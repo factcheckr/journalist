@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 17:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 05:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,11 +285,19 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/1006/A0002967202_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본인 셋 중 하나 "후쿠시마 오염수 방류 뒤 수산물 살 때 신경 쓰인다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000786148?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000786148?type=journalists</guid>
+            <pubDate>Mon, 19 Feb 2024 05:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>33분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/19/786148.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신형 로켓 H3 성공 일본, '스페이스X 다음'을 노린다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000786024?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000786024?type=journalists</guid>
             <pubDate>Sun, 18 Feb 2024 17:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/18/786024.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +313,7 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <link>https://n.news.naver.com/article/469/0000785534?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785534?type=journalists</guid>
             <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/15/785534.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,7 +329,7 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <link>https://n.news.naver.com/article/469/0000785300?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785300?type=journalists</guid>
             <pubDate>Sun, 18 Feb 2024 17:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785300.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -515,14 +523,6 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <pubDate>Sat, 03 Feb 2024 17:33:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/28/782581.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄서 의인 이수현 추도 행사... "한일 우호의 꿈 잘 키워가길" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000782443?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000782443?type=journalists</guid>
-            <pubDate>Fri, 26 Jan 2024 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/01/26/782443.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령 추천 방심위원장은 총선만 보고 간다? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -765,11 +765,19 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/15/33225.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이태원 참사 혐의 공직자, 첫 실형 선고 받았다 [기자들의 시선] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034319?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034319?type=journalists</guid>
+            <pubDate>Mon, 19 Feb 2024 05:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/19/34319.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[올해를 버티게 해줄 그의 이야기 [설날엔 드라마] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034285?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034285?type=journalists</guid>
             <pubDate>Mon, 12 Feb 2024 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34285.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -777,7 +785,7 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <link>https://n.news.naver.com/article/308/0000034284?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034284?type=journalists</guid>
             <pubDate>Mon, 12 Feb 2024 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34284.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1235,14 +1243,6 @@ AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.02.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/06/32176.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“좀 더 짚어줬으면, 사례가 뒷받침됐으면” [시사IN 독자위원회] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032137?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032137?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.01.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/01/25/32137.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[설 특집] 윤석열 대통령 ‘극안티층’은 누구일까 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
