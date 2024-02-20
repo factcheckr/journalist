@@ -4,7 +4,7 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 17:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 05:34:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/308/0000034319?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034319?type=journalists</guid>
             <pubDate>Mon, 19 Feb 2024 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/19/34319.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/308/0000034285?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034285?type=journalists</guid>
             <pubDate>Mon, 12 Feb 2024 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34285.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034284?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034284?type=journalists</guid>
             <pubDate>Mon, 12 Feb 2024 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34284.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
