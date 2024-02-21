@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 17:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 05:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달력에 꼭 적어둬야 할 ‘2024년 밤하늘’]]></title>
+            <link>https://n.news.naver.com/article/308/0000034332?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034332?type=journalists</guid>
+            <pubDate>Wed, 21 Feb 2024 05:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/21/34332.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령 추천 방심위원장은 총선만 보고 간다?]]></title>
             <link>https://n.news.naver.com/article/308/0000034229?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Aug 2023 17:33:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/16/33229.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비용편익 분석 실종된 양평고속도로 ‘변경안’]]></title>
-            <link>https://n.news.naver.com/article/308/0000033225?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033225?type=journalists</guid>
-            <pubDate>Mon, 21 Aug 2023 17:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/15/33225.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
