@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 05:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 17:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[석연치 않은 해외 순방 연기, 이유는 ‘김건희 리스크’? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034302?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034302?type=journalists</guid>
+            <pubDate>Wed, 21 Feb 2024 17:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/15/34302.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘운동권 vs 검사 독재’ 누가 이길까, ‘총선 불출마’ 우상호의 답은? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034296?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034296?type=journalists</guid>
             <pubDate>Tue, 20 Feb 2024 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/14/34296.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034290?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034290?type=journalists</guid>
             <pubDate>Mon, 19 Feb 2024 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/13/34290.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.02.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/28/32283.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남인순 의원, “정치개혁, 내용만이 아니라 ‘과정’ 자체가 중요하다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000032188?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032188?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.02.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/02/08/32188.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
