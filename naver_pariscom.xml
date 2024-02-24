@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 05:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 17:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000787057?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787057?type=journalists</guid>
             <pubDate>Fri, 23 Feb 2024 17:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/23/787057.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,23 +28,15 @@
             <link>https://n.news.naver.com/article/469/0000786900?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000786900?type=journalists</guid>
             <pubDate>Thu, 22 Feb 2024 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/22/786900.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아 최초로 일본 상륙한 비만약 '위고비'... 한국은 언제쯤?]]></title>
-            <link>https://n.news.naver.com/article/469/0000786828?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786828?type=journalists</guid>
-            <pubDate>Thu, 22 Feb 2024 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/22/786828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도쿄증시, 상하이 제치고 시총 세계 4위... ‘중국→일본·인도’ 자금 이동]]></title>
             <link>https://n.news.naver.com/article/469/0000786636?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000786636?type=journalists</guid>
             <pubDate>Wed, 21 Feb 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/21/786636.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000786622?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000786622?type=journalists</guid>
             <pubDate>Wed, 21 Feb 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/21/786622.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +60,7 @@
             <link>https://n.news.naver.com/article/469/0000786429?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000786429?type=journalists</guid>
             <pubDate>Tue, 20 Feb 2024 17:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/20/786429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,15 +92,23 @@
             <link>https://n.news.naver.com/article/469/0000786024?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000786024?type=journalists</guid>
             <pubDate>Sun, 18 Feb 2024 17:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/18/786024.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국인 44% ‘일본 좋다’, 일본인 37% ‘한국 좋다’… 상호 호감도 최고]]></title>
+            <link>https://n.news.naver.com/article/469/0000786007?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000786007?type=journalists</guid>
+            <pubDate>Sat, 24 Feb 2024 17:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/18/786007.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 정부, 김여정 ‘기시다 방북 가능’ 발언에 신중 반응… 미국은 지지 표명]]></title>
             <link>https://n.news.naver.com/article/469/0000785810?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000785810?type=journalists</guid>
             <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/16/785810.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
