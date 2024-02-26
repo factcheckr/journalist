@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 17:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 05:32:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,6 +284,22 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/1006/A0002967202_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TSMC에 10조 지원, ‘일본 반도체산업 부활’로 이어질까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000787318?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000787318?type=journalists</guid>
+            <pubDate>Mon, 26 Feb 2024 05:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/26/787318.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['같은 일 해도 월급은 절반'… 초고령사회 일본 ‘65세 정년’의 실상 [클로즈업 재팬] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000787317?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000787317?type=journalists</guid>
+            <pubDate>Mon, 26 Feb 2024 05:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/26/787317.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주가 사상 최고치에도 차분한 일본... 기시다 지지율 상승 효과 불투명 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000787057?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787057?type=journalists</guid>
@@ -344,7 +360,7 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <link>https://n.news.naver.com/article/469/0000786283?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000786283?type=journalists</guid>
             <pubDate>Tue, 20 Feb 2024 05:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/20/786283.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -508,27 +524,11 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/05/784053.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[허술한 일본 사이버 방어망....“외교 기밀 '전문 시스템' 중국에 뚫렸다” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000784027?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000784027?type=journalists</guid>
-            <pubDate>Mon, 05 Feb 2024 17:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/05/784027.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미일 정보 공유에도 북한 미사일 분석 틀린 일본… “추적하다 놓친 듯” (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000783871?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000783871?type=journalists</guid>
-            <pubDate>Sun, 04 Feb 2024 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.04.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/04/783871.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[달력에 꼭 적어둬야 할 ‘2024년 밤하늘’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034332?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034332?type=journalists</guid>
             <pubDate>Wed, 21 Feb 2024 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/21/34332.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -768,7 +768,7 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <link>https://n.news.naver.com/article/308/0000034319?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034319?type=journalists</guid>
             <pubDate>Mon, 19 Feb 2024 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/19/34319.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
