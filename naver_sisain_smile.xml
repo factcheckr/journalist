@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 05:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 17:34:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정치는 ‘저출생 지옥’ 대한민국을 구할 수 있을까? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034336?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034336?type=journalists</guid>
+            <pubDate>Tue, 27 Feb 2024 17:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/21/34336.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11일 만에 무너진 ‘빅텐트’, 이낙연·이준석 결별 후폭풍은? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034328?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034328?type=journalists</guid>
             <pubDate>Mon, 26 Feb 2024 17:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/20/34328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034321?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034321?type=journalists</guid>
             <pubDate>Sun, 25 Feb 2024 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/19/34321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/20/32380.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기로에 선 이재명과 민주당의 길]]></title>
-            <link>https://n.news.naver.com/article/308/0000032333?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032333?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/10/32333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
