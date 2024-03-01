@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 17:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 05:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정치인 성대모사 달인, 이상민 [사람IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034396?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034396?type=journalists</guid>
+            <pubDate>Fri, 01 Mar 2024 05:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/01/34396.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘이재명 리더십’은 민주당 공천 파동 수습할 수 있을까? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034362?type=journalists</link>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 24 Apr 2023 05:33:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/24/32574.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문정인의 충고 “한국과 미국의 이익이 늘 일치하지 않는다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000032490?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032490?type=journalists</guid>
-            <pubDate>Thu, 13 Apr 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/12/32490.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
