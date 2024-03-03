@@ -4,7 +4,7 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Mar 2024 05:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 17:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/469/0000787990?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787990?type=journalists</guid>
             <pubDate>Wed, 28 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/28/787990.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,23 +20,15 @@
             <link>https://n.news.naver.com/article/469/0000787971?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787971?type=journalists</guid>
             <pubDate>Wed, 28 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/28/787971.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 '출생아 수 75만 명' 예상보다 12년 앞당겨졌다... 너무 빠른 저출생 속도]]></title>
-            <link>https://n.news.naver.com/article/469/0000787948?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000787948?type=journalists</guid>
-            <pubDate>Wed, 28 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/28/787948.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강제동원 피해자 유족, 일본 기업 주총 찾아 “사죄·배상하라”]]></title>
             <link>https://n.news.naver.com/article/469/0000787685?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787685?type=journalists</guid>
             <pubDate>Tue, 27 Feb 2024 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/27/787685.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/469/0000787676?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787676?type=journalists</guid>
             <pubDate>Tue, 27 Feb 2024 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/27/787676.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -54,6 +46,14 @@
             <pubDate>Mon, 26 Feb 2024 05:32:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/26/787318.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['같은 일 해도 월급은 절반'… 초고령사회 일본 ‘65세 정년’의 실상 [클로즈업 재팬]]]></title>
+            <link>https://n.news.naver.com/article/469/0000787317?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000787317?type=journalists</guid>
+            <pubDate>Sun, 03 Mar 2024 17:32:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/26/787317.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주가 사상 최고치에도 차분한 일본... 기시다 지지율 상승 효과 불투명]]></title>
