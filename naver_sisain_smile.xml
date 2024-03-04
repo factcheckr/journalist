@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 06:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 17:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/01/34396.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임종석 ‘컷오프’ vs 김건희가 살린 의원들 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034371?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034371?type=journalists</guid>
+            <pubDate>Mon, 04 Mar 2024 17:33:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/27/34371.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘이재명 리더십’은 민주당 공천 파동 수습할 수 있을까? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034362?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034362?type=journalists</guid>
             <pubDate>Thu, 29 Feb 2024 17:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/26/34362.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Tue, 02 May 2023 05:33:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/02/32618.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도감청 의혹이 던진 질문 ‘한·미 동맹이란 무엇인가?’]]></title>
-            <link>https://n.news.naver.com/article/308/0000032574?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032574?type=journalists</guid>
-            <pubDate>Mon, 24 Apr 2023 05:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/24/32574.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
