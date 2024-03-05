@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 17:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 05:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,7 +308,7 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <link>https://n.news.naver.com/article/469/0000787551?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787551?type=journalists</guid>
             <pubDate>Mon, 04 Mar 2024 17:32:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/27/787551.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +316,7 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <link>https://n.news.naver.com/article/469/0000787539?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787539?type=journalists</guid>
             <pubDate>Mon, 04 Mar 2024 17:32:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/27/787539.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +324,7 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <link>https://n.news.naver.com/article/469/0000787318?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787318?type=journalists</guid>
             <pubDate>Mon, 26 Feb 2024 05:32:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/26/787318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +332,7 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <link>https://n.news.naver.com/article/469/0000787317?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787317?type=journalists</guid>
             <pubDate>Sun, 03 Mar 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/26/787317.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,22 +526,6 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <pubDate>Tue, 13 Feb 2024 17:32:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785148.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밥 먹다가 울컥, 읽다가 또 울컥 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034401?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034401?type=journalists</guid>
-            <pubDate>Sat, 02 Mar 2024 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/02/34401.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 “건강한” 의대 증원을 바라는 의사입니다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034392?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034392?type=journalists</guid>
-            <pubDate>Fri, 01 Mar 2024 05:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/01/34392.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[달력에 꼭 적어둬야 할 ‘2024년 밤하늘’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -768,11 +752,27 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/18/33247.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘내부자’에게 듣는 최강우주망원경 제임스웹 1년 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033243?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033243?type=journalists</guid>
+            <pubDate>Tue, 05 Mar 2024 05:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.08.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/18/33243.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘62. 팬데믹 끝’ 폴더를 닫으며 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033229?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033229?type=journalists</guid>
+            <pubDate>Tue, 05 Mar 2024 05:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.08.16.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/16/33229.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[골목 식당 사장이 범죄자가 된다고? 중대재해처벌법 Q&A (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034365?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034365?type=journalists</guid>
             <pubDate>Tue, 27 Feb 2024 05:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/27/34365.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1252,7 +1252,7 @@ AP통신 등에 따르면  바르셀로나 법원은 이날 “피해자가 성�
             <link>https://n.news.naver.com/article/308/0000034396?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034396?type=journalists</guid>
             <pubDate>Fri, 01 Mar 2024 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/01/34396.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
