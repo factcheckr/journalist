@@ -4,15 +4,39 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 05:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 17:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재일민단 신임 단장에 김이중 씨... 첫 조선학교 출신]]></title>
+            <link>https://n.news.naver.com/article/469/0000787990?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000787990?type=journalists</guid>
+            <pubDate>Tue, 05 Mar 2024 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/28/787990.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오사카 엑스포 한국관 첫 삽 떴다... AI 등 첨단기술로 "생명을 연결"]]></title>
+            <link>https://n.news.naver.com/article/469/0000787971?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000787971?type=journalists</guid>
+            <pubDate>Tue, 05 Mar 2024 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/28/787971.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 '출생아 수 75만 명' 예상보다 12년 앞당겨졌다... 너무 빠른 저출생 속도]]></title>
+            <link>https://n.news.naver.com/article/469/0000787948?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000787948?type=journalists</guid>
+            <pubDate>Tue, 05 Mar 2024 17:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/28/787948.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강제동원 피해자 유족, 일본 기업 주총 찾아 “사죄·배상하라”]]></title>
             <link>https://n.news.naver.com/article/469/0000787685?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787685?type=journalists</guid>
             <pubDate>Tue, 27 Feb 2024 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/27/787685.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://n.news.naver.com/article/469/0000787676?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000787676?type=journalists</guid>
             <pubDate>Tue, 27 Feb 2024 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/27/787676.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 18 Feb 2024 17:32:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785300.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘인증시험 부정’ 다이하쓰, CEO 교체… 공장 일부 재가동]]></title>
-            <link>https://n.news.naver.com/article/469/0000785196?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000785196?type=journalists</guid>
-            <pubDate>Tue, 13 Feb 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785196.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 증시 '활활'… 34년 만에 버블기 최고치 돌파 눈앞]]></title>
-            <link>https://n.news.naver.com/article/469/0000785163?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000785163?type=journalists</guid>
-            <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785163.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본서 결제액 가장 많은 앱은 카카오 웹툰 앱… 세계 1위는 ‘틱톡’]]></title>
-            <link>https://n.news.naver.com/article/469/0000785148?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000785148?type=journalists</guid>
-            <pubDate>Tue, 13 Feb 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/13/785148.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
