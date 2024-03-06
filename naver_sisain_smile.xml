@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 05:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 17:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/01/34396.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[친명 중진도 물갈이, 속도 내는 민주당 새판짜기 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034388?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034388?type=journalists</guid>
+            <pubDate>Wed, 06 Mar 2024 17:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/29/34388.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘친명 좌장’ 정성호가 말하는 이재명 총선 승리 복안 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034380?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034380?type=journalists</guid>
             <pubDate>Tue, 05 Mar 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/28/34380.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000034371?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034371?type=journalists</guid>
             <pubDate>Mon, 04 Mar 2024 17:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/27/34371.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 10 May 2023 05:33:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/10/32655.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘윤석열 비용’ 청구서가 쌓인다 [윤석열 정부 1년]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032645?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032645?type=journalists</guid>
-            <pubDate>Mon, 08 May 2023 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/08/32645.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
