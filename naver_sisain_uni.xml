@@ -4,9 +4,33 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 05:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 17:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주머니 사정 늘 빠듯한 이유 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034419?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034419?type=journalists</guid>
+            <pubDate>Thu, 07 Mar 2024 17:32:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/05/34419.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밥 먹다가 울컥, 읽다가 또 울컥]]></title>
+            <link>https://n.news.naver.com/article/308/0000034401?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034401?type=journalists</guid>
+            <pubDate>Thu, 07 Mar 2024 17:32:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/02/34401.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 “건강한” 의대 증원을 바라는 의사입니다]]></title>
+            <link>https://n.news.naver.com/article/308/0000034392?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034392?type=journalists</guid>
+            <pubDate>Thu, 07 Mar 2024 17:32:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/01/34392.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달력에 꼭 적어둬야 할 ‘2024년 밤하늘’]]></title>
             <link>https://n.news.naver.com/article/308/0000034332?type=journalists</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 29 Aug 2023 05:32:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/29/33298.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘엔데믹’인데 코로나19 확진자 왜 또 늘어나나?]]></title>
-            <link>https://n.news.naver.com/article/308/0000033247?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033247?type=journalists</guid>
-            <pubDate>Tue, 22 Aug 2023 17:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/18/33247.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘내부자’에게 듣는 최강우주망원경 제임스웹 1년]]></title>
-            <link>https://n.news.naver.com/article/308/0000033243?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033243?type=journalists</guid>
-            <pubDate>Tue, 05 Mar 2024 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/18/33243.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘62. 팬데믹 끝’ 폴더를 닫으며 [프리스타일]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033229?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033229?type=journalists</guid>
-            <pubDate>Tue, 05 Mar 2024 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/16/33229.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

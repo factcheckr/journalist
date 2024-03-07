@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 05:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 17:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유엔난민기구와 보낸 10년은 정우성을 어떻게 바꿨나 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034428?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034428?type=journalists</guid>
+            <pubDate>Thu, 07 Mar 2024 17:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/06/34428.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정치인 성대모사 달인, 이상민 [사람IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034396?type=journalists</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034388?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034388?type=journalists</guid>
             <pubDate>Wed, 06 Mar 2024 17:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/29/34388.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000034380?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034380?type=journalists</guid>
             <pubDate>Tue, 05 Mar 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.02.28.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/28/34380.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Tue, 16 May 2023 05:33:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/16/32685.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법무부와 검찰은 지금 ‘윤석열 사단’ 전성시대 [윤석열 정부 1년]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032655?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032655?type=journalists</guid>
-            <pubDate>Wed, 10 May 2023 05:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/10/32655.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
