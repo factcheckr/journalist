@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 17:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 05:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느 성소수자 청소년의 죽음... 극우 정치인들이 한 짓을 보라]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003008570</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003008570</guid>
+            <pubDate>Mon, 11 Mar 2024 05:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0308/A0003008570_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['변태 쫄보'인 나, '파묘' 보려고 이런 행동까지 했다]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003004539</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Nov 2023 05:31:59 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/1117/A0002978578_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직장 성추행 피해자의 변신, 이 여성이 흥미로운 이유]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002972724</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002972724</guid>
-            <pubDate>Tue, 31 Oct 2023 17:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/1027/A0002972724_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
