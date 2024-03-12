@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 17:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 05:32:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -531,11 +531,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785300.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[굴뚝 오르던 진보 의사가 의협 선거에 출마한 이유 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034468?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034468?type=journalists</guid>
+            <pubDate>Tue, 12 Mar 2024 05:32:04 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34468.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주머니 사정 늘 빠듯한 이유 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034419?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034419?type=journalists</guid>
             <pubDate>Thu, 07 Mar 2024 17:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/05/34419.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -763,19 +771,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/05/33344.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국은 왜 아무것도 바꿀 수 없는 나라가 되었을까 [기자의 추천 책] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033298?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033298?type=journalists</guid>
-            <pubDate>Tue, 29 Aug 2023 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/29/33298.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘미루기’ 좋아하는 동지들에게 [프리스타일] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034427?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034427?type=journalists</guid>
             <pubDate>Wed, 06 Mar 2024 05:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/06/34427.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -783,7 +783,7 @@
             <link>https://n.news.naver.com/article/308/0000034424?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034424?type=journalists</guid>
             <pubDate>Wed, 06 Mar 2024 05:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/06/34424.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
