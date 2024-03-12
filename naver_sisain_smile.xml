@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 05:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 17:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유엔난민기구와 보낸 10년은 정우성을 어떻게 바꿨나 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034428?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034428?type=journalists</guid>
+            <pubDate>Tue, 12 Mar 2024 17:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/06/34428.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈 vs 이재명, 텔레비전 토론 성사될까? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034420?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034420?type=journalists</guid>
             <pubDate>Mon, 11 Mar 2024 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/05/34420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034412?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034412?type=journalists</guid>
             <pubDate>Sun, 10 Mar 2024 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.03.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/04/34412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 22 May 2023 05:33:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/22/32718.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외교에는 국적이 있다 [프리스타일]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032691?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032691?type=journalists</guid>
-            <pubDate>Wed, 17 May 2023 05:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/17/32691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

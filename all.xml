@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 05:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 17:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“제1학력 차별을 없애자” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202403121603001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202403121603001</guid>
+            <pubDate>Tue, 12 Mar 2024 17:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[“제1학력 차별을 없애자.”
+중국에서 ‘제1학력’이란 대학에 진학한 사람이 ‘첫 번째로 받은 학위’를 의미한다. 대학 졸업 후 대학원에 진학하거나 다른 대학에 입학해 받은 학위는 ‘제2학력’이 된다. ‘제1학력’이란 말에는 한국어의 ‘출신 대학’처럼 고교 성적이 평생을 꼬리표처럼 따라다닌다는 맥락도 담겨 있다.
+이번 전국인민대표대회(전인대·중국 최고국가권력기관)에서 제1학력 차별을 없애자는 ‘건의’가 나왔다. 전인대 대의원이자 중국 공학 분야 학술기구 중국공정원의 원사인 판푸셩(潘复生·62)은 지난 6일 전인대 회의에서 이력서에 학력을 기재하지 못하도록 해 제1학력 개념을 없애고 취업·진학 시 학력차별 자체를 원천 차단하자고 제안했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/12/news-p.v1.20240312.f768d0c569c14822888f0967e4fbad7c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘30년 관행’ 총리 기자회견도 생략…‘시진핑 1인 체제’ 완성 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/china/article/202403112132015</link>
@@ -109,16 +119,6 @@
 신화통신은 이날 서울발 기사로 에버랜드 판다월드의 푸바오 마지막 관람 행사를 상세히 전했다. 신화통신은 이날 “사람들이 가장 많이 모이는 시간대 판다월드 입구에는 ‘400분 기다려야 한다’는 안내문이 붙어 있었지만 한국인의 열기를 막을 수 없었다”고 전했다.
 신화통신은 푸바오는 한국에서 태어난 최초의 판다이기도 해서 한국인들의 큰 사랑을 받았다며 ‘푸공주’, ‘푸뚠뚠’ 등의 애칭으로도 불렸다고 소개했다. 신화통신은 2021년 1월 4일 대중에 공개된 이후 550만명의 관람객이 다녀갔다는 에버랜드 측의 자료를 소개하며 “소셜네트워크(SNS)에 올라온 푸바오 영상은 5억뷰를 기록하는 등 푸바오는 명실상부한 한국의 슈퍼스타로  자리매김했다”고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/04/news-p.v1.20240304.3e06029847cf48bf859ba09c548f45ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 2인자 총리의 전인대 폐막 기자회견, 올해는 없다 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202403041711001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202403041711001</guid>
-            <pubDate>Mon, 04 Mar 2024 17:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[중국 연례 최대 정치행사인 양회를 마무리하는 국무원 총리의 전국인민대표대회(전인대) 폐막 기자회견이 올해부터 당분간 열리지 않는다.
-러우친젠 전인대 14기 2차회의 대변인은 4일 베이징 인민대회당에서 연 사전 브리핑에서 “올해 전인대 폐막 후 총리 기자회견을 개최하지 않는다”며 “특별한 상황이 없다면 이번 전인대 이후 몇 년 동안 더는 총리 기자회견을 하지 않을 것”이라고 말했다.
-러우 대변인은 총리 기자회견을 없애는 대신 부장(장관) 기자회견 및 ‘부장 인터뷰’(장관이 전인대 회의장으로 가는 길목에서 기자들을 만나 질문을 받는 방식)의 횟수와 참가 인원을 늘려 정책 조치에 대해 자세히 설명하겠다고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/04/rcv.YNA.20240304.PAP20240304210601009.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -535,7 +535,7 @@
             <link>https://n.news.naver.com/article/308/0000034468?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034468?type=journalists</guid>
             <pubDate>Tue, 12 Mar 2024 05:32:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34468.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1251,11 +1251,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/22/32387.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유엔난민기구와 보낸 10년은 정우성을 어떻게 바꿨나 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034428?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034428?type=journalists</guid>
+            <pubDate>Tue, 12 Mar 2024 17:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/06/34428.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한동훈 vs 이재명, 텔레비전 토론 성사될까? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034420?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034420?type=journalists</guid>
             <pubDate>Mon, 11 Mar 2024 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/05/34420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1263,7 +1271,7 @@
             <link>https://n.news.naver.com/article/308/0000034412?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034412?type=journalists</guid>
             <pubDate>Sun, 10 Mar 2024 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.03.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/04/34412.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1913,14 +1921,6 @@
             <pubDate>Mon, 22 May 2023 05:33:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/22/32718.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외교에는 국적이 있다 [프리스타일] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032691?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032691?type=journalists</guid>
-            <pubDate>Wed, 17 May 2023 05:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/17/32691.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
