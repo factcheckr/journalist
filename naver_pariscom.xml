@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 05:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 17:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸틴 “북한, 자체 ‘핵우산’ 보유… 러시아에 도움 요청한 것 없다”]]></title>
+            <link>https://n.news.naver.com/article/469/0000790252?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000790252?type=journalists</guid>
+            <pubDate>Wed, 13 Mar 2024 17:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/03/13/790252.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재일민단 신임 단장에 김이중 씨... 첫 조선학교 출신]]></title>
             <link>https://n.news.naver.com/article/469/0000787990?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785333.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신입사원 설명회에 "부모님 모셔오세요"… 일본 기업 '오야카쿠' 확산]]></title>
-            <link>https://n.news.naver.com/article/469/0000785300?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000785300?type=journalists</guid>
-            <pubDate>Sun, 18 Feb 2024 17:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785300.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
