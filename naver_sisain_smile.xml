@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 05:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 17:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2013년 원세훈, 2024년 이종섭···되풀이되는 도피성 출국 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034464?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034464?type=journalists</guid>
+            <pubDate>Thu, 14 Mar 2024 17:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/11/34464.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘조국혁신당 신장식’ vs ‘개혁신당 김용남’ 제3정당 맞수 토론 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034437?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034437?type=journalists</guid>
             <pubDate>Wed, 13 Mar 2024 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/07/34437.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034428?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034428?type=journalists</guid>
             <pubDate>Tue, 12 Mar 2024 17:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.03.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/06/34428.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 05 Jun 2023 17:33:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.30.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/30/32757.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘김남국 코인 논란’은 왜 도덕성 문제가 아닌가]]></title>
-            <link>https://n.news.naver.com/article/308/0000032758?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032758?type=journalists</guid>
-            <pubDate>Mon, 05 Jun 2023 17:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/30/32758.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

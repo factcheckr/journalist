@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 05:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 17:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덴마크도 여성 징병제 도입… 노르웨이, 스웨덴 이어 유럽 세 번째]]></title>
+            <link>https://n.news.naver.com/article/469/0000790475?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000790475?type=journalists</guid>
+            <pubDate>Thu, 14 Mar 2024 17:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/03/14/790475.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸틴 “북한, 자체 ‘핵우산’ 보유… 러시아에 도움 요청한 것 없다”]]></title>
             <link>https://n.news.naver.com/article/469/0000790252?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000790252?type=journalists</guid>
             <pubDate>Wed, 13 Mar 2024 17:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/03/13/790252.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Feb 2024 17:31:52 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785402.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“일본 기시다, 다음 달 20일 방한 윤 대통령과 정상회담 검토”]]></title>
-            <link>https://n.news.naver.com/article/469/0000785333?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000785333?type=journalists</guid>
-            <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
