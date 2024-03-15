@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 17:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘외부 세력 결탁하면 종신형’…더 세진 홍콩보안법 통과 눈앞]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202403151830011</link>
+            <guid>https://www.khan.co.kr/world/china/article/202403151830011</guid>
+            <pubDate>Fri, 15 Mar 2024 17:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[홍콩 정부가 자체 추진하는 홍콩판 국가보안법인 ‘국가안전조례’가 통과까지 형식적 국회 표결만 눈앞에 뒀다.
+14일 사우스차이나모닝포스트(SCMP)에 따르면 전날 홍콩 입법회 의원들은 홍콩 정부가 제출한 ‘국가안전조례안’에 대한 일주일 동안의 심사를 마치고 조례안 내용을 만장일치로 승인했다. 조례는 정부안에서 변경 없이 본회의로 넘겨져 조만간 통과될 전망이다.
+홍콩 국가안전조례는 홍콩의 헌법에 해당하는 홍콩 기본법 제23조를 근거로 추진되고 있다. 홍콩 기본법 제23조는 홍콩 정부가 분리독립·폭동선동·국가전복 행위 등을 처벌하는 법령을 제정할 것을 의무로 규정하고 있다. 홍콩 정부는 이 조항에 따라 2003년 보안법 제정을 추진하다가 대규모 반대 시위가 발생해 물러선 바 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/15/news-p.v1.20240315.eae459f050774b71b94c4aed99adec1d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트럼프 반대에도…미 공화당이 ‘틱톡 금지법’ 하원 통과 주도]]></title>
             <link>https://www.khan.co.kr/world/america/article/202403142106005</link>
@@ -110,15 +120,6 @@ SCMP에 따르면 양정청은 정협이 폐막한 지난 10일 상하이 기반
             <content:encoded><![CDATA[중국의 제14기 전국인민대표대회(전인대) 2차 대회가 30년 동안 관행적으로 이어지던 국무원 총리의 내·외신 기자회견 없이 11일 폐막하며 연례 최대 정치행사인 양회(전인대·전국인민정치협상회의) 일정이 마무리됐다.
 양회 기간 시진핑(習近平) 중국 국가 주석이 제시한 ‘새로운 질적 생산력’이 전면 강조되고, 정부를 당의 지도를 받는 존재로 규정한 정부 조직법이 개편돼 시 주석 1인 체제가 제도적으로 완성됐다. 경제 문제로 불안한 민심을 달래기 위한 정책과 발언도 부각됐다. 중국의 ‘시진핑 시대’를 확인하는 무대였다는 평가가 나온다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/11/rcv.YNA.20240311.PRU20240311598601009.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 AI 초중생 의무교육 도입하나…학생부담 우려도]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202403101657001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202403101657001</guid>
-            <pubDate>Sun, 10 Mar 2024 17:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[올해 양회에서 뜨거운 화제가 된 주제 가운데 하나는 인공지능(AI) 의무교육 도입이다. AI교육을 초·중학교 의무교육 과정에 포함해야 한다는 제언이 나오자 교육부는 긍정적 답변을 내놓아 정책 도입이 확실시되는 분위기이다. 온라인 플랫폼 등지에서 논쟁도 이어졌다.
-중국중앙(CC)TV에 따르면 화이진펑(怀进鹏) 중국 교육부장관은 9일 제14기 전국인민대표대회 2차 회의에서 교육 관련 질문에 “인구도 많고 불균형한 대국인 중국에서 교육의 질 높은 발전을 이루려면 디지털 교육의 발전은 ‘선택’이 아니라 ‘필수’”라고 말했다. 그는 디지털소양을 갖춘 교사를 양성해 AI 기술을 창의적으로 가르치고 학생들이 능동적으로 배울 수 있도록 하겠다고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/10/news-p.v1.20240310.4b5ab9bdeb8f4a01ba7ac6b906095b9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
