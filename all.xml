@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 17:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 05:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,7 +295,7 @@ SCMP에 따르면 양정청은 정협이 폐막한 지난 10일 상하이 기반
             <link>https://n.news.naver.com/article/469/0000790475?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000790475?type=journalists</guid>
             <pubDate>Thu, 14 Mar 2024 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/03/14/790475.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -535,7 +535,7 @@ SCMP에 따르면 양정청은 정협이 폐막한 지난 10일 상하이 기반
             <link>https://n.news.naver.com/article/308/0000034468?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034468?type=journalists</guid>
             <pubDate>Tue, 12 Mar 2024 05:32:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34468.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -769,6 +769,14 @@ SCMP에 따르면 양정청은 정협이 폐막한 지난 10일 상하이 기반
             <pubDate>Tue, 05 Sep 2023 05:33:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/05/33344.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그린벨트 푼다고 총선에서 이길까? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034497?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034497?type=journalists</guid>
+            <pubDate>Fri, 15 Mar 2024 05:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/15/34497.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘미루기’ 좋아하는 동지들에게 [프리스타일] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1241,14 +1249,6 @@ SCMP에 따르면 양정청은 정협이 폐막한 지난 10일 상하이 기반
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/23/32396.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 쉽게 재생에너지를 구매하는 법 [지구를 구하는 기후테크] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032387?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032387?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/22/32387.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2013년 원세훈, 2024년 이종섭···되풀이되는 도피성 출국 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
