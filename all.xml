@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 17:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 05:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -532,11 +532,19 @@ SCMP에 따르면 양정청은 정협이 폐막한 지난 10일 상하이 기반
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/14/785402.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전공의 떠난 자리에서 외줄 타는 PA 간호사들 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034511?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034511?type=journalists</guid>
+            <pubDate>Mon, 18 Mar 2024 05:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/18/34511.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[굴뚝 오르던 진보 의사가 의협 선거에 출마한 이유 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034468?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034468?type=journalists</guid>
             <pubDate>Tue, 12 Mar 2024 05:32:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34468.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,19 +772,11 @@ SCMP에 따르면 양정청은 정협이 폐막한 지난 10일 상하이 기반
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/12/33384.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[양평 고속도로 Q&A] 드러난 사실과 남은 의혹들 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033344?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033344?type=journalists</guid>
-            <pubDate>Tue, 05 Sep 2023 05:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/05/33344.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[그린벨트 푼다고 총선에서 이길까? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034497?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034497?type=journalists</guid>
             <pubDate>Fri, 15 Mar 2024 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/15/34497.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1250,6 +1250,14 @@ SCMP에 따르면 양정청은 정협이 폐막한 지난 10일 상하이 기반
             <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.03.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/23/32396.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘도주 대사’ 비판에도 이종섭 임명 철회 안 한다는 대통령실 [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034513?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034513?type=journalists</guid>
+            <pubDate>Mon, 18 Mar 2024 05:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/18/34513.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2013년 원세훈, 2024년 이종섭···되풀이되는 도피성 출국 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
@@ -1914,14 +1922,6 @@ SCMP에 따르면 양정청은 정협이 폐막한 지난 10일 상하이 기반
             <pubDate>Mon, 05 Jun 2023 17:33:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/05/32786.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부의 검찰개혁은 실패했나? [기자의 추천 책] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032757?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032757?type=journalists</guid>
-            <pubDate>Mon, 05 Jun 2023 17:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/30/32757.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

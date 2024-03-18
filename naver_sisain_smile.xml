@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 17:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 05:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘도주 대사’ 비판에도 이종섭 임명 철회 안 한다는 대통령실 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034513?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034513?type=journalists</guid>
+            <pubDate>Mon, 18 Mar 2024 05:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/18/34513.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2013년 원세훈, 2024년 이종섭···되풀이되는 도피성 출국 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034464?type=journalists</link>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 05 Jun 2023 17:33:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/05/32786.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부의 검찰개혁은 실패했나? [기자의 추천 책]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032757?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032757?type=journalists</guid>
-            <pubDate>Mon, 05 Jun 2023 17:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/30/32757.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
