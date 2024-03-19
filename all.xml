@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 17:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 05:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -537,7 +537,7 @@
             <link>https://n.news.naver.com/article/308/0000034511?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034511?type=journalists</guid>
             <pubDate>Mon, 18 Mar 2024 05:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/18/34511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -545,7 +545,7 @@
             <link>https://n.news.naver.com/article/308/0000034468?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034468?type=journalists</guid>
             <pubDate>Tue, 12 Mar 2024 05:32:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34468.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -773,11 +773,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/12/33384.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이 책 읽으면 ‘아바타’와 너구리 ‘로켓’이 달리 보인다 [기자의 추천 책] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034521?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034521?type=journalists</guid>
+            <pubDate>Tue, 19 Mar 2024 05:33:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/19/34521.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그린벨트 푼다고 총선에서 이길까? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034497?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034497?type=journalists</guid>
             <pubDate>Fri, 15 Mar 2024 05:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/15/34497.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1245,19 +1253,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/24/32399.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리의 라이벌은 넷플릭스다 [지구를 구하는 기후테크] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032396?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032396?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/23/32396.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘도주 대사’ 비판에도 이종섭 임명 철회 안 한다는 대통령실 [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034513?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034513?type=journalists</guid>
             <pubDate>Mon, 18 Mar 2024 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/18/34513.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
