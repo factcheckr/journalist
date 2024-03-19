@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 05:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 17:32:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/18/34513.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[4·10 총선, 변수는 이것이다 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034481?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034481?type=journalists</guid>
+            <pubDate>Tue, 19 Mar 2024 17:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/13/34481.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오스트레일리아 언론도 주목한 ‘도주 대사’ 이종섭 [김은지의 시사IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034473?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034473?type=journalists</guid>
             <pubDate>Mon, 18 Mar 2024 17:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34473.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000034464?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034464?type=journalists</guid>
             <pubDate>Thu, 14 Mar 2024 17:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.03.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/11/34464.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Fri, 23 Jun 2023 05:36:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/23/32896.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘일본은 왜 그럴까?’ 역사학자에게 물었다]]></title>
-            <link>https://n.news.naver.com/article/308/0000032841?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032841?type=journalists</guid>
-            <pubDate>Thu, 15 Jun 2023 05:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/15/32841.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
