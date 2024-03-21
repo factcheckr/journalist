@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 05:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 17:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열·한동훈 비례대표 파열음 커질까 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034532?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034532?type=journalists</guid>
+            <pubDate>Thu, 21 Mar 2024 17:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/20/34532.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘도주 대사’ 비판에도 이종섭 임명 철회 안 한다는 대통령실 [기자들의 시선]]]></title>
             <link>https://n.news.naver.com/article/308/0000034513?type=journalists</link>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034490?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034490?type=journalists</guid>
             <pubDate>Thu, 21 Mar 2024 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/14/34490.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000034481?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034481?type=journalists</guid>
             <pubDate>Tue, 19 Mar 2024 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.03.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/13/34481.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 05 Jul 2023 17:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/05/32977.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호랑이냐 사냥개냐, 논란의 감사원과 유병호 사무총장]]></title>
-            <link>https://n.news.naver.com/article/308/0000032967?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032967?type=journalists</guid>
-            <pubDate>Mon, 03 Jul 2023 05:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/03/32967.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

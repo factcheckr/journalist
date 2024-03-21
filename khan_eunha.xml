@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 05:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 17:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시진핑 양회 이후 첫 시찰 “중부지역 발전” 강조]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202403211754001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202403211754001</guid>
+            <pubDate>Thu, 21 Mar 2024 17:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[양회(전국인민대표대회·인민정치협상회의) 이후 첫 일정으로 후난성을 시찰하고 있는 시진핑 중국 국가주석이 중부지역 발전을 위한 구체적인 조치를 촉구했다고 중국중앙(CC)TV 등이 21일 보도했다.
+보도에 따르면 시 주석은 전날 창샤에서 고위급 심포지엄을 주재하며 중부지역이 식량 생산, 에너지, 원자재의 주요 허브이자 현대 제조업의 중심지로서 중요하다고 강조했다. 그는 중부지역이 수도권인 ‘베이징~텐진~허베이’, 자동차 산업 중심지인 ‘장강 삼각주’, 첨단산업과 금융 중심지인 ‘광저우~홍콩~마카오’와 연계와 통합이 잘 이뤄져 발전해야 한다고 강조했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/21/news-p.v1.20240321.1c0d749cc567454cac333acd188893f4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[홍콩·중국 “보안법 역사적 순간”…홍콩 안팎 우려 속 자화자찬]]></title>
             <link>https://www.khan.co.kr/world/china/article/202403201816001</link>
@@ -111,16 +120,6 @@
 왕원빈 중국 외교부 대변인은 14일 정례 브리핑에서 “미국 하원에서 통과된 이 법안은 미국을 공평(공정) 경쟁 원칙과 국제 경제·무역 규칙의 반대편에 서게 한 것”이라고 말했다. 그는 이어 “이른바 ‘국가 안보’의 이유를 들어 임의로 다른 나라의 우수한 기업을 탄압한다면 그것은 조금도 공평하고 정의롭다고 할 수 없다”고 말했다.
 왕 대변인은 “틱톡 사건에 대한 미국의 대처는 미국이 말하는 규칙·질서가 대체 세계에 도움이 되는 것인지, 아니면 미국 자신만을 위한 것인지 세계가 더욱 분명하게 똑똑히 보게 했다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/14/news-p.v1.20240314.44fc3c0dd2a94eecb1b722330a0c0937.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국에서 대만 범죄영화 흥행 돌풍…왜?]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202403141736001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202403141736001</guid>
-            <pubDate>Thu, 14 Mar 2024 17:31:29 GMT</pubDate>
-            <content:encoded><![CDATA[홍콩 출신 감독이 만든 대만 영화가 중국에서 개봉 2주 만에 흥행 돌풍을 일으키고 있다. 중국에서 보기 어려운 범죄 영화의 흥행 원인을 두고 중국과 대만 양쪽에서 관심이 뜨겁다.
-14일 신경보 등 중국 매체들에 따르면 지난 1일 개봉한 &lt;주처제삼해&gt;(周處除三害)가 지난 12일 누적 수입 4억 위안(약732억6800만원)을 돌파했다. &lt;주처제삼해&gt;는 3일부터 13일까지 열흘 연속 할리우드 영화 &lt;듄2&gt;를 누르고 중국 박스오피스 1위 자리를 차지하고 있다.
-&lt;주처제삼해&gt;는 황징푸(黄精甫) 감독이 연출한 대만 범죄 스릴러 영화이다. ‘주처란 사람이 세 가지 악을 처단한다’는 의미의 제목은 중국 역사서 &lt;진서·주처전&gt;과 고전 &lt;세설신어&gt;에서 따 왔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/14/news-p.v1.20240314.a9af04a325e54ea89996d964c0659dc0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
