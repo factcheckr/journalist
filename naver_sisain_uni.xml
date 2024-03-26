@@ -4,9 +4,33 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 05:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 17:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“우리는 정부와 의사의 볼모가 아니다” 환자 단체 대표의 일성]]></title>
+            <link>https://n.news.naver.com/article/308/0000034564?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034564?type=journalists</guid>
+            <pubDate>Tue, 26 Mar 2024 17:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/25/34564.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“온몸에 멍이 드는데 10일 뒤 혈소판 예약도 막혀” [의료대란 속 환자들 이야기]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034565?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034565?type=journalists</guid>
+            <pubDate>Tue, 26 Mar 2024 17:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/25/34565.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[의대 증원, 누가 승자이고 패자일까 [프리스타일]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034530?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034530?type=journalists</guid>
+            <pubDate>Tue, 26 Mar 2024 17:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/20/34530.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전공의 떠난 자리에서 외줄 타는 PA 간호사들]]></title>
             <link>https://n.news.naver.com/article/308/0000034511?type=journalists</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 21 Sep 2023 05:32:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/21/33450.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달 남극에 처음으로 도착한 지구의 ‘지혜’ [외신 한 컷]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033394?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033394?type=journalists</guid>
-            <pubDate>Mon, 18 Sep 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/13/33394.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]코로나 때는 ‘덕분에’라더니...공공병원 예산 95억 줄었다]]></title>
-            <link>https://n.news.naver.com/article/308/0000033388?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033388?type=journalists</guid>
-            <pubDate>Mon, 18 Sep 2023 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/12/33388.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠들어버린 달 남극 탐사차 [기자들의 시선]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033384?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033384?type=journalists</guid>
-            <pubDate>Mon, 25 Mar 2024 05:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/12/33384.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
