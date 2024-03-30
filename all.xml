@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 05:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 17:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1262,7 +1262,7 @@ FT에 따르면 중국 재정부와 공업정보화부는 지난해 12월26일 �
             <link>https://n.news.naver.com/article/308/0000034596?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034596?type=journalists</guid>
             <pubDate>Thu, 28 Mar 2024 17:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/28/34596.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
