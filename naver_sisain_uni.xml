@@ -4,15 +4,23 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 17:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 05:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘윤석열식’ 의대 증원, 정치의 빈곤을 드러내다]]></title>
+            <link>https://n.news.naver.com/article/308/0000034616?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034616?type=journalists</guid>
+            <pubDate>Mon, 01 Apr 2024 05:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/01/34616.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“우리는 정부와 의사의 볼모가 아니다” 환자 단체 대표의 일성]]></title>
             <link>https://n.news.naver.com/article/308/0000034564?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034564?type=journalists</guid>
             <pubDate>Tue, 26 Mar 2024 17:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/25/34564.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034565?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034565?type=journalists</guid>
             <pubDate>Tue, 26 Mar 2024 17:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/25/34565.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 10 Oct 2023 05:32:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/10/33533.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부의 나라살림이 ‘역대급’으로 두려운 까닭]]></title>
-            <link>https://n.news.naver.com/article/308/0000033450?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033450?type=journalists</guid>
-            <pubDate>Thu, 21 Sep 2023 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/21/33450.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
