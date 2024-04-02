@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 05:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 17:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘채 상병 특검법’ 낸 박주민, “이종섭이 사건 핵심 키맨이다” [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034586?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034586?type=journalists</guid>
+            <pubDate>Tue, 02 Apr 2024 17:33:19 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/27/34586.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“나라 망조”라는 이재명의 거친 입, 득일까 실일까? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034578?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034578?type=journalists</guid>
             <pubDate>Mon, 01 Apr 2024 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/26/34578.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034569?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034569?type=journalists</guid>
             <pubDate>Sun, 31 Mar 2024 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.03.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/25/34569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Fri, 11 Aug 2023 05:32:48 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/11/33208.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이것은 분명한 인재다 [기자들의 시선]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033182?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033182?type=journalists</guid>
-            <pubDate>Mon, 07 Aug 2023 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/07/33182.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
