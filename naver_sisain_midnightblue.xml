@@ -4,9 +4,25 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 17:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 05:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공무원 죽음으로 내모는, 무한 악성 민원의 시대]]></title>
+            <link>https://n.news.naver.com/article/308/0000034621?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034621?type=journalists</guid>
+            <pubDate>Tue, 02 Apr 2024 05:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/02/34621.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버추얼 아이돌도 아프다 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034624?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034624?type=journalists</guid>
+            <pubDate>Tue, 02 Apr 2024 05:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/02/34624.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 책 읽으면 ‘아바타’와 너구리 ‘로켓’이 달리 보인다 [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000034521?type=journalists</link>
@@ -470,22 +486,6 @@
             <pubDate>Mon, 10 Apr 2023 17:32:45 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/10/32484.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임보라 목사, 입으로 외치는 100명 대신 몸으로 싸웠던 단 한 명]]></title>
-            <link>https://n.news.naver.com/article/308/0000032418?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032418?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/27/32418.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국에는 왜 테슬라가 없냐고? [지구를 구하는 기후테크]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032399?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032399?type=journalists</guid>
-            <pubDate>Thu, 30 Mar 2023 17:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.03.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/03/24/32399.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
