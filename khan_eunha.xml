@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 17:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 05:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 칭하이 규모 5.5 지진 발생]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202404041305001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202404041305001</guid>
+            <pubDate>Thu, 04 Apr 2024 05:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[중국 서부 칭하이성에서 규모 5.5의 지진이 발생했다.
+중국중앙(CC)TV는 칭하이성 하이시현 망야시에서 4일 오전 8시 39분쯤 규모 5.5의 지진이 발생했다고 보도했다. 진원은 망야시에서 17km 떨어져 있으며 진원 깊이는 지하 10km이다. 둔황, 간쑤, 신장 등에서도 진동이 느껴진 것으로 전해졌다.
+간쑤·칭하이 지역은 지난해 12월에도 규모 6.2의 지진이 발생해 130명 넘게 숨지는 등 큰 피해를 입었다.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[바이든·시진핑, ‘미 대선·중 경제 회복’ 이해 맞아…대만·기술통제 놓고는 입장 팽팽]]></title>
             <link>https://www.khan.co.kr/world/america/article/202404032120025</link>
@@ -114,17 +123,6 @@
             <content:encoded><![CDATA[중국은 28일(뉴욕 현지시간) 대북제재를 감시하는 유엔 안전보장이사회(안보리)는 대북제재위원회 산하 전문가 패널의 임기를 연장을 묻는 투표에서 기권했다. 상임이사국인 러시아의 거부권 행사로 해당 표결은 부결돼 유엔 안보리 대북제재위 전문가 패널은 활동을 중단한다.
 일각에서는 중국이 북한 압박 대열에서 이탈해 북핵 문제를 ‘미·중 경쟁’의 지렛대로 쓰고 있다는 분석을 제기하고 있다. 중국은 이번 표결에서는 거부가 아닌 기권표를 행사해 러시아를 거드는 ‘조연’ 역할에 머물렀지만 향후에는 ‘북핵’ 문제를 미·중 갈등의 지렛대로 활용할 것이라는 분석도 나오고 있다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/29/news-p.v1.20240329.42f9b88a8c3b4c228d75909d35927aaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중 청명절 ‘저승용 지폐’ 태우기는 봉건 미신?…시 당국 조치에 논란]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202403291558001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202403291558001</guid>
-            <pubDate>Fri, 29 Mar 2024 17:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[봉건 미신인가 전통문화인가.
-중국 전통명절인 청명절을 앞두고 한 지방 도시에서 제사와 장례에 사용하는 가짜 지폐인 ‘명화지폐(冥币纸钱)’ 제조를 금지해 논란이 되고 있다.
-29일 양광망, 중국중앙(CC)TV 등에 따르면 장쑤성 난퉁시는 지난 26일 보도자료를 내고 “시 전역에서 어떤 단체나 개인도 명화지폐를 비롯한 봉건 미신 장례용품을 제조·판매하는 것을 금지한다”한다고 밝혔다. 이를 어길 경우 제조 ·판매가의 1배 이상 3배 이하의 벌금을 물게 된다.
-난퉁시 당국은 “장례 문화를 개혁해 문명화된 제사를 이끌고 도시 환경을 정화하기 위한 것”이라고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/29/news-p.v1.20240329.bf85442f442045948c027db67f0e097e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
