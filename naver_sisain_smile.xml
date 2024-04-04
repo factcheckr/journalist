@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 05:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 17:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/03/34631.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열에 선 긋는 한동훈, ‘총선 위기론’ 현실로? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034625?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034625?type=journalists</guid>
+            <pubDate>Thu, 04 Apr 2024 17:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/02/34625.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제3지대 위기, 개혁신당·새로운미래·녹색정의당의 ‘마지막 승부’는? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034596?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034596?type=journalists</guid>
             <pubDate>Wed, 03 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/28/34596.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000034586?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034586?type=journalists</guid>
             <pubDate>Tue, 02 Apr 2024 17:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.03.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/27/34586.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 04 Sep 2023 17:32:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/29/33297.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리더가 중요한 이유 [기자의 추천 책]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033262?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033262?type=journalists</guid>
-            <pubDate>Tue, 22 Aug 2023 05:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/22/33262.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
