@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 05:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 17:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중 “전기차 과잉생산? 근거 없다”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202404092128005</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202404092128005</guid>
+            <pubDate>Tue, 09 Apr 2024 17:31:52 GMT</pubDate>
+            <content:encoded><![CDATA[재닛 옐런 미국 재무장관의 방중으로 ‘중국 제조업 과잉생산’ 논란이 본격적으로 불 지펴진 가운데 왕원타오 중국 상무장관(사진)이 중국산 전기차 문제와 관련해 유럽을 방문하며 대응에 나섰다.
+신화통신과 로이터통신에 따르면 왕 부장은 7일(현지시간) 프랑스 파리에서 열린 유럽연합(EU) 내 중국계 전기차 기업 원탁회의에 참석해 “중국의 전기차 경쟁력은 지속적 기술혁신과 완전한 공급망 체계, 충분한 시장경쟁에 의한 것”이라며 “과잉생산이라는 유럽과 미국의 비난은 근거가 없다”고 밝혔다. 그는 “중국 전기차 산업의 발전은 글로벌 기후변화 대응과 녹색·저탄소 전환에 중요한 공헌을 했다”며 “중국 정부는 기업들이 자사의 합법적인 권익을 보호하도록 적극적으로 지원할 것”이라고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/04/09/2024041001000287000028201.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유럽 간 중국 상무장관 “과잉생산 근거 없다”]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202404091234001</link>
@@ -107,16 +116,6 @@
 백악관은 바이든 대통령과 시 주석이 “다양한 양자·지역·글로벌 현안, 협력과 이견이 있는 분야에 대해 솔직하고 건설적인 논의를 했다”고 전했다. 중국 외교부는 미·중관계와 상호 관심 문제에 관해 솔직하고 깊이 있는 의견을 교환했다고 밝혔다.
 이날 1시간45분간 통화에서 두 정상은 대만·남중국해 문제와 기술통제 조치를 놓고 입장차를 드러냈다. 바이든 대통령은 대만해협의 평화·안정 유지와 남중국해에서 항행의 자유와 법치의 중요성을 강조했다. 시 주석은 이에대해 “대만 문제는 중·미관계에서 넘지 말아야 할 레드라인”이라면서 “‘대만 독립’ 분리주의 활동과 이에 대한 외부의 격려와 지지에 중국은 가만히 있지 않을 것”이라고 맞받았다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/04/03/2024040401000136900012113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 푸바오 귀환에 “집에 온 걸 환영해”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202404032102025</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202404032102025</guid>
-            <pubDate>Wed, 03 Apr 2024 17:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[“푸바오, 집으로 돌아온 것을 환영해.”
-3일 중국 쓰촨성 청두시 곳곳에는 푸바오 귀환 소식을 반기는 문구를 담은 현수막과 포스터가 즐비했다. 푸바오 사진과 환영 문구를 부착한 차량도 있었다. 청두시가 이날 중국 사회관계망서비스(SNS) 웨이보에 올린 설명에 따르면 푸바오를 아끼는 청두시민들이 자발적으로 조직한 푸바오 환영 행렬이다.
-중국중앙(CC)TV와 신화통신 등은 이날 에버랜드에서 진행된 푸바오 송별식을 온라인 생중계했다. 이들 매체들은 “한국에서 큰 사랑을 받은 푸바오”가 중국으로 돌아온다고 보도했다. 상하이 관영매체 펑파이는 “푸바오와 사육사 간 감정적 유대도 인기의 한 원인”이라며 “코로나19 대유행 기간 태어난 푸바오의 영상을 보며 많은 한국인들이 위로를 받았다”고 소개했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/04/03/2024040401000151600011891.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
