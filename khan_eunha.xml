@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 17:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 05:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청두판다기지, 판다에게 침 뱉고 만두피 던진 관객 영구 출입금지]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202404101113001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202404101113001</guid>
+            <pubDate>Wed, 10 Apr 2024 05:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[중국 쓰촨 청두자이언트판다기지에서 침을 뱉고 판다에 만두피를 던진 관람객들이 판다기지 영구 출입금지 처분을 받았다.
+9일 신경보에 따르면 청두자이언트판다기지는 최근 위챗 공식계정에 ‘비문명적 행동에 관한 통지’를 발표해 판다 생육연구기지인 두장옌 야생방류생육연구센터(판다계곡)에서 부적절한 행동을 하다 영구 출입정지 처분을 당한 관람객 6명의 사례를 공개했다.
+공개된 사례를 보면 판다에게 이물질을 던지거나 방사장 환경을 더럽힌 이들이었다. 기지 측에 따르면 이모씨(33)는 판다에게 만두피를 던졌으며, 푸모씨(21)는 판다에게 생수를 뿜었다. 쉬모씨(35)는 판다 야외활동장 도랑에 담배꽁초를 버렸다. 팡모씨(59)는 야외방사장에 침을 뱉었고 슝모씨(61)는 물건을 던졌다. 샤오모씨(68)는 판다를 향해 귤껍질을 던졌다. 지난달 12일부터 이달 6일 사이 적발된 사례들이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/04/10/news-p.v1.20240410.194f0bd1f3874b9eb56ec87345508182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중 “전기차 과잉생산? 근거 없다”]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202404092128005</link>
@@ -106,16 +116,6 @@
             <content:encoded><![CDATA[중국 서부 칭하이성에서 규모 5.5의 지진이 발생했다.
 중국중앙(CC)TV는 칭하이성 하이시현 망야시에서 4일 오전 8시 39분쯤 규모 5.5의 지진이 발생했다고 보도했다. 진원은 망야시에서 17km 떨어져 있으며 진원 깊이는 지하 10km이다. 둔황, 간쑤, 신장 등에서도 진동이 느껴진 것으로 전해졌다.
 간쑤·칭하이 지역은 지난해 12월에도 규모 6.2의 지진이 발생해 130명 넘게 숨지는 등 큰 피해를 입었다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바이든·시진핑, ‘미 대선·중 경제 회복’ 이해 맞아…대만·기술통제 놓고는 입장 팽팽]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202404032120025</link>
-            <guid>https://www.khan.co.kr/world/america/article/202404032120025</guid>
-            <pubDate>Wed, 03 Apr 2024 17:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[조 바이든 미국 대통령과 시진핑 중국 국가주석이 2일(현지시간) 지난해 11월 샌프란시스코 정상회담 이후 4개월 만에 전화 회담을 했다. 두 정상은 ‘관계 안정화’ 필요성에는 공감했지만, 대만해협과 첨단기술 공급망 등 핵심 현안에서 팽팽하게 대립했다.
-백악관은 바이든 대통령과 시 주석이 “다양한 양자·지역·글로벌 현안, 협력과 이견이 있는 분야에 대해 솔직하고 건설적인 논의를 했다”고 전했다. 중국 외교부는 미·중관계와 상호 관심 문제에 관해 솔직하고 깊이 있는 의견을 교환했다고 밝혔다.
-이날 1시간45분간 통화에서 두 정상은 대만·남중국해 문제와 기술통제 조치를 놓고 입장차를 드러냈다. 바이든 대통령은 대만해협의 평화·안정 유지와 남중국해에서 항행의 자유와 법치의 중요성을 강조했다. 시 주석은 이에대해 “대만 문제는 중·미관계에서 넘지 말아야 할 레드라인”이라면서 “‘대만 독립’ 분리주의 활동과 이에 대한 외부의 격려와 지지에 중국은 가만히 있지 않을 것”이라고 맞받았다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/04/03/2024040401000136900012113.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
