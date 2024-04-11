@@ -4,15 +4,23 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 05:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 17:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외신 "한국 총선 야당 압승" 신속 보도... "윤 대통령 레임덕 직면"]]></title>
+            <link>https://n.news.naver.com/article/469/0000795463?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000795463?type=journalists</guid>
+            <pubDate>Thu, 11 Apr 2024 17:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/04/11/795463.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피치, 중국 신용등급 전망 '안정적→부정적'... "공공 재정 위험"]]></title>
             <link>https://n.news.naver.com/article/469/0000795242?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000795242?type=journalists</guid>
             <pubDate>Wed, 10 Apr 2024 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/04/10/795242.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 24 Feb 2024 17:33:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/18/786007.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 정부, 김여정 ‘기시다 방북 가능’ 발언에 신중 반응… 미국은 지지 표명]]></title>
-            <link>https://n.news.naver.com/article/469/0000785810?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000785810?type=journalists</guid>
-            <pubDate>Fri, 16 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/16/785810.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

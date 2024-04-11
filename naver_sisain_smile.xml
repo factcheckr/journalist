@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 05:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 17:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범야권 압도적 승리, 조국·한동훈의 미래는? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034687?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034687?type=journalists</guid>
+            <pubDate>Thu, 11 Apr 2024 17:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/11/34687.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김종인이 예측하는 총선 뒤 윤석열 운명은? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034642?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034642?type=journalists</guid>
             <pubDate>Wed, 10 Apr 2024 17:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/04/34642.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034633?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034633?type=journalists</guid>
             <pubDate>Tue, 09 Apr 2024 17:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.04.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/03/34633.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Sun, 24 Sep 2023 17:32:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/18/33422.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 이균용 대법원장 후보자, ‘김학의 사건’ 재정신청 기각했다]]></title>
-            <link>https://n.news.naver.com/article/308/0000033348?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033348?type=journalists</guid>
-            <pubDate>Tue, 05 Sep 2023 17:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/05/33348.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
