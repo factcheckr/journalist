@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 06:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 22:53:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,7 +297,7 @@
             <link>https://n.news.naver.com/article/469/0000795463?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000795463?type=journalists</guid>
             <pubDate>Thu, 11 Apr 2024 17:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/04/11/795463.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +305,7 @@
             <link>https://n.news.naver.com/article/469/0000795242?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000795242?type=journalists</guid>
             <pubDate>Wed, 10 Apr 2024 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/04/10/795242.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -537,7 +537,7 @@
             <link>https://n.news.naver.com/article/308/0000034679?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034679?type=journalists</guid>
             <pubDate>Wed, 10 Apr 2024 05:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/10/34679.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -771,6 +771,14 @@
             <pubDate>Wed, 18 Oct 2023 05:32:23 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/18/33567.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제련소 폐쇄를 이들이 주장하는 이유 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034704?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034704?type=journalists</guid>
+            <pubDate>Sun, 14 Apr 2024 22:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/15/34704.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공무원 죽음으로 내모는, 무한 악성 민원의 시대 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1245,19 +1253,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/19/32549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중년이지만 혼자 삽니다, 행복하게 삽니다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032484?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032484?type=journalists</guid>
-            <pubDate>Mon, 10 Apr 2023 17:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/10/32484.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[역대 총선 최고 사전투표율, 여야 누가 웃을까 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034668?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034668?type=journalists</guid>
             <pubDate>Fri, 12 Apr 2024 05:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/08/34668.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

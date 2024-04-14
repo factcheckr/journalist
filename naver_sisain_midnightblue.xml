@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 06:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 22:53:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제련소 폐쇄를 이들이 주장하는 이유]]></title>
+            <link>https://n.news.naver.com/article/308/0000034704?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034704?type=journalists</guid>
+            <pubDate>Sun, 14 Apr 2024 22:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/15/34704.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공무원 죽음으로 내모는, 무한 악성 민원의 시대]]></title>
             <link>https://n.news.naver.com/article/308/0000034621?type=journalists</link>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/19/32549.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중년이지만 혼자 삽니다, 행복하게 삽니다]]></title>
-            <link>https://n.news.naver.com/article/308/0000032484?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032484?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/10/32484.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
