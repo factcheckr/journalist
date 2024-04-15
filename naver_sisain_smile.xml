@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 05:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 17:33:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[총선 D-1, 데이터로 보는 유권자 표심은? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034675?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034675?type=journalists</guid>
+            <pubDate>Mon, 15 Apr 2024 17:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/09/34675.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대 총선 최고 사전투표율, 여야 누가 웃을까 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034668?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034668?type=journalists</guid>
             <pubDate>Fri, 12 Apr 2024 05:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/08/34668.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Sun, 24 Sep 2023 17:32:50 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/18/33423.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성범죄자 3명 중 1명 감형, 이균용 대법원장 후보자 3년치 판결 분석]]></title>
-            <link>https://n.news.naver.com/article/308/0000033422?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033422?type=journalists</guid>
-            <pubDate>Sun, 24 Sep 2023 17:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/18/33422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
