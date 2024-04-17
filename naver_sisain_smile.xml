@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 05:32:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 17:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범야권 압도적 승리, 조국·한동훈의 미래는? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034687?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034687?type=journalists</guid>
+            <pubDate>Wed, 17 Apr 2024 17:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/11/34687.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[22대 총선 국민의 선택은? ‘2024 총선 빅텐트’ 개표 라이브 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034681?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034681?type=journalists</guid>
             <pubDate>Tue, 16 Apr 2024 17:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/10/34681.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034675?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034675?type=journalists</guid>
             <pubDate>Mon, 15 Apr 2024 17:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.04.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/09/34675.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 25 Sep 2023 05:33:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/25/33473.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당이 다시 시험대에 오른다]]></title>
-            <link>https://n.news.naver.com/article/308/0000033446?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033446?type=journalists</guid>
-            <pubDate>Sun, 24 Sep 2023 17:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/21/33446.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
