@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 17:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 05:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -535,7 +535,7 @@
             <link>https://n.news.naver.com/article/308/0000034711?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034711?type=journalists</guid>
             <pubDate>Tue, 16 Apr 2024 05:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/16/34711.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -771,11 +771,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/26/33615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“주민들이 다 함께 씩씩이를 살렸습니다” [사람IN] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034725?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034725?type=journalists</guid>
+            <pubDate>Fri, 19 Apr 2024 05:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/19/34725.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제련소 폐쇄를 이들이 주장하는 이유 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034704?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034704?type=journalists</guid>
             <pubDate>Sun, 14 Apr 2024 22:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/15/34704.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1243,19 +1251,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/20/32557.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양곡관리법이 문제면 대안을 말하라 [프리스타일] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032549?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032549?type=journalists</guid>
-            <pubDate>Wed, 19 Apr 2023 05:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/19/32549.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[박영선·양정철 추천은 김건희 비선 라인? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034722?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034722?type=journalists</guid>
             <pubDate>Thu, 18 Apr 2024 17:34:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/18/34722.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
