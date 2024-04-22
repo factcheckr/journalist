@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 17:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 05:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일제히 윤석열 정부 ‘비선 의혹’ 제기한 조중동 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034736?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034736?type=journalists</guid>
+            <pubDate>Mon, 22 Apr 2024 05:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/22/34736.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘레임덕’ 윤석열의 돌려막기 인사? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034706?type=journalists</link>
@@ -670,14 +678,6 @@
             <pubDate>Tue, 03 Oct 2023 05:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/03/33508.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열도 이재명도 제자리걸음 [2023 신뢰도 조사]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033504?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033504?type=journalists</guid>
-            <pubDate>Mon, 02 Oct 2023 05:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/02/33504.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
