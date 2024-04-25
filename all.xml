@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 17:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 05:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -775,11 +775,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/26/33615.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[17년 차 MVP의 비결 “더 나아질 수 있다는 자신감” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034747?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034747?type=journalists</guid>
+            <pubDate>Thu, 25 Apr 2024 05:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/25/34747.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“주민들이 다 함께 씩씩이를 살렸습니다” [사람IN] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034725?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034725?type=journalists</guid>
             <pubDate>Fri, 19 Apr 2024 05:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/19/34725.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1247,19 +1255,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/26/32590.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[완창보다 작창, 소리꾼 이자람의 노래 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032557?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032557?type=journalists</guid>
-            <pubDate>Thu, 20 Apr 2023 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/20/32557.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[일제히 윤석열 정부 ‘비선 의혹’ 제기한 조중동 [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034736?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034736?type=journalists</guid>
             <pubDate>Tue, 23 Apr 2024 17:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/22/34736.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
