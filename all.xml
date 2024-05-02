@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 17:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 05:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -534,11 +534,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/18/786007.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안녕 한국! 나 세계 최대 티라노 ‘스코티’가 왔다 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034781?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034781?type=journalists</guid>
+            <pubDate>Thu, 02 May 2024 05:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/02/34781.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사막 도시, 물에 잠기다 [외신 한 컷] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034772?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034772?type=journalists</guid>
             <pubDate>Tue, 30 Apr 2024 05:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/30/34772.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -766,19 +774,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/07/33681.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘의대 정원 확대’라는 소문난 잔치의 끝은? (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033651?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033651?type=journalists</guid>
-            <pubDate>Wed, 01 Nov 2023 05:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/01/33651.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[17년 차 MVP의 비결 “더 나아질 수 있다는 자신감” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034747?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034747?type=journalists</guid>
             <pubDate>Thu, 25 Apr 2024 05:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/25/34747.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1258,7 +1258,7 @@
             <link>https://n.news.naver.com/article/308/0000034757?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034757?type=journalists</guid>
             <pubDate>Fri, 26 Apr 2024 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/26/34757.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
