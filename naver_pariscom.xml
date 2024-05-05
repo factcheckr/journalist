@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 05:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 17:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라 때린 북한 미사일에 2023년 미국산 부품도... 구멍 뚫린 제재 우려]]></title>
+            <link>https://n.news.naver.com/article/469/0000799665?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000799665?type=journalists</guid>
+            <pubDate>Sun, 05 May 2024 17:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/05/05/799665.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외신 "한국 총선 야당 압승" 신속 보도... "윤 대통령 레임덕 직면"]]></title>
             <link>https://n.news.naver.com/article/469/0000795463?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 18 Feb 2024 17:32:01 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/18/786024.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 44% ‘일본 좋다’, 일본인 37% ‘한국 좋다’… 상호 호감도 최고]]></title>
-            <link>https://n.news.naver.com/article/469/0000786007?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786007?type=journalists</guid>
-            <pubDate>Sat, 24 Feb 2024 17:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/18/786007.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
