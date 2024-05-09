@@ -4,16 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 05:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 17:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 4월 수출 5.1% 증가…아세안·미·한국 수출 늘어 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/economy/industry-trade/article/202405091545001</link>
+            <guid>https://www.khan.co.kr/economy/industry-trade/article/202405091545001</guid>
+            <pubDate>Thu, 09 May 2024 17:32:07 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 지난달 수출액이 위안화 기준으로 전년 동기 대비 5.1% 증가했다.
+중국 해관총서는 9일 중국의 4월 수출액은 2조800억위안(약 393조원)으로 지난해 같은 달보다 5.1% 늘었다. 수입액은 1조5600억위안(약 295조원)으로 12.2% 증가했다고 밝혔다.
+달러 환산치 기준으로 지난달 수출액은 2924억5350만달러(약 400조원)으로 전년 동기 대비 1.5% 늘었고, 수입액은 2201억180만달러(약 301조원)로 8.4% 증가했다.
+이 같은 수출 성적은 시장 예상치에 부합한 것이다. 앞서 블룸버그통신은 전문가 의견을 취합해 중국의 이달 수출이 달러화 기준 1.3% 증가할 것으로 예상된다고 보도했으며 로이터통신은 1.5%라고 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/09/news-p.v1.20240509.af6e11ae8c3b413d848562d801b5d4b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍콩 법원 ‘글로리 투 홍콩’ 금지에…미 “홍콩 명성 침해” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202405091303001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202405091303001</guid>
             <pubDate>Thu, 09 May 2024 05:32:09 GMT</pubDate>
-            <content:encoded><![CDATA[홍콩 법원이 반정부 시위 때 불리는 저항가요 ‘글로리 투 홍콩(Glory to Hongkong·한국 제목 영광이 다시 오길)’을 금지시킨 판결에 따라 당국이 온라인 플랫폼에 해당 곡의 서비스 금지를 요구했다. 국제 관문도시로서 홍콩의 위상이 추락할 것이라는 우려도 확산되고 있다.
-매슈 밀러 국무부 대변인은 8일(현지시간) 브리핑에서 홍콩 항소법원이 ‘글로리 투 홍콩’을 금지한 데 대한 질문에 “우리는 표현의 자유를 포함한 홍콩 인권 및 근본적 자유 보호의 계속된 잠식에 대해 여전히 심각하게 우려한다”고 말했다. 그는 “이 노래를 금지한 결정은 ‘정보와 생각, 상품의 자유로운 교류를 보호하는 독립적인 사법부를 가지고 있다’고 자부했던 도시(홍콩)의 국제적인 명성에 타격을 입혔다”고 말했다.]]></content:encoded>
+            <content:encoded><![CDATA[홍콩 법원이 반정부 시위 때 불리는 저항가요 ‘글로리 투 홍콩(Glory to Hongkong·영광이 다시 오길)’을 금지한 판결에 따라 당국이 온라인 플랫폼에 해당 곡의 서비스 금지를 요구했다. 해당 판결이 표현의 자유를 침해했다는 지적이 나오면서 국제 관문도시로서 홍콩의 위상이 추락할 것이라는 우려도 확산되고 있다.
+매슈 밀러 미국 국무부 대변인은 8일(현지시간) 브리핑에서 홍콩 항소법원이 ‘글로리 투 홍콩’을 금지한 것에 대한 의견을 묻는 질문에 “우리는 표현의 자유를 포함한 홍콩 인권 및 근본적 자유 보호의 계속된 잠식에 대해 여전히 심각하게 우려한다”고 말했다. 그는 “이 노래를 금지한 결정은 ‘정보와 생각, 상품의 자유로운 교류를 보호하는 독립적인 사법부를 가지고 있다’고 자부했던 도시(홍콩)의 국제적인 명성에 타격을 입혔다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/09/news-p.v1.20240509.6d5a8828c70c426ba9084216cc49d59d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -107,16 +118,6 @@ AFP통신에 따르면 중국과 프랑스, EU 정상들간의 3자 회담은 �
 신화통신은 6일 중국 문화관광부를 인용해 지난 1~5일 중국 내 여행객은 연인원 2억9500만명으로 전년 동기 대비 7.6%, 코로나19 이전인 2019년 대비 28.2% 증가했다고 보도했다. 총 여행경비는 1668억9000만 위안으로 전년 동기 대비 12.7%, 2019년 동기 대비 13.5% 증가했다.
 문화관광부는 이번 연휴에는 전통적 명승지뿐만 아니라 도자기로 유명한 산둥성 쯔보, 마라탕을 내세운 간쑤성 톈수이 등 ‘문화관광’을 내세운 3, 4선 도시들이 이번 연휴에 인기를 끌었다고 전했다. 시골 마을 농구대항전이 열리는 구이저우 첸둥냔먀오족자치구나 안후이성 훙춘 등 특색 있는 농촌 관광지에도 발길이 몰리면서 장거리 여행객도 크게 증가했다고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/06/news-p.v1.20240506.4b6134e678ac4a56b8f423a9bf058f8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조수미 공연, 청두 K팝 페스티벌…8년 한한령 물꼬 트일까 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202405061737001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202405061737001</guid>
-            <pubDate>Mon, 06 May 2024 17:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[중국에서 한국 예술인의 공연과 영화 상영 등이 잇달아 성사됐다. 사드(고고도미사일 방어 체계) 배치 이후 7년 넘게 이어진 중국의 ‘한한령’ 제재가 조만간 풀릴지 관심이 쏠린다.
-한국콘텐츠진흥원(콘진원) 북경비즈니스센터는 중국 노동절 연휴 기간인 지난 3~4일 쓰촨성 청두에서 공연장에서 ‘한중 문화교류를 위한 K팝 페스티벌’을 개최했다고 6일 밝혔다. 이번 행사는 콘진원과 청두방송국이 공동주최한 최초의 K팝 행사다.
-행사에서는 CJ ENM이 제작한 ‘2023 MAMA 어워드’ 공연 영상을 상연하고 K팝 커버댄스 준결승과 결승전, K팝 랜덤 댄스, 특별공연을 진행했다. 중국 특별공연팀은 쓰촨성 전통춤과 변검을 주제로 한 공연을 선보였다. 한국은 가야금과 K팝 컬래버레이션을 통해 아이브의 ‘아이엠’, 블랙핑크의 ‘핑크베놈’ 무대를 마련했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/06/news-p.v1.20240506.fc1f37ac5f2c43bdbe52319f740bde59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -1249,22 +1250,6 @@ AFP통신에 따르면 중국과 프랑스, EU 정상들간의 3자 회담은 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/26/32590.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[총선 후 ‘김건희 수사’ 나선 검찰의 속내는? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034814?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034814?type=journalists</guid>
-            <pubDate>Wed, 08 May 2024 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/08/34814.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열, 취임 2주년 기자회견서 김건희 언급할까? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034807?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034807?type=journalists</guid>
-            <pubDate>Tue, 07 May 2024 17:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/07/34807.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“이것도 인권이야?” 물을 때, 가장 먼저 답한 ‘공감’ 20년 [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034757?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034757?type=journalists</guid>
@@ -1871,6 +1856,70 @@ AFP통신에 따르면 중국과 프랑스, EU 정상들간의 3자 회담은 �
             <pubDate>Wed, 20 Dec 2023 17:33:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/15/33899.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독 입수] 생전에 키신저는 한반도 문제에 이렇게 조언했다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033893?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033893?type=journalists</guid>
+            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.12.14.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/14/33893.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2030 엑스포 유치 29표, 왜 예측 못했나? [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033837?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033837?type=journalists</guid>
+            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.12.04.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/04/33837.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당, 왜 실패했고 무엇으로 도전하는가? (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033804?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033804?type=journalists</guid>
+            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.11.28.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/28/33804.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘압수수색 시대’를 살아가는 시민들의 필독서 [기자의 추천 책] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033731?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033731?type=journalists</guid>
+            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.11.15.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/15/33731.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김학의 사건’ 검사들이 처벌을 피해갔다 [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033720?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033720?type=journalists</guid>
+            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.11.13.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/13/33720.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꾸준히 취재하고 구체적으로 써달라 [시사IN 독자위원회] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033707?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033707?type=journalists</guid>
+            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.11.11.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/11/33707.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에브리타임에서 ‘썰린 글’ 살려내다 [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033702?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033702?type=journalists</guid>
+            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.11.10.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/10/33702.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이탄희의 작심 선언 “직 걸고 선거제 퇴행 막겠다” (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033633?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033633?type=journalists</guid>
+            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.10.30.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/30/33633.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
