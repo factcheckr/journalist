@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 05:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 17:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,6 +290,30 @@ AP통신에 따르면 부치치 대통령은 이날 공식 환영식 연설에�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0112/A0002993053_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중국 드론에 뚫린 일본 호위함 '이즈모' 영상 진짜였다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000800402?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000800402?type=journalists</guid>
+            <pubDate>Sat, 11 May 2024 17:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/05/09/800402.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 호위함 '이즈모' 찍은 중국 드론 영상은 진짜? 가짜? '안보 구멍' 논란 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000799803?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000799803?type=journalists</guid>
+            <pubDate>Sat, 11 May 2024 17:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/05/06/799803.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 때린 북한 미사일에 2023년 미국산 부품도... 구멍 뚫린 제재 우려 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000799665?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000799665?type=journalists</guid>
+            <pubDate>Sat, 11 May 2024 17:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/05/05/799665.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[외신 "한국 총선 야당 압승" 신속 보도... "윤 대통령 레임덕 직면" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000795463?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000795463?type=journalists</guid>
@@ -504,30 +528,6 @@ AP통신에 따르면 부치치 대통령은 이날 공식 환영식 연설에�
             <pubDate>Sun, 25 Feb 2024 17:32:08 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/19/786255.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본인 셋 중 하나 "후쿠시마 오염수 방류 뒤 수산물 살 때 신경 쓰인다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000786148?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786148?type=journalists</guid>
-            <pubDate>Mon, 19 Feb 2024 05:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/19/786148.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신형 로켓 H3 성공 일본, '스페이스X 다음'을 노린다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000786024?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786024?type=journalists</guid>
-            <pubDate>Thu, 09 May 2024 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/18/786024.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 44% ‘일본 좋다’, 일본인 37% ‘한국 좋다’… 상호 호감도 최고 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000786007?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786007?type=journalists</guid>
-            <pubDate>Thu, 09 May 2024 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/18/786007.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘흰 구름’의 고장에서 펴낸 200번의 마을 소식지 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1254,7 +1254,7 @@ AP통신에 따르면 부치치 대통령은 이날 공식 환영식 연설에�
             <link>https://n.news.naver.com/article/308/0000034807?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034807?type=journalists</guid>
             <pubDate>Fri, 10 May 2024 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/07/34807.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
