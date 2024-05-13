@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 05:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 17:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역대 최악 ‘2년차 성적표’ 받아든 윤석열 정부 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034827?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034827?type=journalists</guid>
+            <pubDate>Mon, 13 May 2024 17:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/10/34827.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열, 취임 2주년 기자회견서 김건희 언급할까? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034807?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034807?type=journalists</guid>
             <pubDate>Fri, 10 May 2024 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/07/34807.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/11/33707.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에브리타임에서 ‘썰린 글’ 살려내다 [사람IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033702?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033702?type=journalists</guid>
-            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/10/33702.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
