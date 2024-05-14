@@ -4,23 +4,31 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 05:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 17:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[역대 최악 ‘2년차 성적표’ 받아든 윤석열 정부 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034827?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034827?type=journalists</guid>
-            <pubDate>Mon, 13 May 2024 17:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/10/34827.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[검찰 인사는 ‘여사님 방탄용’? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034848?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034848?type=journalists</guid>
+            <pubDate>Tue, 14 May 2024 17:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/14/34848.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[총선 후 ‘김건희 수사’ 나선 검찰의 속내는? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034814?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034814?type=journalists</guid>
+            <pubDate>Tue, 14 May 2024 17:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/08/34814.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열, 취임 2주년 기자회견서 김건희 언급할까? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034807?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034807?type=journalists</guid>
             <pubDate>Fri, 10 May 2024 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/07/34807.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/13/33720.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꾸준히 취재하고 구체적으로 써달라 [시사IN 독자위원회]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033707?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033707?type=journalists</guid>
-            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/11/33707.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
