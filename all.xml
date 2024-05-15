@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 May 2024 05:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 17:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1253,19 +1253,27 @@ AFP·신화통신에 따르면 시 주석과 오르반 총리는 9일(현지시�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/26/32590.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검찰 인사는 ‘여사님 방탄용’? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034848?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034848?type=journalists</guid>
-            <pubDate>Tue, 14 May 2024 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/14/34848.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[‘라인 사태’가 “외교 참사”인 이유 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034854?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034854?type=journalists</guid>
+            <pubDate>Wed, 15 May 2024 17:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/15/34854.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[631일 만의 기자회견 “윤석열은 변하지 않았다” [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034820?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034820?type=journalists</guid>
+            <pubDate>Wed, 15 May 2024 17:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/09/34820.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[총선 후 ‘김건희 수사’ 나선 검찰의 속내는? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034814?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034814?type=journalists</guid>
             <pubDate>Tue, 14 May 2024 17:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/08/34814.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1273,7 +1281,7 @@ AFP·신화통신에 따르면 시 주석과 오르반 총리는 9일(현지시�
             <link>https://n.news.naver.com/article/308/0000034807?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034807?type=journalists</guid>
             <pubDate>Fri, 10 May 2024 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.05.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/07/34807.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1915,14 +1923,6 @@ AFP·신화통신에 따르면 시 주석과 오르반 총리는 9일(현지시�
             <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/15/33731.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘김학의 사건’ 검사들이 처벌을 피해갔다 [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033720?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033720?type=journalists</guid>
-            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/13/33720.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
