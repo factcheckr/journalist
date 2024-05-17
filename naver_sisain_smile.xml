@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 05:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 17:34:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,15 +12,23 @@
             <link>https://n.news.naver.com/article/308/0000034854?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034854?type=journalists</guid>
             <pubDate>Wed, 15 May 2024 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/15/34854.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰 인사는 ‘여사님 방탄용’? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034848?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034848?type=journalists</guid>
+            <pubDate>Fri, 17 May 2024 17:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/14/34848.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역대 최악 ‘2년차 성적표’ 받아든 윤석열 정부 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034827?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034827?type=journalists</guid>
             <pubDate>Thu, 16 May 2024 17:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/10/34827.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000034820?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034820?type=journalists</guid>
             <pubDate>Wed, 15 May 2024 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.05.09.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/09/34820.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/04/33837.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당, 왜 실패했고 무엇으로 도전하는가?]]></title>
-            <link>https://n.news.naver.com/article/308/0000033804?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033804?type=journalists</guid>
-            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/28/33804.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
