@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 May 2024 17:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 05:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘지피티-4오(GPT-4o)’의 등장 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034879?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034879?type=journalists</guid>
+            <pubDate>Mon, 20 May 2024 05:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/20/34879.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[17년 차 MVP의 비결 “더 나아질 수 있다는 자신감”]]></title>
             <link>https://n.news.naver.com/article/308/0000034747?type=journalists</link>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.04.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/26/32589.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농민 갈라치기로 끝난 양곡법 개정안 논란]]></title>
-            <link>https://n.news.naver.com/article/308/0000032590?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032590?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.04.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/26/32590.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
