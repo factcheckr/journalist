@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 05:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 17:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벌써 10번째 거부권, “당의 호위무사” 자처한 윤석열 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034888?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034888?type=journalists</guid>
+            <pubDate>Tue, 21 May 2024 17:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/21/34888.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘라인 사태’가 “외교 참사”인 이유 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034854?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034854?type=journalists</guid>
             <pubDate>Wed, 15 May 2024 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/15/34854.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034848?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034848?type=journalists</guid>
             <pubDate>Mon, 20 May 2024 17:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/14/34848.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000034841?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034841?type=journalists</guid>
             <pubDate>Sun, 19 May 2024 17:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.05.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/13/34841.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 20 Dec 2023 17:33:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/15/33899.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독 입수] 생전에 키신저는 한반도 문제에 이렇게 조언했다]]></title>
-            <link>https://n.news.naver.com/article/308/0000033893?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033893?type=journalists</guid>
-            <pubDate>Thu, 09 May 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/14/33893.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
