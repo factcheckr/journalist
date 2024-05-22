@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 05:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 17:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디디추싱 운전기사 너무 많아졌다…중국 차량호출 시장 포화 경고 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202405221613001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202405221613001</guid>
+            <pubDate>Wed, 22 May 2024 17:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 차량호출 서비스 시장이 포화 상태에 이르렀다는 경고가 연달아 나오고 있다. 중국경제가 코로나19와 경기 침체로 신음하는 동안 실직자들은 중국판 우버인 ‘디디추싱’ 등 차량호출 서비스 기사로 일하면서 실업을 면했는데 이마저 여의치 않게 됐다는 진단이다.
+중국 남동부 장시성에 있는 인구 160만명 규모의 징더전은 지난 20일 “최근 몇 년간 온라인 차량 호출 서비스에 등록된 차량 대수가 꾸준히 증가해, 시장이 포화 상태에 이르렀다”며 “업계 신규 진입에 신중하라”고 밝혔다. 시 교통국에 따르면 플랫폼에 등록된 자전거·오토바이의 경우 하루평균 호출 횟수는 15회이며 수입은 240위안(약 4만5000원)이다. 기사들은 여기에서 요율 30%에 달하는 플랫폼 이용 수수료와 세금을 떼야 한다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/22/news-p.v1.20240522.7271a79303ba41d29204854d26942966.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1994년생 이장과 중국의 농촌 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/china/article/202405211143001</link>
@@ -108,15 +117,6 @@
             <content:encoded><![CDATA[시진핑 중국 국가주석과 블라디미르 푸틴 러시아 대통령이 16일 양국 수교 75주년을 맞아 전략적 동반자 관계를 심화한다는 내용의 공동성명에 서명했다. 1박 2일간의 중국 국빈방문을 위해 이날 베이징을 방문한 푸틴 대통령과 시 주석은 서로를 “오랜 친구”라 부르고 “중·러 협력은 세계를 안정시킬 것”이라면서 밀착을 과시했다. 시 주석은 우크라이나 점령지에서 철군을 거부하는 러시아에 대한 지지도 재확인했다.
 중국중앙(CC)TV에 따르면 푸틴 대통령은 이날 오전 4시쯤 전용기를 타고 베이징에 도착했다. 이날 오전 베이징 인민대회당 동문에서 약 10분 동안 양국 국가연주, 예포 발사, 의장대 사열 등이 포함된 환영식이 열렸다. 시 주석과 푸틴 대통령은 환영식이 끝나자 인민대회당 내에서 45분간 회담을 진행했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/16/news-p.v1.20240516.30f02838b0a74f25b2b60ddb98163354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸틴, 베이징 도착…1박2일 국빈방문 일정 시작 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202405160925001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202405160925001</guid>
-            <pubDate>Thu, 16 May 2024 05:31:37 GMT</pubDate>
-            <content:encoded><![CDATA[블라디미르 푸틴 러시아 대통령이 16일 중국에 도착해 이틀에 걸친 국빈 방문 일정을 시작했다. 푸틴 대통령은 시진핑 중국 국가주석은 이날 비공식 회담에서 우크라이나 문제 등을 논의할 전망이다.
-러시아 타스통신은 푸틴 대통령이 현지시간으로 이날 새벽 중국 베이징에 도착했다고 전했다. 푸틴 대통령의 이번 방중은 지난달 7일 취임식으로 시작한 5기 집권 이후 첫 해외 방문이다. 크렘린궁은 지난해 3월 시 주석이 3연임 시작 후 첫 해외 방문지로 러시아를 택한 사실을 거론하며 이번 국빈 방문은 답방 성격이라고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/16/news-p.v1.20240516.d4ad3ebfccd7409ea344c98921732cc2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -293,7 +293,7 @@
             <link>https://n.news.naver.com/article/469/0000802078?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000802078?type=journalists</guid>
             <pubDate>Sun, 19 May 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/05/19/802078.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -773,7 +773,7 @@
             <link>https://n.news.naver.com/article/308/0000034891?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034891?type=journalists</guid>
             <pubDate>Wed, 22 May 2024 05:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/22/34891.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1253,15 +1253,23 @@
             <link>https://n.news.naver.com/article/308/0000034888?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034888?type=journalists</guid>
             <pubDate>Tue, 21 May 2024 17:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/21/34888.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추미애 꺾은 우원식, 이변의 국회의장 선거 의미는? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034861?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034861?type=journalists</guid>
+            <pubDate>Wed, 22 May 2024 17:33:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/16/34861.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘라인 사태’가 “외교 참사”인 이유 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034854?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034854?type=journalists</guid>
             <pubDate>Wed, 15 May 2024 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/15/34854.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1269,7 +1277,7 @@
             <link>https://n.news.naver.com/article/308/0000034848?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034848?type=journalists</guid>
             <pubDate>Mon, 20 May 2024 17:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.05.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/14/34848.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1911,14 +1919,6 @@
             <pubDate>Wed, 20 Dec 2023 17:33:27 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/19/33921.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘젊치인’과 정치 스타트업 뉴웨이즈의 ‘드래프트 2024’ [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033899?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033899?type=journalists</guid>
-            <pubDate>Wed, 20 Dec 2023 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/15/33899.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
