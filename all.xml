@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 17:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 05:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -771,7 +771,7 @@
             <link>https://n.news.naver.com/article/308/0000034891?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034891?type=journalists</guid>
             <pubDate>Wed, 22 May 2024 05:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/22/34891.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -779,7 +779,7 @@
             <link>https://n.news.naver.com/article/308/0000034879?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034879?type=journalists</guid>
             <pubDate>Mon, 20 May 2024 05:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/20/34879.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1247,20 +1247,20 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/05/32634.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘눈 떠보니 후진국’? 문재인 회고록에 담긴 윤석열 정부 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034905?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034905?type=journalists</guid>
-            <pubDate>Fri, 24 May 2024 17:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/24/34905.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[벌써 10번째 거부권, “당의 호위무사” 자처한 윤석열 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034888?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034888?type=journalists</guid>
             <pubDate>Tue, 21 May 2024 17:33:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/21/34888.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김건희 특검’에 ‘김정숙 특검’ 꺼낸 국민의힘 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034881?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034881?type=journalists</guid>
+            <pubDate>Sat, 25 May 2024 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/20/34881.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“윤 대통령과 검찰, 같이 몰락할 것” 검사 출신 박은정의 예언 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
