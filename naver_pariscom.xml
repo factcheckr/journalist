@@ -4,9 +4,33 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 05:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 17:34:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, "올해 국내외 공장 7곳 건설... 공급이 수요 못 따라가"]]></title>
+            <link>https://n.news.naver.com/article/469/0000803100?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000803100?type=journalists</guid>
+            <pubDate>Sat, 25 May 2024 17:34:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/05/24/803100.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본, 북러 군사협력 관련 제재 단행... "단체 11곳·개인 1명 자산동결"]]></title>
+            <link>https://n.news.naver.com/article/469/0000803094?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000803094?type=journalists</guid>
+            <pubDate>Sat, 25 May 2024 17:34:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/05/24/803094.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한국, 2045년 정부부채가 GDP 추월... 원인은 고령화"]]></title>
+            <link>https://n.news.naver.com/article/469/0000802078?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000802078?type=journalists</guid>
+            <pubDate>Sat, 25 May 2024 17:34:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/05/19/802078.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 드론에 뚫린 일본 호위함 '이즈모' 영상 진짜였다]]></title>
             <link>https://n.news.naver.com/article/469/0000800402?type=journalists</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 20 Feb 2024 17:33:06 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/20/786429.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동일본대지진 피해 지역 원전 13년 만에 재가동]]></title>
-            <link>https://n.news.naver.com/article/469/0000786381?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786381?type=journalists</guid>
-            <pubDate>Tue, 20 Feb 2024 17:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/20/786381.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[14%... 기시다 지지율 끝없는 추락에 자민당도 뒤숭숭]]></title>
-            <link>https://n.news.naver.com/article/469/0000786283?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786283?type=journalists</guid>
-            <pubDate>Tue, 20 Feb 2024 05:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/20/786283.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 ‘다이소’ 창업자 야노 히로타케 별세... 떠돌이 행상에서 유통 거물로]]></title>
-            <link>https://n.news.naver.com/article/469/0000786255?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786255?type=journalists</guid>
-            <pubDate>Fri, 24 May 2024 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/19/786255.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
