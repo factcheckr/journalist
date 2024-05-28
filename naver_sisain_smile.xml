@@ -4,23 +4,31 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 05:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 17:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘채상병 특검법’ 다섯 번째 이탈표 나온 국민의힘 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034918?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034918?type=journalists</guid>
-            <pubDate>Mon, 27 May 2024 17:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/27/34918.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[‘채상병 특검법’ 끝내 부결, 왜 이런 결과가? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034925?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034925?type=journalists</guid>
+            <pubDate>Tue, 28 May 2024 17:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/28/34925.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안철수·김웅·유의동에 이어 국민의힘 이탈표 누구? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034894?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034894?type=journalists</guid>
+            <pubDate>Tue, 28 May 2024 17:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/22/34894.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벌써 10번째 거부권, “당의 호위무사” 자처한 윤석열 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034888?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034888?type=journalists</guid>
             <pubDate>Tue, 21 May 2024 17:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/21/34888.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000034881?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034881?type=journalists</guid>
             <pubDate>Sat, 25 May 2024 05:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.05.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/20/34881.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Tue, 09 Jan 2024 17:32:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/03/33994.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“한국 야당 지도자가 칼에 찔리다” [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033992?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033992?type=journalists</guid>
-            <pubDate>Mon, 08 Jan 2024 17:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33992.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
