@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 17:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 05:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[농민은 평생에 걸쳐 ‘만들어’진다 [유럽 농촌에서 본 ‘오래된 미래’ ②]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034929?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034929?type=journalists</guid>
+            <pubDate>Wed, 29 May 2024 05:34:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/29/34929.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘사람을 먹이는 일’, 농업의 원칙을 세우다 [유럽 농촌에서 본 ‘오래된 미래’ ①]]]></title>
             <link>https://n.news.naver.com/article/308/0000034891?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034891?type=journalists</guid>
             <pubDate>Wed, 22 May 2024 05:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/22/34891.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/16/32683.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난립한 파크골프장, 환경문제는 살펴보았나요?]]></title>
-            <link>https://n.news.naver.com/article/308/0000032634?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032634?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/05/32634.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
