@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 17:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 05:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“우리 지역에도 참 좋은 곳이 많은데…” [유럽에서 본 농부의 미래 ②]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034934?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034934?type=journalists</guid>
+            <pubDate>Thu, 30 May 2024 05:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/30/34934.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[농민은 평생에 걸쳐 ‘만들어’진다 [유럽 농촌에서 본 ‘오래된 미래’ ②]]]></title>
             <link>https://n.news.naver.com/article/308/0000034929?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034929?type=journalists</guid>
             <pubDate>Wed, 29 May 2024 05:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/29/34929.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034891?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034891?type=journalists</guid>
             <pubDate>Wed, 22 May 2024 05:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.05.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/22/34891.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/18/32695.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무지개깃발이 신촌으로 간 까닭 [기자들의 시선]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032683?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032683?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/16/32683.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
