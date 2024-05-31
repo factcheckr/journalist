@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 17:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 05:35:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -783,7 +783,7 @@
             <link>https://n.news.naver.com/article/308/0000034934?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034934?type=journalists</guid>
             <pubDate>Thu, 30 May 2024 05:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/30/34934.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -791,7 +791,7 @@
             <link>https://n.news.naver.com/article/308/0000034929?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034929?type=journalists</guid>
             <pubDate>Wed, 29 May 2024 05:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/29/34929.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1263,15 +1263,23 @@
             <link>https://n.news.naver.com/article/308/0000034930?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034930?type=journalists</guid>
             <pubDate>Wed, 29 May 2024 17:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/29/34930.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘눈 떠보니 후진국’? 문재인 회고록에 담긴 윤석열 정부 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034905?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034905?type=journalists</guid>
+            <pubDate>Fri, 31 May 2024 05:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/24/34905.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노무현과 윤석열의 말이 대비되는 이유 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034900?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034900?type=journalists</guid>
             <pubDate>Wed, 29 May 2024 17:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/23/34900.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1279,7 +1287,7 @@
             <link>https://n.news.naver.com/article/308/0000034894?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034894?type=journalists</guid>
             <pubDate>Tue, 28 May 2024 17:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.05.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/05/22/34894.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1921,14 +1929,6 @@
             <pubDate>Wed, 10 Jan 2024 17:32:34 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/04/34004.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘썰전’ 박성태·‘보수 참칭’ 장성철이 점치는 한동훈 앞날은 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033998?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033998?type=journalists</guid>
-            <pubDate>Tue, 09 Jan 2024 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/03/33998.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
