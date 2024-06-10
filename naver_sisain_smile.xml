@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 05:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 17:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“레임덕” “천공 그림자” 석유 발표 혹평하는 야당 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034963?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034963?type=journalists</guid>
+            <pubDate>Mon, 10 Jun 2024 17:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/04/34963.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최저 지지율 기록한 윤석열, 석유 매장 가능성 발표 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034956?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034956?type=journalists</guid>
             <pubDate>Sun, 09 Jun 2024 17:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/03/34956.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 17 Jan 2024 17:32:32 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/11/34053.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘원칙과 상식’ 탈당, 윤영찬은 왜 민주당에 남았나? [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034043?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034043?type=journalists</guid>
-            <pubDate>Tue, 16 Jan 2024 17:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34043.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
