@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 17:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 05:35:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MB 독도 방문·강제동원 판결, 30년간 한일관계 최대 분기점 [한일 여론조사]]]></title>
+            <link>https://n.news.naver.com/article/469/0000806162?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000806162?type=journalists</guid>
+            <pubDate>Tue, 11 Jun 2024 05:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/06/11/806162.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TSMC, "올해 국내외 공장 7곳 건설... 공급이 수요 못 따라가"]]></title>
             <link>https://n.news.naver.com/article/469/0000803100?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 21 Feb 2024 17:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/21/786563.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 방위비 5년 380조 원으로 부족? 방위성 회의서 '증액론' 대두한 이유는...]]></title>
-            <link>https://n.news.naver.com/article/469/0000786429?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786429?type=journalists</guid>
-            <pubDate>Tue, 20 Feb 2024 17:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/20/786429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

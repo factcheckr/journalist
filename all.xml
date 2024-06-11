@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 17:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 05:35:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,6 +297,14 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0126/A0002997074_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MB 독도 방문·강제동원 판결, 30년간 한일관계 최대 분기점 [한일 여론조사] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000806162?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000806162?type=journalists</guid>
+            <pubDate>Tue, 11 Jun 2024 05:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/06/11/806162.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TSMC, "올해 국내외 공장 7곳 건설... 공급이 수요 못 따라가" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000803100?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000803100?type=journalists</guid>
@@ -527,14 +535,6 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
             <pubDate>Wed, 21 Feb 2024 17:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/21/786563.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 방위비 5년 380조 원으로 부족? 방위성 회의서 '증액론' 대두한 이유는... (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000786429?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786429?type=journalists</guid>
-            <pubDate>Tue, 20 Feb 2024 17:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/20/786429.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘흰 구름’의 고장에서 펴낸 200번의 마을 소식지 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -781,7 +781,7 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
             <link>https://n.news.naver.com/article/308/0000034980?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034980?type=journalists</guid>
             <pubDate>Fri, 07 Jun 2024 05:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/07/34980.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
