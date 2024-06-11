@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 05:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 17:35:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘동해 석유’ 근거 밝혀질까? 액트지오 고문 입국 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034969?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034969?type=journalists</guid>
+            <pubDate>Tue, 11 Jun 2024 17:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/05/34969.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“레임덕” “천공 그림자” 석유 발표 혹평하는 야당 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034963?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034963?type=journalists</guid>
             <pubDate>Mon, 10 Jun 2024 17:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/04/34963.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034956?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034956?type=journalists</guid>
             <pubDate>Sun, 09 Jun 2024 17:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.06.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/03/34956.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 15 Jan 2024 05:34:35 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34076.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반복되는 한동훈의 ‘인사 참사’? 이유 알려드림 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034053?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034053?type=journalists</guid>
-            <pubDate>Wed, 17 Jan 2024 17:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/11/34053.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
