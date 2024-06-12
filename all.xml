@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 05:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 17:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹성도 장난기도 그대로…푸바오 ‘이상 무’ (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202406122108005</link>
+            <guid>https://www.khan.co.kr/world/china/article/202406122108005</guid>
+            <pubDate>Wed, 12 Jun 2024 17:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[“푸바오 봤어요?” “푸바오 어디 가야 볼 수 있어요?”
+12일 중국 쓰촨성 청두시 워룽 중화 자이언트판다원 선수핑 기지를 찾은 관람객 사이에서 푸바오는 단연 화제였다. 곳곳에서 “푸바오”가 들렸다. 선수핑 기지는 이날 정오부터 푸바오를 일반 관람객에게 공개했다. 지난 4월3일 중국으로 반환된 지 두 달여 만이다.
+선수핑 기지는 이날 사전예약한 999명에게만 입장을 허용했다. 기지가 워낙 넓어 북적거린다는 느낌은 들지 않았지만 푸바오 방사장 앞에만 긴 줄이 늘어섰다. 이날 오전 9시39분쯤 취재진에게 먼저 공개된 푸바오는 실내 생활 공간에서 야외 방사장으로 걸어나와 누워서 대나무 ‘먹방’을 선보였다. 표정은 밝았으며, 몸의 흰 털은 갈색으로 물들어 있었다. 식사를 마친 푸바오가 오후에는 내내 잠을 자 관람객들은 푸바오 얼굴을 보기 위해 2시간 넘게 기다려야 했다. 관람객들은 뙤약볕 아래서도, 소나기를 맞으면서도 불평 없이 기다렸다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/12/2024061301000350600037245.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸바오 움직임 하나에 관람객 탄성 “특별히 더 귀엽잖아요” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202406121754011</link>
+            <guid>https://www.khan.co.kr/world/china/article/202406121754011</guid>
+            <pubDate>Wed, 12 Jun 2024 17:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[“푸바오 봤어요?” “푸바오 어디 가야 볼 수 있어요?”
+12일 중국 쓰촨성 청두시 워룽 중화 자이언트 판다원 선수핑 기지 관람객 사이에서 푸바오는 단연 화제였다. 곳곳에서 “푸바오”가 들렸다. 선수핑 기지는 이날 정오부터 푸바오를 일반 관람객에게 공개했다. 지난 4월 3일 중국으로 반환된 지 두 달여 만이다.
+선수핑 기지는 이날 사전예약한 999명에게만 입장을 허용했다. 기지가 워낙 넓어서 북적거린다는 느낌은 들지 않았지만 푸바오 방사장 앞에만 긴 줄이 늘어섰다.
+이날 오전 9시39분쯤 취재진에게 먼저 공개된 푸바오는 실내 생활 공간에서 야외 방사장으로 걸어 나와 누워서 대나무 ‘먹방’을 선보였다. 표정은 밝았으며 몸의 흰 털 부분은 갈색으로 물들어 있었다. 식사를 마친 푸바오가 오후에는 내내 잠을 자 일반 관람객들은 푸바오 얼굴을 보기 위해 두 시간 넘게 기다려야 했다. 관람객들은 뙤약볕을 견디고 소나기를 맞으면서도 불평 없이 기다렸다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/12/news-p.v1.20240612.233d222682714698a1d4f7b5f15ea2ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘푸바오 괜찮니?’ 중국, 학대 등 논란 푸바오 모습 첫 공개 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/china/article/202406121113001</link>
@@ -104,26 +125,6 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
 6일 펑파이신문에 따르면 상하이과기대 초대 총장인 장 전 총장은 최근 총장직에서 물러나고, 중국과학원 원사 펑둥라이가 후임 총장이 됐다. 장 전 총장은 상하이과기대 학술위원회 주임(이사)으로 임명됐다.
 장 전 총장은 학생과 교직원이 보낸 편지에서 “두 번의 총장 임기를 마쳤고 몇 년 전부터 ‘치링허우(1970년대생)’가 합류했기 때문에 더는 총장직을 맡지 않겠다”고 밝혔다. 최근 중국의 대학 총장 연령이 어려지면서 1980년대생 총장도 나오고 있다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/06/news-p.v1.20240606.55e0811adc6f43a8994248706efb352a_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일대일로 핵심 ‘중국·파키스탄 경제회랑’은 업그레이드할 수 있을까 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202406051906001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202406051906001</guid>
-            <pubDate>Wed, 05 Jun 2024 17:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[셰바즈 샤리프 파키스탄 총리의 중국 국빈방문을 계기로 ‘일대일로 프로젝트’의 시발점이었던 중국·파키스탄 경제회랑(CPEC)의 향배에 관심이 쏠린다.
-5일 글로벌타임스에 따르면 전날 중국을 국빈 방문한 샤리프 총리는 8일까지 베이징, 선전, 시안을 방문하고 중국 시진핑 국가주석과 리창 국무원 총리 등을 만날 예정이다.
-샤리프 총리의 이번 방중은 파키스탄이 고물가와 부채 위기에 시달리는 상황에서 이뤄졌다. 파키스탄은 지난해부터 국제통화기금(IMF)으로부터 30억달러(약 4조1500억원)의 구제금융을 받았다. 고물가 등으로 인해 현금이 부족한 상황이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/05/rcv.YNA.20240531.PRU20240531256501009.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 9·19 군사합의 전면 효력 정지에 “남북한 모두 냉정과 자제력 유지해야” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202406051715001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202406051715001</guid>
-            <pubDate>Wed, 05 Jun 2024 17:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[중국은 한국 정부가 9·19 군사합의 효력을 전부 정지한 것과 관련해 우려를 표명하며 남북 모두에 냉정과 자제력을 유지할 것을 촉구했다.
-마오닝 중국 외교부 대변인은 5일 정례 브리핑에서 전날 9·19 군사합의 효력 정지 발표에 관한 중국의 입장을 묻는 질문에 “최근 한동안 반도의 형세는 지속해서 긴장됐고, 관련 당사자(남북) 간의 대립·대결이 격화했다”며 “우리는 현재 사태의 격화에 우려를 표한다”고 했다.
-마오 대변인은 “중국은 반도의 평화·안정 유지에 일관되게 힘써왔고, 관련 당사자가 대화를 통해 관계를 개선하는 것을 지지했으며, 형세를 격화·긴장시키는 어떤 언행에도 반대해왔다”며 “관련 당사자가 냉정과 자제력을 유지하고, 언행에 신중하며, 반도의 평화·안정 유지를 위해 건설적인 역할을 하기를 희망한다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/05/news-p.v1.20240605.03dd54301bd24d4e82f2e5f324358317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -780,7 +781,7 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
             <link>https://n.news.naver.com/article/308/0000035004?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035004?type=journalists</guid>
             <pubDate>Wed, 12 Jun 2024 05:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/12/35004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1256,11 +1257,19 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/01/32766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[동해 유전, 호주 최대 석유개발회사는 왜 가망 없다 했나? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034977?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034977?type=journalists</guid>
+            <pubDate>Wed, 12 Jun 2024 17:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/06/34977.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘동해 석유’ 근거 밝혀질까? 액트지오 고문 입국 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034969?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034969?type=journalists</guid>
             <pubDate>Tue, 11 Jun 2024 17:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/05/34969.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1268,7 +1277,7 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
             <link>https://n.news.naver.com/article/308/0000034963?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034963?type=journalists</guid>
             <pubDate>Mon, 10 Jun 2024 17:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.06.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/04/34963.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1918,14 +1927,6 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
             <pubDate>Sun, 21 Jan 2024 17:32:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34078.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“미투 이후 우리 사회 무엇이 달라졌나” [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034076?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034076?type=journalists</guid>
-            <pubDate>Mon, 15 Jan 2024 05:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34076.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
