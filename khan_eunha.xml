@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 05:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 17:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보복관세? 협상?…중국, EU 전기차 관세 부과에 어떻게 대응할까]]></title>
+            <link>https://www.khan.co.kr/economy/auto/article/202406131742001</link>
+            <guid>https://www.khan.co.kr/economy/auto/article/202406131742001</guid>
+            <pubDate>Thu, 13 Jun 2024 17:31:51 GMT</pubDate>
+            <content:encoded><![CDATA[유럽연합(EU)이 중국산 전기차에 최고 48.1%의 관세를 부과하기로 결정하면서 중국의 대응 조치에 관심이 쏠린다. 중국의 추가 조치에 따라 새로운 무역전쟁이 시작될 수도 있다는 우려도 나온다.
+중국 관영매체 환구시보는 13일 EU가 중국산 전기차 관세율 상향을 추진하는 것에 맞서 반격해야 한다는 목소리가 중국 정부와 산업계에서 나오고 있다고 보도했다.
+환구시보는 전문가를 인용해 “중국의 옵션은 많다”며 몇 가지를 소개했다. 보도에 따르면 유명 자동차 업계 관계자가 탄소 배출을 줄이기 위해 배기량 2.5ℓ 이상의 엔진을 장착한 수입차에 대한 임시 관세를 인상해야 한다고 요구한 게 널리 주목받고 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/13/news-p.v1.20240613.a5379bc6067a45a0bae4517b7693fdc7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먹성도 장난기도 그대로…푸바오 ‘이상 무’]]></title>
             <link>https://www.khan.co.kr/world/china/article/202406122108005</link>
@@ -115,16 +125,6 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
 펑파이신문에 따르면 중국인민정치협상회의 진현위원회는 5일 산시성 창즈시 친현 정협 당 위원회 서기 겸 주석 궈젠위(58)가 지난 3일 오전 7시쯤 현내 주택가에서 불법 점거된 국유주택 철거 임무를 수행하던 중 불법 점거자의 공격을 받아 사망했다고 밝혔다.
 친현 공안당국에 따르면 용의자는 친현 출신 남성 안모씨(59)로 이날 오후 7시45분쯤 인근 마을에서 체포됐다. 경찰은 용의자에 대한 강제조치와 추가 조사가 진행 중이라고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/06/news-p.v1.20240606.95958dc0e2644b1e8ad0c3442e76430e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘호랑이 사냥’ 피했던 장쩌민 아들…상하이과기대 총장직 무사히 마쳐]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202406061505001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202406061505001</guid>
-            <pubDate>Thu, 06 Jun 2024 17:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[장쩌민 전 중국 국가주석의 아들 장몐헝(73)이 상하이과학기술대 총장직에서 10년 만에 물러났다. 그는 학내 이사를 맡아 계속 활동한다.
-6일 펑파이신문에 따르면 상하이과기대 초대 총장인 장 전 총장은 최근 총장직에서 물러나고, 중국과학원 원사 펑둥라이가 후임 총장이 됐다. 장 전 총장은 상하이과기대 학술위원회 주임(이사)으로 임명됐다.
-장 전 총장은 학생과 교직원이 보낸 편지에서 “두 번의 총장 임기를 마쳤고 몇 년 전부터 ‘치링허우(1970년대생)’가 합류했기 때문에 더는 총장직을 맡지 않겠다”고 밝혔다. 최근 중국의 대학 총장 연령이 어려지면서 1980년대생 총장도 나오고 있다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/06/news-p.v1.20240606.55e0811adc6f43a8994248706efb352a_P2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

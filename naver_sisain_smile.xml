@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 05:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 17:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채상병 어머니의 간절한 부탁 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035009?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035009?type=journalists</guid>
+            <pubDate>Thu, 13 Jun 2024 17:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/12/35009.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동해 유전, 호주 최대 석유개발회사는 왜 가망 없다 했나? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034977?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034977?type=journalists</guid>
             <pubDate>Wed, 12 Jun 2024 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/06/34977.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034969?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034969?type=journalists</guid>
             <pubDate>Tue, 11 Jun 2024 17:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.06.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/05/34969.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 22 Jan 2024 17:32:19 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34087.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘빅텐트’ 말고 ‘큰 집’? 이낙연과 이준석, 제3지대 주도권 누가 쥘까? [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034078?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034078?type=journalists</guid>
-            <pubDate>Sun, 21 Jan 2024 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/15/34078.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
