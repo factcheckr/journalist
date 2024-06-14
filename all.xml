@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 05:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 17:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -781,7 +781,7 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
             <link>https://n.news.naver.com/article/308/0000035021?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035021?type=journalists</guid>
             <pubDate>Fri, 14 Jun 2024 05:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/14/35021.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1261,15 +1261,23 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
             <link>https://n.news.naver.com/article/308/0000035009?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035009?type=journalists</guid>
             <pubDate>Thu, 13 Jun 2024 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/12/35009.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[액트지오 논란, “시추가 아니라 국정조사 해야 할 판” [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000034996?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034996?type=journalists</guid>
+            <pubDate>Fri, 14 Jun 2024 17:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/10/34996.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동해 유전, 호주 최대 석유개발회사는 왜 가망 없다 했나? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034977?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034977?type=journalists</guid>
             <pubDate>Wed, 12 Jun 2024 17:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.06.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/06/34977.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1919,14 +1927,6 @@ J-20 전투기는 중국이 독자 개발한 5세대 스텔스 전투기이다. 
             <pubDate>Tue, 23 Jan 2024 17:32:33 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/17/34092.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한동훈표’ 공천에 윤석열은 있다? 없다? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034087?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034087?type=journalists</guid>
-            <pubDate>Mon, 22 Jan 2024 17:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34087.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
