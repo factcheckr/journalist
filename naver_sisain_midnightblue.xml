@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 17:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 05:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무자녀 부부가 말했다 “우리가 왜 아이를 안 낳냐면요”]]></title>
+            <link>https://n.news.naver.com/article/308/0000035021?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035021?type=journalists</guid>
+            <pubDate>Fri, 14 Jun 2024 05:34:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/14/35021.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인공지능 대항해 시대, ‘AI 기본법’ 없는 한국은?]]></title>
             <link>https://n.news.naver.com/article/308/0000035004?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035004?type=journalists</guid>
             <pubDate>Wed, 12 Jun 2024 05:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/12/35004.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000034980?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034980?type=journalists</guid>
             <pubDate>Fri, 07 Jun 2024 05:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/07/34980.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/02/32770.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성폭력 피해자 옆에서 ‘가장 보통의 편견’과 싸우는 사람 [사람IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000032766?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032766?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/01/32766.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
