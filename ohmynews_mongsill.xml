@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jun 2024 17:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 05:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판사의 일갈, 아이들 보호에 왜 아무도 나서지 않았나]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003038831</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003038831</guid>
+            <pubDate>Mon, 17 Jun 2024 05:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0616/A0003038831_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유명 음악경연대회 참가자들의 용기 있는 폭로]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003030862</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 13 Feb 2024 17:32:02 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0208/A0003001096_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 뮤직비디오의 선한 의도를 믿는다, 하지만]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002997074</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002997074</guid>
-            <pubDate>Mon, 29 Jan 2024 05:31:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0126/A0002997074_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
