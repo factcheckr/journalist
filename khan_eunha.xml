@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 17:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 05:34:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“결과 미리 알려줄게”…중국 ‘가오카오 사기’ 극성]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202406181118001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202406181118001</guid>
+            <pubDate>Tue, 18 Jun 2024 05:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[중국 대학 입시 시험인 ‘가오카오’(高考) 결과 발표를 기다리는 수험생과 학부모의 절박한 심정을 이용한 온라인 사기가 중국에서 기승을 부리고 있다.
+차이나데일리는 18일 베이징 공안국이 가오카오 사기 범죄를 유형화한 온라인 소책자를 발행해 학생과 학부모에게 주의를 당부했다고 보도했다.
+경찰이 공개한 대표적 사기 유형은 ‘돈을 내면 시험 결과를 미리 알 수 있다’고 속이는 것이다. 지난 7~10일 치러진 가오카오 결과는 이달 말경 발표된다. 사기꾼들은 중국 앱인 위챗 메신저나 휴대전화 문자 메시지를 통해 웹 링크를 보내 가오카오 결과를 미리 알 수 있다고 광고하는 것으로 나타났다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/18/news-p.v1.20240618.596590efae194d30a90ab094e45ba044.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“중국, 핵탄두 500기 보유 추정…세계에서 가장 빠르게 늘려”]]></title>
             <link>https://www.khan.co.kr/world/america/article/202406172107005</link>
@@ -113,16 +123,6 @@
 12일 중국 쓰촨성 청두시 워룽 중화 자이언트 판다원 선수핑 기지 관람객 사이에서 푸바오는 단연 화제였다. 곳곳에서 “푸바오”가 들렸다. 선수핑 기지는 이날 정오부터 푸바오를 일반 관람객에게 공개했다. 지난 4월 3일 중국으로 반환된 지 두 달여 만이다.
 선수핑 기지는 이날 사전예약한 999명에게만 입장을 허용했다. 기지가 워낙 넓어서 북적거린다는 느낌은 들지 않았지만 푸바오 방사장 앞에만 긴 줄이 늘어섰다.
 이날 오전 9시39분쯤 취재진에게 먼저 공개된 푸바오는 실내 생활 공간에서 야외 방사장으로 걸어 나와 누워서 대나무 ‘먹방’을 선보였다. 표정은 밝았으며 몸의 흰 털 부분은 갈색으로 물들어 있었다. 식사를 마친 푸바오가 오후에는 내내 잠을 자 일반 관람객들은 푸바오 얼굴을 보기 위해 두 시간 넘게 기다려야 했다. 관람객들은 뙤약볕을 견디고 소나기를 맞으면서도 불평 없이 기다렸다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/12/news-p.v1.20240612.233d222682714698a1d4f7b5f15ea2ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘푸바오 괜찮니?’ 중국, 학대 등 논란 푸바오 모습 첫 공개]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202406121113001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202406121113001</guid>
-            <pubDate>Wed, 12 Jun 2024 05:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월 중국에 반환된 자이언트판다 푸바오가 2개월여 만인 12일 대중에 공개됐다.
-쓰촨성 워룽중화자이언트판다원 선수핑기지는 이날 오전 9시39분(현지시간) 야외 방사장에 푸바오를 내보냈다. 실내 생활 공간에서 대기하던 푸바오는 원형 창살이 달린 철문을 통해 야외 방사장으로 걸어 나왔다. 야외 방사장은 외부 관람객에게 공개된 곳이다.
-중국 자이언트판다보호연구센터는 전날 선수핑기지에서 기자회견을 열고 푸바오에게 털 빠짐과 모발 변색 등 변화가 있었으나 건강에는 이상이 없고, 순조롭게 적응하고 있다고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/12/news-p.v1.20240612.233d222682714698a1d4f7b5f15ea2ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
