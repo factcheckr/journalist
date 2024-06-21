@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 05:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 17:34:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1253,11 +1253,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/06/32792.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘채상병 특검법’ 청문회 D-2, 박정훈 대령의 심경은? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035047?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035047?type=journalists</guid>
+            <pubDate>Fri, 21 Jun 2024 17:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/19/35047.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한동훈 출마 임박, ‘어대한’은 당원 모욕? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035036?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035036?type=journalists</guid>
             <pubDate>Mon, 17 Jun 2024 17:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/17/35036.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1265,7 +1273,7 @@
             <link>https://n.news.naver.com/article/308/0000035022?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035022?type=journalists</guid>
             <pubDate>Thu, 20 Jun 2024 17:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/14/35022.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1273,7 +1281,7 @@
             <link>https://n.news.naver.com/article/308/0000035015?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035015?type=journalists</guid>
             <pubDate>Wed, 19 Jun 2024 17:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.06.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/13/35015.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1915,14 +1923,6 @@
             <pubDate>Wed, 31 Jan 2024 17:33:25 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/25/34154.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이탄희·용혜인 직설, 4·10 총선 승리 비법 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034145?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034145?type=journalists</guid>
-            <pubDate>Tue, 30 Jan 2024 17:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.24.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/24/34145.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
