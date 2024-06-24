@@ -4,7 +4,7 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jun 2024 17:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 05:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/308/0000035038?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035038?type=journalists</guid>
             <pubDate>Tue, 18 Jun 2024 17:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/18/35038.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -486,6 +486,54 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/06/32792.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[59년 전에도 틀렸고 지금도 틀렸다]]></title>
+            <link>https://n.news.naver.com/article/308/0000032770?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032770?type=journalists</guid>
+            <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.06.02.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/02/32770.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성폭력 피해자 옆에서 ‘가장 보통의 편견’과 싸우는 사람 [사람IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032766?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032766?type=journalists</guid>
+            <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.06.01.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/01/32766.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디시인사이드는 달라져야 한다 [프리스타일]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032729?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032729?type=journalists</guid>
+            <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.05.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/24/32729.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우울증갤러리에서 도대체 무슨 일이 벌어진 걸까]]></title>
+            <link>https://n.news.naver.com/article/308/0000032695?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032695?type=journalists</guid>
+            <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.05.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/18/32695.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무지개깃발이 신촌으로 간 까닭 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032683?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032683?type=journalists</guid>
+            <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.05.16.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/16/32683.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[난립한 파크골프장, 환경문제는 살펴보았나요?]]></title>
+            <link>https://n.news.naver.com/article/308/0000032634?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032634?type=journalists</guid>
+            <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.05.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/05/32634.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
