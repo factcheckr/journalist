@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 17:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 05:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -765,11 +765,19 @@ CNN은 22일(현지시간) 미국 싱크탱크 전략국제문제연구소(CSIS)
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/20/33760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빛과 어둠이 일기장에 있다 [프리스타일] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035080?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035080?type=journalists</guid>
+            <pubDate>Wed, 26 Jun 2024 05:34:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/26/35080.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세기의 이혼 판결, 세상 무용한 게 재벌 걱정이라지만 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035038?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035038?type=journalists</guid>
             <pubDate>Tue, 18 Jun 2024 17:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.06.18.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/18/35038.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1283,14 +1291,6 @@ CNN은 22일(현지시간) 미국 싱크탱크 전략국제문제연구소(CSIS)
             <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/16/32683.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난립한 파크골프장, 환경문제는 살펴보았나요? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032634?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032634?type=journalists</guid>
-            <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/05/32634.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘채상병 특검법’ 청문회 D-2, 박정훈 대령의 심경은? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
