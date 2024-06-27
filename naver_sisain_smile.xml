@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 05:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 17:35:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 직무 평가 26%, 이재명 호감도 33% [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035058?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035058?type=journalists</guid>
+            <pubDate>Thu, 27 Jun 2024 17:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/21/35058.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 ‘개인폰’ 통화 기록, 왜 자꾸 나올까? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000035052?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035052?type=journalists</guid>
             <pubDate>Wed, 26 Jun 2024 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/20/35052.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000035047?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035047?type=journalists</guid>
             <pubDate>Tue, 25 Jun 2024 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.06.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/19/35047.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Tue, 06 Feb 2024 17:32:43 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.31.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/31/34196.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열의 9번째 거부권, 이태원참사특별법 다시 국회로 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034187?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034187?type=journalists</guid>
-            <pubDate>Mon, 05 Feb 2024 17:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.30.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/30/34187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
