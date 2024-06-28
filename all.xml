@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 05:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 17:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,6 +290,14 @@ AP통신은 이날 2020년 경기 이천시 물류창고 화재, 2008년 이천�
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0208/A0003001096_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여성기자협회 "기자 단톡방 성희롱 규탄한다" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000809416?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000809416?type=journalists</guid>
+            <pubDate>Fri, 28 Jun 2024 17:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/06/28/809416.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MB 독도 방문·강제동원 판결, 30년간 한일관계 최대 분기점 [한일 여론조사] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000806162?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000806162?type=journalists</guid>
@@ -520,14 +528,6 @@ AP통신은 이날 2020년 경기 이천시 물류창고 화재, 2008년 이천�
             <pubDate>Wed, 21 Feb 2024 17:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/21/786622.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 강제동원 피해자 히타치 공탁금 수령에 주일대사 초치… "한일관계 영향은 제한적" (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000786563?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786563?type=journalists</guid>
-            <pubDate>Wed, 21 Feb 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/21/786563.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘흰 구름’의 고장에서 펴낸 200번의 마을 소식지 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -1302,7 +1302,7 @@ AP통신은 이날 2020년 경기 이천시 물류창고 화재, 2008년 이천�
             <link>https://n.news.naver.com/article/308/0000035058?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035058?type=journalists</guid>
             <pubDate>Thu, 27 Jun 2024 17:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/21/35058.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1310,7 +1310,7 @@ AP통신은 이날 2020년 경기 이천시 물류창고 화재, 2008년 이천�
             <link>https://n.news.naver.com/article/308/0000035052?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035052?type=journalists</guid>
             <pubDate>Wed, 26 Jun 2024 17:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.06.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/20/35052.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
