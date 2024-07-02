@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 05:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 17:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘02-800-7070’은 누구 번호였을까? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035112?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035112?type=journalists</guid>
+            <pubDate>Tue, 02 Jul 2024 17:34:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/02/35112.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘검찰발’ 기사는 어떻게 만들어지나 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000035088?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035088?type=journalists</guid>
             <pubDate>Mon, 01 Jul 2024 17:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/27/35088.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000035083?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035083?type=journalists</guid>
             <pubDate>Mon, 01 Jul 2024 17:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/26/35083.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000035078?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035078?type=journalists</guid>
             <pubDate>Mon, 01 Jul 2024 17:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/25/35078.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -622,14 +630,6 @@
             <pubDate>Wed, 21 Feb 2024 17:33:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/15/34302.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘운동권 vs 검사 독재’ 누가 이길까, ‘총선 불출마’ 우상호의 답은? [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034296?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034296?type=journalists</guid>
-            <pubDate>Tue, 20 Feb 2024 17:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/14/34296.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
