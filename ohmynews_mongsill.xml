@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 17:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 05:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모욕한 이를 만난 국회의원이 보인 의외의 반응]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003042347</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003042347</guid>
+            <pubDate>Tue, 02 Jul 2024 05:33:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0628/A0003042347_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판사의 일갈, 아이들 보호에 왜 아무도 나서지 않았나]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003038831</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 26 Feb 2024 17:32:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004548_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한겨울 새벽 출근 힘들지 않냐 물었는데... 엄마의 쿨한 답변]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003001096</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003001096</guid>
-            <pubDate>Tue, 13 Feb 2024 17:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0208/A0003001096_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
