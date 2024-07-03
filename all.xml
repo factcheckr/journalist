@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 05:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 17:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,7 +296,7 @@
             <link>https://n.news.naver.com/article/469/0000809416?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000809416?type=journalists</guid>
             <pubDate>Fri, 28 Jun 2024 17:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/06/28/809416.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1300,11 +1300,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/18/32695.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김병주 제명 추진하겠다는 국민의힘 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035117?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035117?type=journalists</guid>
+            <pubDate>Wed, 03 Jul 2024 17:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/03/35117.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘02-800-7070’은 누구 번호였을까? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035112?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035112?type=journalists</guid>
             <pubDate>Tue, 02 Jul 2024 17:34:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/02/35112.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1312,7 +1320,7 @@
             <link>https://n.news.naver.com/article/308/0000035088?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035088?type=journalists</guid>
             <pubDate>Mon, 01 Jul 2024 17:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/27/35088.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1320,7 +1328,7 @@
             <link>https://n.news.naver.com/article/308/0000035083?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035083?type=journalists</guid>
             <pubDate>Mon, 01 Jul 2024 17:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/26/35083.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1328,7 +1336,7 @@
             <link>https://n.news.naver.com/article/308/0000035078?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035078?type=journalists</guid>
             <pubDate>Mon, 01 Jul 2024 17:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.06.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/06/25/35078.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1914,14 +1922,6 @@
             <pubDate>Sun, 25 Feb 2024 17:32:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/19/34321.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석연치 않은 해외 순방 연기, 이유는 ‘김건희 리스크’? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034302?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034302?type=journalists</guid>
-            <pubDate>Wed, 21 Feb 2024 17:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/15/34302.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
