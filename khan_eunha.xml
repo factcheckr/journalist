@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 17:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 05:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벨라루스 합류한 SCO, 반서방 단결 가능할까…중·러·카자흐 동상이몽]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202407051356001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202407051356001</guid>
+            <pubDate>Fri, 05 Jul 2024 05:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[벨라루스를 10번째 회원국으로 맞이한 상하이협력기구(SCO)는 중앙아시아 지역 협력체의 틀을 벗어나 몸집을 키웠다. 중국과 러시아는 SCO의 확대를 두고 서방 견제에 의미를 부여했다. 반면 의장국 카자흐스탄은 SCO는 서방을 비롯해 세계 어느 곳과도 협력할 수 있다는 점을 강조했다.
+5일 중국 영문 관영매체 글로벌타임스에 따르면 전날 카자흐스탄 아스타나에서 열린 제24차 SCO 정상회의는 처음으로 회원국 외 주요 국제기구와 지역 협의체도 참여하는 SCO 확대회의(SCO+) 형태로 진행됐다. 안토니우 구톄흐스 유엔 사무총장을 비롯해 경제협력개발기구(OECD), 독립국가연합(CIS), 집단안보조약기구(CSTO), 유라시아경제공동체(EAEC) 대표단이 참여했다. 유엔과 OECD를 제외하면 대체로 러시아 주도로 옛 소련 소속 국가들의 안보·경제 협의체이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/05/news-p.v1.20240705.63f10f3f48364e0e9c14fd0cb5a2399a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“중국, 민간 제외한 금융업계 연봉 상한 5억원대로 제한 예정”]]></title>
             <link>https://www.khan.co.kr/world/china/article/202407042129025</link>
@@ -108,16 +117,6 @@ SCMP는 소식통을 인용해 해당 방침은 민간 금융기관을 제외한
 27일 중국 경제매체 차이신에 따르면 베이징시 주택건설위원회는 생애 첫 주택 구매 시 지불해야 하는 최소 계약금 비율을 30%에서 20%로 낮추겠다고 밝혔다. 두 번째 주택 구매자가 지불해야 하는 최소 계약금도 종전 40~50%에서 30~35%로 낮아졌다.
 주담대 금리 하한선은 3.5%까지 낮아졌다. 노후 주택을 팔고 신규 주택을 구입하는 경우는 보상도 주어진다. 시 당국은 자녀가 2명 이상인 가정과 인증된 에너지 절약 주택을 구입하는 가정에는 더 유리한 조건이 주어질 것이라고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/27/news-p.v1.20240627.8f593d33099a455c8cc9d30886c39a10_P2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시진핑 최측근 딩쉐샹, 중국 과학기술사령탑 임명]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202406271222001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202406271222001</guid>
-            <pubDate>Thu, 27 Jun 2024 05:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[시진핑 중국 국가주석의 최측근인 딩쉐샹(丁薛祥) 국무원 부총리가 미국과 첨단기술 경쟁 국면에서 과학기술정책을 총괄하는 중앙과학기술위원회 주임에 임명됐다.
-27일 신화통신에 따르면 딩 부총리는 지난 24일 베이징 인민대회당에서 열린 중국과학기술대회에 참석해 ‘시 주석의 주문에 따라 과학기술 강국을 건설하자’는 내용으로 연설했다. 신화통신은 관련 기사에서 딩 부총리를 ‘부총리 겸 당 중앙과학기술위원회 주임’이라고 소개했다.
-중앙과학기술위원회 주임이라는 딩 부총리의 새 직책이 공개된 것은 처음이다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/27/news-p.v1.20240627.38e356be55d14ba68b19fb2cbd3c9076_P3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
