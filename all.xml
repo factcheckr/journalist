@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jul 2024 17:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 05:38:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -773,7 +773,7 @@ SCMP는 소식통을 인용해 해당 방침은 민간 금융기관을 제외한
             <link>https://n.news.naver.com/article/308/0000035109?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035109?type=journalists</guid>
             <pubDate>Tue, 02 Jul 2024 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/02/35109.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
