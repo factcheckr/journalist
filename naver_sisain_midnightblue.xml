@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 17:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 05:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아리셀 화재, 적극적으로 방치된 위험]]></title>
+            <link>https://n.news.naver.com/article/308/0000035138?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035138?type=journalists</guid>
+            <pubDate>Mon, 08 Jul 2024 05:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/08/35138.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단편소설이 어려운 당신에게 [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000035109?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035109?type=journalists</guid>
             <pubDate>Tue, 02 Jul 2024 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/02/35109.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,14 +534,6 @@
             <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/24/32729.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우울증갤러리에서 도대체 무슨 일이 벌어진 걸까]]></title>
-            <link>https://n.news.naver.com/article/308/0000032695?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032695?type=journalists</guid>
-            <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.05.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/18/32695.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
