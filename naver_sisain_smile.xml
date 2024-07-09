@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 05:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 17:34:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,15 +12,23 @@
             <link>https://n.news.naver.com/article/308/0000035142?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035142?type=journalists</guid>
             <pubDate>Mon, 08 Jul 2024 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/08/35142.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김병주 제명 추진하겠다는 국민의힘 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035117?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035117?type=journalists</guid>
+            <pubDate>Tue, 09 Jul 2024 17:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/03/35117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘02-800-7070’은 누구 번호였을까? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000035112?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035112?type=journalists</guid>
             <pubDate>Mon, 08 Jul 2024 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/02/35112.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 04 Jul 2024 17:34:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/08/34262.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈, 김건희 명품 백 논란에 “대통령께서 잘 말씀하실 것” [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034253?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034253?type=journalists</guid>
-            <pubDate>Thu, 04 Jul 2024 17:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/07/34253.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
