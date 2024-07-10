@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 17:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 05:35:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 청년의 입문용 영어 교재 [프리스타일]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035154?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035154?type=journalists</guid>
+            <pubDate>Wed, 10 Jul 2024 05:34:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/10/35154.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘흰 구름’의 고장에서 펴낸 200번의 마을 소식지 [사람IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000034826?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/23/33781.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS 신임 사장의 속전속결 인사 [기자들의 시선]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033760?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033760?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/20/33760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

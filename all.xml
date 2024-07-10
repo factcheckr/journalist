@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 17:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 05:35:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 화학·식용유 혼합운송 의혹 파장…당국 조사 착수 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202407101208001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202407101208001</guid>
+            <pubDate>Wed, 10 Jul 2024 05:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[중국에서 탱크로리 차량이 탱크 세척 없이 액화석탄 등 화학유와 식용유를 번갈아 운송하고 있다는 의혹이 나와 당국이 조사에 나섰다.
+중국 국무원은 합동조사팀을 구성해 탱크로리 차량의 화학·식용유 혼합 운송 의혹 조사에 착수했다고 신경보 등이 10일 보도했다. 국무원은 “관련된 문제를 철저히 조사하겠다”며 “불법 기업과 관련 책임자는 법에 따라 엄중하게 처벌될 것”이라고 밝혔다. 국무원은 유통된 식용유의 위험성 여부에 대한 조사도 하기로 했다.
+탱크로리 차량의 화학·식용유 혼합 운송 의혹은 지난 2일 신경보의 탐사보도를 통해 알려졌다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/10/news-p.v1.20240710.29eaab1d75e34451b8f93dc2984c19ff.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중국 “나토 동진 반대…아시아까지 어지럽히지 마라” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202407091745001</link>
@@ -109,16 +119,6 @@ SCMP는 소식통을 인용해 해당 방침은 민간 금융기관을 제외한
             <content:encoded><![CDATA[중국과 러시아를 잇는 송유관이 동시베리아 지역의 영구동토층을 손상시켜 환경재앙을 불러일으킬 수 있다는 연구 결과가 나왔다.
 1일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 중국과학원대학 연구팀은 토양 및 지형학회지 카테나(CATENA) 7월호에 게재한 논문에서 “에너지 공급을 위해 매설된 중·러 송유관이 영구동토층에 점점 더 심각한 열 영향을 미치고 있다”며 “송유관이 지속해서 열을 방출해 영구동토층 해동, 표면 침강·고임, 지반침하, 송유관 고장 및 원유 유출 등 미래의 환경재앙으로 이어질 수 있다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/01/2024070201000049100004151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 막 내린 백화점 시대…상하이 이세탄 백화점 폐점 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202407011728001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202407011728001</guid>
-            <pubDate>Mon, 01 Jul 2024 17:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[중국 상하이의 일본계 백화점 이세탄이 개점 27년 만에 문을 닫았다. 중국의 백화점들이 경기 침체, 온라인 쇼핑몰과의 경쟁을 이기지 못하고 잇따라 폐점하고 있다.
-1일 펑파이신문에 따르면 상하이 중심부 난징시루에 있는 일본계 백화점 ‘상하이 메이룽진 이세탄’이 전날 영업을 마지막으로 폐점했다. 1997년 문을 연 이세탄 백화점은 지난 3월 ‘매출액 감소로 인해 2024년 6월 30일까지만 영업한다’고 공지했다.
-상하이는 중국 현대적 백화점의 탄생지이다. 1990년대 이후 앞다퉈 상하이에 들어선 외국계 백화점은 고급 비즈니스의 중심지이자 해외 패션 트렌드를 소개하는 명소 역할을 해 왔다. 마지막 영업일을 보러 온 한 방문객은 “이세탄이 문을 열었을 때 새로운 피를 가져왔다. 이세탄 가방을 메고 길을 걷는 것은 새롭고 눈길을 끄는 행동이었다”고 펑파이신문에 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/01/news-p.v1.20240701.275716fc66db4cafb735a1a95a959b3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -531,6 +531,14 @@ SCMP는 소식통을 인용해 해당 방침은 민간 금융기관을 제외한
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/21/786622.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그 청년의 입문용 영어 교재 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035154?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035154?type=journalists</guid>
+            <pubDate>Wed, 10 Jul 2024 05:34:35 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/10/35154.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘흰 구름’의 고장에서 펴낸 200번의 마을 소식지 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000034826?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000034826?type=journalists</guid>
@@ -763,19 +771,11 @@ SCMP는 소식통을 인용해 해당 방침은 민간 금융기관을 제외한
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/23/33781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KBS 신임 사장의 속전속결 인사 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033760?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033760?type=journalists</guid>
-            <pubDate>Mon, 20 Nov 2023 05:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/20/33760.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아리셀 화재, 적극적으로 방치된 위험 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035138?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035138?type=journalists</guid>
             <pubDate>Mon, 08 Jul 2024 05:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/08/35138.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -783,7 +783,7 @@ SCMP는 소식통을 인용해 해당 방침은 민간 금융기관을 제외한
             <link>https://n.news.naver.com/article/308/0000035109?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035109?type=journalists</guid>
             <pubDate>Tue, 02 Jul 2024 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/02/35109.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
