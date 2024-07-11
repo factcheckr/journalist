@@ -4,23 +4,31 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 05:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 17:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘김건희 읽씹 사건’이 국정농단? [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000035142?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000035142?type=journalists</guid>
-            <pubDate>Mon, 08 Jul 2024 17:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/08/35142.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[국정 전반에 드리워진 ‘김건희 리스크’? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035163?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035163?type=journalists</guid>
+            <pubDate>Thu, 11 Jul 2024 17:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/11/35163.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈 ‘김건희 문자 읽씹’, 천하람·노종면·김준일 평가는? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035128?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035128?type=journalists</guid>
+            <pubDate>Thu, 11 Jul 2024 17:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/05/35128.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신임 방통위원장 후보자, 이진숙의 과거 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000035123?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035123?type=journalists</guid>
             <pubDate>Wed, 10 Jul 2024 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/04/35123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000035117?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035117?type=journalists</guid>
             <pubDate>Tue, 09 Jul 2024 17:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/03/35117.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 04 Jul 2024 17:34:14 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.13.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/13/34290.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[설 특집] 윤석열 대통령 ‘극안티층’은 누구일까 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034272?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034272?type=journalists</guid>
-            <pubDate>Thu, 04 Jul 2024 17:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/09/34272.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
