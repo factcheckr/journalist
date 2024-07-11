@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 17:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 05:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, ‘러 조력자’ 규정 나토 성명에 “도발과 비방” 반발]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202407111307001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202407111307001</guid>
+            <pubDate>Thu, 11 Jul 2024 05:34:11 GMT</pubDate>
+            <content:encoded><![CDATA[북대서양조약기구(NATO·나토) 회원국 정상들이 공동성명에서 중국을 러시아의 ‘결정적인 조력자’로 규정한 것을 두고 중국이 “냉전적 사고로 가득 찬 성명”이자 “도발과 비방”이라는 입장을 밝혔다.
+중국 주유럽연합(EU) 대표단은 11일 홈페이지에 기자와의 문답 형태로 게시한 입장문에서 “나토의 ‘워싱턴 정상회의 선언’은 전체가 냉전적 사고방식과 호전적 언사로 가득하고 중국 관련 내용은 도발·거짓말·선동·비방으로 가득 차 있다”며 “우리는 이에 강한 불만과 단호한 반대를 표하며, 이미 나토에 외교적 경로로 항의했다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/11/rcv.YNA.20240711.PXI20240711009601009.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국, 석유 탱크로리에 식용유 운송 파장]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202407102131035</link>
@@ -108,16 +117,6 @@
             <pubDate>Thu, 04 Jul 2024 17:32:21 GMT</pubDate>
             <content:encoded><![CDATA[중국 정부가 사치와 쾌락주의 풍조를 근절하고 빈부격차를 줄이려 금융업계 종사자 연봉 상한을 300만위안(약 5억7000만원)으로 정할 계획이라고 사우스차이나모닝포스트(SCMP)가 4일 보도했다.
 SCMP는 소식통의 말을 인용해 해당 방침은 민간 금융기관을 제외한 모든 국유은행, 증권사, 뮤추얼펀드 회사에 적용될 것이며, 공개적으로 발표되지는 않을 것이라고 전했다. 이 소식통은 금융업계 연봉 상한 규정이 소급 적용돼 지난 몇년 동안 300만위안 이상을 벌었던 사람들은 초과분을 회사에 반환해야 할 가능성이 높다고 말했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시진핑 “상하이협력기구 10개국, 서방에 맞서 저항해야”]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202407042042001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202407042042001</guid>
-            <pubDate>Thu, 04 Jul 2024 17:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[시진핑(習近平) 중국 국가주석이 상하이협력기구(SCO) 정상회의에서 회원국들이 서방 진영의 견제에 공동으로 저항해야 한다고 말했다.
-로이터통신과 중국중앙TV(CCTV)에 따르면 SCO 회원국 정상들은 4일(현지시간) 카자흐스탄 아스타나에서 연례 정상회의를 열고 국제 정세와 회원국 안보 등 현안을 논의했다. SCO를 이끄는 양대 축인 중국과 러시아 정상은 회원국에 SCO가 서방의 견제에 맞선 기구가 돼야 한다고 강조했다.
-시 주석은 “SCO 회원국들이 간섭과 분열이라는 현실적 도전에 맞서 더욱 단결하고 외부 간섭에 공동으로 저항해야 한다”며 “냉전적 사고방식이 SCO 회원국에는 실질적 위협”이라고 말했다. 시 주석은 그러면서 “취동화이(聚同化異·공통점은 취하고 차이점은 바꾸는 것) 정신으로 난제를 풀어나가야 한다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/04/rcv.YNA.20240704.PRU20240704246001009.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
