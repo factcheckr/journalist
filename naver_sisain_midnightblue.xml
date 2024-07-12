@@ -4,17 +4,9 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 17:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 05:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아리셀 화재, 적극적으로 방치된 위험]]></title>
-            <link>https://n.news.naver.com/article/308/0000035138?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000035138?type=journalists</guid>
-            <pubDate>Mon, 08 Jul 2024 05:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/08/35138.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[단편소설이 어려운 당신에게 [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000035109?type=journalists</link>
@@ -534,6 +526,62 @@
             <pubDate>Mon, 24 Jun 2024 05:33:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.05.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/24/32729.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우울증갤러리에서 도대체 무슨 일이 벌어진 걸까]]></title>
+            <link>https://n.news.naver.com/article/308/0000032695?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032695?type=journalists</guid>
+            <pubDate>Fri, 12 Jul 2024 05:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.05.18.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/18/32695.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무지개깃발이 신촌으로 간 까닭 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032683?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032683?type=journalists</guid>
+            <pubDate>Fri, 12 Jul 2024 05:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.05.16.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/16/32683.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[난립한 파크골프장, 환경문제는 살펴보았나요?]]></title>
+            <link>https://n.news.naver.com/article/308/0000032634?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032634?type=journalists</guid>
+            <pubDate>Fri, 12 Jul 2024 05:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.05.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/05/05/32634.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘쌀값 대치’ 사태, “정치가 정치이기를 포기한 일”]]></title>
+            <link>https://n.news.naver.com/article/308/0000032589?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032589?type=journalists</guid>
+            <pubDate>Fri, 12 Jul 2024 05:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.04.26.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/26/32589.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[농민 갈라치기로 끝난 양곡법 개정안 논란]]></title>
+            <link>https://n.news.naver.com/article/308/0000032590?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032590?type=journalists</guid>
+            <pubDate>Fri, 12 Jul 2024 05:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.04.26.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/26/32590.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[완창보다 작창, 소리꾼 이자람의 노래]]></title>
+            <link>https://n.news.naver.com/article/308/0000032557?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032557?type=journalists</guid>
+            <pubDate>Fri, 12 Jul 2024 05:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.04.20.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/20/32557.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양곡관리법이 문제면 대안을 말하라 [프리스타일]]]></title>
+            <link>https://n.news.naver.com/article/308/0000032549?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032549?type=journalists</guid>
+            <pubDate>Fri, 12 Jul 2024 05:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.04.19.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/04/19/32549.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
