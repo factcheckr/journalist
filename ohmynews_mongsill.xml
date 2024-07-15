@@ -4,9 +4,17 @@
         <title>오마이뉴스 ─ 신필규 시민기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jul 2024 17:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 05:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나와 같은 샤워장 쓰는 걸 불편해 할 수도 있는 당신에게]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003045762</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003045762</guid>
+            <pubDate>Mon, 15 Jul 2024 05:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0712/A0003045762_T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모욕한 이를 만난 국회의원이 보인 의외의 반응]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003042347</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Feb 2024 05:32:00 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004539_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1년 간 조롱 받던 연예인... 결말이 더 씁쓸하다]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003004548</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003004548</guid>
-            <pubDate>Mon, 26 Feb 2024 17:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004548_T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
