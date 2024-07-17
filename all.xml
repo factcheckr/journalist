@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 17:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 05:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,7 +297,7 @@ NHK는 11일 산시성 교도소에서 복역 중이던 창씨가 지난 8일 �
             <link>https://n.news.naver.com/article/469/0000811829?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000811829?type=journalists</guid>
             <pubDate>Fri, 12 Jul 2024 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/07/12/811829.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -533,11 +533,19 @@ NHK는 11일 산시성 교도소에서 복역 중이던 창씨가 지난 8일 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/21/786636.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[의사와 철학자 눈으로 바라본 ‘교통지옥’ [기자의 추천 책] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035187?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035187?type=journalists</guid>
+            <pubDate>Wed, 17 Jul 2024 05:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/17/35187.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그 청년의 입문용 영어 교재 [프리스타일] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035154?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035154?type=journalists</guid>
             <pubDate>Wed, 10 Jul 2024 05:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/10/35154.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -765,19 +773,11 @@ NHK는 11일 산시성 교도소에서 복역 중이던 창씨가 지난 8일 �
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/11/33868.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그것이 알고 싶다 ‘R&D 예산 삭감 미스터리’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033781?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033781?type=journalists</guid>
-            <pubDate>Thu, 23 Nov 2023 05:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.11.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/23/33781.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[AI 시대 “에너지 괴짜가 나와야 한다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035164?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035164?type=journalists</guid>
             <pubDate>Sun, 14 Jul 2024 17:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/12/35164.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -785,7 +785,7 @@ NHK는 11일 산시성 교도소에서 복역 중이던 창씨가 지난 8일 �
             <link>https://n.news.naver.com/article/308/0000035166?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035166?type=journalists</guid>
             <pubDate>Sun, 14 Jul 2024 17:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/12/35166.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
