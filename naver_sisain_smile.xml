@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 05:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 17:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나경원-원희룡, 단일화 할까? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035178?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035178?type=journalists</guid>
+            <pubDate>Thu, 18 Jul 2024 17:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/15/35178.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국정 전반에 드리워진 ‘김건희 리스크’? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000035163?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035163?type=journalists</guid>
             <pubDate>Wed, 17 Jul 2024 17:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/11/35163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000035156?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035156?type=journalists</guid>
             <pubDate>Tue, 16 Jul 2024 17:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/10/35156.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 26 Feb 2024 17:32:53 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.20.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/20/34328.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경호원칙이 ‘입틀막’? 윤석열 대통령 과잉 경호가 위험한 이유 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034321?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034321?type=journalists</guid>
-            <pubDate>Sun, 25 Feb 2024 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/19/34321.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
