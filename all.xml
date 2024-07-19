@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 05:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 17:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1303,11 +1303,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/02/32770.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임성근, 청문회 중 현직 검사에게 자문 구했다 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035206?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035206?type=journalists</guid>
+            <pubDate>Fri, 19 Jul 2024 17:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/19/35206.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나경원-원희룡, 단일화 할까? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035178?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035178?type=journalists</guid>
             <pubDate>Thu, 18 Jul 2024 17:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/15/35178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1315,7 +1323,7 @@
             <link>https://n.news.naver.com/article/308/0000035163?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035163?type=journalists</guid>
             <pubDate>Wed, 17 Jul 2024 17:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/11/35163.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1965,14 +1973,6 @@
             <pubDate>Tue, 27 Feb 2024 17:32:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/21/34336.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11일 만에 무너진 ‘빅텐트’, 이낙연·이준석 결별 후폭풍은? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034328?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034328?type=journalists</guid>
-            <pubDate>Mon, 26 Feb 2024 17:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/20/34328.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
