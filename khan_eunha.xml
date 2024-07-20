@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 17:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jul 2024 05:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부양책 제시 못한 중국의 속사정은 뭘까]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202407200900061</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202407200900061</guid>
+            <pubDate>Sat, 20 Jul 2024 05:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[[주간경향] 중국의 중장기 경제정책 청사진을 제시하는 중국공산당 제20기 중앙위원회 3차 전체회의(20기 3중전회)가 지난 7월 18일 폐막했다. 20기 3중전회는 ‘진일보한 전면 개혁 심화와 중국식 현대화 추진에 관한 당 중앙의 결정’을 발표했다.
+3중전회는 중국 공산당 지도부가 중장기 경제정책을 결정하는 자리다. 중국공산당은 5년에 한 번씩 당대회를 열어 지도부를 구성하고, 5년 동안 총 7차례의 전체회의(전회)를 연다. 1·2중전회에서는 인사를, 3중전회에서는 중장기 경제정책을 다룬다. 1978년 개혁·개방 확정, 1993년 국유기업 개혁, 2003년 사유재산 인정 등이 3중전회에서 결정됐다. 20기 3중전회는 통상 개최 시점보다 8개월가량 늦어졌는데, 마땅한 청사진을 찾지 못해서라는 추측도 있었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/20/news-p.v1.20240719.835a2142039e428c9ecc7619707ebc9c.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중국 3중전회 ‘고품질발전’ 강조하며 폐막…방향전환은 없다]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202407182028001</link>
@@ -112,17 +121,6 @@
 15일 대만 중앙통신에 따르면 이날 오전 9시 타이베이 자유광장 앞 민주대로에서 첫 육·해·공 3군 의장대 행진이 열렸다. 무더운 날씨에도 수백 명에 달하는 시민들과 관광객들이 ‘역사적 순간’을 지켜봤으며 일부는 “중화민국 만세”를 외쳤다고 통신은 전했다.
 통신이 ‘역사적 순간’이라고 표현한 이유는 이날 의장대 행진은 ‘장제스와 결별’하는 대만 사회를 상징적으로 보여주는 장면이기 때문이다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/15/news-p.v1.20240715.60bf77fec462424499f2f93a31cf6def.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 주먹 불끈 티셔츠, ‘2시간 9분’ 만에 중국 쇼핑몰 등장]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202407151705001</link>
-            <guid>https://www.khan.co.kr/world/america/article/202407151705001</guid>
-            <pubDate>Mon, 15 Jul 2024 17:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 9분.
-도널드 트럼프 미국 전 대통령이 지난 13일 선거 유세 현장에서 총격을 당하고도 주먹을 치켜든 사진이 공개된 시점부터 중국 온라인 쇼핑몰에 이 사진이 인쇄된 ‘트럼프 티셔츠’가 판매가 시작되기까지 걸린 시간이다.
-15일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 미국 펜실베이니아주 현지시간 기준 13일 오후 8시40분 중국 온라인 쇼핑몰 타오바오(알리바바)에는 트럼프 전 대통령이 귀에 피를 흘리며 주먹을 치켜드는 사진이 인쇄된 티셔츠 판매가 시작됐다.
-사진은 AP통신이 오후 6시31분쯤 공개한 것이다. 조 바이든 미국 대통령은 오후 8시쯤 총격 사건에 대해 공식입장을 밝혔는데 SCMP는 “중국 제조업체들은 그때쯤 이미 트럼프의 도전적 이미지가 새겨진 티셔츠를 대량 생산할 준비를 하고 있었다”며 “이것이 중국식 속도”라고 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/15/news-p.v1.20240715.093d391389f74e4d9d0a896cf42c64f1_P2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
