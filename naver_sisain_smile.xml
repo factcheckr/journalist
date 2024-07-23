@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 05:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 17:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한동훈 국민의힘 대표 당선, 윤석열 대통령 반응은? [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035225?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035225?type=journalists</guid>
+            <pubDate>Tue, 23 Jul 2024 17:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/23/35225.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘임성근 구명 의혹’ 녹취가 가리키는 곳은? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000035193?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035193?type=journalists</guid>
             <pubDate>Sat, 20 Jul 2024 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/17/35193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000035186?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035186?type=journalists</guid>
             <pubDate>Mon, 22 Jul 2024 17:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/16/35186.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000035178?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035178?type=journalists</guid>
             <pubDate>Thu, 18 Jul 2024 17:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/15/35178.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 29 Feb 2024 17:33:15 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/26/34362.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열식 ‘법과 원칙’, 의사에게도 통할까? [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034344?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034344?type=journalists</guid>
-            <pubDate>Wed, 28 Feb 2024 17:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/22/34344.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
