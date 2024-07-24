@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 05:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 17:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“우크라이나, 러시아와 직접 대화 할 수 있다” 중국 외교부 밝혀 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202407241821001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202407241821001</guid>
+            <pubDate>Wed, 24 Jul 2024 17:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[드미트로 쿨레바 우크라이나 외교장관이 3년째 진행되고 있는 전쟁을 끝내기 위해 러시아와 대화에 나설 수 있다고 말했다고 중국 외교부가 24일 전했다.
+마오닝 중국 외교부 대변인은 이날 정례 브리핑에서 왕이 중국 공산당 외사판공실 주임 겸 외교부장이 쿨레바 장관과 중국 남부 광저우에서 만나 회담했다며 “우크라이나는 러시아와 대화·협상을 하기를 원하고 준비 중”이라고 밝혔다. 마오 대변인은 “당연히 협상은 응당 이성적이고 실질적 의의가 있는 것이어야 하고, 목적은 공정하고 항구적인 평화의 실현에 있다”고 말했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/24/news-p.v1.20240724.c9c62ec7ada94fada636818f64176d52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하마스·파타 화해 끌어낸 베이징 선언…효과는 ‘글쎄’, 중국은 웃을 것 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/america/article/202407241359001</link>
@@ -110,15 +119,6 @@
 한국은행 베이징사무소는 21일 발표한 ‘2024년 하반기 중국 경제 전망 및 주요 이슈’에서 “올해 중국 경제는 정부의 정책적 지원 등에 힘입어 제조업 생산·수출을 중심으로 4% 후반 수준의 성장세를 나타낼 것으로 전망된다”고 밝혔다. 중국의 연간 소비자물가상승률은 0%대 중반으로 예측했다.
 한국은행은 상반기 중국 경제는 “전기차·배터리 등 전략 육성된 제조업을 중심으로 생산·투자·수출이 호조를 보였으나 소비 개선이 더디고 부동산 개발 투자 부진이 심화하는 등 부문별 차별화된 경기 흐름이 나타났다”고 진단했다. 산업 내 공급 과잉, 가격 경쟁 심화, 가계의 저가 소비 패턴 고착화 등이 하반기에 빠르게 개선되기는 어려울 것이라고 봤다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/21/news-p.v1.20240721.23619d8d7b0448d7a23cc0c6b3c7bc2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 3중전회, 개혁보다 관리 중점… “수세적 개혁” 평가 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202407211721001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202407211721001</guid>
-            <pubDate>Sun, 21 Jul 2024 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[중국 공산당은 지난 18일 폐막한 제20기 중앙위원회 제3차 전체회의(30중전회)에서 300개 이상의 개혁 조치를 제안했다고 밝혔다. 중국 밖에서는 이번 3중전회는 당면 과제를 극복할 만한 개혁보다는 안정적인 관리에 집중했다는 평가가 나왔다.
-중국 공산당 중앙위원회는 이번 3중전회 결과와 관련해 부동산, 조세·재정, 호구제도, 교육개혁을 강조했다. 탕팡위(唐方裕) 당 중앙위원회 중앙정책연구실 부주임은 지난 19일 열린 기자회견에서 “이번 3중전회에서는 300여개의 중요 개혁 조치를 내놨다”며 “일부는 기존 개혁 조치를 개선한 것이고 일부는 새롭게 제안된 것”이라고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/21/news-p.v1.20240721.ab823a0fc8f74c4696f7c0e18eb968e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -1299,19 +1299,27 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/06/32792.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘김건희 검찰 조사’ 특혜 아니라는 대통령실 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000035219?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000035219?type=journalists</guid>
-            <pubDate>Wed, 24 Jul 2024 05:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/22/35219.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[한동훈의 첫 시험대, ‘채상병 특검법’ 통과할까? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035230?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035230?type=journalists</guid>
+            <pubDate>Wed, 24 Jul 2024 17:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/24/35230.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈은 왜 사과했을까? 이준석의 분석 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035200?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035200?type=journalists</guid>
+            <pubDate>Wed, 24 Jul 2024 17:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/18/35200.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘임성근 구명 의혹’ 녹취가 가리키는 곳은? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035193?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035193?type=journalists</guid>
             <pubDate>Sat, 20 Jul 2024 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/17/35193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1319,7 +1327,7 @@
             <link>https://n.news.naver.com/article/308/0000035186?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035186?type=journalists</guid>
             <pubDate>Mon, 22 Jul 2024 17:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/16/35186.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1961,14 +1969,6 @@
             <pubDate>Mon, 04 Mar 2024 17:33:19 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/27/34371.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이재명 리더십’은 민주당 공천 파동 수습할 수 있을까? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034362?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034362?type=journalists</guid>
-            <pubDate>Thu, 29 Feb 2024 17:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/26/34362.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
