@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 05:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 17:35:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국·필리핀 남중국해 보급 합의 진실공방…이행 가능성에 회의론 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202407251531001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202407251531001</guid>
+            <pubDate>Thu, 25 Jul 2024 17:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[필리핀과 중국이 영유권 분쟁 중인 세컨드 토머스 암초(중국명 런아이자오·필리핀명 아융인) 보급 관련 합의를 두고 서로 다른 설명을 내놓으며 진실공방을 벌이고 있다. 남중국해 긴장 완화에 도움될 것이라는 기대를 모았던 합의가 실제 지켜지기 어려울 것이라는 전망도 나온다.
+필리핀과 중국의 세컨드 토머스 암초 보급 관련 합의는 양국 외교부가 공동 합의문 공개 없이 지난 21일과 22일 각각 발표하면서 알려졌다.
+필리핀 외교부는 남중국해 긴장을 완화해야 한다는 필요성에 따라 시에라 마드레함 물자 보급과 병력 교대 임무에 합의했으며 영유권 관련 입장은 변함없다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/25/news-p.v1.20240725.8bc949aadd9d46e9901114a9c6f3c965.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“우크라이나, 러시아와 직접 대화 할 수 있다” 중국 외교부 밝혀 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/china/article/202407241821001</link>
@@ -109,16 +119,6 @@
             <pubDate>Mon, 22 Jul 2024 05:35:26 GMT</pubDate>
             <content:encoded><![CDATA[중국의 중장기 경제정책 청사진을 제시하는 중국공산당 제20기 중앙위원회 3차 전체회의(20기 3중전회)가 지난 7월 18일 폐막했다. 20기 3중전회는 ‘진일보한 전면 개혁 심화와 중국식 현대화 추진에 관한 당 중앙의 결정’을 발표했다.
 3중전회는 중국 공산당 지도부가 중장기 경제정책을 결정하는 자리다. 중국공산당은 5년에 한 번씩 당대회를 열어 지도부를 구성하고, 5년 동안 총 7차례의 전체회의(전회)를 연다. 1·2중전회에서는 인사를, 3중전회에서는 중장기 경제정책을 다룬다. 1978년 개혁·개방 확정, 1993년 국유기업 개혁, 2003년 사유재산 인정 등이 3중전회에서 결정됐다. 20기 3중전회는 통상 개최 시점보다 8개월가량 늦어졌는데, 마땅한 청사진을 찾지 못해서라는 추측도 있었다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국은행 “중국 올해 4%대 성장” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202407211753001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202407211753001</guid>
-            <pubDate>Sun, 21 Jul 2024 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[한국은행은 올해 중국의 경제성장률이 ‘4%대 후반’ 수준이 될 것이라는 전망을 내놨다.
-한국은행 베이징사무소는 21일 발표한 ‘2024년 하반기 중국 경제 전망 및 주요 이슈’에서 “올해 중국 경제는 정부의 정책적 지원 등에 힘입어 제조업 생산·수출을 중심으로 4% 후반 수준의 성장세를 나타낼 것으로 전망된다”고 밝혔다. 중국의 연간 소비자물가상승률은 0%대 중반으로 예측했다.
-한국은행은 상반기 중국 경제는 “전기차·배터리 등 전략 육성된 제조업을 중심으로 생산·투자·수출이 호조를 보였으나 소비 개선이 더디고 부동산 개발 투자 부진이 심화하는 등 부문별 차별화된 경기 흐름이 나타났다”고 진단했다. 산업 내 공급 과잉, 가격 경쟁 심화, 가계의 저가 소비 패턴 고착화 등이 하반기에 빠르게 개선되기는 어려울 것이라고 봤다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/21/news-p.v1.20240721.23619d8d7b0448d7a23cc0c6b3c7bc2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -775,7 +775,7 @@
             <link>https://n.news.naver.com/article/308/0000035236?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035236?type=journalists</guid>
             <pubDate>Thu, 25 Jul 2024 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/25/35236.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1303,7 +1303,7 @@
             <link>https://n.news.naver.com/article/308/0000035235?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035235?type=journalists</guid>
             <pubDate>Thu, 25 Jul 2024 05:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/25/35235.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1311,15 +1311,23 @@
             <link>https://n.news.naver.com/article/308/0000035230?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035230?type=journalists</guid>
             <pubDate>Wed, 24 Jul 2024 17:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/24/35230.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임성근, 청문회 중 현직 검사에게 자문 구했다 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035206?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035206?type=journalists</guid>
+            <pubDate>Thu, 25 Jul 2024 17:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/19/35206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈은 왜 사과했을까? 이준석의 분석 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035200?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035200?type=journalists</guid>
             <pubDate>Wed, 24 Jul 2024 17:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/18/35200.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1327,7 +1335,7 @@
             <link>https://n.news.naver.com/article/308/0000035193?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035193?type=journalists</guid>
             <pubDate>Sat, 20 Jul 2024 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/17/35193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1961,14 +1969,6 @@
             <pubDate>Wed, 06 Mar 2024 17:33:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/29/34388.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘친명 좌장’ 정성호가 말하는 이재명 총선 승리 복안 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034380?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034380?type=journalists</guid>
-            <pubDate>Tue, 05 Mar 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/28/34380.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

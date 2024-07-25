@@ -4,7 +4,7 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 05:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 17:35:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/308/0000035235?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035235?type=journalists</guid>
             <pubDate>Thu, 25 Jul 2024 05:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/25/35235.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,15 +20,23 @@
             <link>https://n.news.naver.com/article/308/0000035230?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035230?type=journalists</guid>
             <pubDate>Wed, 24 Jul 2024 17:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/24/35230.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임성근, 청문회 중 현직 검사에게 자문 구했다 [김은지의 뉴스IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035206?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035206?type=journalists</guid>
+            <pubDate>Thu, 25 Jul 2024 17:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/19/35206.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈은 왜 사과했을까? 이준석의 분석 [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000035200?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035200?type=journalists</guid>
             <pubDate>Wed, 24 Jul 2024 17:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/18/35200.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/308/0000035193?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035193?type=journalists</guid>
             <pubDate>Sat, 20 Jul 2024 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/17/35193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 06 Mar 2024 17:33:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/29/34388.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘친명 좌장’ 정성호가 말하는 이재명 총선 승리 복안 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034380?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034380?type=journalists</guid>
-            <pubDate>Tue, 05 Mar 2024 17:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.28.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/28/34380.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
