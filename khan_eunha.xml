@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 17:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 05:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중·러 폭격기, 미국 알래스카 방공식별구역 첫 동반 진입]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202407260929001</link>
+            <guid>https://www.khan.co.kr/world/america/article/202407260929001</guid>
+            <pubDate>Fri, 26 Jul 2024 05:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[미국 알래스카주 인근에서 비행하던 중국과 러시아의 폭격기가 미국 알래스카 방공식별구역(ADIZ)에 나타나 합동 순찰을 했다. 중·러 폭격기가 함께 알래스카 ADIZ에 진입한 것은 처음이다.
+CNN은 25일(현지시간) 북미항공우주방위사령부(NORAD)가 전날 알래스카주 일대 ADIZ에 진입한 러시아의 장거리 전략폭격기 투폴레프(Tu)-95 두 대와 중국 H-6 폭격기 두 대를 감지한 뒤 추적해 차단했다고 보도했다.
+NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 않았으며 알래스카 ADIZ에서의 활동이 “위협으로 보이지 않는다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/26/news-p.v1.20240726.4a6b334d334444148991225b0643f48f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국·필리핀 남중국해 보급 합의 진실공방…이행 가능성에 회의론]]></title>
             <link>https://www.khan.co.kr/world/china/article/202407251531001</link>
@@ -111,14 +121,6 @@
             <content:encoded><![CDATA[필리핀과 중국이 영유권 분쟁 중인 남중국해 세컨드 토머스 암초(중국명 런아이자오·필리핀명 아융인) 물자 보급 문제를 두고 잠정 합의했다.
 필리핀 외교부는 21일(현지시간) 성명을 내고 양국이 “아융인 암초에 있는 시에라 마드레함에 필요한 일상 물자를 보급하고 병력을 교대하는 임무를 위한 잠정 합의”에 도달했다고 발표했다. 이어 “양측은 대화와 협의를 통해 남중국해 상황의 긴장을 낮추고 (입장) 차이를 관리할 필요성”을 인식했다고 밝혔다. 아울러 “영유권 문제에 대한 입장은 변함없다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/22/news-p.v1.20240722.a03f89ea526a48a28186dbe560b02f5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개혁·개방 45년, 중국 과연 어디로 갈까]]></title>
-            <link>https://weekly.khan.co.kr/khnm.html?mode=view&amp;art_id=202407220600071&amp;dept=117</link>
-            <guid>https://weekly.khan.co.kr/khnm.html?mode=view&amp;art_id=202407220600071&amp;dept=117</guid>
-            <pubDate>Mon, 22 Jul 2024 05:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 중장기 경제정책 청사진을 제시하는 중국공산당 제20기 중앙위원회 3차 전체회의(20기 3중전회)가 지난 7월 18일 폐막했다. 20기 3중전회는 ‘진일보한 전면 개혁 심화와 중국식 현대화 추진에 관한 당 중앙의 결정’을 발표했다.
-3중전회는 중국 공산당 지도부가 중장기 경제정책을 결정하는 자리다. 중국공산당은 5년에 한 번씩 당대회를 열어 지도부를 구성하고, 5년 동안 총 7차례의 전체회의(전회)를 연다. 1·2중전회에서는 인사를, 3중전회에서는 중장기 경제정책을 다룬다. 1978년 개혁·개방 확정, 1993년 국유기업 개혁, 2003년 사유재산 인정 등이 3중전회에서 결정됐다. 20기 3중전회는 통상 개최 시점보다 8개월가량 늦어졌는데, 마땅한 청사진을 찾지 못해서라는 추측도 있었다.]]></content:encoded>
         </item>
     </channel>
 </rss>
