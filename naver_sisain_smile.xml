@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 05:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 17:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘사람’이 담긴 말을 하는 정치인이 보고 싶다 [프리스타일]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035235?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035235?type=journalists</guid>
+            <pubDate>Tue, 30 Jul 2024 17:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/25/35235.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈의 첫 시험대, ‘채상병 특검법’ 통과할까? [김은지의 뉴스IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000035230?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035230?type=journalists</guid>
             <pubDate>Wed, 24 Jul 2024 17:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/24/35230.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000035225?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035225?type=journalists</guid>
             <pubDate>Mon, 29 Jul 2024 17:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/23/35225.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/308/0000035219?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035219?type=journalists</guid>
             <pubDate>Sun, 28 Jul 2024 17:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/22/35219.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Sun, 10 Mar 2024 17:32:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.03.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/04/34412.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정치인 성대모사 달인, 이상민 [사람IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034396?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034396?type=journalists</guid>
-            <pubDate>Fri, 01 Mar 2024 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/01/34396.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
