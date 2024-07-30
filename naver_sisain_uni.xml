@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 17:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 05:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[30년차 엔지니어가 들려준 ‘AI 혁신의 여정’]]></title>
+            <link>https://n.news.naver.com/article/308/0000035258?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035258?type=journalists</guid>
+            <pubDate>Tue, 30 Jul 2024 05:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/30/35258.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의사와 철학자 눈으로 바라본 ‘교통지옥’ [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000035187?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.14.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/14/33891.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] mRNA 백신 사업단, 예산 못 받아 1단계에서 종료된다]]></title>
-            <link>https://n.news.naver.com/article/308/0000033868?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033868?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/11/33868.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
