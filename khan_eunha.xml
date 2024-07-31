@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 17:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 05:34:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테무에 중국 상인들도 뿔났다…“불공정거래” 주장하며 항의 시위]]></title>
+            <link>https://www.khan.co.kr/economy/market-trend/article/202407311123001</link>
+            <guid>https://www.khan.co.kr/economy/market-trend/article/202407311123001</guid>
+            <pubDate>Wed, 31 Jul 2024 05:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[중국 쇼핑 플랫폼인 테무에 상품을 공급하는 판매자들이 환불 정책에 따른 부담을 부당하게 떠안고 있다고 항의하며 테무 모기업 본사에서 시위를 벌였다.
+홍콩 사우스차이나모닝포스트(SCMP)는 지난 29일 수십 명의 시위대가 광저우에 있는 테무와 모회사 핀둬둬(PDD홀딩스) 사무실을 급습해 시위를 벌였다고 보도했다.
+중국 매체 소후재경은 항의 시위에 참여한 중소 공급업체는 약 200여개에 달하는 것으로 파악된다고 전했다. 중국 매체 ‘이 매거진’은 80명이 PDD홀딩스 사무실에 진입했지만 경찰이 개입하자 떠났다고 보도했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/31/news-p.v1.20240731.daf1f721310a406ca2da10100a689f0f.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중국 관변논객 후시진 웨이보 계정 차단]]></title>
             <link>https://www.khan.co.kr/world/china/article/202407301638001</link>
@@ -112,16 +122,6 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
 쿨레바 장관의 중국 방문은 2022년 2월 전쟁이 발발한 이래 처음이다. 쿨레바 장관은 주중 우크라이나 대사관이 공개한 영상에서 “이번 방중은 러시아의 침략을 막는 방법과 지속 가능하고 정의로운 평화를 달성하는 데 있어서 중국의 가능한 역할에 초점을 맞출 것”이라고 밝혔다.
 쿨레바 장관의 방중은 공화당 대선 후보인 도널드 트럼프 전 대통령의 당선 가능성이 높아진 시점에서 이뤄졌다. 트럼프 전 대통령은 우크라이나 무기 지원에 부정적이며 당선되면 “전쟁을 끝내겠다”고 주장하고 있다. 최근 볼로디미르 젤렌스키 우크라이나 대통령이 트럼프 전 대통령과 전화통화를 하는 등 우크라이나는 ‘트럼프 대세론’을 받아들이고 대응하고 있다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/23/news-p.v1.20240723.81ce18c7dfda40ba993b1cf4709a8c0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 ‘미투 운동’ 꺾여도 꺾여도 솟아난 분노…인민대 박사과정생 지도교수 고발]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202407231725001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202407231725001</guid>
-            <pubDate>Tue, 23 Jul 2024 17:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[중국 인민대 박사과정 여성이 지도교수에게 성적 괴롭힘을 당했다고 폭로하자 학교 측이 교수를 즉각 해임했다. 경찰도 교수를 상대로 조사를 벌이고 있다. 미투(Me too·나도 고발한다) 운동의 성공 사례가 드문 중국에서 이례적 조치이다.
-지난 21일 중국 사회관계망서비스(SNS) 웨이보에는 자신을 인민대 문학부 박사과정생 왕디라고 밝힌 여성이 지도교수에게 성적 괴롭힘을 당했다고 폭로하는 내용이 담긴 59분 분량의 영상이 올라왔다.
-왕디는 2022년 5월 지도교수인 왕구이위안이 자신이 성적 요구를 거절하자 “졸업을 못하게 하겠다”고 2년 동안 협박해 왔다고 말했다. 왕구이위안이 언어·신체적으로 괴롭혔다고도 밝혔다. 왕구이위안은 인민대 문학부 전 당 서기이기도 하다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/23/news-p.v1.20240723.d6c5bb8fa32b498d9ecf286afcbe6e2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
