@@ -4,9 +4,29 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 05:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 17:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“나라 지키는 성산”…외국인 빠져나가도 TSMC 소액주주 역대 최대 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202408011634001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202408011634001</guid>
+            <pubDate>Thu, 01 Aug 2024 17:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[대만 타이베이의 사무직 근로자 촹(31)은 자산의 70%를 반도체 제조기업 TSMC에 투자했다. TSMC 주가는 그가 투자를 시작한 2020년 이후 2배 이상 올랐다.
+촹에게 TSMC 투자는 ‘재테크 이상’의 의미를 갖고 있다. 촹은 “TSMC는 대만을 외국 입장에서도 도저히 잃어서는 안 되는 첨단 기술 공급지로 만들었다”며 “TSMC가 강해질수록 나는 더 안전하다고 느낀다”고 블룸버그 통신에 말했다.
+블룸버그통신은 1일 TSMC의 올해 소액투자자 수가 역대 최고를 경신했다며 그 이유로 대만인들의 애국심과 안보에 대한 불안감을 꼽았다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/01/news-p.v1.20240801.74063f8202e942249989f5d6214c1719.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국, ‘1500만’ 라이브 스트리머 정식 직업 인정 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202408011525001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202408011525001</guid>
+            <pubDate>Thu, 01 Aug 2024 17:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[온라인에 영상 생중계를 하며 물건을 팔거나 후원·광고 등으로 수익을 내는 ‘라이브 스트리머’(온라인 방송 진행자)가 중국에서 정식 직업으로 인정됐다.
+1일 신화통신 등에 따르면 중국 인적자원사회보장부, 국가시장관리감독총국, 국가통계국은 전날 라이브 스트리머(网络主播)가 포함된 19종의 신종 직업 목록을 공개했다. 다른 신종 직업으로는 인공지능(AI) 시스템 운용 프로그램 전문가, 문화상품 기획 엔지니어, 지능형 제조 시스템 관리자 등이 있었다.
+인적자원사회보장부는 “신종 직업 지정은 일자리 창출, 직업교육과 훈련지도, 노동자 수준 향상, 고용 및 창업 촉진에 의의가 있다”며 라이브 스트리머를 양성하는 직업교육과 이들의 경력관리, 사회보장체계 편입 등을 지원하겠다고 밝혔다. 당국은 라이브 스트리머들이 정식 직업으로 인정돼 소속감을 느낄 수 있다는 점도 이번 발표의 의의로 꼽았다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/01/news-p.v1.20240801.38da95e3dd264b4891970f3329268f88.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“시진핑 반대 현수막 시위 또 등장” …엑스에 영상 올라와 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/china/article/202407311741001</link>
@@ -105,24 +125,6 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
 필리핀과 중국의 세컨드 토머스 암초 보급 관련 합의는 양국 외교부가 공동 합의문 공개 없이 지난 21일과 22일 각각 발표하면서 알려졌다.
 필리핀 외교부는 남중국해 긴장을 완화해야 한다는 필요성에 따라 시에라 마드레함 물자 보급과 병력 교대 임무에 합의했으며 영유권 관련 입장은 변함없다고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/25/news-p.v1.20240725.8bc949aadd9d46e9901114a9c6f3c965.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“우크라이나, 러시아와 직접 대화 할 수 있다” 중국 외교부 밝혀 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202407241821001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202407241821001</guid>
-            <pubDate>Wed, 24 Jul 2024 17:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[드미트로 쿨레바 우크라이나 외교장관이 3년째 진행되고 있는 전쟁을 끝내기 위해 러시아와 대화에 나설 수 있다고 말했다고 중국 외교부가 24일 전했다.
-마오닝 중국 외교부 대변인은 이날 정례 브리핑에서 왕이 중국 공산당 외사판공실 주임 겸 외교부장이 쿨레바 장관과 중국 남부 광저우에서 만나 회담했다며 “우크라이나는 러시아와 대화·협상을 하기를 원하고 준비 중”이라고 밝혔다. 마오 대변인은 “당연히 협상은 응당 이성적이고 실질적 의의가 있는 것이어야 하고, 목적은 공정하고 항구적인 평화의 실현에 있다”고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/24/news-p.v1.20240724.c9c62ec7ada94fada636818f64176d52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하마스·파타 화해 끌어낸 베이징 선언…효과는 ‘글쎄’, 중국은 웃을 것 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202407241359001</link>
-            <guid>https://www.khan.co.kr/world/america/article/202407241359001</guid>
-            <pubDate>Wed, 24 Jul 2024 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[하마스와 파타를 포함해 팔레스타인 14개 정파가 지난 23일 화해와 통합을 선언한 ‘베이징 선언’을 두고 회의적 전망이 지배적이다. 중국의 중재와 가자지구 전쟁 참상을 계기로 화해는 했지만 팔레스타인 정파 간 분열의 골이 깊기 때문이다. 하지만 중국의 외교적 위상은 강화됐다는 평가가 나온다.
-24일 중국 매체에 따르면 팔레스타인 14개 정파는 베이징에서 사흘간 회담한 끝에 전날 하마스·이스라엘 전쟁 종식 후에도 팔레스타인이 계속 가자지구를 통치하는 것을 목표로 하는 협정에 서명했다. 서명에는 팔레스타인 각 정파들이 요르단강 서안지구와 가자지구로 나뉜 거버넌스를 통합하고 총선을 준비하기 위해 협력해야 한다는 내용이 담겼다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/24/news-p.v1.20240724.3d2d779471b64756bba2cd574a981277.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -1307,7 +1309,7 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <link>https://n.news.naver.com/article/308/0000035238?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035238?type=journalists</guid>
             <pubDate>Wed, 31 Jul 2024 17:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/25/35238.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1323,7 +1325,7 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <link>https://n.news.naver.com/article/308/0000035230?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035230?type=journalists</guid>
             <pubDate>Wed, 24 Jul 2024 17:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/24/35230.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
