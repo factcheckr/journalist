@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 17:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 05:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시진핑은 왜 닝보 출신 홍콩 기업인 애국심을 칭찬했을까? (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202408020616001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202408020616001</guid>
+            <pubDate>Fri, 02 Aug 2024 05:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[시진핑 중국 국가주석이 중국 서남부 항구도시 닝보에 연고가 있는 홍콩 기업인들에게 편지를 보내 애국심을 칭찬하고 중국식 현대화 작업에 적극 참여해달라고 당부했다.
+2일 중국 공산당 기관지 인민일보에 따르면 시 주석은 전날 닝보 출신 홍콩 기업가 단체가 보낸 편지에 답장을 보내 이들이 조상 대대로 기업과 학교 설립, 기부 등으로 애국심과 가족애를 실천했다고 말했다.
+시 주석은 답신에서 중국식 현대화를 통해 강국 건설과 민족 부흥의 대업을 전면적으로 추진하려면 중국 전체 인민이 단결해야 한다며 닝보 출신 홍콩 기업인들이 국가 개혁·개방에 계속 적극 참여해야 한다고 강조했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/02/news-p.v1.20240802.a348d36813f74160b3e5338a8152b5de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“나라 지키는 성산”…외국인 빠져나가도 TSMC 소액주주 역대 최대 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/china/article/202408011634001</link>
@@ -115,16 +125,6 @@ MCC는 2008년 아프간 정부와 30억 달러 규모의 투자 협정을 맺�
 CNN은 25일(현지시간) 북미항공우주방위사령부(NORAD)가 전날 알래스카주 일대 ADIZ에 진입한 러시아의 장거리 전략폭격기 투폴레프(Tu)-95 두 대와 중국 H-6 폭격기 두 대를 감지한 뒤 추적해 차단했다고 보도했다.
 NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 않았으며 알래스카 ADIZ에서의 활동이 “위협으로 보이지 않는다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/26/news-p.v1.20240726.4a6b334d334444148991225b0643f48f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국·필리핀 남중국해 보급 합의 진실공방…이행 가능성에 회의론 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202407251531001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202407251531001</guid>
-            <pubDate>Thu, 25 Jul 2024 17:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[필리핀과 중국이 영유권 분쟁 중인 세컨드 토머스 암초(중국명 런아이자오·필리핀명 아융인) 보급 관련 합의를 두고 서로 다른 설명을 내놓으며 진실공방을 벌이고 있다. 남중국해 긴장 완화에 도움될 것이라는 기대를 모았던 합의가 실제 지켜지기 어려울 것이라는 전망도 나온다.
-필리핀과 중국의 세컨드 토머스 암초 보급 관련 합의는 양국 외교부가 공동 합의문 공개 없이 지난 21일과 22일 각각 발표하면서 알려졌다.
-필리핀 외교부는 남중국해 긴장을 완화해야 한다는 필요성에 따라 시에라 마드레함 물자 보급과 병력 교대 임무에 합의했으며 영유권 관련 입장은 변함없다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/25/news-p.v1.20240725.8bc949aadd9d46e9901114a9c6f3c965.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -541,7 +541,7 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <link>https://n.news.naver.com/article/308/0000035258?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035258?type=journalists</guid>
             <pubDate>Tue, 30 Jul 2024 05:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/30/35258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -781,7 +781,7 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <link>https://n.news.naver.com/article/308/0000035236?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035236?type=journalists</guid>
             <pubDate>Thu, 25 Jul 2024 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/25/35236.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1317,7 +1317,7 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <link>https://n.news.naver.com/article/308/0000035235?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035235?type=journalists</guid>
             <pubDate>Tue, 30 Jul 2024 17:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.07.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/25/35235.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
