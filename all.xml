@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Aug 2024 05:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 17:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,7 +301,7 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <link>https://n.news.naver.com/article/469/0000815917?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000815917?type=journalists</guid>
             <pubDate>Sun, 04 Aug 2024 05:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/08/04/815917.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1305,6 +1305,30 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/08/32802.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘런종섭’ 이어 ‘런성근’ 등장? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035269?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035269?type=journalists</guid>
+            <pubDate>Sun, 04 Aug 2024 17:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/31/35269.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘윤석열-한동훈 갈등’ 4차전 시작됐나? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035263?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035263?type=journalists</guid>
+            <pubDate>Sun, 04 Aug 2024 17:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/30/35263.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장경태 “김건희, 이종호를 오빠라 부른다는 제보 입수” [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035255?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035255?type=journalists</guid>
+            <pubDate>Sun, 04 Aug 2024 17:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/29/35255.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[채상병 특검법, 결국 또 부결 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035238?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035238?type=journalists</guid>
@@ -1903,78 +1927,6 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <pubDate>Mon, 25 Mar 2024 17:33:12 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.03.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/19/34524.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조국 대표가 말하는 조국혁신당 돌풍 이유 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034515?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034515?type=journalists</guid>
-            <pubDate>Sun, 24 Mar 2024 17:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/18/34515.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘도주 대사’ 비판에도 이종섭 임명 철회 안 한다는 대통령실 [기자들의 시선] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034513?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034513?type=journalists</guid>
-            <pubDate>Mon, 18 Mar 2024 05:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.18.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/18/34513.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘런종섭’과 사과값이 수도권 흔들다 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034490?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034490?type=journalists</guid>
-            <pubDate>Thu, 21 Mar 2024 05:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/14/34490.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4·10 총선, 변수는 이것이다 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034481?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034481?type=journalists</guid>
-            <pubDate>Tue, 19 Mar 2024 17:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.13.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/13/34481.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오스트레일리아 언론도 주목한 ‘도주 대사’ 이종섭 [김은지의 시사IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034473?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034473?type=journalists</guid>
-            <pubDate>Mon, 18 Mar 2024 17:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34473.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2013년 원세훈, 2024년 이종섭···되풀이되는 도피성 출국 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034464?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034464?type=journalists</guid>
-            <pubDate>Thu, 14 Mar 2024 17:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.11.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/11/34464.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조국혁신당 신장식’ vs ‘개혁신당 김용남’ 제3정당 맞수 토론 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034437?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034437?type=journalists</guid>
-            <pubDate>Wed, 13 Mar 2024 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/07/34437.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유엔난민기구와 보낸 10년은 정우성을 어떻게 바꿨나 [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034428?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034428?type=journalists</guid>
-            <pubDate>Tue, 12 Mar 2024 17:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/06/34428.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 vs 이재명, 텔레비전 토론 성사될까? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034420?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034420?type=journalists</guid>
-            <pubDate>Mon, 11 Mar 2024 17:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/05/34420.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
