@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 17:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 05:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,6 +297,14 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004539_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["연금 끊기면 안 돼" 부모 시신 방치한 중년 아들... 일본 '8050 문제'란 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000815917?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000815917?type=journalists</guid>
+            <pubDate>Sun, 04 Aug 2024 05:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/08/04/815917.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[뉴스룸에서] 1등 언론의 자격 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000811829?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000811829?type=journalists</guid>
@@ -529,19 +537,11 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/22/786786.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도쿄증시, 상하이 제치고 시총 세계 4위... ‘중국→일본·인도’ 자금 이동 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000786636?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786636?type=journalists</guid>
-            <pubDate>Wed, 21 Feb 2024 17:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.21.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/21/786636.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[30년차 엔지니어가 들려준 ‘AI 혁신의 여정’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035258?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035258?type=journalists</guid>
             <pubDate>Tue, 30 Jul 2024 05:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/30/35258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
