@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Aug 2024 17:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 05:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,7 +301,7 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <link>https://n.news.naver.com/article/469/0000815917?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000815917?type=journalists</guid>
             <pubDate>Sun, 04 Aug 2024 05:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/08/04/815917.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -537,11 +537,19 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/22/786786.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그 배우의 영어 연기, 알고 보니 AI 더빙이었네 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035288?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035288?type=journalists</guid>
+            <pubDate>Mon, 05 Aug 2024 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/08/05/35288.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[30년차 엔지니어가 들려준 ‘AI 혁신의 여정’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035258?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035258?type=journalists</guid>
             <pubDate>Tue, 30 Jul 2024 05:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/07/30/35258.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -767,14 +775,6 @@ NORAD는 중·러 폭격기가 미국이나 캐나다의 영공을 침범하지 
             <pubDate>Fri, 22 Dec 2023 05:33:21 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/22/33936.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의대 정원 늘어나면 ‘누가 의대에 가야 할까?’ (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033891?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033891?type=journalists</guid>
-            <pubDate>Thu, 14 Dec 2023 05:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.14.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/14/33891.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아리셀 화재, ‘보통의’ 이주노동자 산재와 다르다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
