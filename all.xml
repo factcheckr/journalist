@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 17:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 05:36:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -774,6 +774,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배터리 시장 위기, SK가 흔들린다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035334?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035334?type=journalists</guid>
+            <pubDate>Thu, 15 Aug 2024 05:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/08/15/35334.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아리셀 화재, ‘보통의’ 이주노동자 산재와 다르다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035236?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035236?type=journalists</guid>
@@ -1292,14 +1300,6 @@
             <pubDate>Thu, 22 Jun 2023 17:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32848.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현재진행형 공격수 박은선이 돌아왔다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032802?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032802?type=journalists</guid>
-            <pubDate>Thu, 08 Jun 2023 05:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.08.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/08/32802.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘런종섭’ 이어 ‘런성근’ 등장? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
