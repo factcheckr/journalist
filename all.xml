@@ -4,9 +4,29 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 05:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 17:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“노화 막는데 1억원 쯤은” 고압산소 큐브에 빠진 ‘양생 중국’ (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/economy/market-trend/article/202408161649001</link>
+            <guid>https://www.khan.co.kr/economy/market-trend/article/202408161649001</guid>
+            <pubDate>Fri, 16 Aug 2024 17:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[중국에서 수백만 위안에 달하는 고압산소실(高压氧舱)이 인기를 끌고 있다. 업체들이 피부미용, 노화 방지, 항암 효과도 있다고 광고하고 있어 허위·과장광고 우려도 나오고 있다.
+16일 신경보와 업체 사이트에 따르면 베이징 고급 주거지를 중심으로 고압산소실 체험이 인기를 끌고 있다. 고압산소실을 들여놓은 미용실, 요양원 등이 늘어났으며 체험 매장도 등장했다.
+고압산소실은 안에서 산소를 집중적으로 호흡할 수 있는 장치이다. 업체 설명에 따르면 고압산소실의 내부 산소농도는 90% 이상이다. 외관은 원통 혹은 박스 형태이며 내부는 비행기 퍼스트 클래스와 유사하다. 안에 뒤로 젖힐 수 있는 고급 의자와 TV가 설치돼 있고, 산소를 호흡하며 독서, 수면, 컴퓨터 작업 등을 할 수 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/16/news-p.v1.20240816.918b1a5a183e49f7a3db94b8e56c2b08.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼은 쉽게 이혼은 신중하게…혼인 감소하는 중국, 절차 개정 예고 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202408161550001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202408161550001</guid>
+            <pubDate>Fri, 16 Aug 2024 17:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[혼인율을 높이기 위해 고심하고 있는 중국 정부가 혼인신고 절차를 간소화하는 제도를 마련해 입법 예고했다.
+16일 인민일보, 신경보 등 현지매체에 따르면 한국의 행정안전부 격인 중국 민정부는 전날 혼인등기조례 개정안 초안을 웹사이트에 발표하고 다음 달 11일까지 의견을 수렴한다고 밝혔다.
+개정안에 따르면 혼인과 이혼 신고 시 호구부(가족관계증명서) 제출 의무를 없앴다. 당사자는 관공서에 가서 신분증을 제시하고 현재 미혼이며 부부가 서로 가까운 친척이 아니라는 사실을 확인하는 선언서에 서명하면 된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/16/news-p.v1.20240816.ae992128d65b42d5a70f725abf2185d5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[불확실한 경제…중국 7월 가계 대출 15년 만에 최저 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202408141632001</link>
@@ -102,26 +122,6 @@
 2일 중국 공산당 기관지 인민일보에 따르면 시 주석은 전날 닝보 출신 홍콩 기업가 단체가 보낸 편지에 답장을 보내 이들이 조상 대대로 기업과 학교 설립, 기부 등으로 애국심과 가족애를 실천했다고 말했다.
 시 주석은 답신에서 중국식 현대화를 통해 강국 건설과 민족 부흥의 대업을 전면적으로 추진하려면 중국 전체 인민이 단결해야 한다며 닝보 출신 홍콩 기업인들이 국가 개혁·개방에 계속 적극 참여해야 한다고 강조했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/02/news-p.v1.20240802.a348d36813f74160b3e5338a8152b5de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“나라 지키는 성산”…외국인 빠져나가도 TSMC 소액주주 역대 최대 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202408011634001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202408011634001</guid>
-            <pubDate>Thu, 01 Aug 2024 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[대만 타이베이의 사무직 근로자 촹(31)은 자산의 70%를 반도체 제조기업 TSMC에 투자했다. TSMC 주가는 그가 투자를 시작한 2020년 이후 2배 이상 올랐다.
-촹에게 TSMC 투자는 ‘재테크 이상’의 의미를 갖고 있다. 촹은 “TSMC는 대만을 외국 입장에서도 도저히 잃어서는 안 되는 첨단 기술 공급지로 만들었다”며 “TSMC가 강해질수록 나는 더 안전하다고 느낀다”고 블룸버그 통신에 말했다.
-블룸버그통신은 1일 TSMC의 올해 소액투자자 수가 역대 최고를 경신했다며 그 이유로 대만인들의 애국심과 안보에 대한 불안감을 꼽았다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/01/news-p.v1.20240801.74063f8202e942249989f5d6214c1719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, ‘1500만’ 라이브 스트리머 정식 직업 인정 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202408011525001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202408011525001</guid>
-            <pubDate>Thu, 01 Aug 2024 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[온라인에 영상 생중계를 하며 물건을 팔거나 후원·광고 등으로 수익을 내는 ‘라이브 스트리머’(온라인 방송 진행자)가 중국에서 정식 직업으로 인정됐다.
-1일 신화통신 등에 따르면 중국 인적자원사회보장부, 국가시장관리감독총국, 국가통계국은 전날 라이브 스트리머(网络主播)가 포함된 19종의 신종 직업 목록을 공개했다. 다른 신종 직업으로는 인공지능(AI) 시스템 운용 프로그램 전문가, 문화상품 기획 엔지니어, 지능형 제조 시스템 관리자 등이 있었다.
-인적자원사회보장부는 “신종 직업 지정은 일자리 창출, 직업교육과 훈련지도, 노동자 수준 향상, 고용 및 창업 촉진에 의의가 있다”며 라이브 스트리머를 양성하는 직업교육과 이들의 경력관리, 사회보장체계 편입 등을 지원하겠다고 밝혔다. 당국은 라이브 스트리머들이 정식 직업으로 인정돼 소속감을 느낄 수 있다는 점도 이번 발표의 의의로 꼽았다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/01/news-p.v1.20240801.38da95e3dd264b4891970f3329268f88.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -298,7 +298,7 @@
             <link>https://n.news.naver.com/article/469/0000817972?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000817972?type=journalists</guid>
             <pubDate>Fri, 16 Aug 2024 05:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/08/16/817972.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -538,7 +538,7 @@
             <link>https://n.news.naver.com/article/308/0000035338?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035338?type=journalists</guid>
             <pubDate>Fri, 16 Aug 2024 05:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/08/16/35338.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
