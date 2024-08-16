@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 17:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 05:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004539_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스룸에서] 신종 ‘나쁜 인사’ (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000817972?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000817972?type=journalists</guid>
+            <pubDate>Fri, 16 Aug 2024 05:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/08/16/817972.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["연금 끊기면 안 돼" 부모 시신 방치한 중년 아들... 일본 '8050 문제'란 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000815917?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000815917?type=journalists</guid>
@@ -526,12 +534,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/22/786828.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[속보] 닛케이지수 장중 사상 최고치 돌파… 일본 ‘잃어버린 30년’ 끝났다 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000786786?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000786786?type=journalists</guid>
-            <pubDate>Wed, 28 Feb 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/22/786786.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[‘기후위기 진짜 현실’ 알려주는 웹툰, 여기 있네 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035338?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035338?type=journalists</guid>
+            <pubDate>Fri, 16 Aug 2024 05:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/08/16/35338.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘뒷것’ 김민기, 거기에도 그가 있었구나 [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -766,19 +774,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34006.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[궤도 진입 1년, 다누리가 본 달의 모습은 [기자들의 시선] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033991?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033991?type=journalists</guid>
-            <pubDate>Tue, 02 Jan 2024 05:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33991.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[배터리 시장 위기, SK가 흔들린다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035334?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035334?type=journalists</guid>
             <pubDate>Thu, 15 Aug 2024 05:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/08/15/35334.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

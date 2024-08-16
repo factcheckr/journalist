@@ -4,9 +4,17 @@
         <title>시사인 김연희 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 17:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 05:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘기후위기 진짜 현실’ 알려주는 웹툰, 여기 있네 [사람IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035338?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035338?type=journalists</guid>
+            <pubDate>Fri, 16 Aug 2024 05:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/08/16/35338.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘뒷것’ 김민기, 거기에도 그가 있었구나 [사람IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000035296?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:04 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34006.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[궤도 진입 1년, 다누리가 본 달의 모습은 [기자들의 시선]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033991?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033991?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/02/33991.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
