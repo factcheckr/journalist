@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Aug 2024 17:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Aug 2024 05:35:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,7 +298,7 @@
             <link>https://n.news.naver.com/article/469/0000817972?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000817972?type=journalists</guid>
             <pubDate>Fri, 16 Aug 2024 05:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/08/16/817972.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -538,7 +538,7 @@
             <link>https://n.news.naver.com/article/308/0000035338?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035338?type=journalists</guid>
             <pubDate>Fri, 16 Aug 2024 05:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/08/16/35338.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -778,7 +778,7 @@
             <link>https://n.news.naver.com/article/308/0000035334?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035334?type=journalists</guid>
             <pubDate>Thu, 15 Aug 2024 05:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/08/15/35334.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
