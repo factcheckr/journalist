@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 17:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 05:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -771,6 +771,14 @@ AFP통신·자유아시아방송 등에 따르면 라비나 샴다사니 유엔 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34006.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아리셀 유가족들의 하늘색 꿈 “시간에 지지 않는다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035415?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035415?type=journalists</guid>
+            <pubDate>Mon, 02 Sep 2024 05:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/09/02/35415.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배터리 시장 위기, SK가 흔들린다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035334?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035334?type=journalists</guid>
@@ -1291,19 +1299,11 @@ AFP통신·자유아시아방송 등에 따르면 라비나 샴다사니 유엔 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32851.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울퀴어문화축제 불허 사유는? 광장시민위 회의록 살펴보니 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032848?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032848?type=journalists</guid>
-            <pubDate>Thu, 22 Jun 2023 17:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32848.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[채 상병 사건의 본질을 쫓다 [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035404?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035404?type=journalists</guid>
             <pubDate>Fri, 30 Aug 2024 05:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/08/30/35404.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
