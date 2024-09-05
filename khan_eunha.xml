@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 17:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 05:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 새 학기 덮친 안보몰이에 불안감 확산…“저러다 사람 잡겠다”]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202409051320001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202409051320001</guid>
+            <pubDate>Thu, 05 Sep 2024 05:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[“사람 잡게 생겼더군요. 심지어 훈련 도중 교관이 쓰러졌어요.”
+올해 딸을 대학에 보낸 A씨는 걱정이 이만저만이 아니다. 딸은 5일 현재 중국 대학 신입생들이 의무적으로 받아야 하는 기초 군사훈련을 받고 있다. 약 3주 안팎의 훈련기간 중 이틀은 학부모가 참관할 수 있다. A씨는 며칠 전 훈련을 참관했다.
+중국은 1984년 대학·고등학교 신입생의 군사훈련을 의무화했다. 1989년 톈안먼 항쟁 이후 사상교육 차원으로 군사훈련이 강조됐다. 칭화대·베이징대 등 공산당 간부를 다수 배출하는 명문대는 군사훈련강도가 높기도 유명하다. 총검술과 20km 야간행군 등이 훈련에 포함된다. 일부 대학은 명문대 평가를 받기 위해 고강도 군사훈련을 홍보하기도 한다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/05/news-p.v1.20240905.110ff21ba4084b3ab330cfbf2385476f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 ‘우한 실상’ 알린 중국 시민기자 또 구금]]></title>
             <link>https://www.khan.co.kr/world/china/article/202409042013005</link>
@@ -116,16 +126,6 @@
             <content:encoded><![CDATA[제이크 설리번 미국 백악관 국가안보보좌관이 29일 시진핑 중국 국가주석과 ‘중국군 2인자’ 장유샤 중국 중앙군사위원회 부주석을 만나며 사흘간의 방중 일정을 마무리했다. 중국은 미국에 대만 무기지원 중단을 요구했다.
 중국 외교부는 시 주석이 이날 오후 베이징에서 설리번 보좌관을 만나 “미국과 중국은 세계 양대 강대국으로서 세계 평화를 책임지고 공동 발전을 추진해야 한다”며 “중·미관계에 큰 변화가 있었지만 안정되고 건강하며 지속 가능한 양국관계를 목표로 하는 중국의 의지는 변함없다”고 말했다고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/29/news-p.v1.20240829.b5a82f7e12d645719c24fecde7401669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설리번·왕이 이틀째 회담…“미국, 중국과 군사대화 확대 희망”]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202408281653001</link>
-            <guid>https://www.khan.co.kr/world/america/article/202408281653001</guid>
-            <pubDate>Wed, 28 Aug 2024 17:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[제이크 설리번 백악관 국가안보보좌관과 왕이 중국공산당 중앙외사판공실 주임 겸 외교부장이 28일 중국 베이징에서 회담했다.
-로이터통신에 따르면 설리번 보좌관과 왕 주임은 전날 저녁 베이징 근교 휴양지 옌치후에서 회담 및 만찬을 한 뒤 이날 다시 만났다. 설리번 보좌관은 대만해협 등 지역에서 충돌을 방지하기 위해 양국 군사회담을 전구 사령관급으로 확대하길 바라고 있다고 로이터는 전했다.
-그는 또 중국이 미국 내 사회 문제인 ‘좀비마약’ 펜타닐의 원료가 되는 화학물질 개발을 막고 인공지능(AI) 안전기준에 대한 합의를 이끌어내기 위해 더 많은 조치를 취하기를 기대하고 있다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/28/news-p.v1.20240828.a6ce6e77063f4cf6baa4166fe208daf3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
