@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 17:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 05:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해리스노믹스, 트럼프노믹스와 비교해보니]]></title>
+            <link>https://n.news.naver.com/article/308/0000035458?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035458?type=journalists</guid>
+            <pubDate>Wed, 11 Sep 2024 05:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/09/11/35458.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아리셀 유가족들의 하늘색 꿈 “시간에 지지 않는다”]]></title>
             <link>https://n.news.naver.com/article/308/0000035415?type=journalists</link>
@@ -526,14 +534,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.06.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/22/32889.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“퀴어문화축제는 시민으로서의 권리를 계속 증명하는 것이다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000032851?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032851?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.16.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32851.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
