@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Sep 2024 17:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 05:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,7 +296,7 @@ FT는 소식통을 인용해 우 사령원의 방위회의 참석 사실을 전�
             <link>https://n.news.naver.com/article/469/0000822218?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000822218?type=journalists</guid>
             <pubDate>Mon, 09 Sep 2024 05:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/09/09/822218.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -776,7 +776,7 @@ FT는 소식통을 인용해 우 사령원의 방위회의 참석 사실을 전�
             <link>https://n.news.naver.com/article/308/0000035458?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035458?type=journalists</guid>
             <pubDate>Wed, 11 Sep 2024 05:38:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/09/11/35458.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
