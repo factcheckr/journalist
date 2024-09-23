@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 17:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 05:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젊은이들이여 제발 결혼 좀 …중국 1만명 합동결혼식]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202409231137001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202409231137001</guid>
+            <pubDate>Mon, 23 Sep 2024 05:37:42 GMT</pubDate>
+            <content:encoded><![CDATA[중국 정부와 여성단체가 혼인율을 끌어올리기 위해 주관한 1만명의 합동결혼식이 22일 중국 전역에서 열렸다.
+신화통신과 신경보에 따르면 결혼식은 베이징을 비롯해 중국 각지 50곳의 예식장을 온라인으로 연결해 동시에 실시했다. 커플 5100쌍이 붉은색 전통예복을 입고 결혼식에 참석했다. 소수민족도 각자의 전통복장을 입었으며 대만과 마카오에서 참석한 커플도 있었다.
+이들은 “평생 함께 하자”고 서약했으며 검소한 결혼식을 지지하고 고가의 예물을 주고받는 풍습에 반대한다고 밝혔다. 일부 지방은 유명 관광명소에서 결혼식을 열었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/23/news-p.v1.20240923.4068241165f34b49b2a46b271a01c202.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“최고 455만원…비싸지만 지금 주문해도 1년 대기해야”]]></title>
             <link>https://www.khan.co.kr/world/china/article/202409222022005</link>
@@ -122,18 +132,6 @@ A씨는 인근 주민의 신고를 받고 출동한 119구급대원들에 의해
 추석을 맞아 고향을 찾은 A씨는 당시 과수원에서 농사일을 돕던 중이었던 것으로 알려졌다.
 경찰은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/17/news-p.v1.20240917.87657efc77ed4640b06f004dee5264c7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[버스전용차로 끼어든 차량에···경부고속도로 청주나들목 6중 추돌사고]]></title>
-            <link>https://www.khan.co.kr/national/incident/article/202409171742001</link>
-            <guid>https://www.khan.co.kr/national/incident/article/202409171742001</guid>
-            <pubDate>Tue, 17 Sep 2024 17:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[한가위인 17일 경부고속도로 청주나들목 인근에서 6중 추돌사고가 발생했다.
-뉴시스에 따르면 이날 오전 9시 14분쯤 청주시 흥덕구 석소동 경부고속도로 상행선 청주나들목 인근에서 40대 운전자 A씨가 몰던 카니발 SUV와 B(20대)씨의 모하비 SUV가 충돌했다.
-뒤따르던 차량 3대가 사고 차량과 부딪히면서 6중 추돌사고로 이어졌다.
-이 사고로 A씨 등 16명도 다쳐 치료 중이다. 쏘렌토 SUV에 타고 있던 2명이 얼굴과 배 등을 크게 다쳐 인근 병원으로 옮겨졌다.
-A씨는 버스전용차량을 달리던 중 갑자기 끼어든 B씨의 차량을 미처 피해지 못한 것으로 조사됐다. B씨의 모하비 SUV는 승차 정원이 9인 미만이어서 버스전용차로를 이용할 수 없다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/17/news-p.v1.20240917.00c1c13467d44dc998e19fb61188ead5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
