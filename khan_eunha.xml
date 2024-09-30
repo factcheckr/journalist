@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Sep 2024 17:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 05:39:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리창 중국 총리 “성숙한 대책 바로 내놓아야”…추가 부양책 주문]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202409301429001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202409301429001</guid>
+            <pubDate>Mon, 30 Sep 2024 05:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[리창 중국 국무원 총리가 올해 5% 안팎인 경제 성장률 목표를 달성하기 위해 후속 부양책을 내놓으라고 지시했다.
+30일 신화통신에 따르면 리 총리는 전날 국무원 상무위원회 회의에서 “연간 경제·사회 발전 목표 임무 달성을 위해 노력해야 한다”며 “조건이 비교적 성숙한 정책은 바로 내놓아야 한다”고 말했다. 리 총리는 “각 부문은 피하거나 책임을 미뤄서는 안 되고 강하게 협동해야 한다”며 “상황 변화에 근거해 제때 새로운 점진적 정책을 연구해야 한다”고 주문했다.
+중국 정부는 최근 대규모 부양책을 쏟아내고 있다. 인민은행은 지난 24일 지급준비율을과 정책금리, 주택담보대출금리 낮춰 시장에 1조위안(약189조원)의 유동성을 풀기로 했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/30/news-p.v1.20240930.6620bc6e37ac4d62bb0acbf6b6bd5268.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍콩, 언론자유 후퇴·민주파 와해·보안법 압제 속 조용한 ‘우산운동 10주년’]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202409271745001</link>
@@ -117,16 +127,6 @@ NEAR에 따르면 25일 중국 랴오닝성 선양에서 NAEA 제14차 고위급
 24일 중국중앙TV(CCTV)에 따르면 왕 주임은 23일(현지시간) 미국 뉴욕에서 압달라 부 하비브 레바논 외무장관을 만나 “우리는 지역 정세 변화, 특히 최근 레바논에서 발생한 통신장비 폭발 사건에 고도로 주목하고 있고 민간인을 겨냥한 무차별 공격에 단호히 반대한다”고 말했다.
 왕 부장은 “오늘 이스라엘은 또 레바논에 대해 대규모 공습을 해 중대한 인명 사상을 야기했다”며 “우리는 국제관계 기본 준칙을 위반한 행위를 강하게 규탄한다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/24/news-p.v1.20240924.b52019ffeb3c4c498b181204147f5c97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 초등생 피습 사망에…일 외무상, 중국에 ‘반일 콘텐츠’ 단속 요구]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202409241202001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202409241202001</guid>
-            <pubDate>Tue, 24 Sep 2024 05:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월 중국 온라인에서는 최대 음료 기업 농푸산취안 음료를 변기에 버리는 모습을 담은 영상이 급속히 퍼졌다. 농푸취시안이 친일·친미 기업이라는 의혹이 불거지면서 벌어진 불매운동의 일환이었다.
-의혹은 아시아 최대 갑부인 중산상 회장의 아들이 미국 시민권자라는 사실이 알려지면서 촉발됐다. 분노의 불길을 지핀 것은 음모론이었다. 이 회사가 생산한 생수병의 빨간 뚜껑은 욱일기, 병에 그려진 산은 후지산, 녹차병의 절은 야스쿠니 신사를 의미한다는 주장이 영상 등을 통해 확산됐다.
-농푸산취안 불매운동은 중국 내에서도 억지스럽다는 비판을 받았다. 중국 온라인의 반일감정이 자국 기업마저 공격할 정도로 심각한 수위에 이르렀다는 교훈을 남기며 잠시의 소동으로 그치는 듯했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/24/news-p.v1.20240924.4cd4a11c23984c1fb7fe63a61eb30381.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
