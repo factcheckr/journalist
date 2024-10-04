@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 17:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 05:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -536,6 +536,14 @@ SCMP는 “러시아·북한과 마찬가지로 독일, 이탈리아, 유럽연�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/22/786900.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“가끔씩은 한 방씩 터트려주세요” [찾아가는 독자위원회] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035526?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035526?type=journalists</guid>
+            <pubDate>Fri, 04 Oct 2024 05:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/10/04/35526.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘서성이던’ 발걸음이 여기 이 책방에 모여 [찾아가는 독자위원회] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035437?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035437?type=journalists</guid>
@@ -768,12 +776,12 @@ SCMP는 “러시아·북한과 마찬가지로 독일, 이탈리아, 유럽연�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34037.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공공병원에는 ○○이 있다 [기자의 추천 책] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034028?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034028?type=journalists</guid>
-            <pubDate>Mon, 15 Jan 2024 17:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/09/34028.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[IRA 단맛 끝나나? 대미 투자 기업 ‘숨 고르기’ (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035527?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035527?type=journalists</guid>
+            <pubDate>Fri, 04 Oct 2024 05:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/10/04/35527.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노인의 일, ‘봉사활동’ 아니고 ‘일자리’입니다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1294,14 +1302,6 @@ SCMP는 “러시아·북한과 마찬가지로 독일, 이탈리아, 유럽연�
             <pubDate>Mon, 03 Jul 2023 05:34:18 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/03/32966.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총선까지 300일 녹색당, 사투를 시작하다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000032938?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000032938?type=journalists</guid>
-            <pubDate>Thu, 29 Jun 2023 05:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.06.29.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/29/32938.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채 상병 사건의 본질을 쫓다 [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
