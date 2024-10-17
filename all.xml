@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 17:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 05:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대만 민간기구 “중국에 평화의 꽃사슴 보낼 계획” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202410171053001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202410171053001</guid>
+            <pubDate>Thu, 17 Oct 2024 05:38:06 GMT</pubDate>
+            <content:encoded><![CDATA[중국과의 교류 업무를 맡아 온 대만 민간기구가 평화 염원을 담은 꽃사슴 한 쌍을 중국 동물원에 보내는 것을 추진하고 있다고 밝혔다.
+17일 대만중앙통신사에 따르면 뤄원자 해협교류기금회(재단) 사무총장은 전날 마쭈·다쭈섬을 방문한 자리에서 다쭈섬에 서식하는 꽃사슴 한 쌍을 중국으로 보낼 계획이라고 밝혔다.
+뤄 사무총장은 중국군이 지난 14일 실시한 대만 포위 군사훈련을 언급하며 “해협 반대편에서 온 군용기와 군함이 평화로 가는 길에 그림자를 드리우고 있다”고 말했다. 그러면서 “재단은 ‘허허’와 ‘핑핑’이라는 이름으로 불릴 꽃사슴 한 쌍을 보내기 위해 푸저우 동물원과 접촉하고 있다”고 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/10/17/news-p.v1.20241017.b30809445e334749ae20641e1b66b471.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[“중국은 미국의 친구 될 의향 있다” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/world/america/article/202410162135025</link>
@@ -112,16 +122,6 @@
 홍콩 사우스차이나모닝포스트(SCMP)는 14일 중국의 저명한 국제관계학자인 옌쉐퉁 칭화대 국제관계연구원장이 “해리스가 트럼프보다 중국의 부상을 꺼릴 것”이라고 전망했다고 보도했다.
 옌 원장은 지난 11일 칭화대에서 열린 존 미어사이머 전 시카고대 석좌교수와의 토론에서 “트럼프는 미국의 국제적 지배력보단 미국 국내 이익에 더 관심이 많다”면서 “그러나 해리스는 미국의 지배력을 유지하는 데 열의를 보일 것이고 그로 인해 미·중 간에 (이전보다) 더 많은 정치적 갈등이 생길 것”이라고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/10/14/news-p.v1.20241014.9056661ea5dd435ca003ec535c29a93d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국군, 라이칭더 연설 나흘 만에 대만 포위 훈련…5개월 만 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202410141550001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202410141550001</guid>
-            <pubDate>Mon, 14 Oct 2024 17:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[중국군이 라이칭더 대만 총통의 건국기념일(쌍십절) 연설 나흘 만인 14일 대만을 포위하는 군사 훈련에 실시했다. 라이 총통의 “중국과 대만이 서로 예속되지 않는다”는 발언에 대응한 조처이다.
-중국 인민해방군 동부전구 사령부는 이날 오전 5시(현지시간) 사회관계망서비스 공식계정에서 “전구 육군·해군·공군·로켓군 등 병력을 조직해 대만해협과 대만 섬 북부·남부, 섬 동쪽에서 ‘연합 리젠(날카로운 칼)-2024B 연습’을 실시한다”고 밝혔다.
-리시 동부전구 대변인은 “이 훈련은 대만 독립 분열 세력의 ‘독립’ 도모 행동에 대한 엄중한 경고이자 국가 주권과 국가 통일을 수호하는 정당하고 필요한 행동”이라고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/10/14/news-p.v1.20241014.83e8140abd7340afab6c6e62d3a2a3df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -298,7 +298,7 @@
             <link>https://n.news.naver.com/article/469/0000827604?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000827604?type=journalists</guid>
             <pubDate>Mon, 14 Oct 2024 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/10/14/827604.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
