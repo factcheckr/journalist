@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 17:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 05:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,7 +297,7 @@
             <link>https://n.news.naver.com/article/469/0000827604?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000827604?type=journalists</guid>
             <pubDate>Mon, 14 Oct 2024 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/10/14/827604.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -771,6 +771,14 @@
             <pubDate>Mon, 15 Jan 2024 17:33:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.10.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34037.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원해도 다 살 수 없는 먹거리의 시대가 온다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035587?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035587?type=journalists</guid>
+            <pubDate>Fri, 18 Oct 2024 05:39:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/10/18/35587.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금융 당국 정조준, 정무위 국감 미리보기 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1291,14 +1299,6 @@
             <pubDate>Mon, 17 Jul 2023 05:35:31 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.17.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/17/33043.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아동의 살 권리는 어떻게 보장하나 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033010?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033010?type=journalists</guid>
-            <pubDate>Mon, 10 Jul 2023 05:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/10/33010.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채 상병 사건의 본질을 쫓다 [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
