@@ -4,25 +4,9 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 17:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 05:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[포기하지 않고 ‘읽기‘ 선택하는 사람들에게 [기자의 추천 책]]]></title>
-            <link>https://n.news.naver.com/article/308/0000035598?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000035598?type=journalists</guid>
-            <pubDate>Mon, 21 Oct 2024 05:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/10/21/35598.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원해도 다 살 수 없는 먹거리의 시대가 온다]]></title>
-            <link>https://n.news.naver.com/article/308/0000035587?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000035587?type=journalists</guid>
-            <pubDate>Fri, 18 Oct 2024 05:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/10/18/35587.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[금융 당국 정조준, 정무위 국감 미리보기]]></title>
             <link>https://n.news.naver.com/article/308/0000035535?type=journalists</link>
@@ -534,6 +518,70 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.07.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/27/33117.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀란 쿤데라의 마지막을 함께한 책 [기자들의 시선]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033043?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033043?type=journalists</guid>
+            <pubDate>Thu, 24 Oct 2024 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.07.17.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/17/33043.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아동의 살 권리는 어떻게 보장하나]]></title>
+            <link>https://n.news.naver.com/article/308/0000033010?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033010?type=journalists</guid>
+            <pubDate>Thu, 24 Oct 2024 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.07.10.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/10/33010.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IS 추종자 검거 도왔는데, 1년짜리 임시 비자 주고 끝?]]></title>
+            <link>https://n.news.naver.com/article/308/0000032966?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032966?type=journalists</guid>
+            <pubDate>Thu, 24 Oct 2024 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.07.03.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/03/32966.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[총선까지 300일 녹색당, 사투를 시작하다]]></title>
+            <link>https://n.news.naver.com/article/308/0000032938?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032938?type=journalists</guid>
+            <pubDate>Thu, 24 Oct 2024 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.06.29.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/29/32938.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올여름 ‘슈퍼 엘니뇨’ 때문에 정말 더울까?]]></title>
+            <link>https://n.news.naver.com/article/308/0000032889?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032889?type=journalists</guid>
+            <pubDate>Thu, 24 Oct 2024 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.06.22.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/22/32889.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“퀴어문화축제는 시민으로서의 권리를 계속 증명하는 것이다”]]></title>
+            <link>https://n.news.naver.com/article/308/0000032851?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032851?type=journalists</guid>
+            <pubDate>Thu, 24 Oct 2024 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.06.16.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32851.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울퀴어문화축제 불허 사유는? 광장시민위 회의록 살펴보니]]></title>
+            <link>https://n.news.naver.com/article/308/0000032848?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032848?type=journalists</guid>
+            <pubDate>Thu, 24 Oct 2024 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.06.16.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/16/32848.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현재진행형 공격수 박은선이 돌아왔다]]></title>
+            <link>https://n.news.naver.com/article/308/0000032802?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000032802?type=journalists</guid>
+            <pubDate>Thu, 24 Oct 2024 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.06.08.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/06/08/32802.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
