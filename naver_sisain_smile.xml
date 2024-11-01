@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 05:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 17:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부 의혹의 스모킹건, 이제 시작이다 [명태균이라는 스모킹건 ①]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035660?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035660?type=journalists</guid>
+            <pubDate>Fri, 01 Nov 2024 17:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/01/35660.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채 상병 사건의 본질을 쫓다 [사람IN]]]></title>
             <link>https://n.news.naver.com/article/308/0000035404?type=journalists</link>
@@ -622,14 +630,6 @@
             <pubDate>Wed, 27 Mar 2024 17:33:36 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.03.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/21/34542.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열·한동훈 비례대표 파열음 커질까 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034532?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034532?type=journalists</guid>
-            <pubDate>Tue, 26 Mar 2024 17:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.20.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/20/34532.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
