@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Nov 2024 05:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 17:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1306,7 +1306,7 @@ CNN은 한국 대통령실 고위 관계자가 최근 “한·미·일 3국은 �
             <link>https://n.news.naver.com/article/308/0000035660?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035660?type=journalists</guid>
             <pubDate>Fri, 01 Nov 2024 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/01/35660.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
