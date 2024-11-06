@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 17:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 05:38:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -775,11 +775,19 @@ CCTV와 펑파이신문 등에 따르면 시중쉰 일대기를 다룬 40부작 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34037.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노벨상 수상의 경제적 이익은 누구의 것인가? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035677?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035677?type=journalists</guid>
+            <pubDate>Wed, 06 Nov 2024 05:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/06/35677.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[허위 학력에서 시작된 여사의 거짓말 의혹 [김건희라는 아킬레스건 ④] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035647?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035647?type=journalists</guid>
             <pubDate>Wed, 30 Oct 2024 05:39:12 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/10/30/35647.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1293,14 +1301,6 @@ CCTV와 펑파이신문 등에 따르면 시중쉰 일대기를 다룬 40부작 
             <pubDate>Tue, 15 Aug 2023 05:32:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.08.15.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/15/33224.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지자체만 웃는 특별재난지역 선포 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033193?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033193?type=journalists</guid>
-            <pubDate>Wed, 09 Aug 2023 05:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/09/33193.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부 의혹의 스모킹건, 이제 시작이다 [명태균이라는 스모킹건 ①] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
