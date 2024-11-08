@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 05:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 17:36:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 지방 정부 숨겨진 부채 해결에 2000조원 투입]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202411081856001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202411081856001</guid>
+            <pubDate>Fri, 08 Nov 2024 17:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 경제의 뇌관으로 꼽히는 지방정부 부채 문제를 해결하기 위해 향후 5년간 10조 위안(약 1935조원)을 투입하겠다고 밝혔다.
+전국인민대표대회 상무위원회는 8일 국무원이 제출한 지방정부 부채 한도상향 방안을 승인했다고 밝혔다. 중국 재정부는 지방정부 부채 한도를 늘리기 위해 3년간 6조 위안의 특별채권을 발행한다. 지방정부의 부채 한도는 2024년 말 기준 29조5200억 위안에서 35조5200억 위안으로 늘어난다.
+재정부는 올해부터 5년 동안 매년 지방정부 특별채권 중에서 8000억 위안을 부채 해결에 배정해 총 4조 위안을 지방정부의 숨겨진 부채와 교환하도록 한다. 숨겨진 부채를 채권 형식으로 전환하도록 해 지방정부가 시간을 두고 상환할 수 있도록 한 것이다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/11/08/news-p.v1.20241108.ac64d97955d6424293906e2e2c63237a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트럼프 당선 전부터 걱정…중국 무역박람회에 미국·유럽 구매자 방문 줄어]]></title>
             <link>https://www.khan.co.kr/world/china/article/202411081226001</link>
@@ -113,16 +123,6 @@
 중국중앙TV(CCTV)와 인민일보 등 관영 매체들은 이날 미국 대통령 선거가 시작됐으며 대선 결과가 확정되려면 3~4일의 시간이 걸릴 수 있다고 전했다.
 이들 매체는 여론조사에 따르면 대선 결과를 결정짓는 펜실베이니아주를 비롯한 7개 경합주에서 민주당 후보인 카멀라 해리스 부통령과 공화당 후보 도널드 트럼프 전 대통령의 지지율은 동률이며 경합지 판세는 요동치고 있다고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/11/05/news-p.v1.20241105.e995479fc6a44131bd2c7c8764391d6a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시진핑 아버지 시중쉰 주인공 TV 사극 중국에서 첫 방영]]></title>
-            <link>https://www.khan.co.kr/world/china/article/202411051119001</link>
-            <guid>https://www.khan.co.kr/world/china/article/202411051119001</guid>
-            <pubDate>Tue, 05 Nov 2024 05:37:04 GMT</pubDate>
-            <content:encoded><![CDATA[시진핑 중국 국가주석의 아버지인 시중쉰을 주인공으로 하는 TV 드라마가 5일 중국중앙TV(CCTV)에서 첫 방영된다.
-CCTV와 펑파이신문 등에 따르면 시중쉰 일대기를 다룬 40부작 드라마 &lt;서북세월&gt;이 이날 CCTV 채널1과 텐센트, 망고TV, 아이치이 등 콘텐츠 플랫폼에서 방영된다. 홍콩 성도일보에 따르면 시중쉰을 주인공으로 내세운 TV 드라마가 제작된 것은 처음이다.
-드라마는 산시성의 가난한 농민의 아들로 태어난 시중쉰이 학생운동을 거쳐 공산혁명에 뛰어들며 신중국의 지도자로 거듭나는 과정을 그렸다. 제1차 국공내전이 발생한 1927년부터 시중쉰이 당 선전부장이 돼 서북지역을 떠나는 1952년까지의 행적이 중심이다. 시중쉰이 1947년 국공내전 당시 중국 공산당 근거지였던 옌안을 사수하기 위해 분투하는 모습과 소수민족 통합을 위해 애쓰는 일 등이 강조됐다고 전해진다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/11/05/news-p.v1.20241105.60bd3c5a2c45478b9cc042e3a0ec74e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
