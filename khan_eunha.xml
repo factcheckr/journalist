@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 17:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 05:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트럼프 당선 전부터 걱정…중국 무역박람회에 미국·유럽 구매자 방문 줄어]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202411081226001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202411081226001</guid>
+            <pubDate>Fri, 08 Nov 2024 05:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[중국 대외 무역의 양상을 가늠할 수 있는 무역 박람회에서 미국·유럽 고객 비중이 줄고 중동·중앙아시아 등 일대일로(육·해상 실크로드) 국가 비중이 늘어난 것으로 나타났다.
+8일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 지난 4일 폐막한 제136회 중국 수출입 박람회(캔톤 페어)에는 해외 구매자 25만3000명이 방문해 249억5000만 달러(약 34조5956억원)의 계약을 체결했다. 주문량의 절반 이상이 중동과 중앙아시아 등 일대일로 참여국들에서 나왔다.
+캔톤 페어는 광둥성 광저우에서 열리는 중국 최대의 무역 박람회다. 해마다 4~5월과 10~11월 3주에 걸쳐서 열린다. 중국 대외 무역의 척도라고 불린다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/11/08/news-p.v1.20241108.a78bd05c350d4e309ac614783ec534c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘누가 되든’으로 준비한 중국, 트럼프 맞춤형 전략안 바로 내놓을까]]></title>
             <link>https://www.khan.co.kr/world/china/article/202411072134015</link>
@@ -113,15 +123,6 @@
 CCTV와 펑파이신문 등에 따르면 시중쉰 일대기를 다룬 40부작 드라마 &lt;서북세월&gt;이 이날 CCTV 채널1과 텐센트, 망고TV, 아이치이 등 콘텐츠 플랫폼에서 방영된다. 홍콩 성도일보에 따르면 시중쉰을 주인공으로 내세운 TV 드라마가 제작된 것은 처음이다.
 드라마는 산시성의 가난한 농민의 아들로 태어난 시중쉰이 학생운동을 거쳐 공산혁명에 뛰어들며 신중국의 지도자로 거듭나는 과정을 그렸다. 제1차 국공내전이 발생한 1927년부터 시중쉰이 당 선전부장이 돼 서북지역을 떠나는 1952년까지의 행적이 중심이다. 시중쉰이 1947년 국공내전 당시 중국 공산당 근거지였던 옌안을 사수하기 위해 분투하는 모습과 소수민족 통합을 위해 애쓰는 일 등이 강조됐다고 전해진다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/11/05/news-p.v1.20241105.60bd3c5a2c45478b9cc042e3a0ec74e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“간첩몰이 돌아올라” 중국계 과학자 ‘덜덜’]]></title>
-            <link>https://www.khan.co.kr/world/america/article/202411042118015</link>
-            <guid>https://www.khan.co.kr/world/america/article/202411042118015</guid>
-            <pubDate>Mon, 04 Nov 2024 17:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[미·중 갈등의 대표적 희생양으로 꼽히는 중국계 미국인 과학자들이 5일(현지시간) 실시되는 미국 대선 결과에 촉각을 곤두세우고 있다. 공화당 후보 도널드 트럼프 전 대통령이 당선되면 중국계 과학자들을 겨냥한 간첩몰이가 부활할 것이라는 우려가 나온다.
-4일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 실험 경제학자인 옌 천 미국 미시간대 교수는 민주당 후보 카멀라 해리스 부통령의 당선을 바란다기보다 트럼프 전 대통령의 패배를 기원하고 있다.
-그는 “트럼프 당선은 중국계 미국인 학자들에게 좋은 결과일 수 없다”며 “해리스에 대해서는 다 알지 못하지만 그는 절반은 아시아계이고 이민자, 과학자의 자녀였다. 해리스가 아시아계와 아시아계 미국인 학자 커뮤니티에 좀 더 공감해주길 바란다”고 말했다.]]></content:encoded>
         </item>
     </channel>
 </rss>
