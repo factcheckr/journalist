@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 17:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 05:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비공표 보고서 23건, 누굴 위한 여론조사였나 [명태균이라는 스모킹건 ③]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035702?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035702?type=journalists</guid>
+            <pubDate>Tue, 12 Nov 2024 05:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/12/35702.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공천개입 의혹 둘러싼 명태균의 25시간 변명 [명태균이라는 스모킹건 ②]]]></title>
             <link>https://n.news.naver.com/article/308/0000035697?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035697?type=journalists</guid>
             <pubDate>Mon, 11 Nov 2024 05:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/11/35697.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -622,14 +630,6 @@
             <pubDate>Mon, 01 Apr 2024 17:32:42 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.03.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/26/34578.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하위 20%' 경선 탈락 박광온, "무조건 원팀" 외치는 이유 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034569?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034569?type=journalists</guid>
-            <pubDate>Sun, 31 Mar 2024 17:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/25/34569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
