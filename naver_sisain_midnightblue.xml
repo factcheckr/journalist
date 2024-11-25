@@ -4,9 +4,25 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Nov 2024 17:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 05:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“엄마 아빠도 도와주세요”라는 학대 피해 아동의 요청]]></title>
+            <link>https://n.news.naver.com/article/308/0000035760?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035760?type=journalists</guid>
+            <pubDate>Mon, 25 Nov 2024 05:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/25/35760.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘보호아동은 시설에서’ 이제는 변해야 하는데]]></title>
+            <link>https://n.news.naver.com/article/308/0000035762?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035762?type=journalists</guid>
+            <pubDate>Mon, 25 Nov 2024 05:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/25/35762.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위고비 상륙, 누구나 날씬해지는 세상이 열린다?]]></title>
             <link>https://n.news.naver.com/article/308/0000035706?type=journalists</link>
@@ -518,22 +534,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.06.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/06/33352.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“이제는 4대강이 아니라 물관리를 말해야 한다”]]></title>
-            <link>https://n.news.naver.com/article/308/0000033314?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033314?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/31/33314.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘포스트 4대강 사업’, 강바닥 파면 홍수 안 나나]]></title>
-            <link>https://n.news.naver.com/article/308/0000033313?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033313?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/31/33313.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
