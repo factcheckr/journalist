@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 05:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 17:36:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -775,6 +775,30 @@ CNN과 AP통신 등에 따르면 텍사스 출신 사업가 스위던은 중국�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배추 실장님은 오늘도 밭에 간다 [사람IN] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035781?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035781?type=journalists</guid>
+            <pubDate>Sun, 01 Dec 2024 17:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/29/35781.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“엄마 아빠도 도와주세요”라는 학대 피해 아동의 요청 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035760?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035760?type=journalists</guid>
+            <pubDate>Sun, 01 Dec 2024 17:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/25/35760.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘보호아동은 시설에서’ 이제는 변해야 하는데 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035762?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035762?type=journalists</guid>
+            <pubDate>Sun, 01 Dec 2024 17:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/25/35762.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위고비 상륙, 누구나 날씬해지는 세상이 열린다? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035706?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035706?type=journalists</guid>
@@ -1277,78 +1301,6 @@ CNN과 AP통신 등에 따르면 텍사스 출신 사업가 스위던은 중국�
             <pubDate>Thu, 07 Sep 2023 05:33:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.07.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/07/33361.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 강에는 문제가 있다 [프리스타일] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033352?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033352?type=journalists</guid>
-            <pubDate>Wed, 06 Sep 2023 17:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.06.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/06/33352.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“이제는 4대강이 아니라 물관리를 말해야 한다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033314?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033314?type=journalists</guid>
-            <pubDate>Fri, 29 Nov 2024 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/31/33314.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘포스트 4대강 사업’, 강바닥 파면 홍수 안 나나 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033313?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033313?type=journalists</guid>
-            <pubDate>Fri, 29 Nov 2024 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.31.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/31/33313.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살인은 복잡하다, 거짓과 연민 때문에 [기자의 추천 책] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033224?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033224?type=journalists</guid>
-            <pubDate>Fri, 29 Nov 2024 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/15/33224.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지자체만 웃는 특별재난지역 선포 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033193?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033193?type=journalists</guid>
-            <pubDate>Fri, 29 Nov 2024 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.09.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/09/33193.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“재난 대응의 기본 단위는 개인이 아닌 이웃이다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033156?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033156?type=journalists</guid>
-            <pubDate>Fri, 29 Nov 2024 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.08.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/02/33156.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘생태’는 진보, ‘환경보호’는 보수? 이념에 갇힌 기후 대응 교육 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033117?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033117?type=journalists</guid>
-            <pubDate>Fri, 29 Nov 2024 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/27/33117.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀란 쿤데라의 마지막을 함께한 책 [기자들의 시선] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033043?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033043?type=journalists</guid>
-            <pubDate>Fri, 29 Nov 2024 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.17.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/17/33043.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아동의 살 권리는 어떻게 보장하나 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033010?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033010?type=journalists</guid>
-            <pubDate>Fri, 29 Nov 2024 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.07.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/07/10/33010.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 정권의 신호탄 ‘김학의 사건’을 추적하다 [기자의 추천 책] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
