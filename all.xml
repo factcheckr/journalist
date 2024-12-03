@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 17:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 05:40:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -774,11 +774,19 @@ CNN과 AP통신 등에 따르면 텍사스 출신 사업가 스위던은 중국�
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더 뜨겁고 집요한 ‘트럼프 2.0’이 온다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035793?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035793?type=journalists</guid>
+            <pubDate>Tue, 03 Dec 2024 05:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/03/35793.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배추 실장님은 오늘도 밭에 간다 [사람IN] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035781?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035781?type=journalists</guid>
             <pubDate>Sun, 01 Dec 2024 17:36:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/29/35781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -786,7 +794,7 @@ CNN과 AP통신 등에 따르면 텍사스 출신 사업가 스위던은 중국�
             <link>https://n.news.naver.com/article/308/0000035760?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035760?type=journalists</guid>
             <pubDate>Sun, 01 Dec 2024 17:36:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.11.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/25/35760.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -794,7 +802,7 @@ CNN과 AP통신 등에 따르면 텍사스 출신 사업가 스위던은 중국�
             <link>https://n.news.naver.com/article/308/0000035762?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035762?type=journalists</guid>
             <pubDate>Sun, 01 Dec 2024 17:36:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.11.25.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/25/35762.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1292,14 +1300,6 @@ CNN과 AP통신 등에 따르면 텍사스 출신 사업가 스위던은 중국�
             <pubDate>Fri, 22 Sep 2023 05:33:38 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.09.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/22/33456.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭉쳐야 산다, 해녀들이 모인 이유 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033361?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033361?type=journalists</guid>
-            <pubDate>Thu, 07 Sep 2023 05:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.07.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/07/33361.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 정권의 신호탄 ‘김학의 사건’을 추적하다 [기자의 추천 책] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
