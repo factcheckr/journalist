@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 17:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 05:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@ HBM은 D램을 수직으로 여러 장 쌓아 데이터 처리 속도를 높인 
             <link>https://n.news.naver.com/article/308/0000035793?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035793?type=journalists</guid>
             <pubDate>Tue, 03 Dec 2024 05:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/03/35793.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -787,7 +787,7 @@ HBM은 D램을 수직으로 여러 장 쌓아 데이터 처리 속도를 높인 
             <link>https://n.news.naver.com/article/308/0000035781?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035781?type=journalists</guid>
             <pubDate>Sun, 01 Dec 2024 17:36:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/29/35781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
