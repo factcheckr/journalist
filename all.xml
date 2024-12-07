@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 17:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 05:40:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -775,11 +775,19 @@ HBM은 D램을 수직으로 여러 장 쌓아 데이터 처리 속도를 높인 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/10/34035.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[외신, 윤석열 계엄령에 ‘충격’ 한국 시민 수준에 ‘감탄’ (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035834?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035834?type=journalists</guid>
+            <pubDate>Sat, 07 Dec 2024 05:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/07/35834.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 뜨겁고 집요한 ‘트럼프 2.0’이 온다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035793?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035793?type=journalists</guid>
             <pubDate>Tue, 03 Dec 2024 05:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/03/35793.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -787,7 +795,7 @@ HBM은 D램을 수직으로 여러 장 쌓아 데이터 처리 속도를 높인 
             <link>https://n.news.naver.com/article/308/0000035781?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035781?type=journalists</guid>
             <pubDate>Sun, 01 Dec 2024 17:36:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2024.11.29.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/11/29/35781.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1293,14 +1301,6 @@ HBM은 D램을 수직으로 여러 장 쌓아 데이터 처리 속도를 높인 
             <pubDate>Wed, 25 Oct 2023 05:32:56 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/19/33571.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마침내 법정으로 간 대기업의 ‘처리수’ 문제 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033456?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033456?type=journalists</guid>
-            <pubDate>Fri, 22 Sep 2023 05:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.09.22.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/22/33456.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 정권의 신호탄 ‘김학의 사건’을 추적하다 [기자의 추천 책] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
