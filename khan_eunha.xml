@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 17:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 05:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 중앙경제공작회의 개최…트럼프 시대 앞두고 전략 짠다]]></title>
+            <link>https://www.khan.co.kr/article/202412111345001</link>
+            <guid>https://www.khan.co.kr/article/202412111345001</guid>
+            <pubDate>Wed, 11 Dec 2024 05:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 내년 성장목표와 경제정책 기조를 결정하는 중앙경제공작회의가 11일부터 이틀간 열릴 것으로 보인다.
+블룸버그통신은 최근 소식통을 인용해 중앙경제공작회의가 11∼12일 열릴 예정이라고 보도했다. 이 회의는 시진핑 중국 국가주석이 주재하는 비공개 연례회의로 중국 최고 지도부와 금융 당국 고위 관계자들이 참석한다.
+회의 일정은 보통 사전에 발표되지 않으며 회의 종료 후 관영매체를 통해 개최 사실을 알린다. 구체적 성장률 목표치는 이듬해 3월 양회(전국인민대표대회·인민정치협상회의)를 통해 나오며 관보에는 사자성어 형식의 추상적 표현으로 공개된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/11/news-p.v1.20241211.fb812b77ca844763a2987468692c05fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중, 엔비디아 반독점 조사…‘미 반도체 제재’ 정면 대응 의지]]></title>
             <link>https://www.khan.co.kr/article/202412102043005</link>
@@ -111,17 +121,6 @@
             <content:encoded><![CDATA[중국 매체들이 7일 국민의힘 불참으로 부결된 윤석열 대통령 탄핵소추안에 ‘반중친일’ 외교노선이 탄핵 근거로 포함된 점에 주목했다. ‘12·3 비상계엄 사태’로 한·미·일 3각 협력이 흔들릴 가능성에 대해서도 관심을 보이고 있다.
 환구시보는 8일 ‘구중친일(仇中親日), 윤석열 탄핵안 세부내용 공개’란 제목의 기사에서 탄핵소추안은 군대를 동원한 것에 대한 법적 ·도덕적 책임을 묻는 기초라면서 소추안 결론부에 외교 부분의 무대응도 언급됐다고 전했다. ‘구중친일’은 중국을 미워하고 일본과 친하게 지낸다는 뜻이다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/08/news-p.v1.20241208.44fbe151cda34557a49ba8e59ac28066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이칭더, 괌에서 미국 하원의장과 통화…하와이 이어 두 번째]]></title>
-            <link>https://www.khan.co.kr/article/202412051749001</link>
-            <guid>https://www.khan.co.kr/article/202412051749001</guid>
-            <pubDate>Thu, 05 Dec 2024 17:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[태평양 도서국 순방 중인 라이칭더 대만 총통이 마이크 존슨 미국 하원의장과 통화했다고 AFP통신이 5일(현지시간) 보도했다.
-AFP통신은 라이 총통과 존슨 의장의 통화는 워싱턴 현지시간으로 4일 오후 이뤄졌다고 순방에 동행한 대만 총통부 관계자를 인용해 전했다. 라이 총통은 이날 미국령 괌에 도착했다.
-두 사람은 라이 총통의 이번 방문이 중국의 군사적 위협의 이유가 될 수 없다는 내용의 대화를 나눴다고 총통부 관계자가 전했다.
-대만 총통부는 중국이 라이 총통의 순방을 이유로 오는 주말 군사 훈련에 나설 수 있다고 보고 있다고 연합신문망 등이 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/05/news-p.v1.20241205.8f88f04817834356ad90a6dea1fcfa6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
