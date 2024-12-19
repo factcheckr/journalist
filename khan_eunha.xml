@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 17:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 05:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한은 북경사무소 “중국경제 내년 4% 초중반 성장”]]></title>
+            <link>https://www.khan.co.kr/article/202412191200001</link>
+            <guid>https://www.khan.co.kr/article/202412191200001</guid>
+            <pubDate>Thu, 19 Dec 2024 05:38:13 GMT</pubDate>
+            <content:encoded><![CDATA[중국경제는 내년도 정부의 적극적인 부양 정책에 힘입어 4% 초중반 수준의 성장할 것이라고 한국은행 북경사무소가 전망했다.
+한국은행 북경사무소는 19일 ‘2025년 중국경제 전망 및 주요 이슈’ 보고서에서 내년 중국경제는 미･중 무역갈등 심화, 글로벌 경기둔화 등 대외 불확실성이 높아지면서 성장의 하방압력이 커질 것으로 예상되나 정부의 정책 지원에 힘입어 4% 초중반 수준의 성장세를 보일 것이라고 전망했다.
+보고서는 최근 중국경제는 제조업 생산과 투자 부문과 수출이 호조세를 이어갔으나, 부동산 시장 부진이 이어지고, 소비 증가세가 둔화되는 등 부분별로 차별화된 모습을 보인다고 진단했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/19/news-p.v1.20241219.0acbc45d10ce494fbc8342c38a86e539.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국, 6000억원대 뇌물 수수 지방 관리 사형 집행]]></title>
             <link>https://www.khan.co.kr/article/202412181714001</link>
@@ -110,15 +120,6 @@ EU는 16일(현지시간) 브뤼셀에서 열린 EU 외교장관회의에서 러
 13일 중국중앙TV(CCTV) 등에 따르면 시진핑 중국 국가주석 등 중국 당정 지도부는 지난 11~12일 베이징에서 내년도 성장률과 경제정책 방향을 결정하는 연례회의인 중앙경제공작회의를 열었다. 
 중앙경제공작회의는 “내년에는 더 적극적인 재정정책을 시행해야 한다”며 “국내총생산(GDP) 대비 재정 적자율을 올리고, 초장기 특별국채 발행과 지방정부 특별채권 발행·사용을 늘리며, 재정지출 구조를 개선해야 한다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/13/news-p.v1.20241213.38f9cafcca1a40aa9b0105e3b083b371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중, 중국인 간첩 언급 윤석열 담화에 “놀랍고 불만”]]></title>
-            <link>https://www.khan.co.kr/article/202412122047005</link>
-            <guid>https://www.khan.co.kr/article/202412122047005</guid>
-            <pubDate>Thu, 12 Dec 2024 17:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 12·3 비상계엄 사태와 탄핵 정국에 대해 침묵하던 중국이 12일 윤석열 대통령이 대국민 담화에서 중국인 간첩을 언급하자 “놀랍고 불만스럽다”며 반발했다.
-마오닝 중국 외교부 대변인은 이날 정례 브리핑에서 윤 대통령 담화에 대해 “관련 상황을 주목하고 있으며 한국 측의 발언에 깊은 놀라움과 불만을 느끼고 있다”고 말했다.
-마오 대변인은 “중국은 한국의 내정에 대해 논평하지 않지만, 한국이 내정 문제를 중국 관련 요인과 연관시키고 소위 중국 간첩을 과장하며 정상적인 경제무역협력을 비방하는 것을 단호히 반대한다”며 “이는 중·한관계의 건전하고 안정적인 발전에 도움이 되지 않는다”고 말했다.]]></content:encoded>
         </item>
     </channel>
 </rss>
