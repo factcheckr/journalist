@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 17:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 05:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔루션 저널리즘을 위한 ‘새벽 3시30분의 기상’ [사람IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000035909?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035909?type=journalists</guid>
+            <pubDate>Fri, 20 Dec 2024 05:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/20/35909.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰 정권의 신호탄 ‘김학의 사건’을 추적하다 [기자의 추천 책]]]></title>
             <link>https://n.news.naver.com/article/308/0000035749?type=journalists</link>
@@ -622,14 +630,6 @@
             <pubDate>Mon, 08 Apr 2024 17:33:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.04.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/02/34625.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대국민 담화가 총선에 미칠 영향은? [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034619?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034619?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.04.01.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/01/34619.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
