@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 17:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 05:38:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일 언론 “중국, 내년 상반기 일본산 수산물 수입 재개”]]></title>
+            <link>https://www.khan.co.kr/article/202412231348001</link>
+            <guid>https://www.khan.co.kr/article/202412231348001</guid>
+            <pubDate>Mon, 23 Dec 2024 05:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 후쿠시마 원전 오염수 방류 이후 중단했던 일본산 수산물 수입을 내년 상반기 재개할 것으로 보인다고 니혼게이자이신문이 23일 보도했다.
+니혼게이자이신문은 여러 중국 정부 관계자를 인용해 내년 5~6월 일본에서 열리는 한·중·일 정상회담에 맞춰 리창 중국 총리가 수입 금지 해제를 발표하는 방안이 유력하다고 전했다.
+일본산 수산물 최대 수입국이었던 중국은 지난해 8월 도쿄전력이 후쿠시마 제1원전 오염수 방류를 시작하자 일본산 수산물 수입을 전면 금지했다. 센가쿠열도(중국명 댜오위댜오)·대만 문제, 미·일 군사협력 등으로 갈등을 빚던 중·일관계는 이 조치로 인해 더욱 악화됐다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/23/news-p.v1.20241223.4d1f78161c564affa0db5ac907401dd5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번엔 ‘핵무력 보고서’ 신경전…중국 “미국은 반성부터 하라”]]></title>
             <link>https://www.khan.co.kr/article/202412222032005</link>
@@ -115,14 +125,6 @@ EU는 16일(현지시간) 브뤼셀에서 열린 EU 외교장관회의에서 러
 신화통신에 따르면 구시는 16일 ‘당의 자아혁명을 깊이 추진하자’는 제목의 기사를 게재했다. 시 주석이 올해 1월 중국 최고위 사정기관인 중앙기율검사위원회 전체회의에서 한 연설 전문이다.
 연설에서 시 주석은 ‘끊임없는 자아혁명’을 마오쩌둥이 제시한 ‘인민이 정부를 감독하게 하는 것’에 이어 공산당이 영속 집권할 수 있는 길이라고 제시했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/16/news-p.v1.20241216.1f2e743c995447258fae6bcba4a5f772.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[감염병 최고 전문가가 단백질바 판매를?...중국 AI 딥페이크 사기 골치]]></title>
-            <link>https://www.khan.co.kr/article/202412161525001</link>
-            <guid>https://www.khan.co.kr/article/202412161525001</guid>
-            <pubDate>Mon, 16 Dec 2024 17:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[중국 온라인 쇼핑몰에서 대중에게 친숙한 감염병 전문가가 건강보조식품을 판매하는 딥페이크 영상이 생방송으로 방영돼 소비자들이 혼란을 겪었다. 갈수록 정교해지는 인공지능(AI) 합성기술에 대한 우려가 커지고 있다. 
-16일 상관신문 등에 따르면 장원훙 국가전염병의학센터장 겸 푸단대 부속 화산병원 감염과 주임이 단백질바를 판매하는 영상이 몇 차례 심야 온라인 쇼핑몰에 생방송으로 송출됐다. 장 센터장은 중국 최고의 감염병 전문가로 꼽히는 인물로, 코로나19 대유행 기간 대중매체에서 바이러스의 변이나 감염상황을 설명했다.]]></content:encoded>
         </item>
     </channel>
 </rss>
