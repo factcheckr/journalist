@@ -4,17 +4,35 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 05:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 17:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“중국, 내년 상반기에 일 수산물 수입 재개”]]></title>
+            <link>https://www.khan.co.kr/article/202412232215015</link>
+            <guid>https://www.khan.co.kr/article/202412232215015</guid>
+            <pubDate>Mon, 23 Dec 2024 17:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 후쿠시마 원전 오염수 방류 이후 중단했던 일본산 수산물 수입을 내년 상반기 재개할 것으로 보인다고 니혼게이자이신문이 23일 보도했다. 니혼게이자이신문은 중국 정부 관계자의 말을 인용해 내년 5~6월 일본에서 열리는 한·중·일 정상회담에 맞춰 리창 중국 총리가 수입 금지 해제를 발표하는 방안이 유력하다고 전했다.
+일본산 수산물 최대 수입국이었던 중국은 지난해 8월 도쿄전력이 후쿠시마 제1원전 오염수 방류를 시작하자 일본산 수산물 수입을 전면 금지했다. 센카쿠열도(중국명 댜오위다오)·대만 문제, 미·일 군사협력 등으로 갈등을 빚던 중·일관계는 이 조치로 인해 더욱 악화됐다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인민을 더 짜증나게 하는 것은 ‘파리’와 ‘개미’…중국, 미세부패 근절 강조]]></title>
+            <link>https://www.khan.co.kr/article/202412231612001</link>
+            <guid>https://www.khan.co.kr/article/202412231612001</guid>
+            <pubDate>Mon, 23 Dec 2024 17:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[시진핑 국가주석의 3연임 이후 중국 전역에서 60만명 이상이 ‘미세 부패’ 혐의로 처벌받았다고 당국이 밝혔다. 중국 공산당 지도부의 반부패 캠페인이 군과 당정 고위급을 넘어 농촌으로 향하고 있다.
+23일 신화통신에 따르면 국가감찰위원회는 시 주석의 3연임을 결정한 2022년 10월 중국 공산당 제20차 당대회 이후 전국 감찰기관이 인민 주변의 불건전한 관행과 부패 사건 76만8000건을 적발해 62만8000명을 처벌하고 2만명을 검찰원에 넘겼다고 밝혔다.
+신화통신은 국가감찰위원회가 전날 제14기 전국인민대표대회 상무위원회 제13차 회의에서 이 같이 보고했다며 ‘미세부패’ 근절·처벌 정책이 새로운 효과를 보여줬다고 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/23/news-p.v1.20241223.e4f6a30b78d44749bb74c4831ddc951a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일 언론 “중국, 내년 상반기 일본산 수산물 수입 재개”]]></title>
             <link>https://www.khan.co.kr/article/202412231348001</link>
             <guid>https://www.khan.co.kr/article/202412231348001</guid>
-            <pubDate>Mon, 23 Dec 2024 05:37:24 GMT</pubDate>
+            <pubDate>Mon, 23 Dec 2024 17:34:28 GMT</pubDate>
             <content:encoded><![CDATA[중국이 후쿠시마 원전 오염수 방류 이후 중단했던 일본산 수산물 수입을 내년 상반기 재개할 것으로 보인다고 니혼게이자이신문이 23일 보도했다.
 니혼게이자이신문은 여러 중국 정부 관계자를 인용해 내년 5~6월 일본에서 열리는 한·중·일 정상회담에 맞춰 리창 중국 총리가 수입 금지 해제를 발표하는 방안이 유력하다고 전했다.
-일본산 수산물 최대 수입국이었던 중국은 지난해 8월 도쿄전력이 후쿠시마 제1원전 오염수 방류를 시작하자 일본산 수산물 수입을 전면 금지했다. 센가쿠열도(중국명 댜오위댜오)·대만 문제, 미·일 군사협력 등으로 갈등을 빚던 중·일관계는 이 조치로 인해 더욱 악화됐다.]]></content:encoded>
+일본산 수산물 최대 수입국이었던 중국은 지난해 8월 도쿄전력이 후쿠시마 제1원전 오염수 방류를 시작하자 일본산 수산물 수입을 전면 금지했다. 센카쿠열도(중국명 댜오위다오)·대만 문제, 미·일 군사협력 등으로 갈등을 빚던 중·일 관계는 이 조치로 인해 더욱 악화됐다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/23/news-p.v1.20241223.4d1f78161c564affa0db5ac907401dd5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -105,26 +123,6 @@
 17일 펑파이신문에 따르면 중앙기율검사위원회와 국가감찰위원회는 전날 우춘롱 산시성 정치위원회 당영도조 서기 겸 위원장(61)이 심각한 규율과 법률 위반 혐의로 당국의 징계심사와 조사를 받고 있다고 홈페이지에 공문을 올려 밝혔다. ‘심각한 규율 위반’은 보통 부패 혐의가 있을 때 사용된다.
 펑파이신문은 올해 들어 중국에서 장관급 공무원이 반부패 조사를 받아 낙마한 것은 우 위원장이 9번째라고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/17/news-p.v1.20241217.c0ef920b51c245b9a370f670c790827f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU, 러시아의 전쟁 돕는 중국 기업 첫 포괄적 제재…“심각한 신호”]]></title>
-            <link>https://www.khan.co.kr/article/202412171453001</link>
-            <guid>https://www.khan.co.kr/article/202412171453001</guid>
-            <pubDate>Tue, 17 Dec 2024 17:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[유럽연합(EU)이 러시아가 서방 제재를 회피하고 우크라이나 전쟁을 수행하는 데 도움을 준 중국 기업과 개인을 처음으로 포괄적 제재 대상에 포함시켰다.
-EU는 16일(현지시간) 브뤼셀에서 열린 EU 외교장관회의에서 러시아의 우크라이나 침공에 대한 제15차 제재 패키지를 채택했다고 발표했다. 개인 54명, 기관·법인 30곳 등 84건을 제재 대상으로 새로 지정됐다.
-중국의 기업 및 단체 7곳이 제재 명단에 포함됐다. EU 집행위원회는 중국인 및 중국 기관·기업과 관련해 “러시아가 EU 제재를 우회하는 데 도움을 준 개인 1명과 기관 2곳, 러시아 군대에 민감한 무인기(드론) 부품과 마이크로 전기 부품을 공급하는 4곳”이라고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/17/news-p.v1.20241217.46ddf81422754b358b3a2a023bbd0acc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시진핑 “칼날을 안으로” …공산당 이론지가 공개한 연설]]></title>
-            <link>https://www.khan.co.kr/article/202412161711001</link>
-            <guid>https://www.khan.co.kr/article/202412161711001</guid>
-            <pubDate>Mon, 16 Dec 2024 17:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[시진핑 중국 국가주석이 당의 기강을 잡을 때 강조하는 개념인 ‘자아혁명’이 중국 공산당 이론잡지에 또다시 등장했다. 내년도 당과 군의 고위직을 대상으로 고강도 사정을 예고한 것으로 보인다.
-신화통신에 따르면 구시는 16일 ‘당의 자아혁명을 깊이 추진하자’는 제목의 기사를 게재했다. 시 주석이 올해 1월 중국 최고위 사정기관인 중앙기율검사위원회 전체회의에서 한 연설 전문이다.
-연설에서 시 주석은 ‘끊임없는 자아혁명’을 마오쩌둥이 제시한 ‘인민이 정부를 감독하게 하는 것’에 이어 공산당이 영속 집권할 수 있는 길이라고 제시했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/16/news-p.v1.20241216.1f2e743c995447258fae6bcba4a5f772.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
