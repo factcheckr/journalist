@@ -4,9 +4,25 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 17:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 05:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국제사회는 이미 ‘윤석열 다음’을 묻는다]]></title>
+            <link>https://n.news.naver.com/article/308/0000035923?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035923?type=journalists</guid>
+            <pubDate>Tue, 24 Dec 2024 05:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/24/35923.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10만원만 빌려도 신상 박제, 더 악랄해진 불법추심의 덫]]></title>
+            <link>https://n.news.naver.com/article/308/0000035924?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035924?type=journalists</guid>
+            <pubDate>Tue, 24 Dec 2024 05:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/24/35924.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외신, 윤석열 계엄령에 ‘충격’ 한국 시민 수준에 ‘감탄’]]></title>
             <link>https://n.news.naver.com/article/308/0000035834?type=journalists</link>
@@ -518,22 +534,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.24.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/24/33603.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘엄마’가 ‘유가족’이 된 1년 [이태원 참사 1주기]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033596?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033596?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/23/33596.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘예고된 미래’ 우리 옆의 녹색일자리]]></title>
-            <link>https://n.news.naver.com/article/308/0000033571?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033571?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/19/33571.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

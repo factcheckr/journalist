@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 17:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 05:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -539,7 +539,7 @@
             <link>https://n.news.naver.com/article/308/0000035915?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035915?type=journalists</guid>
             <pubDate>Sun, 22 Dec 2024 05:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/22/35915.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -547,7 +547,7 @@
             <link>https://n.news.naver.com/article/308/0000035910?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035910?type=journalists</guid>
             <pubDate>Fri, 20 Dec 2024 05:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/20/35910.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -773,6 +773,22 @@
             <pubDate>Tue, 23 Jan 2024 05:32:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/23/34131.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국제사회는 이미 ‘윤석열 다음’을 묻는다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035923?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035923?type=journalists</guid>
+            <pubDate>Tue, 24 Dec 2024 05:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/24/35923.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10만원만 빌려도 신상 박제, 더 악랄해진 불법추심의 덫 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035924?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035924?type=journalists</guid>
+            <pubDate>Tue, 24 Dec 2024 05:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/24/35924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외신, 윤석열 계엄령에 ‘충격’ 한국 시민 수준에 ‘감탄’ (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1287,27 +1303,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/24/33603.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘엄마’가 ‘유가족’이 된 1년 [이태원 참사 1주기] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033596?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033596?type=journalists</guid>
-            <pubDate>Sun, 29 Oct 2023 17:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/23/33596.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘예고된 미래’ 우리 옆의 녹색일자리 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000033571?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033571?type=journalists</guid>
-            <pubDate>Wed, 25 Oct 2023 05:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/19/33571.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[솔루션 저널리즘을 위한 ‘새벽 3시30분의 기상’ [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035909?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035909?type=journalists</guid>
             <pubDate>Fri, 20 Dec 2024 05:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/12/20/35909.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
