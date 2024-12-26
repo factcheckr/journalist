@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 17:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 05:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 전·현 육해군 장성 2명 전인대 대의원직 박탈…멈추지 않는 군 반부패 숙청]]></title>
+            <link>https://www.khan.co.kr/article/202412261339011</link>
+            <guid>https://www.khan.co.kr/article/202412261339011</guid>
+            <pubDate>Thu, 26 Dec 2024 05:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 국회의원에 해당하는 전국인민대표대회 대의원 8명이 부패 혐의를 이유로 대의원 자격을 박탈당했다. 자격을 상실한 대의원 가운데 전·현직 장성 출신 2명이 포함되는 등 군을 겨냥한 반부패 사정 드라이브가 계속되고 있다.
+26일 홍콩 명보와 대만 중앙통신사 등에 따르면 제14기 전인대 상무위는 전날 웨이싱강, 지젠쥔, 팡궈밍, 셩원쥔, 리추위안, 마닝위, 유하이타오, 리펑청 등 8명의 전인대 대의원 자격을 박탈한다고 밝혔다. 전인대 상무위는 이들에게서 심각한 규율과 법률 위반 혐의가 발견됐다고 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/26/news-p.v1.20241226.1e5473457d5d45dcb508fdb75d8445dd.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중·일 외교장관, 일본산 수산물 수입재개 합의 실행 확인···국방 당국 안보대화도 추진]]></title>
             <link>https://www.khan.co.kr/article/202412251909001</link>
@@ -113,16 +122,6 @@
 23일 신화통신에 따르면 국가감찰위원회는 시 주석의 3연임을 결정한 2022년 10월 중국 공산당 제20차 당대회 이후 전국 감찰기관이 인민 주변의 불건전한 관행과 부패 사건 76만8000건을 적발해 62만8000명을 처벌하고 2만명을 검찰원에 넘겼다고 밝혔다.
 신화통신은 국가감찰위원회가 전날 제14기 전국인민대표대회 상무위원회 제13차 회의에서 이 같이 보고했다며 ‘미세부패’ 근절·처벌 정책이 새로운 효과를 보여줬다고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/23/news-p.v1.20241223.e4f6a30b78d44749bb74c4831ddc951a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일 언론 “중국, 내년 상반기 일본산 수산물 수입 재개”]]></title>
-            <link>https://www.khan.co.kr/article/202412231348001</link>
-            <guid>https://www.khan.co.kr/article/202412231348001</guid>
-            <pubDate>Mon, 23 Dec 2024 17:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[중국이 후쿠시마 원전 오염수 방류 이후 중단했던 일본산 수산물 수입을 내년 상반기 재개할 것으로 보인다고 니혼게이자이신문이 23일 보도했다.
-니혼게이자이신문은 여러 중국 정부 관계자를 인용해 내년 5~6월 일본에서 열리는 한·중·일 정상회담에 맞춰 리창 중국 총리가 수입 금지 해제를 발표하는 방안이 유력하다고 전했다.
-일본산 수산물 최대 수입국이었던 중국은 지난해 8월 도쿄전력이 후쿠시마 제1원전 오염수 방류를 시작하자 일본산 수산물 수입을 전면 금지했다. 센카쿠열도(중국명 댜오위다오)·대만 문제, 미·일 군사협력 등으로 갈등을 빚던 중·일 관계는 이 조치로 인해 더욱 악화됐다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/12/23/news-p.v1.20241223.4d1f78161c564affa0db5ac907401dd5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
