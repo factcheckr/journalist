@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 17:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 05:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -537,6 +537,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/26/787317.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다시 겨울, 얼어붙은 도로 위에 [2024 올해의 사진] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035989?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035989?type=journalists</guid>
+            <pubDate>Fri, 03 Jan 2025 05:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/01/03/35989.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[표지 제목은 누가, 어떻게 정하나요? [찾아가는 독자위원회] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035915?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035915?type=journalists</guid>
@@ -767,14 +775,6 @@
             <pubDate>Mon, 05 Feb 2024 05:32:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/05/34229.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘납북귀환 어부’ 유가족 두 번 울리는 법원 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034131?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034131?type=journalists</guid>
-            <pubDate>Tue, 23 Jan 2024 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.23.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/23/34131.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국제사회는 이미 ‘윤석열 다음’을 묻는다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
