@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 17:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 05:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,7 +541,7 @@
             <link>https://n.news.naver.com/article/308/0000035989?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035989?type=journalists</guid>
             <pubDate>Fri, 03 Jan 2025 05:37:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/01/03/35989.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1305,6 +1305,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/24/33603.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이런 국회 어떻습니까 [2024 올해의 사진] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000035995?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000035995?type=journalists</guid>
+            <pubDate>Sat, 04 Jan 2025 05:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/01/04/35995.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[솔루션 저널리즘을 위한 ‘새벽 3시30분의 기상’ [사람IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000035909?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000035909?type=journalists</guid>
@@ -1919,14 +1927,6 @@
             <pubDate>Wed, 03 Apr 2024 05:32:30 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.04.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/03/34631.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열에 선 긋는 한동훈, ‘총선 위기론’ 현실로? [김은지의 뉴스IN] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034625?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034625?type=journalists</guid>
-            <pubDate>Mon, 08 Apr 2024 17:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.04.02.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/02/34625.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
