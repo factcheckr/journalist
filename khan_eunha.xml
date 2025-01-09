@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 17:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 05:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 부유층 해외 자산 빼돌리기 칼 빼든다]]></title>
+            <link>https://www.khan.co.kr/article/202501091404001</link>
+            <guid>https://www.khan.co.kr/article/202501091404001</guid>
+            <pubDate>Thu, 09 Jan 2025 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[중국 최고 반부패 사정기구가 올해 부유층의 해외 재산 빼돌리기와 같은 ‘국경을 넘나드는 부패’를 정조준한다고 밝혔다. 반부패 수사의 대상이 되는 범죄 유형과 범주도 넓히기로 했다.
+중국공산당 제20기 중앙기율검사위원회(기율위)는 8일 폐막한 제4차 전체회의 결과를 소개한 공보에서 “정치문제와 경제문제가 뒤얽힌 부패 사건을 엄정히 조사하겠다”고 밝혔다. 기율위는 그러면서 금융, 국유기업, 에너지, 소방, 담배, 의약품, 스포츠, 학교, 인프라 건설 등의 분야를 시정 대상으로 지목했다.
+기율위는 ‘파리와 개미의 부패를 엄정 처벌하겠다고 강조했다. 파리와 개미의 부패는 민생침해형 부패로 급식비리, 입찰비리, 의약품 리베이트 등이 해당한다. 중국 지방정부들이 올해 경기부양을 위해 대대적 인프라 건설을 계획하고 있는 상황에서, 입찰 등을 둘러싼 정경유착형 비리 적발이 많아질 것으로 예상된다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/09/news-p.v1.20250109.cba7d1b49d774725bf5fc05655ae47ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 티베트 강진, 646차례 여진에 사상자 300명대]]></title>
             <link>https://www.khan.co.kr/article/202501082020025</link>
@@ -111,16 +121,6 @@
 궈자쿤 중국 외교부 신임 대변인은 이날 브리핑에서 북한 탄도미사일 발사에 대한 중국 측 입장을 묻는 질의에 “조선반도(한반도) 문제에서 중국의 입장은 일관되고 명확하다”며 “발사 관련 활동에 대해 새로운 논평이 없다”고 답했다.
 중국 외교부가 말하는 ‘일관된 입장’은 중국은 한반도의 비핵화와 평화·안정 수호를 지지하며 무력 분쟁 발생에 반대한다는 내용을 의미한다. 또한 한국과 미국의 군사적 움직임을 겨냥해 ‘북한이 느끼는 합리적 안보 위협’ 해소가 필요하다는 입장도 갖고 있다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/06/news-p.v1.20250106.5ab85f088af84e218ce3accf605fc330.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 서비스업 경기 살아나나…12월 차이신 PMI 7개월 만에 최고치]]></title>
-            <link>https://www.khan.co.kr/article/202501061700001</link>
-            <guid>https://www.khan.co.kr/article/202501061700001</guid>
-            <pubDate>Mon, 06 Jan 2025 17:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[중국 경제매체 차이신이 발표하는 차이신 서비스업 구매관리자지수(PMI)가 지난해 12월 52.2를 기록해 7개월 만에 최고치를 기록했다. 다만 해외 신규 사업은 1년 4개월 만에 감소했다.
-6일 발표된 차이신 서비스업 PMI지수는 전월(51.5)보다 상승했으며 7개월 연속 확장 국면면을 보였다. 차이신 PMI지수는 차이신이 서비스 기업 구매담당자 조사를 바탕으로 작성한다. 이 지수가 50보다 높으면 경기 확장, 낮으면 경기 수축 국면을 의미한다.
-중국 국가통계국이 앞서 발표한 지난해 12월 비제조업 PMI가 52.2를 기록하며 강한 반등세를 보였다. 서비스업 경기가 반등세를 보이고 있는 것이다. 지난해 9월부터 시작된 정부 경기부양책의 효과로 보인다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/06/news-p.v1.20250106.6d465e73ff8241fd84c3e6f0d519cd31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
