@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 17:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 05:38:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0405/A0003018208_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스룸에서] '윤석열의 재림'을 믿는 사람들 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000843638?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000843638?type=journalists</guid>
+            <pubDate>Mon, 13 Jan 2025 05:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2025/01/13/843638.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[뉴스룸에서]  그날, 비상계엄이 성공했다면 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000838552?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000838552?type=journalists</guid>
@@ -526,19 +534,11 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/26/787318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['같은 일 해도 월급은 절반'… 초고령사회 일본 ‘65세 정년’의 실상 [클로즈업 재팬] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000787317?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000787317?type=journalists</guid>
-            <pubDate>Sun, 03 Mar 2024 17:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/26/787317.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[의료 대란에 국정 공백까지 “너무나 위험하다” (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000036022?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036022?type=journalists</guid>
             <pubDate>Wed, 08 Jan 2025 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/01/08/36022.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -778,7 +778,7 @@
             <link>https://n.news.naver.com/article/308/0000036028?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036028?type=journalists</guid>
             <pubDate>Thu, 09 Jan 2025 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/01/09/36028.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
