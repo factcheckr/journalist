@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 17:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 05:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,7 +298,7 @@
             <link>https://n.news.naver.com/article/469/0000843638?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000843638?type=journalists</guid>
             <pubDate>Mon, 13 Jan 2025 05:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2025/01/13/843638.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -538,7 +538,7 @@
             <link>https://n.news.naver.com/article/308/0000036022?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036022?type=journalists</guid>
             <pubDate>Wed, 08 Jan 2025 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/01/08/36022.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -772,22 +772,6 @@
             <pubDate>Wed, 21 Feb 2024 05:33:00 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.21.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/21/34332.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지원 “2월28일 윤석열 탄핵 인용 유력, 다섯 번 심리면 충분해” [김은지의 뉴스IN] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000036049?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000036049?type=journalists</guid>
-            <pubDate>Mon, 13 Jan 2025 17:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/01/13/36049.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정치가 실종된 시간, 자영업이 무너진다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000036028?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000036028?type=journalists</guid>
-            <pubDate>Thu, 09 Jan 2025 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/01/09/36028.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국제사회는 이미 ‘윤석열 다음’을 묻는다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1300,6 +1284,70 @@
             <pubDate>Mon, 30 Oct 2023 17:33:39 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.10.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/26/33617.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아무도 사과하지 않아서’ 이태원에 남았다 [이태원 참사 1주기] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033610?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033610?type=journalists</guid>
+            <pubDate>Tue, 14 Jan 2025 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.10.25.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/25/33610.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“이제는 참사가 제 잘못이 아니라는 걸 알아요” [이태원 참사 1주기] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033603?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033603?type=journalists</guid>
+            <pubDate>Tue, 14 Jan 2025 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.10.24.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/24/33603.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘엄마’가 ‘유가족’이 된 1년 [이태원 참사 1주기] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033596?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033596?type=journalists</guid>
+            <pubDate>Tue, 14 Jan 2025 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.10.23.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/23/33596.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘예고된 미래’ 우리 옆의 녹색일자리 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033571?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033571?type=journalists</guid>
+            <pubDate>Tue, 14 Jan 2025 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.10.19.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/19/33571.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마침내 법정으로 간 대기업의 ‘처리수’ 문제 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033456?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033456?type=journalists</guid>
+            <pubDate>Tue, 14 Jan 2025 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.09.22.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/22/33456.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭉쳐야 산다, 해녀들이 모인 이유 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033361?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033361?type=journalists</guid>
+            <pubDate>Tue, 14 Jan 2025 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.09.07.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/07/33361.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 강에는 문제가 있다 [프리스타일] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033352?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033352?type=journalists</guid>
+            <pubDate>Tue, 14 Jan 2025 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.09.06.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/09/06/33352.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“이제는 4대강이 아니라 물관리를 말해야 한다” (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000033314?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033314?type=journalists</guid>
+            <pubDate>Tue, 14 Jan 2025 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.08.31.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/08/31/33314.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이런 국회 어떻습니까 [2024 올해의 사진] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
