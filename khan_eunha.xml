@@ -4,9 +4,40 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 17:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 05:35:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 지난해 경제성장률 5.0% 기록···목표치 충족]]></title>
+            <link>https://www.khan.co.kr/article/202501171109001</link>
+            <guid>https://www.khan.co.kr/article/202501171109001</guid>
+            <pubDate>Fri, 17 Jan 2025 05:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 지난해 경제성장률이 5.0%를 기록했다고 중국 당국이 17일 밝혔다.
+중국 국가통계국은 지난해 국내총생산(GDP)이 134조9084억위안으로 전년보다 5.0% 증가했다고 이날 밝혔다. 이는 지난해 중국 정부가 설정한 5.0% 안팎의 목표치를 달성한 것이다. 지난해 4분기 GDP 성장률은 5.4%라고 밝혔다.
+로이터통신이 이코노미스트 64명을 대상으로 조사한 결과에서 이들의 전망치 중간값은 4.9%로 집계됐다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/17/news-p.v1.20250117.4cc88be3948a495da9dc79035c7b1359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대만 4년 9개월 만에 사형 집행…인권단체 “부끄러운 좌절” 비판]]></title>
+            <link>https://www.khan.co.kr/article/202501171017001</link>
+            <guid>https://www.khan.co.kr/article/202501171017001</guid>
+            <pubDate>Fri, 17 Jan 2025 05:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[대만 정부가 4년 9개월 만에 처음으로 사형을 집행했다. 인권단체는 사형 집행에 대해 “부끄러운 좌절”이라며 비판했다.
+17일 대만 연합신문망은 전날 정밍치엔 대만 법무부 장관이 2017년 강간과 살인 2건으로 유죄 판결을 받은 황린카이(32)의 사형 집행을 승인했다고 보도했다. 황씨에 대한 사형은 16일 밤 총살형으로 집행됐다.
+이번 사형 집행은 라이칭더 총통 집권 이후 처음이며, 2020년 4월 이후 4년 9개월 만이다. 앞서 민진당이 2016년에 집권한 이후 사형 집행은 단 두 차례에 불과했다.
+황씨는 2013년 10월 신베이에서 전 여자친구 왕모씨를 성폭행하고 왕씨와 왕씨의 어머니를 살해한 혐의로 2017년 사형을 선고받았다. 피해자 왕씨의 아버지는 “오늘(17일)이 딸의 생일”이라며 법무부에 감사를 표했다고 연합신문망이 전했다. 대만 제1야당 국민당도 환영의 뜻을 밝혔다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/17/news-p.v1.20250117.fd85f3a4e2af473bad857ac206fbf1c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국, 푸젠·상하이 주민 대상 대만 단체관광 허용]]></title>
+            <link>https://www.khan.co.kr/article/202501170948001</link>
+            <guid>https://www.khan.co.kr/article/202501170948001</guid>
+            <pubDate>Fri, 17 Jan 2025 05:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[중국 정부가 대만 맞은편에 있는 푸젠성과 상하이 주민을 대상으로 가까운 시일 내에 대만 단체관광을 재개한다고 17일 밝혔다.
+중국 문화여유부(문화관광부)는 “양안(중국과 대만) 인적 교류를 더욱 정상화하고 다양한 분야의 교류를 상시적인 상태로 만들며 대만 기층 민중과 관광산업의 절실한 기대에 부응하고 양안 동포들의 이익과 복지를 증진하려는 조치”라고 설명했다.
+중국 정부의 이번 조치는 대만 마쭈섬과 진먼다오 관광을 허용한 지 4개월 만이다. 중국은 지난해 9월 대만 최전방 지역인 마쭈섬과 진먼다오 관광을 허가했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/17/news-p.v1.20250117.70de2994e1354b70baf6eb545309036c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘틱톡 난민’이 만든 뜻밖의 미·중 교류…풍자 대단결 속 검열 우려도]]></title>
             <link>https://www.khan.co.kr/article/202501161616011</link>
@@ -94,36 +125,6 @@
 13일 중국중앙TV(CCTV) 등에 따르면 중국 국가위생건강위원회가 전날 연 기자회견에서 왕리핑 중국 질병예방통제센터 연구원은 “HMPV 양성 진단율은 상승하고 있지만 정점에 가까워지고 있으며, 중국 북부 지방에서의 감염은 감소하고 있다고 관찰됐다. 14세 미만에서는 양성률도 줄었다”고 밝혔다.
 왕 연구원은 “현재 양성 증가율이 둔화 추세에 있으며 이달 중·하순 초·중학교가 방학에 돌입하면서 HMPV 바이러스의 활동이 감소할 것이라고 예상한다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/13/news-p.v1.20250113.22a91f34d7cf425b9f5d1e9fbe7c312d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘티베트’ 대신 ‘시짱’…중국, 원활한 구호와 민족통합 강조]]></title>
-            <link>https://www.khan.co.kr/article/202501101632011</link>
-            <guid>https://www.khan.co.kr/article/202501101632011</guid>
-            <pubDate>Fri, 10 Jan 2025 17:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[중국 정부와 관영매체들이 지난 7일 티베트에서 규모 6.8의 강진이 발생한 이후 당국의 구조·구호 활동을 강조하며 민족 정책의 성공을 보여준다고 평했다. 티베트 망명 정부는 중국 정부가 ‘티베트’ 대신 ‘시짱’이란 용어를 사용하는 것을 비판했다.
-중국공산당 중앙정치국 상무위원회(정치국 상무위)는 지난 9일 시진핑 중국 국가주석의 주재하에 지진이 발생한 시짱(티베트)자치구 르카쩌(티베트어 시가체)시 딩르현에서 지진 구호 활동을 위한 전체회의를 열었다고 신화통신이 전했다.
-정치국 상무위는 회의에서 “인민해방군, 무장경찰대 등 구조대와 중앙기업은 시간을 다투며 한파와 저산소증의 어려움을 이겨냈다”며 “인명피해를 최소화하고 구조·구호 작업도 전반적으로 순조롭게 이뤄지고 있다”고 전했다. 그러면서 여전히 “긴장을 풀 수 없다”며 재해 복구 작업을 신속하게 추진하고 이재민들이 따뜻한 겨울을 보낼 수 있도록 해야 한다고 강조했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/10/news-p.v1.20250110.85b87561bbbe44bc9956fc902bad80c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“우주판 싼샤댐”…중국 과학자, 우주 태양광 발전소 프로젝트 소개]]></title>
-            <link>https://www.khan.co.kr/article/202501101513001</link>
-            <guid>https://www.khan.co.kr/article/202501101513001</guid>
-            <pubDate>Fri, 10 Jan 2025 17:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[중국이 우주에 거대한 태양광 발전소를 건립하는 프로젝트를 추진하고 있다고 국가 고위급 과학자가 밝혔다.
-홍콩 사우스차이나모닝포스트(SCMP)는 9일 룽러하오 중국공정원 원사가 중국과학원 주최 강연에서 “지구 상공에 또 다른 싼샤댐을 짓는 프로젝트”라며 우주 기반 태양광 발전소 건립 계획을 소개했다고 보도했다. 원사는 중국에서 최고 과학자에게 주어지는 호칭이다.
-중국과학원이 지난달 말 공개한 강연 내용에 따르면 룽 원사는 지구 상공 3만6000㎞ 정지궤도를 따라 1㎞ 너비의 태양전지판을 설치하면 1년 동안 지구에서 시추하는 석유 총량과 맞먹는 에너지를 공급할 수 있다며 “지금 우리가 진행하고 있는 프로젝트”라고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/10/news-p.v1.20250110.e0545c0807d14497b03b0da86fbec12f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 위구르 무장단체 출신 시리아 군 간부 임명에 경계]]></title>
-            <link>https://www.khan.co.kr/article/202501101057001</link>
-            <guid>https://www.khan.co.kr/article/202501101057001</guid>
-            <pubDate>Fri, 10 Jan 2025 05:36:47 GMT</pubDate>
-            <content:encoded><![CDATA[시리아 과도정부가 위구르 무장단체 출신 인사를 군 고위직에 임명한 것을 두고 중국이 우려한다고 밝혔다.
-중국 영문 관영매체 차이나데일리에 따르면 푸총 유엔 주재 중국대사는 지난 9일(현지시간) 유엔 안전보장이사회(안보리)에서 “동투르키스탄이슬람운동(ETIM)으로도 알려진 투르키스탄이슬람당의 지도자를 포함한 외국 테러리스트 전투원에게 고위 계급을 부여하는 것”에 대해 “크게 우려한다”고 말했다.
-푸 대사는 시리아가 테러리스트의 피난처가 돼서는 안 된다고 밝힌 유엔 안보리 성명을 언급하며 “시리아의 국내 상황이 어떻게 전개되든 테러에 대한 무관용 원칙은 바뀔 수 없다”고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/10/news-p.v1.20250110.dc08cef290aa40d0b663151415791ff2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
