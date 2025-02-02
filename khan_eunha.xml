@@ -4,9 +4,18 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Feb 2025 17:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 05:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 트럼프 관세 부과에 “WTO 제소할 것”]]></title>
+            <link>https://www.khan.co.kr/article/202502021209001</link>
+            <guid>https://www.khan.co.kr/article/202502021209001</guid>
+            <pubDate>Sun, 02 Feb 2025 05:34:06 GMT</pubDate>
+            <content:encoded><![CDATA[중국 상무부 대변인은 2일 홈페이지에 발표한 담화문에서 “미국 백악관은 펜타닐(마약성 진통제) 등 문제를 이유로 중국의 대미 수출 제품에 10% 관세를 추가 부과한다고 선포했다”며 “중국은 이에 강한 불만을 표하고 단호히 반대한다”고 했다.
+대변인은 “미국의 일방적 추가 관세 조치는 세계무역기구(WTO) 규칙을 심각하게 위반한 것”이라며 “미국의 잘못된 처사에 대해 중국은 WTO에 제소할 것이고, 상응한 반격 조치를 취해 권익을 굳게 수호할 것”이라고 덧붙였다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/02/rcv.YNA.20241230.PRU20241230213801009.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 달 동안 도시가 빨간색…베이징에서 본 ‘인류무형유산’ 중국 춘절]]></title>
             <link>https://www.khan.co.kr/article/202501291628001</link>
@@ -115,16 +124,6 @@
             <content:encoded><![CDATA[도널드 트럼프 미국 대통령의 행정명령으로 미국이 파리기후변화협정과 세계보건기구(WHO)에서 다시 탈퇴하자 세계의 이목이 중국으로 쏠린다. 중국에는 글로벌 기후 리더가 될 기회가 주어졌다는 진단이 나온다. 보건 영역에서는 미국의 공백을 감당하기는 여의치 않을 것으로 보인다.
 궈자쿤 중국 외교부 대변인은 지난 21일 정례브리핑에서 “미국의 기후협정 탈퇴를 우려한다”며 “중국은 각 나라들과 인류 운명공동체 이념을 고수하고, 기후 변화라는 도전에 적극 대응하고, 글로벌 녹색 저탄소 전환 과정을 공동 추진하겠다”고 말했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/22/news-p.v1.20250122.eb5a104990d347328cde0a548c91092f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 과학자, ‘인공태양’ 1억도씨에서 1066초 유지 성공]]></title>
-            <link>https://www.khan.co.kr/article/202501221418001</link>
-            <guid>https://www.khan.co.kr/article/202501221418001</guid>
-            <pubDate>Wed, 22 Jan 2025 05:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[중국 과학자들이 인공태양으로 불리는 핵융합 실험 장치에서 플라스마 전자를 섭씨 1억도로 가열해 1066초(17분46초) 동안 유지하는 데 성공했다.
-22일 신화통신과 사우스차이나모닝포스트(SCMP)에 따르면 안후이성 허페이시에 있는 플라스마 물리학 연구소는 초전도 핵융합 유도 토카막 실험장치(EAST) 연구팀이 1억도 초고온 플라스마를 1066초 동안 유지하는 데 성공했다고 지난 20일 밝혔다.
-핵융합은 태양이 빛과 열을 내는 원리다. 가벼운 원자핵을 더 무거운 원자핵으로 결합해 그 과정에서 엄청난 양의 에너지를 방출한다. 주원료는 중수소와 리튬으로 연료 1g이 석유 8t과 맞먹는 에너지를 낸다. 핵분열의 원리를 이용하는 원자력발전과 달리 고준위 방사성 폐기물을 내놓지 않는다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/01/22/news-p.v1.20250122.1889fde0d5204dd799e225a08033f6a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
