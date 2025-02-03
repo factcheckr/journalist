@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 17:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 05:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하늘과 땅을 오가는 연대의 도르래 [잊지 말아야 할 투쟁 현장 ①]]]></title>
+            <link>https://n.news.naver.com/article/308/0000036139?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036139?type=journalists</guid>
+            <pubDate>Mon, 03 Feb 2025 05:37:15 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/03/36139.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭동, 습격, 공격, 폭도화… 외신들이 본 한국 극우들의 ‘반란’]]></title>
             <link>https://n.news.naver.com/article/308/0000036110?type=journalists</link>
@@ -526,14 +534,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.12.08.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/08/33860.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[썰렁하고 집요한 사슴문답식 말장난 [기자의 추천 책]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033844?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033844?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.12.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/05/33844.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
