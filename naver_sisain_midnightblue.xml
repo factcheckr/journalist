@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 17:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 05:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학생들 외면할 수 없어 길 위에 선 교사 [잊지 말아야 할 투쟁 현장 ④]]]></title>
+            <link>https://n.news.naver.com/article/308/0000036154?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036154?type=journalists</guid>
+            <pubDate>Thu, 06 Feb 2025 05:39:14 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/06/36154.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭동, 습격, 공격, 폭도화… 외신들이 본 한국 극우들의 ‘반란’]]></title>
             <link>https://n.news.naver.com/article/308/0000036110?type=journalists</link>
@@ -574,14 +582,6 @@
             <pubDate>Wed, 05 Feb 2025 05:39:07 GMT</pubDate>
             <content:encoded><![CDATA[<b>2023.11.01.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/11/01/33647.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 모두 실패했다, 특히 경찰은 더욱 [이태원 참사 1주기]]]></title>
-            <link>https://n.news.naver.com/article/308/0000033617?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000033617?type=journalists</guid>
-            <pubDate>Wed, 05 Feb 2025 05:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2023.10.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/10/26/33617.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
