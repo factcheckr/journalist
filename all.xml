@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 05:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 17:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,12 +776,12 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/01/34392.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[학생들 외면할 수 없어 길 위에 선 교사 [잊지 말아야 할 투쟁 현장 ④] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000036154?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000036154?type=journalists</guid>
-            <pubDate>Thu, 06 Feb 2025 05:39:14 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/06/36154.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <title><![CDATA[하늘과 땅을 오가는 연대의 도르래 [잊지 말아야 할 투쟁 현장 ①] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000036139?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036139?type=journalists</guid>
+            <pubDate>Thu, 06 Feb 2025 17:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/03/36139.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭동, 습격, 공격, 폭도화… 외신들이 본 한국 극우들의 ‘반란’ (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
