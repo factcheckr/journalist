@@ -4,9 +4,20 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 17:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 05:38:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래가 불안해…중국 혼인신고 1년 만에 다시 감소]]></title>
+            <link>https://www.khan.co.kr/article/202502101026001</link>
+            <guid>https://www.khan.co.kr/article/202502101026001</guid>
+            <pubDate>Mon, 10 Feb 2025 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 혼인신고 건수가 약 610만 건을 기록하며 전년도보다 20% 이상 감소했다.
+10일 중국 민정부 ‘2024년 4분기 민정통계’에 따르면 지난해 전국 혼인신고 건수는 610만6000건을 기록해, 전년도 768만건보다 157만4000건(20.5%) 감소했다.
+중국의 전국 혼인신고 건수는 2013년 1346만건에 달했으나 2014년부터 9년 연속 감소했다. 2019년에는 1000만건 이하, 2021년에는 800만건 이하를 기록했다. 2022년 683만5000건을 기록해 700만건 아래로 떨어졌다.
+혼인신고 건수는 2023년 768만건으로 반등했으나 코로나19 기간 미뤘던 결혼이 몰린 영향으로, 일시적 반등일 것이라는 진단이 많았다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/10/news-p.v1.20250210.9a333d4951a047d4b2771009dcd1fe0b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미 ‘속도전’에 중 ‘시간끌기’…10일부터 대미 보복 관세]]></title>
             <link>https://www.khan.co.kr/article/202502092105005</link>
@@ -115,16 +126,6 @@
 2일 관영매체 펑파이신문과 파이커재경, 증권포털 증권지성 공동 보도에 따르면 최근 몇 년 동안 연말연시 중국 A주(상하이·선전 증시에 상장된 내국인용 본토 주식)에서는 그해에 해당하는 띠 테마주가 유행했다.
 테마주가 되려면 가장 중요한 것은 회사 이름이다. 호랑이해인 2022년에는 방송사인 후베이라디오·텔레비전, 토끼해인 2023년에는 인테리어용 목재 업체 투바오바오, 지난해 용띠 해에는 청룽투자증권 주식이 각각 한때 280%, 156%, 421% 급등했다. 투바오바오와 청룽투자증권은 회사명에 각각 토끼와 용이 포함돼 있다. 후베이의 후는 한자는 다르지만 호랑이의 중국어 발음과 같다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/02/news-p.v1.20250202.d3d3922863074c0d8820faef04720c0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 미국 WTO 제소 방침…“펜타닐은 미국의 문제”]]></title>
-            <link>https://www.khan.co.kr/article/202502021509001</link>
-            <guid>https://www.khan.co.kr/article/202502021509001</guid>
-            <pubDate>Sun, 02 Feb 2025 17:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[도널드 트럼프 미국 대통령이 중국산 제품에 추가 관세를 부과하자 중국은 미국을 세계무역기구(WTO)에 제소하겠다는 방침을 밝혔다.
-중국 상무부는 2일 홈페이지에 게시한 대변인 명의 담화문에서 “미국 백악관이 펜타닐(마약성 진통제) 등의 문제를 이유로 중국의 미국 수출품에 10%의 추가관세를 부과하겠다고 발표했다”며 “중국은 이에 대해 강한 불만을 갖고 있으며 단호히 반대한다”고 밝혔다.
-상무부는 “미국의 일방적 추가관세 부과 조치는 WTO 규칙을 심각하게 위반하는 것이며, 자신의 문제 해결에 이롭지 않고, 중·미 간 정상적 무역 협력에도 피해를 끼친다”며 “중국은 미국의 잘못된 행동을 WTO에 제소할 것이며, 상응하는 반격 조치로 우리의 권익을 확고하게 수호하겠다”고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/02/news-p.v1.20250202.cb4a39bce3044796ace19c6a636b1fe1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
