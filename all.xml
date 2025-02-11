@@ -4,9 +4,29 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 17:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 05:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘딥시크처럼 성공하자’ AI 공부 열풍 불붙은 중국…지방정부도 연달아 채택 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/article/202502111358001</link>
+            <guid>https://www.khan.co.kr/article/202502111358001</guid>
+            <pubDate>Tue, 11 Feb 2025 05:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[생성형 인공지능(AI) 모델 딥시크의 성공을 계기로 중국에서 AI를 향한 대중적 관심이 불붙고 있다. 중국 지방정부와 기업들은 딥시크를 업무에 활용하며 자국 AI 밀어주기에 나섰다.
+11일 선전신문에 따르면 광둥성 선전시 룽강구는 정부 엑스트라넷에 딥시크 R1을 배포해 업무에 활용하겠다고 선언했다. 시웨이 정부 서비스 및 데이터관리국 부국장은 “(AI 활용은) 정부 운영을 보다 지능적이고 협력적이며 데이터 중심으로 만들어 혁신하는 것을 목표로 한다”고 밝혔다.
+관영 영문매체 글로벌타임스에 따르면 쑤저우시도 공공서비스 플랫폼을 통해 딥시크 R1과 딥시크 V3 모델을 배포했다. 광둥성 광저우시를 포함해 다른 지방정부도 딥시크를 배포해 업무용으로 활용하도록 권장하고 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/11/news-p.v1.20250211.657ef5d75e9c41e88bd657e43b2f3091.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국 관영매체, 중국 선거개입 음모론에 “한국 일부 극우의 싸구려 정치 스턴트” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/article/202502111034011</link>
+            <guid>https://www.khan.co.kr/article/202502111034011</guid>
+            <pubDate>Tue, 11 Feb 2025 05:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[중국 관영매체가 국민의힘 일부 의원과 극우 유튜버들이 주장하는 중국 선거 개입설을 두고 ‘싸구려 정치 스턴트(이목을 끌기 위한 행위)’라고 비판했다.
+중국 영문 관영매체 글로벌타임스는 10일 게재한 ‘한국 극우 보수층이 날조한 중국 선거 개입 소문은 싸구려 정치 스턴트’라는 제목의 의견 기사에서 일부 지난해 12월 한국의 계엄 위기 이후 일부 국민의힘 의원들이 반중 감정을 조장하고 있다고 전했다.
+글로벌타임스는 한국 영자지 코리아타임스를 인용해 윤석열 대통령 지지자들이 지난달부터 매주 금요일마다 명동에서 반중 집회를 열고 있으며, 김민전 국민의힘 의원이 이 집회에 참석해 “가는 곳마다 중국인들이 탄핵을 찬성한다”고 발언했다고 전했다. 윤 대통령의 변호인단이 중국의 선관위 전자 시스템 해킹설을 주장했다고도 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/11/news-p.v1.20250211.8c909377f9b2464b8e0cfa7738c52383.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국, 대미 관세전쟁 2라운드…‘최악’은 아니다? (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/article/202502102113015</link>
@@ -106,26 +126,6 @@
 중국은 특정 사안에 외교 경로로 항의한 경우 ‘엄정한 교섭을 제기했다’는 표현을 사용한다.
 자오 부장조리는 일대일로 협력 후퇴는 파나마의 이익에 부합하지 않는다고 밝혔다. 그러면서 “중국은 파나마의 주권과 영토 보전을 존중한다”며 “크든 작든 모든 국가는 평등하며 서로 존중하고 약속을 지켜야 한다”고 밝혔다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/09/news-p.v1.20250209.78dacc3d392e49a3b17679c276809a3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 미국산 80개 항목 ‘맞불 관세’…구글 반독점법 위반 조사도 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/article/202502042020025</link>
-            <guid>https://www.khan.co.kr/article/202502042020025</guid>
-            <pubDate>Tue, 04 Feb 2025 17:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 중국산 수입품 10% 관세 부과 조치가 발효되자 중국이 관계기관을 총동원해 10~15% 보복관세, 전략물자 수출통제 등 대응 조치를 발표하면서 미·중 무역전쟁 2라운드가 본격화하고 있다. 다만 시진핑 중국 국가주석과 도널드 트럼프 미 대통령이 직접 통화해 극적으로 합의점을 찾고 관세 관련 조치를 유예할 가능성은 열려 있는 것으로 보인다.
-4일 중국 국무원 관세세칙위원회는 오는 10일부터 미국산 석탄과 액화천연가스(LNG) 제품 등 8개 항목에 15% 추가 관세를, 미국산 원유·농기계·트럭 등 72개 항목에 10% 추가 관세를 각각 부과한다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/04/2025020501000112600010701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 “10일부터 일부 미국산 수입품에 10% 관세…석탄·LNG는 15%” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/article/202502041423001</link>
-            <guid>https://www.khan.co.kr/article/202502041423001</guid>
-            <pubDate>Tue, 04 Feb 2025 05:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[중국이 도널드 트럼프 미국 정부의 대중국 10% 추가 관세에 대응 조치를 내놓으며 양국 간 무역 전쟁에 불이 붙었다.
-4일 중국 국무원 관세세칙위원회는 오는 10일부터 미국산 석탄과 액화천연가스(LNG) 제품에 15% 추가 관세를, 원유·농기계·대형자동차 등에는 10% 추가 관세를 각각 부과한다고 밝혔다.
-위원회는 미국이 예고했던 대중국 10% 추가 관세가 4일 0시(미국 동부시간)를 기해 발효되자 거의 비슷한 시간에 이 같은 대응 조치를 발표했다.
-위원회는 “미국 정부는 2월1일 펜타닐 등 문제를 이유로 모든 중국산 수입품에 10% 관세를 추가 부과하기로 발표했다”면서 “미국의 일방적인 관세 인상은 세계무역기구(WTO) 규정을 심각하게 위반하는 것으로, 이는 미국의 자체 문제를 해결하는 데 도움이 되지 않을 뿐만 아니라 중·미 간 정상적인 경제무역 협력을 훼손한다”며 추가 관세 부과 배경을 설명했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/04/news-p.v1.20250204.e23d2c46e9494724afff84dfac8b8be5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -782,7 +782,7 @@
             <link>https://n.news.naver.com/article/308/0000036154?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036154?type=journalists</guid>
             <pubDate>Mon, 10 Feb 2025 17:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/06/36154.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -790,7 +790,7 @@
             <link>https://n.news.naver.com/article/308/0000036149?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036149?type=journalists</guid>
             <pubDate>Mon, 10 Feb 2025 17:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/05/36149.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -798,7 +798,7 @@
             <link>https://n.news.naver.com/article/308/0000036146?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036146?type=journalists</guid>
             <pubDate>Mon, 10 Feb 2025 17:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/04/36146.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -806,7 +806,7 @@
             <link>https://n.news.naver.com/article/308/0000036139?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036139?type=journalists</guid>
             <pubDate>Thu, 06 Feb 2025 17:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2025.02.03.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/03/36139.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
