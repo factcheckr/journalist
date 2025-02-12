@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 17:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 05:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0419/A0003023014_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생성형 AI로 코딩해 봤더니 [뉴스룸에서] (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/469/0000848485?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000848485?type=journalists</guid>
+            <pubDate>Wed, 12 Feb 2025 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2025/02/12/848485.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[뉴스룸에서] '윤석열의 재림'을 믿는 사람들 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/469/0000843638?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000843638?type=journalists</guid>
@@ -526,14 +534,6 @@
             <pubDate>Mon, 04 Mar 2024 17:32:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/27/787539.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC에 10조 지원, ‘일본 반도체산업 부활’로 이어질까 (한국일보 최진주 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/469/0000787318?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000787318?type=journalists</guid>
-            <pubDate>Mon, 26 Feb 2024 05:32:03 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.26.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/26/787318.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민중가요에 “새 옷을 지어 입혔다” [사람IN] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
@@ -780,7 +780,7 @@
             <link>https://n.news.naver.com/article/308/0000036154?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036154?type=journalists</guid>
             <pubDate>Mon, 10 Feb 2025 17:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/06/36154.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -788,7 +788,7 @@
             <link>https://n.news.naver.com/article/308/0000036149?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036149?type=journalists</guid>
             <pubDate>Mon, 10 Feb 2025 17:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/05/36149.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -796,7 +796,7 @@
             <link>https://n.news.naver.com/article/308/0000036146?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036146?type=journalists</guid>
             <pubDate>Mon, 10 Feb 2025 17:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2025.02.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/04/36146.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
