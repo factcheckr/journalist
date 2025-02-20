@@ -4,9 +4,20 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 17:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 05:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 인민은행, 기준금리 4개월 연속 동결]]></title>
+            <link>https://www.khan.co.kr/article/202502201017001</link>
+            <guid>https://www.khan.co.kr/article/202502201017001</guid>
+            <pubDate>Thu, 20 Feb 2025 05:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 ‘사실상의 기준금리’인 대출우대금리(LPR)를 4개월째 동결했다.
+중국 인민은행은 20일 주택담보대출 기준 역할을 하는 5년물 LPR은 3.6%로, 일반대출 기준이 되는 1년물 LPR을 3.1%로 유지한다고 밝혔다.
+중국은 지난해 10월 5년물 LPR을 3.85%에서 3.6%로, 1년물 LPR을 3.35%에서 3.1%로 각각 내린 뒤 현재까지 같은 수준을 유지하고 있다.
+로이터통신은 시장 전문가 30명을 대상으로 조사한 결과 모든 응답자가 중국 LPR 동결을 예상했다고 보도했다. 중국은 미국과의 무역전쟁에 대비해 경기부양에 나설 필요가 있지만 최근의 위안화 약세 현상 때문에 부양책과 금융안정 사이 균형을 잡을 것으로 예상한다고 로이터통신이 전했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/20/news-p.v1.20250220.347d7390c28d4de7ad8880941075e0de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대만, 올해 예산안 합의 끝내 불발…미·중 압박 속 정치적 분열 갈수록 격화]]></title>
             <link>https://www.khan.co.kr/article/202502191739001</link>
@@ -110,17 +121,6 @@
 중국중앙TV(CCTV)는 17일 시 주석이 이날 오전 민영기업 좌담회를 열고 기업인들의 주요 발언을 들은 뒤 중요한 연설을 했다고 보도했다. 연설의 자세한 내용은 전하지 않았다.
 CCTV가 공개한 영상을 보면 중국 최대 전자상거래 플랫폼 알리바바 창립자 마윈, 스마트폰 및 전기차 제조업체 샤오미 창업자 레이쥔 회장, 스마트폰 제조사 화웨이 창업자 런정페이 회장, 배터리 제조사 CATL의 쩡위친 회장, 휴머노이드 로봇 기업 유니트리 창업자 왕싱싱 회장 등이 참석했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/17/news-p.v1.20250217.676a1e00b7594a8fa374ffa18fa5632e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금값 치솟자···중국 본토인들 금 사러 홍콩 간다]]></title>
-            <link>https://www.khan.co.kr/article/202502141659001</link>
-            <guid>https://www.khan.co.kr/article/202502141659001</guid>
-            <pubDate>Fri, 14 Feb 2025 17:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[금값이 연일 치솟자 조금이라도 금을 싸게 구입하려는 중국 본토인들이 홍콩으로 향하고 있다.
-14일 중신징웨이 등 중국 현지 매체에 따르면 최근 홍콩의 귀금속 매장 앞에 중국 본토인들이 길게 줄을 서고 있다.
-홍콩에선 홍콩달러와 위안화 간 환율 차이 때문에 본토보다 1g당 약 80위안(약 1만5000원)가량 금을 싸게 살 수 있다. 일부 매장은 손님을 끌기 위해 세공비 무료 행사 중이고, 위안화 결제도 환영하고 있다.
-중국 온라인에선 홍콩에서 금을 싸게 구입하는 방법을 공유하는 게시물이 인기를 끌고 있다. 3만위안(약 600만원)이 넘는 금 장식품을 홍콩에서 샀다는 중국인은 “한 매장에서는 원하는 모양이 다 팔려서 허탕을 치고, 다른 매장에서 3시간을 기다려서 샀다”고 후기를 썼다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/14/news-p.v1.20250214.35091921a90049119a18ca99f82ca76e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
