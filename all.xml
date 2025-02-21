@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 17:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 05:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -536,7 +536,7 @@
             <link>https://n.news.naver.com/article/308/0000036186?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036186?type=journalists</guid>
             <pubDate>Fri, 14 Feb 2025 05:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/14/36186.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -770,6 +770,14 @@
             <pubDate>Thu, 07 Mar 2024 17:32:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.03.02.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/02/34401.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘다양성 정책 말살’로 하나 된 트럼프와 개신교계 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000036220?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036220?type=journalists</guid>
+            <pubDate>Fri, 21 Feb 2025 05:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/21/36220.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[학생들 외면할 수 없어 길 위에 선 교사 [잊지 말아야 할 투쟁 현장 ④] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
@@ -1290,14 +1298,6 @@
             <pubDate>Thu, 11 Jan 2024 17:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34007.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물원이 아닌 생추어리가 필요한 까닭 [사람IN] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034005?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034005?type=journalists</guid>
-            <pubDate>Thu, 11 Jan 2024 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34005.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이런 국회 어떻습니까 [2024 올해의 사진] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>

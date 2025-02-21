@@ -4,9 +4,17 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 17:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 05:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘다양성 정책 말살’로 하나 된 트럼프와 개신교계]]></title>
+            <link>https://n.news.naver.com/article/308/0000036220?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036220?type=journalists</guid>
+            <pubDate>Fri, 21 Feb 2025 05:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/21/36220.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학생들 외면할 수 없어 길 위에 선 교사 [잊지 말아야 할 투쟁 현장 ④]]]></title>
             <link>https://n.news.naver.com/article/308/0000036154?type=journalists</link>
@@ -526,14 +534,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.05.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34007.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물원이 아닌 생추어리가 필요한 까닭 [사람IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034005?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034005?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.01.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34005.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
