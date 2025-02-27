@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 17:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 05:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -780,7 +780,7 @@ USTR은 지난 21일 중국 선사의 선박이 미국 항구에 입항할 때�
             <link>https://n.news.naver.com/article/308/0000036236?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036236?type=journalists</guid>
             <pubDate>Tue, 25 Feb 2025 05:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/25/36236.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -788,7 +788,7 @@ USTR은 지난 21일 중국 선사의 선박이 미국 항구에 입항할 때�
             <link>https://n.news.naver.com/article/308/0000036220?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036220?type=journalists</guid>
             <pubDate>Fri, 21 Feb 2025 05:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/21/36220.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
