@@ -4,9 +4,25 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 05:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 17:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 윤석열·김건희·명태균 텔레그램과 카톡을 공개합니다]]></title>
+            <link>https://n.news.naver.com/article/308/0000036263?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036263?type=journalists</guid>
+            <pubDate>Fri, 28 Feb 2025 17:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/28/36263.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 명태균 검찰 피의자 신문조서 최초공개]]></title>
+            <link>https://n.news.naver.com/article/308/0000036264?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036264?type=journalists</guid>
+            <pubDate>Fri, 28 Feb 2025 17:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/28/36264.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 국회 어떻습니까 [2024 올해의 사진]]]></title>
             <link>https://n.news.naver.com/article/308/0000035995?type=journalists</link>
@@ -614,22 +630,6 @@
             <pubDate>Wed, 10 Apr 2024 17:32:37 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.04.04.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/04/34642.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빨간 옷 입고 국민의힘 낙선 운동하는 사람들 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034633?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034633?type=journalists</guid>
-            <pubDate>Tue, 09 Apr 2024 17:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.04.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/03/34633.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2014년 4월16일 그날을 기억하는 당신께 [프리스타일]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034631?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034631?type=journalists</guid>
-            <pubDate>Wed, 03 Apr 2024 05:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.04.03.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/03/34631.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
