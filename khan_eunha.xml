@@ -4,9 +4,20 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 05:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 17:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트럼프발 관세 폭탄에도 중국 제조업 2월 PMI 상승…고용은 줄어]]></title>
+            <link>https://www.khan.co.kr/article/202503031457001</link>
+            <guid>https://www.khan.co.kr/article/202503031457001</guid>
+            <pubDate>Mon, 03 Mar 2025 17:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[미·중 무역전쟁이 발발한 가운데서도 중국의 대표적 경기 선행지표인 제조업 구매관리지수(PMI)는 상승해 3개월 만에 최고치를 기록했다.
+3일 중국 경제매체 차이신에 따르면 2월 차이신 제조업 PMI는 지난 1월(50.1)보다 0.7포인트 상승한 50.8를 나타냈다. 지난달 지표는 로이터통신 전망치 50.3을 웃돌았으며 3개월 만에 가장 높았다. 5개월 연속 경기 확장 국면을 유지했다.
+PMI는 기업 구매 담당자 조사를 바탕으로 작성되는 경기지표다. 50보다 높으면 경기 확장, 낮으면 경기 수축 국면을 의미한다.
+국가통계국이 집계하는 PMI는 국유기업을 중심으로 데이터를 취합하는 반면 차이신 지수는 중소기업과 수출기업 비중이 높아 중국의 수출 경기를 잘 반영하는 지표로 꼽힌다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/03/news-p.v1.20250303.56459f55766746cba83197c1e20fbb26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국, 윤 최후진술에 “이웃에게 더러운 물 뿌리는 것으로 자국 문제 해결 못해”]]></title>
             <link>https://www.khan.co.kr/article/202502281806001</link>
@@ -110,16 +121,6 @@
             <pubDate>Mon, 24 Feb 2025 17:34:06 GMT</pubDate>
             <content:encoded><![CDATA[도널드 트럼프 미국 행정부의 대학교육 재정 지원을 감축하려는 움직임이 중국 대학에 기회가 되고 있다. 중국 대학은 미국에 유학 중인 자국 유학생을 겨냥해 적극적인 학생 유치에 나섰다.
 24일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 상하이 푸단대 2025학년도 박사과정 신입생 모집 계획에는 해외 학부 유학생을 위한 특별전형이 포함돼 있다. 세계 100대 대학에 다니거나 엘리트 프로그램에 등록된 학생에게는 중국 대학 박사과정의 입학 조건인 석사학위나 소속 대학 추천이 면제된다. 컴퓨터공학, 의용생체공학, 임상의학 등 첨단분야와 일부 인문학 등 18개 전공에 적용된다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[푸틴, 시진핑에 전화 걸어 미·러 우크라 종전 논의 공유]]></title>
-            <link>https://www.khan.co.kr/article/202502242010001</link>
-            <guid>https://www.khan.co.kr/article/202502242010001</guid>
-            <pubDate>Mon, 24 Feb 2025 17:34:06 GMT</pubDate>
-            <content:encoded><![CDATA[시진핑 중국 국가주석이 24일(현지시간) 블라디미르 푸틴 러시아 대통령과의 전화통화를 하며 러시아·우크라이나 전쟁 종식 관련 미·러 고위급 회담 결과를 공유했다고 신화통신이 보도했다.
-신화통신에 따르면 시 주석과 푸틴 대통령은 이날 전화통화를 했다. 통화는 러시아 측의 요청으로 이뤄졌다. 푸틴 대통령은 러시아·우크라이나 전쟁 종전과 관련해 지난 21일 미·러 고위급 회담에서 나눈 대화 내용을 공유하고 러시아의 원칙적인 입장을 전했다.
-푸틴 대통령은 러시아는 중국과의 관계를 매우 중시하며 새해에도 중국과 고위급 교류를 지속하겠다고 말했다. 올해 80주년이 된 러시아의 대조국전쟁(2차 세계대전)과 중국의 중·일전쟁 승전 기념을 함께 하고 싶다고도 밝혔다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/24/news-p.v1.20250224.676b0a4c87674f8783af9accbfaa54ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
