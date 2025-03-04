@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 17:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 05:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 명태균 검찰 피의자 신문조서 최초공개]]></title>
+            <link>https://n.news.naver.com/article/308/0000036264?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036264?type=journalists</guid>
+            <pubDate>Tue, 04 Mar 2025 05:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/02/28/36264.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 국회 어떻습니까 [2024 올해의 사진]]]></title>
             <link>https://n.news.naver.com/article/308/0000035995?type=journalists</link>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 03 Mar 2025 05:39:16 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.03.26.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/26/34578.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하위 20%' 경선 탈락 박광온, "무조건 원팀" 외치는 이유 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034569?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034569?type=journalists</guid>
-            <pubDate>Mon, 03 Mar 2025 05:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.25.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/25/34569.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
