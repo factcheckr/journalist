@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Mar 2025 18:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 05:32:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 2월 소비자물가 0.7%하락…계속되는 디플레 우려 (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/article/202503091348001</link>
+            <guid>https://www.khan.co.kr/article/202503091348001</guid>
+            <pubDate>Sun, 09 Mar 2025 05:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 2월 소비자물가지수(CPI)가 1년 전보다 0.7% 하락했다.
+정부가 내수 진작을 위해 팔을 겉어붙이고 있지만 중국 경제의 디플레이션(경기침체 속 물가하락) 우려가 이어지고 있다.
+중국 국가통계국은 9일 지난달 소비자물가가 전년동월대비 0.7% 하락했다고 밝혔다. 로이터통신이 전문가 설문을 통해 집계한 전망치 -0.5%보다 낙폭이 더 컸다.
+국가통계국은 물가하락은 춘절(음력 설 연휴) 날짜 변경에 따른 기저효과 때문이라고 설명했다. 춘절 연휴 기간에는 식품과 서비스 가격이 크게 상승하는데, 지난해 춘절 연휴는 2월 10~2월 17일이었던 반면, 올해는 1월 28일~2월 4일이었다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/09/news-p.v1.20250309.b7c5147a1f814bbb84f242481166df45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 1~2월 수출 예상치보다 크게 못 미쳐…무역전쟁 여파 나타나나 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/article/202503071627001</link>
@@ -115,15 +126,6 @@
 PMI는 기업 구매 담당자 조사를 바탕으로 작성되는 경기지표다. 50보다 높으면 경기 확장, 낮으면 경기 수축 국면을 의미한다.
 국가통계국이 집계하는 PMI는 국유기업을 중심으로 데이터를 취합하는 반면 차이신 지수는 중소기업과 수출기업 비중이 높아 중국의 수출 경기를 잘 반영하는 지표로 꼽힌다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/03/news-p.v1.20250303.56459f55766746cba83197c1e20fbb26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 윤 최후진술에 “이웃에게 더러운 물 뿌리는 것으로 자국 문제 해결 못해” (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/article/202502281806001</link>
-            <guid>https://www.khan.co.kr/article/202502281806001</guid>
-            <pubDate>Fri, 28 Feb 2025 17:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령이 지난 25일 탄핵 심판 최후 진술에서 중국을 거론한 것에 대해 중국이 비방 공격을 중단하라고 요구했다.
-린젠 중국 외교부 대변인은 28일 정례 브리핑에서 윤 대통령의 발언에 대한 중국 입장을 묻는 질문에 “한국 측 일부 세력과 인원들이 정치적 사익에 처해 지속해서 악의적으로 중국 관련 문제를 부각하는 것에 대해 강한 불만과 단호한 반대를 나타낸다”며 “이웃에게 더러운 물을 뿌리는 것으로 자국의 문제를 해결할 수 없다”고 말했다. ‘한국 측’은 윤 대통령과 그 주변을 가리키는 것으로 보인다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/02/28/ams.V01.personimage.KHN.P.20250206.P12025020416001732428791684.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -1308,7 +1310,7 @@ PMI는 기업 구매 담당자 조사를 바탕으로 작성되는 경기지표�
             <link>https://n.news.naver.com/article/308/0000036281?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036281?type=journalists</guid>
             <pubDate>Thu, 06 Mar 2025 17:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/04/36281.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1316,7 +1318,7 @@ PMI는 기업 구매 담당자 조사를 바탕으로 작성되는 경기지표�
             <link>https://n.news.naver.com/article/308/0000036277?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036277?type=journalists</guid>
             <pubDate>Thu, 06 Mar 2025 17:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/03/36277.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
