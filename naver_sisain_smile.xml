@@ -4,15 +4,23 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 17:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 05:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] “나중에 홍준표를 위해서” 홍 시장 아들 친구의 계획]]></title>
+            <link>https://n.news.naver.com/article/308/0000036330?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036330?type=journalists</guid>
+            <pubDate>Fri, 14 Mar 2025 05:38:12 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/14/36330.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 대선 후보는 누구였나, 김건희·윤석열·명태균 대화 원본 공개]]></title>
             <link>https://n.news.naver.com/article/308/0000036311?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036311?type=journalists</guid>
             <pubDate>Tue, 11 Mar 2025 05:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/11/36311.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -622,14 +630,6 @@
             <pubDate>Wed, 17 Apr 2024 17:33:02 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.04.11.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/11/34687.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[22대 총선 국민의 선택은? ‘2024 총선 빅텐트’ 개표 라이브 [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034681?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034681?type=journalists</guid>
-            <pubDate>Tue, 16 Apr 2024 17:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.04.10.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/10/34681.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

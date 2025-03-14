@@ -4,9 +4,17 @@
         <title>한국일보 최진주 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 17:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 05:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 사람만을 위한 법 [뉴스룸에서]]]></title>
+            <link>https://n.news.naver.com/article/469/0000853658?type=journalists</link>
+            <guid>https://n.news.naver.com/article/469/0000853658?type=journalists</guid>
+            <pubDate>Fri, 14 Mar 2025 05:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2025/03/14/853658.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생성형 AI로 코딩해 봤더니 [뉴스룸에서]]]></title>
             <link>https://n.news.naver.com/article/469/0000848485?type=journalists</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Mar 2024 17:32:55 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/27/787551.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["후쿠시마 처리수 아닌 오염수" 소신 발언했다 사임한 일본 기업가]]></title>
-            <link>https://n.news.naver.com/article/469/0000787539?type=journalists</link>
-            <guid>https://n.news.naver.com/article/469/0000787539?type=journalists</guid>
-            <pubDate>Mon, 04 Mar 2024 17:32:55 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.27.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/27/787539.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
