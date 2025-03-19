@@ -4,25 +4,9 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 17:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 05:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[잃어버린 남성들의 우정을 찾아서 [기자의 추천 책]]]></title>
-            <link>https://n.news.naver.com/article/308/0000036325?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000036325?type=journalists</guid>
-            <pubDate>Thu, 13 Mar 2025 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/13/36325.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중증외상센터에도 아침이 와요]]></title>
-            <link>https://n.news.naver.com/article/308/0000036328?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000036328?type=journalists</guid>
-            <pubDate>Thu, 13 Mar 2025 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/13/36328.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[반도체 ‘주 52시간 제외’ 논쟁점 살펴보니]]></title>
             <link>https://n.news.naver.com/article/308/0000036236?type=journalists</link>
@@ -534,6 +518,70 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.01.22.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/22/34123.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘도 죽음을 생각하는 여성들에게]]></title>
+            <link>https://n.news.naver.com/article/308/0000034081?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034081?type=journalists</guid>
+            <pubDate>Wed, 19 Mar 2025 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2024.01.16.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/16/34081.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지자체의 ‘작은 곳간’, 출산 대책이 버겁다]]></title>
+            <link>https://n.news.naver.com/article/308/0000034045?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034045?type=journalists</guid>
+            <pubDate>Wed, 19 Mar 2025 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2024.01.11.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/11/34045.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기후위기 대응에도 오일머니 작용했나?]]></title>
+            <link>https://n.news.naver.com/article/308/0000034007?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034007?type=journalists</guid>
+            <pubDate>Wed, 19 Mar 2025 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2024.01.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34007.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동물원이 아닌 생추어리가 필요한 까닭 [사람IN]]]></title>
+            <link>https://n.news.naver.com/article/308/0000034005?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000034005?type=journalists</guid>
+            <pubDate>Wed, 19 Mar 2025 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2024.01.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/01/05/34005.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한전이 민간에 송전망 사업을 개방하려는 이유]]></title>
+            <link>https://n.news.naver.com/article/308/0000033926?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033926?type=journalists</guid>
+            <pubDate>Wed, 19 Mar 2025 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.12.20.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/20/33926.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마약수사대 반장이 ‘마약 초범’에게 하는 말]]></title>
+            <link>https://n.news.naver.com/article/308/0000033901?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033901?type=journalists</guid>
+            <pubDate>Wed, 19 Mar 2025 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.12.15.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/15/33901.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플라스틱 빨대, 죽지도 않고 돌아오다]]></title>
+            <link>https://n.news.naver.com/article/308/0000033860?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033860?type=journalists</guid>
+            <pubDate>Wed, 19 Mar 2025 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.12.08.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/08/33860.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[썰렁하고 집요한 사슴문답식 말장난 [기자의 추천 책]]]></title>
+            <link>https://n.news.naver.com/article/308/0000033844?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000033844?type=journalists</guid>
+            <pubDate>Wed, 19 Mar 2025 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2023.12.05.</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2023/12/05/33844.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
