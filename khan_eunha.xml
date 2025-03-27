@@ -4,9 +4,19 @@
         <title>경향신문 ─ 박은하 기자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 05:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 17:35:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸시업하고, 체스 두고…‘로봇 굴기’ 총집결한 중국 중관춘 포럼]]></title>
+            <link>https://www.khan.co.kr/article/202503271803001</link>
+            <guid>https://www.khan.co.kr/article/202503271803001</guid>
+            <pubDate>Thu, 27 Mar 2025 17:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[음파탐지 기능이 있는 물고기 로봇, 인간과 장기를 둘 수 있는 로봇, 축구 로봇, 차 끓이는 로봇, 커피 서빙 로봇, 여성 모습의 안내 로봇….
+중국판 실리콘 밸리로 불리는 중관춘의 올해 관심사는 단연 로봇이었다. ‘2025 중관춘 포럼 연례회의’가 27~31일 일정으로 베이징 하이뎬구 중관춘 국제혁신센터에서 개막했다.
+베이징 북서부 중관춘은 중국 최초의 국가자주혁신시범구가 된 곳이다. 베이징대·칭화대 등 유명 대학과 가까이 있으며 1만7000개 넘는 첨단기술 기업이 밀집해 있다. 2007년부터 해마다 열리는 중관춘 포럼에서는 중국의 혁신기술 향배를 미리 읽을 수 있다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/27/news-p.v1.20250327.caa985dab119404cb321711d7e92ef88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 외교부, 한국 산불 피해자에 “애도와 위로”]]></title>
             <link>https://www.khan.co.kr/article/202503261653001</link>
@@ -112,16 +122,6 @@ KIC중국 창업대회는 매년 성장 잠재력이 높고 중국 진출을 희
 20일 홍콩 성도일보에 따르면 쿠쿠전자 중국법인은 지난 18일 김수현을 모델로 한 마케팅을 전면 중단한다고 밝혔다. 위챗 등 쿠쿠전자의 모든 소셜미디어(SNS)에서 김수현 사진을 내렸으며, 향후 진행하려던 홍보 활동도 모두 중단하기로 했다.
 성도일보는 한국 언론을 인용해 김수현이 한해 광고를 통해 벌어들이는 금액이 5억∼10억원 수준이라면서 현재 프라다, 아이더 등이 김수현과 관계를 끊었다고 전했다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/20/news-p.v1.20250320.debb8be5033643669f8105a1263c7b4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 마약 범죄 연루 캐나다인 4명 사형…캐나다 “강력히 비난한다”]]></title>
-            <link>https://www.khan.co.kr/article/202503201120001</link>
-            <guid>https://www.khan.co.kr/article/202503201120001</guid>
-            <pubDate>Thu, 20 Mar 2025 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[캐나다가 중국이 마약 관련 범죄에 연루된 자국민 4명에 대해 사형을 집행했다며 반인도적 사형제 운용을 강력히 비난한다고 밝혔다.
-캐나다 방송 CNC 등에 따르면 멜라니 졸리 캐나다 외교장관은 19일(현지시간) “사형 집행은 올해 초 이뤄졌다”면서 이같이 밝혔다. 졸리 장관은 캐나다는 중국과 계속 교류할 의향이 있다며 “중국은 비슷한 처지의 캐나다인에게 관대함을 베풀기를 바란다”고 말했다.
-캐나다 외교부는 중국에 반복해서 사면을 요청했다고 밝혔다. 샬럿 맥레오드 외교부 대변인은 “캐나다는 어느 지역에서든 어떤 경우에서든 사형은 안 된다는 입장을 확고히 유지하고 있다”며 “이는 되돌릴 수 없는 결과를 초래하고 인간의 존엄성에 반하기 때문”이라고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/20/news-p.v1.20250320.a8a1fbfee1e74c0fad5239b6922a61f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
