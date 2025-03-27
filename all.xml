@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 17:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 05:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -538,7 +538,7 @@ KIC중국 창업대회는 매년 성장 잠재력이 높고 중국 진출을 희
             <link>https://n.news.naver.com/article/308/0000036370?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036370?type=journalists</guid>
             <pubDate>Sun, 23 Mar 2025 05:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/23/36370.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -774,11 +774,19 @@ KIC중국 창업대회는 매년 성장 잠재력이 높고 중국 진출을 희
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34468.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[상속세가 중산층의 집을 빼앗는다고? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000036394?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036394?type=journalists</guid>
+            <pubDate>Thu, 27 Mar 2025 05:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/27/36394.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유럽은 러·우 전쟁 이후를 본다 [외신 한 컷] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000036372?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036372?type=journalists</guid>
             <pubDate>Mon, 24 Mar 2025 05:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/24/36372.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -786,7 +794,7 @@ KIC중국 창업대회는 매년 성장 잠재력이 높고 중국 진출을 희
             <link>https://n.news.naver.com/article/308/0000036351?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036351?type=journalists</guid>
             <pubDate>Wed, 19 Mar 2025 17:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2025.03.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/19/36351.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1292,14 +1300,6 @@ KIC중국 창업대회는 매년 성장 잠재력이 높고 중국 진출을 희
             <pubDate>Mon, 12 Feb 2024 05:32:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34284.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반쪽짜리 설계로 그려진 6만5000원짜리 대중교통 정기권 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034230?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034230?type=journalists</guid>
-            <pubDate>Mon, 05 Feb 2024 05:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.05.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/05/34230.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 명태균, 윤석열에게 공표 여론조사 설문지 미리 보냈다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
