@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 17:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 05:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -539,7 +539,7 @@
             <link>https://n.news.naver.com/article/308/0000036370?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036370?type=journalists</guid>
             <pubDate>Sun, 23 Mar 2025 05:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/23/36370.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -779,7 +779,7 @@
             <link>https://n.news.naver.com/article/308/0000036394?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036394?type=journalists</guid>
             <pubDate>Thu, 27 Mar 2025 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/27/36394.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -787,7 +787,7 @@
             <link>https://n.news.naver.com/article/308/0000036372?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036372?type=journalists</guid>
             <pubDate>Mon, 24 Mar 2025 05:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/24/36372.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
