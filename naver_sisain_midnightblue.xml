@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Mar 2025 17:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 05:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민감국가 지정, 한·미 동맹 균열인가 해프닝인가]]></title>
+            <link>https://n.news.naver.com/article/308/0000036411?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036411?type=journalists</guid>
+            <pubDate>Mon, 31 Mar 2025 05:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/31/36411.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상속세가 중산층의 집을 빼앗는다고?]]></title>
             <link>https://n.news.naver.com/article/308/0000036394?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036394?type=journalists</guid>
             <pubDate>Thu, 27 Mar 2025 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/27/36394.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/308/0000036372?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036372?type=journalists</guid>
             <pubDate>Mon, 24 Mar 2025 05:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/24/36372.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,14 +534,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34285.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원참사 특별법은 반헌법적? 정부 주장 따져보니]]></title>
-            <link>https://n.news.naver.com/article/308/0000034284?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034284?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34284.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

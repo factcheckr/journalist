@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Mar 2025 17:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 05:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 불확실성 속에서도 두 달 연속 체감경기 ‘확장 국면’ (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/article/202503311053001</link>
+            <guid>https://www.khan.co.kr/article/202503311053001</guid>
+            <pubDate>Mon, 31 Mar 2025 05:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 체감 경기를 보여주는 제조업 구매관리자지수(PMI)가 두 달 연속 경기 확장 국면을 이어갔다.
+중국 국가통계국은 3월 제조업 구매관리자지수(PMI)가 전달(50.2)보다 0.3포인트 높아진 50.5로 집계됐다고 31일 밝혔다. 로이터통신은 시장 전망치에 부합한 실적이라며 중국의 무역 불확실성이 커지고 있음에도 안정화 신호를 보이고 있다고 짚었다.
+PMI는 중국 제조업 구매담당자를 대상으로 실시하는 조사이며 체감 경기를 반영하는 선행지표 역할을 한다. 기준인 50 미만이면 경기 위축, 50 이상은 경기 확장 국면을 의미한다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/31/news-p.v1.20250331.f16d011eb5cf47a49f25f5781a02dd17.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“한·중, AI·로봇 협력해야”…베이징 중관춘서 양국 과학기술 협력 논의 (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/article/202503281707001</link>
@@ -114,15 +124,6 @@
             <content:encoded><![CDATA[한·중·일 외교장관이 22일 일본 도쿄에서 만난 배경 중 하나로 도널드 트럼프 미국 행정부 출범으로 인한 불확실성이 꼽힌다. 3국 장관회담을 두고 역사 문제와 영토 문제 등 여러 ‘복병’을 잠시 덮어두고 ‘미묘한 안정을 연출했다’고 일본 언론들이 평가했다.
 펑파이신문 등 중국 매체들은 왕이 중국공산당 외사판공실 주임 겸 외교부장이 “중국인민항일전쟁(중·일전쟁) 승리 80주년을 맞아 우리는 역사를 반성하고 미래를 향해 나아가야 한다”고 언급한 것을 앞세워 보도했다. 왕 주임은 한국의 광복 80주년과도 맞물리는 중·일전쟁 승리 80주년 언급과 과거사를 거론했지만, 일본이 강조하는 ‘미래지향적 관계’도 함께 언급해 톤을 누그러뜨렸다.]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/23/news-p.v1.20250323.447955cb15a54e4e80ce74fba1c45b87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국발전포럼 개막…이재용, 레이쥔 접견 중국에서 큰 관심 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/article/202503231650001</link>
-            <guid>https://www.khan.co.kr/article/202503231650001</guid>
-            <pubDate>Sun, 23 Mar 2025 17:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[리창 중국 국무원 총리가 글로벌 기업 최고경영자(CEO)들 앞에서 “중국은 예상치 못한 충격에 대비했다”며 미국과의 무역전쟁에 대한 자신감을 드러냈다.
-리 총리는 23일 베이징 댜오위타이 국빈관에서 열린 제25회 중국 고위급 발전포럼(중국발전포럼) 개막식 연설에서 생성형 인공지능(AI) 딥시크, 유니트리의 춤추는 로봇, 애니메이션 &lt;너자2&gt; 등을 언급하며 중국의 과학기술 역량을 강조했다. 리 총리는 “중국의 과학기술은 혁신 발전에 장기적으로 집중한 결과”이자 “올해 5% 성장률 목표치도 이런 잠재력을 반영한 것”이라고 말했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/23/news-p.v1.20250323.92e70a5d79cf43a7bc00e1e9f48e85dd.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -539,7 +540,7 @@
             <link>https://n.news.naver.com/article/308/0000036370?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036370?type=journalists</guid>
             <pubDate>Sun, 23 Mar 2025 05:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2025.03.23.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/23/36370.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -775,11 +776,19 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34468.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[민감국가 지정, 한·미 동맹 균열인가 해프닝인가 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000036411?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036411?type=journalists</guid>
+            <pubDate>Mon, 31 Mar 2025 05:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/31/36411.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[상속세가 중산층의 집을 빼앗는다고? (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000036394?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036394?type=journalists</guid>
             <pubDate>Thu, 27 Mar 2025 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/27/36394.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -787,7 +796,7 @@
             <link>https://n.news.naver.com/article/308/0000036372?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036372?type=journalists</guid>
             <pubDate>Mon, 24 Mar 2025 05:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/24/36372.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1293,14 +1302,6 @@
             <pubDate>Mon, 12 Feb 2024 05:32:20 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.12.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34285.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원참사 특별법은 반헌법적? 정부 주장 따져보니 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034284?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034284?type=journalists</guid>
-            <pubDate>Mon, 12 Feb 2024 05:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34284.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 명태균, 윤석열에게 공표 여론조사 설문지 미리 보냈다 (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
