@@ -4,9 +4,17 @@
         <title>시사인 김은지 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 17:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 05:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘윤석열 쿠데타’ 예언한 전직 대검 간부의 기록 [기자의 추천 책]]]></title>
+            <link>https://n.news.naver.com/article/308/0000036426?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036426?type=journalists</guid>
+            <pubDate>Wed, 02 Apr 2025 05:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/04/02/36426.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 명태균, 윤석열에게 공표 여론조사 설문지 미리 보냈다]]></title>
             <link>https://n.news.naver.com/article/308/0000036349?type=journalists</link>
@@ -622,14 +630,6 @@
             <pubDate>Mon, 22 Apr 2024 17:32:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.04.16.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/16/34712.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘레임덕’ 윤석열의 돌려막기 인사? [김은지의 뉴스IN]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034706?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034706?type=journalists</guid>
-            <pubDate>Fri, 19 Apr 2024 17:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.04.15.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/04/15/34706.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
