@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 17:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 05:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI로 트럼프 관세 비판 뮤직비디오 만든 중국 관영매체… “인플레가 미국인 쫓아온다” (경향신문 ─ 박은하 기자)]]></title>
+            <link>https://www.khan.co.kr/article/202504061405001</link>
+            <guid>https://www.khan.co.kr/article/202504061405001</guid>
+            <pubDate>Sun, 06 Apr 2025 05:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[“‘해방의 날’, 당신은 우리에게 별을 약속했지. 그러나 관세는 우리의 값싼 중국산 차를 죽였네.(“Liberation Day”, you promised us the stars, But tariffs killed our cheap Chinese cars.)
+중국 다국어 관영매체 CGTN이 3일 엑스에 올린 2분42초 분량의 뮤직비디오 ‘룩 웟유 텍스드 어스 스루(Look What You Taxed Us Through·당신에게 부과된 세금을 봐)’의 도입부이다.
+CGTN은 “많은 미국인에게 ‘해방의 날’은 급여가 줄고 비용이 증가하는 것을 의미한다. 관세가 부과되면 지갑은 닫힌다. 저소득 가정이 가장 큰 타격을 입는다. 시장이 숨을 멈추고 있는 동안 결과는 의심의 여지가 없다”는 글과 함께 도널드 트럼프 대통령이 전 세계를 대상으로 관세 전쟁을 벌이는 것을 비판하는 영문 뮤직비디오를 공개했다.]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/04/06/news-p.v1.20250406.68e332ef84e84fa2a1ebc0a3f8a6aae4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중국 “10일부터 모든 미국산 수입품에 34% 관세” (경향신문 ─ 박은하 기자)]]></title>
             <link>https://www.khan.co.kr/article/202504041944001</link>
@@ -112,16 +122,6 @@
             <pubDate>Mon, 31 Mar 2025 17:36:35 GMT</pubDate>
             <content:encoded><![CDATA[중국 정부가 4대 국유은행에 100조원 넘는 공적자금을 투입해 자본 확충에 나선다. 수년째 이어지는 부동산 시장 침체가 금융위기로 이어지는 것을 막고, 금리 인하 등 향후 부양 여력을 확보하려는 조치다.
 31일 중국중앙TV(CCTV) 등에 따르면 중국 4대 국유은행인 중국은행, 교통은행, 우정저축은행, 건설은행은 전날 증권거래소에 총 5200억위안(약 105조4000억원)을 증자한다는 계획안을 제출했다. 은행별로 보면 중국은행이 1650억위안, 건설은행이 1050억위안, 교통은행이 1200억위안, 우정저축은행이 1300억위안을 각각 증자한다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“시진핑 다음 달 동남아 3개국 순방”… 미·중 정상회담보다 우방 먼저 챙긴다 (경향신문 ─ 박은하 기자)]]></title>
-            <link>https://www.khan.co.kr/article/202503311649001</link>
-            <guid>https://www.khan.co.kr/article/202503311649001</guid>
-            <pubDate>Mon, 31 Mar 2025 17:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[시진핑 중국 국가주석이 다음 달 동남아시아 3개국을 순방한다고 홍콩 사우스차이나모닝포스트(SCMP)가 보도했다.
-SCMP는 31일 익명의 여러 외교 소식통을 인용해 시 주석이 다음 달 중순 베트남과 말레이시아, 캄보디아를 방문하는 쪽으로 일정을 조율하고 있다고 보도했다. 보도에 따르면 한 소식통은 동남아시아국가연합(아세안) 순회 회장국인 말레이시아에는 사흘 머물 것으로 보인다고 전했다.
-또 다른 소식통은 시 주석의 이번 동남아 방문은 지난해 11월 안와르 이브라힘 말레이시아 총리의 방중에 대한 답방이라고 전했다.]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/31/news-p.v1.20250331.ce8f81235c8b471096275f7ad17fdc1a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (경향신문 ─ 홍성수 교수)]]></title>
@@ -778,7 +778,7 @@ SCMP는 31일 익명의 여러 외교 소식통을 인용해 시 주석이 다�
             <link>https://n.news.naver.com/article/308/0000036411?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036411?type=journalists</guid>
             <pubDate>Mon, 31 Mar 2025 05:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/31/36411.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1306,7 +1306,7 @@ SCMP는 31일 익명의 여러 외교 소식통을 인용해 시 주석이 다�
             <link>https://n.news.naver.com/article/308/0000036426?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036426?type=journalists</guid>
             <pubDate>Wed, 02 Apr 2025 05:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/04/02/36426.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
