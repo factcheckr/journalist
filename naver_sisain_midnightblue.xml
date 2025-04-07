@@ -4,15 +4,23 @@
         <title>시사인 김다은 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 17:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 05:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남태령에서 광화문으로, 트랙터가 온다]]></title>
+            <link>https://n.news.naver.com/article/308/0000036446?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036446?type=journalists</guid>
+            <pubDate>Mon, 07 Apr 2025 05:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/04/07/36446.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민감국가 지정, 한·미 동맹 균열인가 해프닝인가]]></title>
             <link>https://n.news.naver.com/article/308/0000036411?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036411?type=journalists</guid>
             <pubDate>Mon, 31 Mar 2025 05:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/03/31/36411.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -526,14 +534,6 @@
             <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.19.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/19/34319.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해를 버티게 해줄 그의 이야기 [설날엔 드라마]]]></title>
-            <link>https://n.news.naver.com/article/308/0000034285?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034285?type=journalists</guid>
-            <pubDate>Sun, 07 Apr 2024 17:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/12/34285.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
