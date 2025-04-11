@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 17:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 05:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,7 +289,7 @@ AP통신에 따르면 5일(현지시간) 캄보디아 남부 시아누크빌주 
             <link>https://n.news.naver.com/article/469/0000858029?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000858029?type=journalists</guid>
             <pubDate>Mon, 07 Apr 2025 05:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2025/04/07/858029.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -765,11 +765,19 @@ AP통신에 따르면 5일(현지시간) 캄보디아 남부 시아누크빌주 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34468.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“친구도, 적도 아닌 그냥 야생동물” [사람IN] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000036469?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036469?type=journalists</guid>
+            <pubDate>Fri, 11 Apr 2025 05:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/04/11/36469.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남태령에서 광화문으로, 트랙터가 온다 (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000036446?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036446?type=journalists</guid>
             <pubDate>Mon, 07 Apr 2025 05:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/04/07/36446.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1283,14 +1291,6 @@ AP통신에 따르면 5일(현지시간) 캄보디아 남부 시아누크빌주 
             <pubDate>Tue, 27 Feb 2024 05:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<b>2024.02.27.</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/27/34365.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 혐의 공직자, 첫 실형 선고 받았다 [기자들의 시선] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034319?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034319?type=journalists</guid>
-            <pubDate>Mon, 19 Feb 2024 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.02.19.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/02/19/34319.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘윤석열 쿠데타’ 예언한 전직 대검 간부의 기록 [기자의 추천 책] (시사인 김은지 기자 ─ 네이버 뉴스)]]></title>
