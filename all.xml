@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 17:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 05:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,7 +289,7 @@ AP통신에 따르면 5일(현지시간) 캄보디아 남부 시아누크빌주 
             <link>https://n.news.naver.com/article/469/0000858029?type=journalists</link>
             <guid>https://n.news.naver.com/article/469/0000858029?type=journalists</guid>
             <pubDate>Mon, 07 Apr 2025 05:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2025/04/07/858029.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -525,6 +525,14 @@ AP통신에 따르면 5일(현지시간) 캄보디아 남부 시아누크빌주 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/469/2024/02/27/787676.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여수의 책방, 시사주간지를 논하는 밤 [찾아가는 독자위원회] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/308/0000036476?type=journalists</link>
+            <guid>https://n.news.naver.com/article/308/0000036476?type=journalists</guid>
+            <pubDate>Sat, 12 Apr 2025 05:37:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/04/12/36476.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기독교인이 성경 읽듯, ‘민주주의자’라면 이것을 [기자의 추천 책] (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000036370?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036370?type=journalists</guid>
@@ -757,19 +765,11 @@ AP통신에 따르면 5일(현지시간) 캄보디아 남부 시아누크빌주 
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/18/34511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굴뚝 오르던 진보 의사가 의협 선거에 출마한 이유 (시사인 김연희 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/308/0000034468?type=journalists</link>
-            <guid>https://n.news.naver.com/article/308/0000034468?type=journalists</guid>
-            <pubDate>Tue, 12 Mar 2024 05:32:04 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2024.03.12.</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2024/03/12/34468.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“친구도, 적도 아닌 그냥 야생동물” [사람IN] (시사인 김다은 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/308/0000036469?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036469?type=journalists</guid>
             <pubDate>Fri, 11 Apr 2025 05:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/04/11/36469.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -777,7 +777,7 @@ AP통신에 따르면 5일(현지시간) 캄보디아 남부 시아누크빌주 
             <link>https://n.news.naver.com/article/308/0000036446?type=journalists</link>
             <guid>https://n.news.naver.com/article/308/0000036446?type=journalists</guid>
             <pubDate>Mon, 07 Apr 2025 05:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/308/2025/04/07/36446.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
